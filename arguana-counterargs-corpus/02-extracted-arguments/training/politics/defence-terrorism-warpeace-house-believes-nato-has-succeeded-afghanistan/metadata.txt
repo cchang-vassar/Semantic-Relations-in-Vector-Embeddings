@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-defence-terrorism-warpeace/house-believes-nato-has-succeeded-afghanistan
-published_time	2013-06-19T18:49:40+02:00
-modified_time	2017-04-11T14:18:37+02:00
-crawled_time	Sun Feb 04 18:42:33 CET 2018
-voting_pro	50
-voting_con	50
-reads	11194

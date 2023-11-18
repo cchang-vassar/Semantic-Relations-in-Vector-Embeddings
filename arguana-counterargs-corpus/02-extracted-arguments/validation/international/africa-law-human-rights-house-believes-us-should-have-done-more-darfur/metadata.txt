@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-africa-law-human-rights/house-believes-us-should-have-done-more-darfur
-published_time	2012-02-21T14:44:46+01:00
-modified_time	2017-05-20T08:51:10+02:00
-crawled_time	Sun Feb 04 18:42:55 CET 2018
-voting_pro	50
-voting_con	50
-reads	8792

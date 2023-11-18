@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/health-pregnancy-philosophy-ethics-life-family/house-would-ban-partial-birth-abortions
-published_time	2012-02-21T10:25:43+01:00
-modified_time	2017-05-20T18:54:49+02:00
-crawled_time	Sun Feb 04 18:42:38 CET 2018
-voting_pro	50
-voting_con	50
-reads	32298

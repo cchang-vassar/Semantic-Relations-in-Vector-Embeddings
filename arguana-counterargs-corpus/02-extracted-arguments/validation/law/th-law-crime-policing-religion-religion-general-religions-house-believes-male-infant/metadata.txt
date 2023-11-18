@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/health-law-crime-policing-religion-religion-general-religions/house-believes-male-infant
-published_time	2012-02-17T16:11:23+01:00
-modified_time	2017-07-27T12:42:52+02:00
-crawled_time	Sun Feb 04 18:42:49 CET 2018
-voting_pro	100
-voting_con	0
-reads	14169

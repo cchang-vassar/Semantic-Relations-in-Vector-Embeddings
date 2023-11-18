@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-education-education-general-law-law-general/house-would-hold-students-legally
-published_time	2012-02-20T17:16:20+01:00
-modified_time	2017-05-23T17:22:29+02:00
-crawled_time	Sun Feb 04 18:42:26 CET 2018
-voting_pro	50
-voting_con	50
-reads	106664

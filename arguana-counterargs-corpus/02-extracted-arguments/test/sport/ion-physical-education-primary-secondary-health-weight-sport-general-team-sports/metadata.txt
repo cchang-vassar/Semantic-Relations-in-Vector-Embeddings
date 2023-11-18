@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/education-physical-education-primary-secondary-health-weight-sport-general-team-sports
-published_time	2012-01-26T16:34:19+01:00
-modified_time	2012-09-14T17:49:32+02:00
-crawled_time	Sun Feb 04 18:43:03 CET 2018
-voting_pro	100
-voting_con	0
-reads	109556

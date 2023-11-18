@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-africa-law-human-rights-international-law/house-would-create-african
-published_time	2013-12-03T17:39:17+01:00
-modified_time	2017-04-10T12:12:02+02:00
-crawled_time	Sun Feb 04 18:42:23 CET 2018
-voting_pro	50
-voting_con	50
-reads	8054

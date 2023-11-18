@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-defence-warpeace-digital-freedoms-intellectual-property/house-would-use-targeted
-published_time	2013-05-02T17:15:07+02:00
-modified_time	2017-04-13T11:36:36+02:00
-crawled_time	Sun Feb 04 18:42:17 CET 2018
-voting_pro	50
-voting_con	50
-reads	14958

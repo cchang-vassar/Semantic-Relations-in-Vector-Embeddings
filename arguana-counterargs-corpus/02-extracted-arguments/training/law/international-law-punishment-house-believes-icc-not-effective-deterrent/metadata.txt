@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law-international-law-punishment/house-believes-icc-not-effective-deterrent
-published_time	2014-02-13T13:57:21+01:00
-modified_time	2017-04-04T12:00:10+02:00
-crawled_time	Sun Feb 04 18:42:27 CET 2018
-voting_pro	50
-voting_con	50
-reads	20675

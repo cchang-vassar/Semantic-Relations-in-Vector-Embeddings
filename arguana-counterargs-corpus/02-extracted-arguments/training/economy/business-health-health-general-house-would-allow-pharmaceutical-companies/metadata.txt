@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-business-health-health-general/house-would-allow-pharmaceutical-companies
-published_time	2012-02-21T19:52:13+01:00
-modified_time	2017-05-18T16:34:22+02:00
-crawled_time	Sun Feb 04 18:42:18 CET 2018
-voting_pro	50
-voting_con	50
-reads	13770

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/philosophy/international-americas-global-political-philosophy-politics-defence-leadership
-published_time	2012-01-26T16:33:24+01:00
-modified_time	2013-05-09T18:51:36+02:00
-crawled_time	Sun Feb 04 18:42:45 CET 2018
-voting_pro	50
-voting_con	50
-reads	65461

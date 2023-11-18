@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/digital-freedoms-freedom-expression/house-would-incentivise-western-companies-build
-published_time	2013-03-03T23:46:43+01:00
-modified_time	2017-04-13T13:56:28+02:00
-crawled_time	Sun Feb 04 18:42:18 CET 2018
-voting_pro	50
-voting_con	50
-reads	8924

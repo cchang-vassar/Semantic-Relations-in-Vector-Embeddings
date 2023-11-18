@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/environment-pollution-weight-society/house-would-drive-out-town-shopping-centre
-published_time	2012-01-26T16:34:08+01:00
-modified_time	2017-08-18T15:44:06+02:00
-crawled_time	Sun Feb 04 18:42:39 CET 2018
-voting_pro	100
-voting_con	0
-reads	15829

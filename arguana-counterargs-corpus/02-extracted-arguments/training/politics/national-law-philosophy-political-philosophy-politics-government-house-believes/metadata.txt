@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law-international-law-philosophy-political-philosophy-politics-government/house-believes
-published_time	2012-01-26T16:34:58+01:00
-modified_time	2017-08-17T12:51:44+02:00
-crawled_time	Sun Feb 04 18:42:34 CET 2018
-voting_pro	50
-voting_con	50
-reads	22962

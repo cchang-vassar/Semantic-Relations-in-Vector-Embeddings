@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-politics-general-government-voting/house-believes-opinion-polls-harm-democratic
-published_time	2012-03-16T17:24:51+01:00
-modified_time	2017-04-24T13:52:11+02:00
-crawled_time	Sun Feb 04 18:42:33 CET 2018
-voting_pro	50
-voting_con	50
-reads	20347

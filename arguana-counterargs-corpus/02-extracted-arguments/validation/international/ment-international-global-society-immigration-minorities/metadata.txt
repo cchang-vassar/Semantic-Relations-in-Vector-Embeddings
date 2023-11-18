@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-employment-international-global-society-immigration-minorities
-published_time	2017-09-01T14:47:59+02:00
-modified_time	2017-09-02T22:50:22+02:00
-crawled_time	Sun Feb 04 18:42:56 CET 2018
-voting_pro	50
-voting_con	50
-reads	unknown

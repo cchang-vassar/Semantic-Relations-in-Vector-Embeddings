@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-asia-politics-defence/house-would-ignore-north-korean-provocations
-published_time	2012-12-12T19:04:52+01:00
-modified_time	2017-04-18T13:13:23+02:00
-crawled_time	Sun Feb 04 18:42:41 CET 2018
-voting_pro	50
-voting_con	50
-reads	17299

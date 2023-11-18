@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-europe-politics-government-warpeace/house-would-lease-crimea-russia
-published_time	2014-03-14T19:12:35+01:00
-modified_time	2017-04-03T15:36:10+02:00
-crawled_time	Sun Feb 04 18:42:56 CET 2018
-voting_pro	50
-voting_con	50
-reads	12802

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-politics-general-local-government/house-would-ban-government-employees-joining
-published_time	2012-02-17T13:15:23+01:00
-modified_time	2012-10-02T11:24:16+02:00
-crawled_time	Sun Feb 04 18:42:33 CET 2018
-voting_pro	50
-voting_con	50
-reads	11941

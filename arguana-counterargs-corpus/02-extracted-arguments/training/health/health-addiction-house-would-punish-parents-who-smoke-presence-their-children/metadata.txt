@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/health/health-addiction/house-would-punish-parents-who-smoke-presence-their-children
-published_time	2012-01-26T16:35:40+01:00
-modified_time	2012-07-18T09:54:21+02:00
-crawled_time	Sun Feb 04 18:42:22 CET 2018
-voting_pro	50
-voting_con	50
-reads	21099

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-middle-east-politics-terrorism-warpeace/house-believes-war-iraq-was-worth
-published_time	2012-02-21T17:05:38+01:00
-modified_time	2017-05-19T21:05:21+02:00
-crawled_time	Sun Feb 04 18:42:45 CET 2018
-voting_pro	50
-voting_con	50
-reads	11187

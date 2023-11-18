@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/debates/culture/house-would-out-gay-celebrities
-published_time	2012-02-21T17:19:34+01:00
-modified_time	2013-04-30T12:34:30+02:00
-crawled_time	Sun Feb 04 18:42:46 CET 2018
-voting_pro	50
-voting_con	50
-reads	18067

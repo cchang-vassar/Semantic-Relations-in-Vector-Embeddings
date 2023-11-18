@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law/law-crime-policing-law-general/house-would-criminalise-payment-ransoms
-published_time	2012-01-26T16:34:43+01:00
-modified_time	2013-01-25T15:34:10+01:00
-crawled_time	Sun Feb 04 18:42:23 CET 2018
-voting_pro	0
-voting_con	100
-reads	15736

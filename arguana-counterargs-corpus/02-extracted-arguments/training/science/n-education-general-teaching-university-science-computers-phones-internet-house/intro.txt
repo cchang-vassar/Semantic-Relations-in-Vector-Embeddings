@@ -1,7 +1,0 @@
-2011 – 2012 has seen a great proliferation in MOOCs, or massive open online courses, which made university subjects available free of charge to anyone on the internet. MOOCs are generally provided by universities, such as edX by Harvard and MIT, but can also include non-university partners, such as British Library in Futurelearn. MOOCs platforms can either be specialised (as Udacity for sciences) or provide a wide range of subjects (such as Coursera).
-
-The defining feature of MOOCs is that their courses are free and thus provided to thousands of people. However, MOOCs platforms themselves can be for-profit (Coursera, Udacity) or non-profit (Peer-to-peer university). For-profit platforms can raise revenue in various ways, for instance by raising venture capital [1] or charging for verified certificates [2].
-
-In a relatively short period of time MOOCs grew in massive popularity and are serving thousands and millions of users [3] [4]. Some online courses have even been recommended for university credit [5]. This prompted to question whether traditional universities have to adapt themselves to the new realities of education [6] [7] and even whether they can be replaced [8]. The question of how online courses could replace universities is open for debate as well.
-
-*for footnotes see bibliography

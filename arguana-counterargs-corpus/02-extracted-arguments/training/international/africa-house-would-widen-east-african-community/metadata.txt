@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-africa/house-would-widen-east-african-community
-published_time	2014-02-12T19:11:36+01:00
-modified_time	2017-04-04T12:04:58+02:00
-crawled_time	Sun Feb 04 18:42:41 CET 2018
-voting_pro	50
-voting_con	50
-reads	11061

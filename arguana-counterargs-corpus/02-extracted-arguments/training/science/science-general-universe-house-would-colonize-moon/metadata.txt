@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/science-science-general-universe/house-would-colonize-moon
-published_time	2012-03-09T16:25:50+01:00
-modified_time	2017-04-24T14:14:50+02:00
-crawled_time	Sun Feb 04 18:42:29 CET 2018
-voting_pro	50
-voting_con	50
-reads	12863

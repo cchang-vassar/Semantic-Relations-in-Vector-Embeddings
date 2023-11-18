@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/digital-freedoms-governmental-transparency/house-would-post-full-financial-history-all
-published_time	2013-02-27T12:03:18+01:00
-modified_time	2017-04-13T14:05:17+02:00
-crawled_time	Sun Feb 04 18:42:18 CET 2018
-voting_pro	50
-voting_con	50
-reads	7174

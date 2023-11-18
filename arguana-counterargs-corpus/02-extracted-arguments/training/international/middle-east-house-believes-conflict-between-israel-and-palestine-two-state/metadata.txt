@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-middle-east/house-believes-conflict-between-israel-and-palestine-two-state
-published_time	2012-02-17T15:35:55+01:00
-modified_time	2017-08-03T18:51:48+02:00
-crawled_time	Sun Feb 04 18:42:45 CET 2018
-voting_pro	100
-voting_con	0
-reads	16368

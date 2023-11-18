@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/free-speech-debate-living-difference/house-would-ban-music-containing-lyrics-glorify
-published_time	2012-05-18T12:02:28+02:00
-modified_time	2017-04-20T13:26:06+02:00
-crawled_time	Sun Feb 04 18:42:58 CET 2018
-voting_pro	50
-voting_con	50
-reads	94313

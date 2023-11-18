@@ -1,9 +1,0 @@
-ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con01a-point.txt	0.718059
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con01b-counter.txt	0.44703000000000004
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con02a-point.txt	0.17048700000000006
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con02b-counter.txt	0.187083
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con03a-point.txt	0.460631
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/con/con03b-counter.txt	0.744589
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/pro/pro01a-point.txt	0.558347
-data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-americas-politics-government-house-wants-line-item-veto-amendment/pro/pro01b-counter.txt	0.13356800000000002

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/philosophy-ethics-politics-warpeace/house-believes-use-atomic-bombs-against-hiroshima-and
-published_time	2012-02-22T15:00:13+01:00
-modified_time	2017-05-18T10:31:33+02:00
-crawled_time	Sun Feb 04 18:42:39 CET 2018
-voting_pro	50
-voting_con	50
-reads	19853

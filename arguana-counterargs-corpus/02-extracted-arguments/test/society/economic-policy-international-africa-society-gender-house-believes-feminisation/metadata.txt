@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-economic-policy-international-africa-society-gender/house-believes-feminisation
-published_time	2014-01-21T17:33:40+01:00
-modified_time	2017-04-04T13:44:37+02:00
-crawled_time	Sun Feb 04 18:43:04 CET 2018
-voting_pro	50
-voting_con	50
-reads	12022

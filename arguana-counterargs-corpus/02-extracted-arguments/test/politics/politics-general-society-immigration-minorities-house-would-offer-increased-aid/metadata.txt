@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-politics-general-society-immigration-minorities/house-would-offer-increased-aid
-published_time	2015-08-21T11:17:48+02:00
-modified_time	2017-04-03T13:41:29+02:00
-crawled_time	Sun Feb 04 18:43:06 CET 2018
-voting_pro	50
-voting_con	50
-reads	16328

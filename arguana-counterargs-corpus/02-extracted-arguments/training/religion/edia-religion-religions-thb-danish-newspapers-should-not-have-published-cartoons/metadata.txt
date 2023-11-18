@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-media-religion-religions/thb-danish-newspapers-should-not-have-published-cartoons
-published_time	2012-02-17T15:57:59+01:00
-modified_time	2017-07-27T13:01:48+02:00
-crawled_time	Sun Feb 04 18:42:37 CET 2018
-voting_pro	50
-voting_con	50
-reads	17030

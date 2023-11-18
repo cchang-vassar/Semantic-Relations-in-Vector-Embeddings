@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-culture-general-free-speech-debate-free-know/house-would-show-darker-side
-published_time	2012-11-14T12:43:48+01:00
-modified_time	2017-04-18T13:46:47+02:00
-crawled_time	Sun Feb 04 18:42:56 CET 2018
-voting_pro	50
-voting_con	50
-reads	18424

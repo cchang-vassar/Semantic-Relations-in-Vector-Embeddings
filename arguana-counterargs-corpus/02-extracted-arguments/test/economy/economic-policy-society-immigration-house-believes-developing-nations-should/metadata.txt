@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-economic-policy-society-immigration/house-believes-developing-nations-should
-published_time	2013-03-15T13:53:25+01:00
-modified_time	2017-04-13T13:31:20+02:00
-crawled_time	Sun Feb 04 18:42:58 CET 2018
-voting_pro	50
-voting_con	50
-reads	22003

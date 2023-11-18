@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/science-internet-digital-freedoms-access-information/house-believes-state-should-provide
-published_time	2013-02-18T11:47:14+01:00
-modified_time	2017-04-13T14:28:07+02:00
-crawled_time	Sun Feb 04 18:42:18 CET 2018
-voting_pro	50
-voting_con	50
-reads	14089

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/religion/law-law-general-religion-marriage-family/house-would-create-system-covenant
-published_time	2012-02-17T15:22:55+01:00
-modified_time	2012-04-11T17:47:39+02:00
-crawled_time	Sun Feb 04 18:42:37 CET 2018
-voting_pro	50
-voting_con	50
-reads	9176

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/education-education-general-university/house-would-encourage-fewer-people-go-university
-published_time	2013-06-12T13:17:39+02:00
-modified_time	2017-04-11T14:28:11+02:00
-crawled_time	Sun Feb 04 18:42:27 CET 2018
-voting_pro	50
-voting_con	50
-reads	17808
