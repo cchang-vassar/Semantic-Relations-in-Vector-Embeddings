@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-global-society-immigration-minorities/house-believes-nations-world-should
+published_time	2012-03-01T10:32:00+01:00
+modified_time	2017-04-26T13:09:49+02:00
+crawled_time	Sun Feb 04 18:42:44 CET 2018
+voting_pro	50
+voting_con	50
+reads	28784

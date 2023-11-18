@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con01a-point.txt	0.29520199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con01b-counter.txt	0.22288699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con02a-point.txt	0.653952
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con02b-counter.txt	0.178369
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con03a-point.txt	0.242363
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/con/con03b-counter.txt	0.178369
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro01a-point.txt	0.376136
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro01b-counter.txt	0.25799399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro02a-point.txt	0.15651000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro02b-counter.txt	0.902509
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro03a-point.txt	0.561274
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/church-marriage-religions-society-gender-family-house-believes-reproductive/pro/pro03b-counter.txt	0.46487500000000004

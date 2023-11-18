@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con01a-point.txt	0.626173
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con01b-counter.txt	0.727457
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con02a-point.txt	0.586668
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con02b-counter.txt	0.991346
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con03a-point.txt	0.621319
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con03b-counter.txt	0.727457
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con04a-point.txt	0.729245
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/con/con04b-counter.txt	0.624042
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro01a-point.txt	0.83712
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro01b-counter.txt	0.31774500000000006
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro02a-point.txt	0.39544
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro02b-counter.txt	0.564742
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro03a-point.txt	0.638701
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ss-economic-policy-international-global-house-believes-dictatorship-best/pro/pro03b-counter.txt	0.14562399999999998

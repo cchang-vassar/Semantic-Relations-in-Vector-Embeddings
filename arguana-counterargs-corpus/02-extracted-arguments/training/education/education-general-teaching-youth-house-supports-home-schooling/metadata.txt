@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-teaching-youth/house-supports-home-schooling
+published_time	2012-01-26T16:32:43+01:00
+modified_time	2017-08-20T16:43:20+02:00
+crawled_time	Sun Feb 04 18:42:28 CET 2018
+voting_pro	50
+voting_con	50
+reads	97236

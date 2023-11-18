@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con01a-point.txt	0.675361
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con01b-counter.txt	0.328376
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con02a-point.txt	0.511554
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con02b-counter.txt	0.002682999999999991
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con03a-point.txt	0.520906
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con03b-counter.txt	0.829488
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con04a-point.txt	0.29234499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con04b-counter.txt	0.727398
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con05a-point.txt	0.17579999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/con/con05b-counter.txt	0.700717
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro01a-point.txt	0.836344
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro01b-counter.txt	0.610265
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro02a-point.txt	0.643627
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro02b-counter.txt	0.04534899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro03a-point.txt	0.26948399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro03b-counter.txt	0.372491
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro04a-point.txt	0.73587
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro04b-counter.txt	0.407478
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro05a-point.txt	0.412482
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-european-parliament-elections-should-involve-only/pro/pro05b-counter.txt	0.004605999999999999

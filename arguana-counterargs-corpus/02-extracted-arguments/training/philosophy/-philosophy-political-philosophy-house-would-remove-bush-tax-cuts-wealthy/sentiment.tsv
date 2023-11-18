@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con01a-point.txt	0.759875
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con01b-counter.txt	0.153937
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con02a-point.txt	0.362791
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con02b-counter.txt	0.35272400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con03a-point.txt	0.487676
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/con/con03b-counter.txt	0.630101
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro01a-point.txt	0.473677
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro01b-counter.txt	0.17648399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro02a-point.txt	0.701441
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro02b-counter.txt	0.630894
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro03a-point.txt	0.11772700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/-philosophy-political-philosophy-house-would-remove-bush-tax-cuts-wealthy/pro/pro03b-counter.txt	0.339719

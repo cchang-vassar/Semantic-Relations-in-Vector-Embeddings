@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con01a-point.txt	0.621365
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con01b-counter.txt	0.723855
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con02a-point.txt	0.13423799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con02b-counter.txt	0.11866399999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con03a-point.txt	0.16000000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/con/con03b-counter.txt	0.11718099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro01a-point.txt	0.308623
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro01b-counter.txt	0.408412
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro02a-point.txt	0.507543
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro02b-counter.txt	0.44086499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro03a-point.txt	0.08272199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-global-religion-religion-general/pro/pro03b-counter.txt	0.628182

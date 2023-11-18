@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con01a-point.txt	0.406659
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con01b-counter.txt	0.718708
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con02a-point.txt	0.654297
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con02b-counter.txt	0.549679
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con03a-point.txt	0.558309
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con03b-counter.txt	0.068774
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con04a-point.txt	0.184014
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/con/con04b-counter.txt	0.30147199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro01a-point.txt	0.825489
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro01b-counter.txt	0.947355
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro02a-point.txt	0.835501
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro02b-counter.txt	0.38693
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro03a-point.txt	0.256301
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro03b-counter.txt	0.479808
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro04a-point.txt	0.716587
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-law-general-human-rights-house-would-require-government-obtain/pro/pro04b-counter.txt	0.771797

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education/university-energy/house-would-store-nuclear-waste-underground
+published_time	2012-03-09T17:11:11+01:00
+modified_time	2017-04-27T15:28:11+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	50
+voting_con	50
+reads	4265

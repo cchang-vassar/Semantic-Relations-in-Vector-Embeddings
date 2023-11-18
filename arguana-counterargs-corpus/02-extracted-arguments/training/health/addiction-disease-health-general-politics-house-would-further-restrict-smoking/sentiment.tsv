@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con01a-point.txt	0.135946
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con01b-counter.txt	0.024473999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con02a-point.txt	0.670984
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con02b-counter.txt	0.16954999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con03a-point.txt	0.554365
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con03b-counter.txt	0.62281
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con04a-point.txt	0.197527
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/con/con04b-counter.txt	0.016947999999999963
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro01a-point.txt	0.343174
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro01b-counter.txt	0.603191
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro02a-point.txt	0.834912
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro02b-counter.txt	0.10308099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro03a-point.txt	0.17562900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-disease-health-general-politics-house-would-further-restrict-smoking/pro/pro03b-counter.txt	0.09697299999999998

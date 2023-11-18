@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con01a-point.txt	0.523244
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con01b-counter.txt	0.793585
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con02a-point.txt	0.730661
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con02b-counter.txt	0.978781
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con03a-point.txt	0.553989
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/con/con03b-counter.txt	0.06589900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro01a-point.txt	0.657348
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro01b-counter.txt	0.17123100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro02a-point.txt	0.023982999999999977
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro02b-counter.txt	0.91875
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro03a-point.txt	0.856719
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-punishment-politics-terrorism-house-would-restrict/pro/pro03b-counter.txt	0.265432

@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con01a-point.txt	0.750939
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con01b-counter.txt	0.25490900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con02a-point.txt	0.20233100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con02b-counter.txt	0.676245
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con03a-point.txt	0.920959
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con03b-counter.txt	0.18492200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con04a-point.txt	0.474048
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/con/con04b-counter.txt	0.613248
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro01a-point.txt	0.25010600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro01b-counter.txt	0.474402
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro02a-point.txt	0.03885499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro02b-counter.txt	0.05530199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro03a-point.txt	0.509873
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro03b-counter.txt	0.39062399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro04a-point.txt	0.03564500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-house-would-encourage-creation-private-universities-uk/pro/pro04b-counter.txt	0.275085

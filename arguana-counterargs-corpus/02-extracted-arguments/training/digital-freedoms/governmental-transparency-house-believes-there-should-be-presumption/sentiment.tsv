@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con01a-point.txt	0.514199
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con01b-counter.txt	0.536424
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con02a-point.txt	0.729439
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con02b-counter.txt	0.24307199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con03a-point.txt	0.45072
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/con/con03b-counter.txt	0.253208
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro01a-point.txt	0.18677600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro01b-counter.txt	0.95718
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro02a-point.txt	0.671386
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro02b-counter.txt	0.251394
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro03a-point.txt	0.955713
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro03b-counter.txt	0.781
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro04a-point.txt	0.44020800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/governmental-transparency-house-believes-there-should-be-presumption/pro/pro04b-counter.txt	0.052636000000000016

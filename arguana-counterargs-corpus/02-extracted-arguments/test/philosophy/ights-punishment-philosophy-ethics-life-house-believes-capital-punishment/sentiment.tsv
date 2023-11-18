@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con01a-point.txt	0.862467
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con01b-counter.txt	0.12754600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con02a-point.txt	0.47568200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con02b-counter.txt	0.739742
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con03a-point.txt	0.847668
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con03b-counter.txt	0.772854
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con04a-point.txt	0.0027930000000000454
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/con/con04b-counter.txt	0.806235
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro01a-point.txt	0.569638
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro01b-counter.txt	0.417021
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro02a-point.txt	0.512627
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro02b-counter.txt	0.19963299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro03a-point.txt	0.451597
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ights-punishment-philosophy-ethics-life-house-believes-capital-punishment/pro/pro03b-counter.txt	0.022548000000000012

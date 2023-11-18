@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con01a-point.txt	0.05114300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con01b-counter.txt	0.605374
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con02a-point.txt	0.31967199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con02b-counter.txt	0.659075
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con03a-point.txt	0.804086
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/con/con03b-counter.txt	0.422546
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro01a-point.txt	0.22214199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro01b-counter.txt	0.20015700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro02a-point.txt	0.307698
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro02b-counter.txt	0.031891
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro03a-point.txt	0.28128699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/reputation-and-defamation-house-believes-right-reply/pro/pro03b-counter.txt	0.351685

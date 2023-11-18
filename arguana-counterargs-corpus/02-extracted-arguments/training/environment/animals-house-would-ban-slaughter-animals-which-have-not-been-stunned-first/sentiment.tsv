@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con01a-point.txt	0.292319
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con01b-counter.txt	0.38184700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con02a-point.txt	0.43176000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con02b-counter.txt	0.12516000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con03a-point.txt	0.428304
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con03b-counter.txt	0.671111
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con04a-point.txt	0.245101
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con04b-counter.txt	0.35583
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con05a-point.txt	0.22096800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/con/con05b-counter.txt	0.11900299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro01a-point.txt	0.38679600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro01b-counter.txt	0.31225800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro02a-point.txt	0.28694299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro02b-counter.txt	0.656551
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro03a-point.txt	0.621564
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro03b-counter.txt	0.043888999999999956
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro04a-point.txt	0.49809400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-ban-slaughter-animals-which-have-not-been-stunned-first/pro/pro04b-counter.txt	0.20057100000000005

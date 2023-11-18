@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-finance-health-healthcare-politics/house-would-introduce-system-universal
+published_time	2012-02-21T17:32:17+01:00
+modified_time	2017-05-19T19:39:47+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	42423

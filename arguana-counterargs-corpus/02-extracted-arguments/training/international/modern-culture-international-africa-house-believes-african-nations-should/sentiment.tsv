@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con01a-point.txt	0.017066000000000026
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con01b-counter.txt	0.09033400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con02a-point.txt	0.18356700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con02b-counter.txt	0.05593499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con03a-point.txt	0.60566
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con03b-counter.txt	0.27131099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con04a-point.txt	0.640817
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/con/con04b-counter.txt	0.75782
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro01a-point.txt	0.047543
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro01b-counter.txt	0.11302900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro02a-point.txt	0.40524499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro02b-counter.txt	0.17584200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro03a-point.txt	0.23236599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/modern-culture-international-africa-house-believes-african-nations-should/pro/pro03b-counter.txt	0.18870900000000002

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con01a-point.txt	0.288694
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con01b-counter.txt	0.744635
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con02a-point.txt	0.533402
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con02b-counter.txt	0.10902
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con03a-point.txt	0.26779600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con03b-counter.txt	0.20908800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con04a-point.txt	0.734324
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/con/con04b-counter.txt	0.7947
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro01a-point.txt	0.967389
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro01b-counter.txt	0.813928
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro02a-point.txt	0.651761
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro02b-counter.txt	0.96613
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro03a-point.txt	0.733554
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro03b-counter.txt	0.23376399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro04a-point.txt	0.8376
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro04b-counter.txt	0.17154000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro05a-point.txt	0.016008000000000022
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro05b-counter.txt	0.47021
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro06a-point.txt	0.373008
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/ure-culture-general-law-law-general-house-would-ban-gambling/pro/pro06b-counter.txt	0.007494000000000001

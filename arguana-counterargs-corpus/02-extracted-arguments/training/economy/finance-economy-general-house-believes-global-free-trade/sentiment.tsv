@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con01a-point.txt	0.76623
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con01b-counter.txt	0.402671
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con02a-point.txt	0.065241
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con02b-counter.txt	0.10105600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con03a-point.txt	0.253618
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con03b-counter.txt	0.130784
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con04a-point.txt	0.540174
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/con/con04b-counter.txt	0.688742
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro01a-point.txt	0.487019
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro01b-counter.txt	0.859941
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro02a-point.txt	0.791244
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro02b-counter.txt	0.013661999999999952
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro03a-point.txt	0.634231
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro03b-counter.txt	0.36490500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro04a-point.txt	0.923039
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-economy-general-house-believes-global-free-trade/pro/pro04b-counter.txt	0.006441999999999948

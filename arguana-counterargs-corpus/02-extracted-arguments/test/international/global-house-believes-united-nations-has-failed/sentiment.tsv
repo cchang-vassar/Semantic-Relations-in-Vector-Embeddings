@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con01a-point.txt	0.948799
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con01b-counter.txt	0.544571
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con02a-point.txt	0.421937
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con02b-counter.txt	0.94756
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con03a-point.txt	0.765453
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con03b-counter.txt	0.984754
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con04a-point.txt	0.957017
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con04b-counter.txt	0.02258199999999999
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con05a-point.txt	0.741877
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/con/con05b-counter.txt	0.25049
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro01a-point.txt	0.240128
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro01b-counter.txt	0.405246
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro02a-point.txt	0.07003499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro02b-counter.txt	0.05158799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro03a-point.txt	0.005503999999999953
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro03b-counter.txt	0.738014
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro04a-point.txt	0.09462099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro04b-counter.txt	0.42352
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro05a-point.txt	0.64361
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-house-believes-united-nations-has-failed/pro/pro05b-counter.txt	0.823318

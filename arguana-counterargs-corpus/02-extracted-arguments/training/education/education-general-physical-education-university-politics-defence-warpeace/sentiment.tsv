@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con01a-point.txt	0.34660899999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con01b-counter.txt	0.31862100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con02a-point.txt	0.28873899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con02b-counter.txt	0.678933
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con03a-point.txt	0.26962600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con03b-counter.txt	0.581835
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con04a-point.txt	0.26095999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/con/con04b-counter.txt	0.11167400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro01a-point.txt	0.635804
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro01b-counter.txt	0.08209999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro02a-point.txt	0.40439899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro02b-counter.txt	0.47813000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro03a-point.txt	0.953856
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro03b-counter.txt	0.267548
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro04a-point.txt	0.72462
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro04b-counter.txt	0.50786
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro05a-point.txt	0.31837400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-physical-education-university-politics-defence-warpeace/pro/pro05b-counter.txt	0.44060299999999997

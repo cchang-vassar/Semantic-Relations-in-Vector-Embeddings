@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con01a-point.txt	0.173786
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con01b-counter.txt	0.10714000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con02a-point.txt	0.35295
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con02b-counter.txt	0.03667200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con03a-point.txt	0.27480099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con03b-counter.txt	0.799666
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con04a-point.txt	0.12933499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/con/con04b-counter.txt	0.14777799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro01a-point.txt	0.55442
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro01b-counter.txt	0.05181400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro02a-point.txt	0.31429399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro02b-counter.txt	0.679579
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro03a-point.txt	0.654381
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro03b-counter.txt	0.611292
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro04a-point.txt	0.671656
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-house-would-united-states-ban-assault-weapons/pro/pro04b-counter.txt	0.048858999999999986

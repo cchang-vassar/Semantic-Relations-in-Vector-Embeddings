@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-law-general-philosophy-political-philosophy-religion-faith-morality/house-believes
+published_time	2012-04-02T16:27:05+02:00
+modified_time	2017-04-24T12:51:36+02:00
+crawled_time	Sun Feb 04 18:42:24 CET 2018
+voting_pro	50
+voting_con	50
+reads	31828

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/sport/human-rights-olympics/house-would-boycott-sports-events-states-repressive-regimes
+published_time	2012-02-17T13:32:31+01:00
+modified_time	2012-03-29T18:16:27+02:00
+crawled_time	Sun Feb 04 18:42:31 CET 2018
+voting_pro	100
+voting_con	0
+reads	25039

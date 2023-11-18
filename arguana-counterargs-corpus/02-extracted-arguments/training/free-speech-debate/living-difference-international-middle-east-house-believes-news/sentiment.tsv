@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con01a-point.txt	0.549903
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con01b-counter.txt	0.054776999999999965
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con02a-point.txt	0.42881100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con02b-counter.txt	0.30184599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con03a-point.txt	0.918214
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/con/con03b-counter.txt	0.13338399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro01a-point.txt	0.04273400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro01b-counter.txt	0.524036
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro02a-point.txt	0.30528999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro02b-counter.txt	0.06710000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro03a-point.txt	0.07489599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/living-difference-international-middle-east-house-believes-news/pro/pro03b-counter.txt	0.36542699999999995

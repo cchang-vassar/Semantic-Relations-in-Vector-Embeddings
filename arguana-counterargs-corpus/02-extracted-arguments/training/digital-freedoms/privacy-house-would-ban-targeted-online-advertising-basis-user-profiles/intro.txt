@@ -1,0 +1,15 @@
+Advertisers have long sought new and innovative ways to reach their target markets. With the birth of television, firms sought to determine what demographics tuned in when and on what programmes in order to get the most for their money.
+
+This search for the most effective advertising strategy has continued into the information age and onto the internet. By utilizing the personal information people leave as a trail online, such as through cookies which can track the users browsing history, firms have been able to collate personal information about even anonymous users and consequently been able to market products directly at them, or at least to the personality the firm has concluded to be them. [1] This has led to firms marketing themselves by this means in a range of ways, often popping up as ads on search engines and social networks, or even following users around as they browse. [2] These ads are designed to appear in the general use of the internet and websites, and are tailored to the specific internet user.
+
+The ethics of this sort of advertising have become hotly debated in Europe. The extent to which the collection of data is an invasion of privacy, and the consequent extent to which it erodes individuals’ anonymity on the internet, has led to heated debate on the issue. The following debate seeks to explain the positions as they stand with regard to this advertising’s effectiveness and its ethics.
+
+In terms of specific policies that might be employed when considering a ban the European Union is already taking steps to increase transparency about such advertising and a right to be forgotten to erase such information gathered on them [3] and are preventing targeting through cookies [4] but this is still too weak so we would proposing to officially ban the use of any programs that work to collate personal data to determine individual preferences. This could be policed by routine examinations of online firms and their practices.
+
+[1] Ball, J. And Cross, C., “How will the new law on cookies affect internet browsing?” guardian.co.uk, 13 April 2012, http://www.guardian.co.uk/technology/2012/apr/13/new-law-cookies-affect-internet-browsing
+
+[2] Rich, L., “Online Ads thet Just Won’t Let up”, Norton, 2010, http://us.norton.com/yoursecurityresource/detail.jsp?aid=online_ads
+
+[3] European Commission, “Proposal for a Regulation of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such date”, COM(2012) 11 final, 25 January 2012, http://ec.europa.eu/justice/data-protection/document/review2012/com_2012_11_en.pdf
+
+[4] Graziano, S., “Why the EU cookie directive is not the end of targeted marketing”, guardian media network, 7 September 2012, http://www.guardian.co.uk/media-network/media-network-blog/2012/sep/07/eu-cookie-law-directive-digital-marketing

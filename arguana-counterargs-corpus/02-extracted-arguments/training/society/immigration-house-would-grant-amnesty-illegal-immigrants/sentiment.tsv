@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con01a-point.txt	0.02830900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con01b-counter.txt	0.602427
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con02a-point.txt	0.319878
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con02b-counter.txt	0.294157
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con03a-point.txt	0.425354
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/con/con03b-counter.txt	0.13792899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro01a-point.txt	0.796663
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro01b-counter.txt	0.16684600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro02a-point.txt	0.817506
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro02b-counter.txt	0.437948
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro03a-point.txt	0.449866
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-house-would-grant-amnesty-illegal-immigrants/pro/pro03b-counter.txt	0.35261299999999995

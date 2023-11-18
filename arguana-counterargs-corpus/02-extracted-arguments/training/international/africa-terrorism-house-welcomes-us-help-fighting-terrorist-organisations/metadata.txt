@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-africa-terrorism/house-welcomes-us-help-fighting-terrorist-organisations
+published_time	2014-01-08T18:28:00+01:00
+modified_time	2017-04-05T12:46:17+02:00
+crawled_time	Sun Feb 04 18:42:44 CET 2018
+voting_pro	50
+voting_con	50
+reads	6842

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-law-general-society/house-believes-right-self-defense
+published_time	2012-01-26T16:35:33+01:00
+modified_time	2013-07-14T21:20:24+02:00
+crawled_time	Sun Feb 04 18:42:27 CET 2018
+voting_pro	50
+voting_con	50
+reads	20516

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con01a-point.txt	0.08626100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con01b-counter.txt	0.652948
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con02a-point.txt	0.39698999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con02b-counter.txt	0.06537000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con03a-point.txt	0.39075499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/con/con03b-counter.txt	0.14855399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro01a-point.txt	0.524041
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro01b-counter.txt	0.813611
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro02a-point.txt	0.622053
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro02b-counter.txt	0.28506600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro03a-point.txt	0.612358
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/europe-house-would-lift-all-veto-powers-individual-eu-member-states/pro/pro03b-counter.txt	0.14322999999999997

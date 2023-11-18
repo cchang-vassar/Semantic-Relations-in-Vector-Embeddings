@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con01a-point.txt	0.16423600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con01b-counter.txt	0.19746399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con02a-point.txt	0.018155000000000032
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con02b-counter.txt	0.08576899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con03a-point.txt	0.82616
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con03b-counter.txt	0.144938
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con04a-point.txt	0.27505900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/con/con04b-counter.txt	0.047202999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro01a-point.txt	0.73419
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro01b-counter.txt	0.009328000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro02a-point.txt	0.568667
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro02b-counter.txt	0.379182
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro03a-point.txt	0.40935600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro03b-counter.txt	0.33930000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro04a-point.txt	0.22252300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/team-sports-house-believes-major-league-baseball-should-continue-allow-collisions/pro/pro04b-counter.txt	0.277899

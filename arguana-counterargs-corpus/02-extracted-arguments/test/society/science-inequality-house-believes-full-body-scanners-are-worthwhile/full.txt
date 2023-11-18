@@ -1,0 +1,22 @@
+# METADATA
+url	https://idebate.org/debatabase/society/science-inequality/house-believes-full-body-scanners-are-worthwhile
+published_time	2012-01-26T16:33:46+01:00
+modified_time	2012-04-02T16:55:20+02:00
+crawled_time	Sun Feb 04 18:43:04 CET 2018
+voting_pro	0
+voting_con	100
+reads	15484
+
+
+# THESIS
+This house believes that full-body scanners are worthwhile
+
+
+# INTRO
+Full-body screening at airports is a topic that became particularly relevant after the December 25, 2009 "Christmas Bomber" attempted terrorist attack, in which a Nigerian man tried to detonate an explosive device that was stitched into his under-wear on Northwest Airlines Flight 253 from Amsterdam to Detroit. The plane made an emergency landing in Detroit without any fatalities. Yet, the ramifications of the event have been major, including a widespread effort to crack down on the potential for terrorists to carry makeshift bombs on their bodies through security checkpoints. One of the main proposals to combat this potential is full-body scanners at airports, which have already been implemented in many airports internationally. These machines essentially take an x-ray picture of a passenger; to peer under their clothing to detect any potential weapons and bombs on the body. Many believe that such a system could have easily detected the "under-wear bomber" on December 25th, 2009. In the broader fight on terrorism they are believed to have the potential to thwart future, similar terrorist attacks and save lives. Yet, opponents consider them an intrusion on the privacy of passengers because they allow screeners to view an outline of genitalia and bodily contours.
+
+
+
+
+# LITERATURE
+Associated Press. (2009, December 29). Jason Chaffetz says body scans still a bad idea. Retrieved July 25, 2011, from Deseret News: Boston Globe. (2010, January 10). Full-body scanners are a help, but no panacea. Retrieved July 25, 2011, from Boston Globe: Capehart, J. (2010, January 4). I'll take the full-body scan. Retrieved July 25, 2011, from The Washington Post: Cendrowicz, L. (2010, January 5). Can Airport Body Scanners Stop Terrorist Attacks? Retrieved July 25, 2011, from Time World: Eggen, D., DeYoung, K., &amp; Hsu, S. S. (2009, December 27). Plane suspect was listed in terror database after father alerted U.S. officials. Retrieved July 25, 2011, from The Washington Post: Guarino, M. "Airport Security: two alternatives to full-body scanners." The Christian Science Monitor. December 31st, 2009. HSNW. (2010, March 18). GAO raises question about effectiveness of full-body scanners. Retrieved July 25, 2011, from Homeland Security Newswire: Hsu, S. S. (2010, March 18). GAO says airport body scanners may not have thwarted Christmas Day bombing. Retrieved July 25, 2011, from Washington Post: Schwartz, J. (2009, December 29). Debate over full-body scans vs. invasion of privacy flares anew after incident. Retrieved July 21, 2011, from New York Times: Transportation Security Administration. Advanced Imaging Technology (AIT), Retrieved September 6 2011, from tsa.gov,

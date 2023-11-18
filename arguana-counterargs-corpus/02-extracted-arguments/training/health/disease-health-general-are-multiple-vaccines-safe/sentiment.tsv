@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con01a-point.txt	0.480213
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con01b-counter.txt	0.598972
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con02a-point.txt	0.22041999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con02b-counter.txt	0.39578500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con03a-point.txt	0.541657
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/con/con03b-counter.txt	0.02743399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro01a-point.txt	0.848544
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro01b-counter.txt	0.824667
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro02a-point.txt	0.07552099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro02b-counter.txt	0.09163500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro03a-point.txt	0.31593800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro03b-counter.txt	0.07374899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro04a-point.txt	0.815587
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/disease-health-general-are-multiple-vaccines-safe/pro/pro04b-counter.txt	0.11997800000000003

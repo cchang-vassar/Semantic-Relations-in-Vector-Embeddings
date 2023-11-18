@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con01a-point.txt	0.04719899999999999
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con01b-counter.txt	0.13585499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con02a-point.txt	0.18172900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con02b-counter.txt	0.670069
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con03a-point.txt	0.22277400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/con/con03b-counter.txt	0.573308
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro01a-point.txt	0.23358199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro01b-counter.txt	0.040881999999999974
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro02a-point.txt	0.791729
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro02b-counter.txt	0.537143
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro03a-point.txt	0.966008
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/ucation-secondary-university-philosophy-religion-minorities-house-believes-use/pro/pro03b-counter.txt	0.443103

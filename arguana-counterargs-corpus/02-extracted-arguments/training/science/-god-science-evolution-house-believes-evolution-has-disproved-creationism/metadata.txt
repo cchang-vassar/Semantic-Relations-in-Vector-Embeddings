@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/religion-god-science-evolution/house-believes-evolution-has-disproved-creationism
+published_time	2012-02-17T13:55:55+01:00
+modified_time	2017-08-05T10:53:31+02:00
+crawled_time	Sun Feb 04 18:42:30 CET 2018
+voting_pro	50
+voting_con	50
+reads	30324

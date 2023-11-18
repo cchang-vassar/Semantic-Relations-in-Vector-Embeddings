@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/society/law-crime-policing-punishment-youth/house-would-raise-age-criminal-responsibility
+published_time	2012-01-26T16:33:39+01:00
+modified_time	2013-12-02T13:45:11+01:00
+crawled_time	Sun Feb 04 18:42:22 CET 2018
+voting_pro	0
+voting_con	100
+reads	34992

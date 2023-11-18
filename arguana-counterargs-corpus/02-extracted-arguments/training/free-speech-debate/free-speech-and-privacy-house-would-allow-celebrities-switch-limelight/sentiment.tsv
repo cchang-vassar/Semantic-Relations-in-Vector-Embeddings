@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con01a-point.txt	0.351224
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con01b-counter.txt	0.631177
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con02a-point.txt	0.13544900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con02b-counter.txt	0.010712000000000055
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con03a-point.txt	0.13544900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con03b-counter.txt	0.010712000000000055
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con04a-point.txt	0.45159000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/con/con04b-counter.txt	0.43497300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro01a-point.txt	0.19730800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro01b-counter.txt	0.05205599999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro02a-point.txt	0.14248400000000006
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro02b-counter.txt	0.536648
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro03a-point.txt	0.44928100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-speech-and-privacy-house-would-allow-celebrities-switch-limelight/pro/pro03b-counter.txt	0.55422

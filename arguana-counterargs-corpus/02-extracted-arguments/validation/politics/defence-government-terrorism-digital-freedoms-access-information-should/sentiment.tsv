@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con01a-point.txt	0.638582
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con01b-counter.txt	0.261552
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con02a-point.txt	0.21471600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con02b-counter.txt	0.656001
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con03a-point.txt	0.23549399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/con/con03b-counter.txt	0.522264
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro01a-point.txt	0.289285
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro01b-counter.txt	0.1552
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro02a-point.txt	0.45970200000000006
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro02b-counter.txt	0.629661
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro03a-point.txt	0.223395
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-government-terrorism-digital-freedoms-access-information-should/pro/pro03b-counter.txt	0.813761

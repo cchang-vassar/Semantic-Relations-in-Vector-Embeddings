@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con01a-point.txt	0.05945
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con01b-counter.txt	0.897917
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con02a-point.txt	0.40494300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con02b-counter.txt	0.295709
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con03a-point.txt	0.11996200000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/con/con03b-counter.txt	0.287346
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro01a-point.txt	0.18815000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro01b-counter.txt	0.197002
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro02a-point.txt	0.630187
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro02b-counter.txt	0.06816299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro03a-point.txt	0.72973
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro03b-counter.txt	0.22735899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro04a-point.txt	0.789974
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nomy-general-philosophy-political-philosophy-house-believes-capitalism-better/pro/pro04b-counter.txt	0.13952200000000003

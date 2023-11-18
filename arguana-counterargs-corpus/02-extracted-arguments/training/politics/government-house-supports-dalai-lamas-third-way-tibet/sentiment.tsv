@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con01a-point.txt	0.11457200000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con01b-counter.txt	0.266448
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con02a-point.txt	0.20993499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con02b-counter.txt	0.851667
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con03a-point.txt	0.39735
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/con/con03b-counter.txt	0.886401
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro01a-point.txt	0.918545
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro01b-counter.txt	0.45366300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro02a-point.txt	0.32769800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro02b-counter.txt	0.18701800000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro03a-point.txt	0.551872
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-supports-dalai-lamas-third-way-tibet/pro/pro03b-counter.txt	0.793968

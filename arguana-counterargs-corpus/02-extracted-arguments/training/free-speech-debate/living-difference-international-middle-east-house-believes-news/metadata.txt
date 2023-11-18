@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/free-speech-debate-living-difference-international-middle-east/house-believes-news
+published_time	2012-11-13T14:53:59+01:00
+modified_time	2017-04-18T14:07:21+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	15595

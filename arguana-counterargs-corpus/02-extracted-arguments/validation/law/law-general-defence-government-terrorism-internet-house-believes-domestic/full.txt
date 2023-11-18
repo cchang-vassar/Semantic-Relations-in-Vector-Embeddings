@@ -1,0 +1,128 @@
+# METADATA
+url	https://idebate.org/debatabase/law/law-general-defence-government-terrorism-internet/house-believes-domestic
+published_time	2012-02-17T17:28:14+01:00
+modified_time	2017-05-30T17:34:39+02:00
+crawled_time	Sun Feb 04 18:42:49 CET 2018
+voting_pro	50
+voting_con	50
+reads	13183
+
+
+# THESIS
+This House believes domestic intelligence agencies have a legitimate role to play in democracy
+
+
+# INTRO
+Intelligence services provide the government with essential information to make decisions in regards to threats to national security. There are three sources of threats to national security and therefore three ‘target areas’ for intelligence: domestic, foreign and military. In many countries (but not all), each target area has its own specific agency: for example, the UK has MI5 for domestic intelligence, SIS (also known as MI6) for foreign intelligence and DIS (Defence Intelligence Staff) for military intelligence. The intelligence services usually perform the following four types of activities: intelligence gathering, analysis, counter-intelligence and covert action.
+
+There are several methods of intelligence gathering, including ‘using personal contact’ such as paid informants, planting agents within organisations, etc. (called HUMINT, Human INTelligence), inferring information from electronic signals (called SIGINT, SIGnals INTelligence) and more. Counterintelligence refers to the activities employed by intelligence agencies/governments to prevent other countries/actors from successfully gathering intelligence against them. Covert action is when an intelligence agency engages in clandestine operations against a target.
+
+To protect national security, intelligence agencies are given broad and exceptional powers. Exercising these powers can clash with citizens’ basic rights. In this casefile, I will explore this tension between national security and basic rights by focussing on the case for domestic intelligence in a democracy. The case for military and foreign intelligence in a democracy is more straightforward and more easily justified, but many of the arguments against domestic intelligence agencies could also apply against foreign and military intelligence. Does domestic intelligence have a place in a functioning democracy and is it an infringement on this democracy?
+
+
+# PRO01A-POINT
+Intelligence is necessary for the safety of the public.
+
+Domestic intelligence is very important to the national security and to the safety of the public. Domestic intelligence is imperative in preventing terrorist attacks on the country when terrorists are as likely to be natives as foreigners, for example the 7/7 bombers in Britain were all native. [1] In order for a domestic intelligence organization to be effective, its organizational discretion must be limited by establishing clear legislation that is not secret, on the focus, limits, and techniques of domestic intelligence.
+
+When this is in place domestic intelligence is not harmful, nor infringement on democracy – it is in the people’s best interest. As Professor Dahl notes “Intelligence is about the thousands and thousands of routine, everyday observations and activities… in many cases these observations, this intelligence, is about routine activities undertaken by ordinary Americans and others who do not intend to cause harm.” This intrusion is necessary in order to catch the few who do intend to do harm. [2]
+
+[1] BBC News, Special Report London Attacks ‘The bombers’, http://news.bbc.co.uk/1/shared/spl/hi/uk/05/london_blasts/investigation/...
+
+[2] Dahl, Eric Domestic Intelligence Today: More Security but Less Liberty? http://www.hsaj.org/?fullarticle=7.2.8
+
+# PRO01B-COUNTER
+Even if it is protecting lives the scale of the intelligence gathering is undemocratic. By allowing interception, widespread tracking of public records, unfair legal treatment, we erase the trust between citizens and the government in return for very occasionally preventing a terrorist attack. As shown by 7/7 terrorists still get through despite intelligence even when the bombers have already been noticed. [1] When all your library patrons can be seized and all your browsing logs checked just on a claim that they are relevant to intelligence information, as initially happened under the patriot act, too much liberty is being given up in the name of very little extra security. [2]
+
+[1] BBC News, Special Report London Attacks ‘The bombers’, http://news.bbc.co.uk/1/shared/spl/hi/uk/05/london_blasts/investigation/...
+
+[2] Strossen, Nadine, ‘Safety and Freedom: Common Concerns for Conservatives, Libertarians, and Civil Libertarians’, Harvard Journal of Law &amp; Public Policy, Vol. 29, No. 1, Fall 2005, http://www.law.harvard.edu/students/orgs/jlpp/Vol29_No1_Strossen.pdf p.78
+
+# PRO02A-POINT
+Domestic intelligence operates just like the police do.
+
+Domestic intelligence does require the collection of information, but this is not fundamentally different from a standard police investigation. The differences are minor when we have national security at stake. Furthermore, the rights, duties and powers of a domestic intelligence service are carefully restricted by law. For example, under Dutch law, the General Intelligence and Security Service (AIVD) is only allowed to wiretap someone after permission granted by the Minister of Interior Affairs (the UK situation is very similar). [1] Generally speaking, for every surveillance action the domestic intelligence can take, it needs to weigh whether the action satisfies the principles of proportionality and subsidiarity, meaning that the invasiveness of a surveillance method should be proportional to the risk the person poses, and that the method chosen should be the least invasive of all possible methods.
+
+[1] van Voorhout, Jill E.B. Coster, ‘Intelligence as legal evidence’, Utrecht Law Review, Vol. 2 Issue 2, December 2006, http://www.utrechtlawreview.org/index.php/ulr/article/viewFile/29/29 , p.124
+
+# PRO02B-COUNTER
+For intelligence to be effective, the government will need to collect personal information, like bank transactions, emails, phone records, and more, without the citizen in question knowing this. However, democracy works on the assumption that each citizen has a private sphere, separate from the public sphere, of private information, thoughts and opinions, and that the citizen decides who to let into that sphere. Put differently, the citizen has control over when to release private information, and when not. Investigating them without their knowledge means taking away that control, and that is a violation of the right to privacy. Police investigations, on the other hand, are legitimate and not invasive of democracy - the police are generally obliged to inform a citizen when he or she is subject to a criminal investigation, and can generally only investigate a citizen without their knowledge after seeking specific permission from the judiciary, not just by a minister signing off a whole batch of requests as it’s done with domestic intelligence.
+
+# PRO03A-POINT
+There is sufficient political and judicial control over intelligence service
+
+Even if not every citizen can control exactly what the intelligence service does, there is sufficient political and judicial control. An example of this is a recent case involving the Dutch AIVD, which started wiretapping journalists after they had found a source within the AIVD to leak about the run-up to the Iraq War. The journalists were wiretapped but when the case came to court, the court judged that the AIVD was in error, should stop harassing the journalists, and must delete the files on the journalists immediately. Such cases show that the intelligence agencies, and those involved domestically in particular, have judicial and political oversight to make sure they remain within bounds. [1] Democracy is therefore not threatened as there is democratic oversight.
+
+[1] Webber, Liz, Netherlands: De Telegraaf journalists win suit over secret service phone-taps, World Editors Forum, 27/07/2009 http://www.editorsweblog.org/newspaper/2009/07/netherlands_de_telegraaf_journalists_win.php
+
+# PRO03B-COUNTER
+The AIVD example shows exactly that judicial and political control is not enough: the judicial control is control after the fact, so it didn’t prevent the AIVD from listening in to journalists conversations in the first place. Moreover, a regulatory committee judged that the Minister of Internal Affairs, who is supposed to be the a priori control, had given permission too easily, which is to be expected when a Minister faces a lot of requests like this, and has to decide in between the regular work of actually governing. [1] It is the lack of initial oversight which is anti-democratic, citizens expect their government and courts to prevent the intelligence agencies from infringing on privacy not simply demand an apology later when the intelligence agency is found out. How many more cases are there which are not caught?
+
+[1] NIS News Bulletin, ‘Press Sector Sues State for Eavesdropping Telegraaf Journalists’ 9/07/2009 http://www.nisnews.nl/public/090709_1.htm
+
+# PRO04A-POINT
+Domestic intelligence services are the only organization that is capable of performing counterintelligence
+
+Domestic intelligence services are the only organization that is capable of performing counterintelligence. They have the capacity and the authority to detect foreign spies in the national jurisdiction, and experience with local surveillance and investigation. Part of the job of domestic intelligence is to maintain a network of informers and agents, and this can be used to find and track foreign intelligence services on a mission – these functions can’t be easily performed by the military or foreign intelligence so an independent domestic intelligence agency is necessary.
+
+# PRO04B-COUNTER
+The military or foreign intelligence or just as able to conduct counterintelligence, because the potential targets for foreign intelligence services are well known. But even if a domestic intelligence service is best placed for counter-intelligence, this is just an argument for limiting their functions to counter-intelligence, where they won’t harm citizen’s privacy as much. The arguments above deal with the other work a domestic intelligence does, and that work is illegitimate.
+
+
+# CON01A-POINT
+The government does not have the right to spy on its citizens
+
+The government should not want to spy on its own citizens – that is the mark of a totalitarian regime. If some citizens disagree with the current government or current form of government, it is their fundamental democratic right to do so, and the government has no right to judge their different political preferences as ‘dangerous’. Experience shows that elected governments are not always able to control their domestic intelligence services, which may develop their own views of what constitutes subversive behaviour. In the 1970s MI5 kept files upon Labour Party MPs, including ministers in the UK Government. Elsewhere, fragile democracies such as Pakistan and Turkey have seen military coups launched against elected governments with the involvement of the domestic intelligence services which were supposed to be guarding them. In Turkey despite a coup against army leaders in 2008 the domestic intelligence agencies remain very strong and are supported by the national police. [1] Whenever there is a domestic intelligence service it is potentially very powerful due to the information it controls which could be used in support of other groups like the military to undermine or overthrow the government. It is better to keep intelligence focused outward.
+
+[1] Cagaptay, Soner, What's Really Behind Turkey's Coup Arrests? Foreign policy, 25/02/2010 http://www.foreignpolicy.com/articles/2010/02/25/whats_really_behind_turkeys_coup_arrests
+
+# CON01B-COUNTER
+Some citizens don’t just have political differences with the current government, but are fundamentally opposed to the democratic state and are willing to use violence against state and society. Such is the case with Germany’s far-left party where the Federal Administrative Court ruled that the Federal Office for the Protection of the Constitution (BfV) could continue to observe Bodo Ramelow, leader of the Left Party in the eastern state of Thuringia. [1] Or where domestic intellegence agencies are necessary to monitor home grown terrorist organisations like the IRA. To protect itself, society and most importantly, the lives of other citizens, it’s necessary for a government to sometimes want to keep a close eye on some of their own citizens. A democratically elected government has both the authority and the legitimacy to order such surveillance, and can be held accountable for the way in which it uses its powers.
+
+[1] Der Spiegel, ‘Is Germany's Left Party a Threat to Democracy?’ 22/7/2010 http://www.spiegel.de/international/germany/0,1518,707888,00.html
+
+# CON02A-POINT
+Domestic intelligence agencies cannot be controlled
+
+There are no effective ways of controlling the activities of a domestic intelligence agency. With an information request, an investigated citizen has no way of being sure what the intelligence service in question actually does with the information, once it has gathered it, and whether the service actually upheld the principles of subsidiarity and proportionality as they should, because the methods used are not given out. Also, the intelligence service might promise to delete a file after a court honoured a request, but no one can ever be sure that the intelligence service didn’t make an extra, secret copy.
+
+# CON02B-COUNTER
+It is quite possible to put checks on the power of a domestic intelligence agency in order to prevent abuse of authority. An important way, in which individual citizens can actually control the intelligence service, is through lodging an information request at the domestic intelligence service. In a democracy, the service is obliged to share if it has a dossier on that citizen, and if it’s unfounded, can request the deletion of it. Of course, the dossier will not include specific intelligence gathering methods used nor mention sources, but overall, it will provide a good picture of what the intelligence service has been investigating so far.
+
+# CON03A-POINT
+Intelligence agencies inflate threats.
+
+Having domestic intelligence agencies creates suspicion and fear, and ultimately resentment. Domestic intelligence agencies are created in response to war and external threats, for example MI5 was created in the build up to world war one, and Australia’s intelligence service was created in response to the discovery of a soviet spy ring within the Australian government. [1] Having any such service involved in more than simply counter-intelligence against foreign services shows that the government does not trust its own people. The United States has until very recently not had a domestic intelligence exactly because it was considered that the FBI could do everything that was required without creating undue suspicion. Bureaucracies inflate threats so as to gain more resources, MI5 is a good example, it was given more resources than it needed to engage in counterintelligence against Germany so expanded its role to surveillance of elements such as pacifists and organised labour. [2] More recently the head of MI5 announced there were 1600 Britons plotting terror, which may simply be threat inflation, something which not only makes everyone fearful for no reason. [3] An agency which is equally focused on criminal investigation would have much less reason to inflate dangers in order to maintain or increase funding.
+
+[1] Jackson, Brian a. ed., ‘Considering the Creation of a Domestic Intelligence Agency in the United States’, Rand, 2009, http://www.rand.org/pubs/monographs/2009/RAND_MG805.pdf p.15
+
+[2] Wikipedia, ‘MI5’, http://en.wikipedia.org/wiki/MI5
+
+[3] Kayyem, Juliette, and Posner, Richard A., ‘Does the United States Need a Domestic Intelligence Agency?’ CFR, 17 November 2006, http://www.cfr.org/intelligence/does-united-states-need-domestic-intelli...
+
+# CON03B-COUNTER
+It is better to have some fear and suspicion in society than letting a terrorist attack which costs lives through. Without a domestic intelligence agency we probably would not even know about the 1600 potential terrorists. Now that many of these plots are known by the intelligence agency they can be prevented.
+
+
+# LITERATURE
+BBC News, Special Report London Attacks ‘The bombers’, http://news.bbc.co.uk/1/shared/spl/hi/uk/05/london_blasts/investigation/html/bombers.stm
+
+Cagaptay, Soner, What's Really Behind Turkey's Coup Arrests? Foreign policy, 25/02/2010 http://www.foreignpolicy.com/articles/2010/02/25/whats_really_behind_turkeys_coup_arrests
+
+Dahl, Eric Domestic Intelligence Today: More Security but Less Liberty? http://www.hsaj.org/?fullarticle=7.2.8
+
+Der Spiegel, ‘Is Germany's Left Party a Threat to Democracy?’ 22/7/2010 http://www.spiegel.de/international/germany/0,1518,707888,00.html
+
+Jackson, Brian a. ed., ‘Considering the Creation of a Domestic Intelligence Agency in the United States’, Rand, 2009, http://www.rand.org/pubs/monographs/2009/RAND_MG805.pdf
+
+Kayyem, Juliette, and Posner, Richard A., ‘Does the United States Need a Domestic Intelligence Agency?’ CFR, 17 November 2006, http://www.cfr.org/intelligence/does-united-states-need-domestic-intelligence-agency/p11990
+
+NIS News Bulletin, ‘Press Sector Sues State for Eavesdropping Telegraaf Journalists’ 9/07/2009 http://www.nisnews.nl/public/090709_1.htm
+
+Strossen, Nadine, ‘Safety and Freedom: Common Concerns for Conservatives, Libertarians, and Civil Libertarians’, Harvard Journal of Law &amp; Public Policy, Vol. 29, No. 1, Fall 2005, http://www.law.harvard.edu/students/orgs/jlpp/Vol29_No1_Strossen.pdf
+
+van Voorhout, Jill E.B. Coster, ‘Intelligence as legal evidence’, Utrecht Law Review, Vol. 2 Issue 2, December 2006, http://www.utrechtlawreview.org/index.php/ulr/article/viewFile/29/29 ,
+
+Webber, Liz, Netherlands: De Telegraaf journalists win suit over secret service phone-taps, World Editors Forum, 27/07/2009 http://www.editorsweblog.org/newspaper/2009/07/netherlands_de_telegraaf_journalists_win.php
+
+Wikipedia, ‘MI5’, http://en.wikipedia.org/wiki/MI5

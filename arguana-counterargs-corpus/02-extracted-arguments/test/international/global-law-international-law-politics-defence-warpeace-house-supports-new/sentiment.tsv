@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con01a-point.txt	0.38187899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con01b-counter.txt	0.47694800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con02a-point.txt	0.421496
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con02b-counter.txt	0.37957300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con03a-point.txt	0.33641600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con03b-counter.txt	0.23365999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con04a-point.txt	0.513751
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/con/con04b-counter.txt	0.558028
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro01a-point.txt	0.503072
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro01b-counter.txt	0.23136900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro02a-point.txt	0.691766
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro02b-counter.txt	0.12338400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro03a-point.txt	0.827658
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/global-law-international-law-politics-defence-warpeace-house-supports-new/pro/pro03b-counter.txt	0.157968

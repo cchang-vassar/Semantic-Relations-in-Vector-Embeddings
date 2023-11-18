@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con01a-point.txt	0.14041899999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con01b-counter.txt	0.532505
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con02a-point.txt	0.030272999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con02b-counter.txt	0.021911000000000014
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con03a-point.txt	0.01496900000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/con/con03b-counter.txt	0.010920999999999959
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro01a-point.txt	0.524382
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro01b-counter.txt	0.25142
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro02a-point.txt	0.11808099999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro02b-counter.txt	0.595494
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro03a-point.txt	0.04069900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro03b-counter.txt	0.896012
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro04a-point.txt	0.207839
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro04b-counter.txt	0.42923999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro05a-point.txt	0.38486699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/philosophy-general-political-philosophy-government-house-believes-anarchism/pro/pro05b-counter.txt	0.29116299999999995

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-africa-global/house-believes-former-colonial-powers-should-pay-reparations
+published_time	2012-02-24T16:49:12+01:00
+modified_time	2017-04-26T13:56:38+02:00
+crawled_time	Sun Feb 04 18:43:09 CET 2018
+voting_pro	50
+voting_con	50
+reads	38953

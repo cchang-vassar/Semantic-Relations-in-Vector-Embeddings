@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con01a-point.txt	0.281574
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con01b-counter.txt	0.723983
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con02a-point.txt	0.539599
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con02b-counter.txt	0.547195
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con03a-point.txt	0.05296400000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/con/con03b-counter.txt	0.79192
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro01a-point.txt	0.733365
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro01b-counter.txt	0.05585200000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro02a-point.txt	0.95521
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro02b-counter.txt	0.25783100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro03a-point.txt	0.611193
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro03b-counter.txt	0.29015500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro04a-point.txt	0.687858
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-sport-team-sports-house-believes-gabon-hosting-africa-cup-nations/pro/pro04b-counter.txt	0.25879399999999997

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-teaching-law-crime-policing-society-youth/house-would-arm
+published_time	2012-07-04T17:46:07+02:00
+modified_time	2017-04-20T12:39:06+02:00
+crawled_time	Sun Feb 04 18:42:28 CET 2018
+voting_pro	50
+voting_con	50
+reads	102378

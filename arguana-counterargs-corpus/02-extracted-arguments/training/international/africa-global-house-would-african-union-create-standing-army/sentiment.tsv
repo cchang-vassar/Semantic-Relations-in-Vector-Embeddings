@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con01a-point.txt	0.17908800000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con01b-counter.txt	0.615584
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con02a-point.txt	0.37544200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con02b-counter.txt	0.38444100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con03a-point.txt	0.872121
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/con/con03b-counter.txt	0.599135
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro01a-point.txt	0.639552
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro01b-counter.txt	0.656728
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro02a-point.txt	0.70341
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro02b-counter.txt	0.34253100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro03a-point.txt	0.684029
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-global-house-would-african-union-create-standing-army/pro/pro03b-counter.txt	0.34655800000000003

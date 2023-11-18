@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con01a-point.txt	0.896988
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con01b-counter.txt	0.739573
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con02a-point.txt	0.753489
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con02b-counter.txt	0.12302500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con03a-point.txt	0.46830700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/con/con03b-counter.txt	0.912237
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro01a-point.txt	0.641272
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro01b-counter.txt	0.521602
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro02a-point.txt	0.840805
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro02b-counter.txt	0.962709
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro03a-point.txt	0.232827
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro03b-counter.txt	0.336923
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro04a-point.txt	0.830922
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-politics-politics-general-house-believes-lesotho-should-be-annexed/pro/pro04b-counter.txt	0.18211900000000003

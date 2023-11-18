@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con01a-point.txt	0.814359
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con01b-counter.txt	0.627817
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con02a-point.txt	0.11591300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con02b-counter.txt	0.32771799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con03a-point.txt	0.16917300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con03b-counter.txt	0.796567
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con04a-point.txt	0.694798
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con04b-counter.txt	0.607154
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con05a-point.txt	0.02158800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/con/con05b-counter.txt	0.15402800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro01a-point.txt	0.511854
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro01b-counter.txt	0.34274000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro02a-point.txt	0.42300400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro02b-counter.txt	0.28516600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro03a-point.txt	0.553526
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-politics-defence-warpeace-house-would-create-un-standing-army/pro/pro03b-counter.txt	0.38515200000000005

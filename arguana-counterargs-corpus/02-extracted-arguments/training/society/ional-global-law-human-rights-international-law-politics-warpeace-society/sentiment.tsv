@@ -1,0 +1,12 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con01a-point.txt	0.714605
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con01b-counter.txt	0.939007
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con02a-point.txt	0.608867
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con02b-counter.txt	0.10968599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con03a-point.txt	0.05472600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/con/con03b-counter.txt	0.03142199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/pro/pro01a-point.txt	0.542737
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/pro/pro01b-counter.txt	0.03689100000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/pro/pro02a-point.txt	0.320763
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/pro/pro02b-counter.txt	0.647284
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-law-human-rights-international-law-politics-warpeace-society/pro/pro03a-point.txt	0.056221999999999994

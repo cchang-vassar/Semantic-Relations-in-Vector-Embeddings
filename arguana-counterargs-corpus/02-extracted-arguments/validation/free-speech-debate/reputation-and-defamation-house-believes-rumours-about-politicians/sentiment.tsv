@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con01a-point.txt	0.27250700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con01b-counter.txt	0.06024099999999999
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con02a-point.txt	0.845312
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con02b-counter.txt	0.259823
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con03a-point.txt	0.364355
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/con/con03b-counter.txt	0.03670799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro01a-point.txt	0.08362899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro01b-counter.txt	0.38448000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro02a-point.txt	0.020399999999999974
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro02b-counter.txt	0.049454
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro03a-point.txt	0.14752500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/reputation-and-defamation-house-believes-rumours-about-politicians/pro/pro03b-counter.txt	0.733609

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con01a-point.txt	0.459249
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con01b-counter.txt	0.013009000000000048
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con02a-point.txt	0.48502900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con02b-counter.txt	0.646206
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con03a-point.txt	0.695148
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con03b-counter.txt	0.025112000000000023
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con04a-point.txt	0.17823100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con04b-counter.txt	0.499278
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con05a-point.txt	0.681805
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/con/con05b-counter.txt	0.030277
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro01a-point.txt	0.07692299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro01b-counter.txt	0.696926
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro02a-point.txt	0.15485400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro02b-counter.txt	0.08635199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro03a-point.txt	0.07420300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro03b-counter.txt	0.014483000000000024
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro04a-point.txt	0.10765999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro04b-counter.txt	0.016351000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro05a-point.txt	0.053061000000000025
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/marriage-society-family-house-believes-marriage-outdated-institution/pro/pro05b-counter.txt	0.011484999999999967

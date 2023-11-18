@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con01a-point.txt	0.22041999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con01b-counter.txt	0.13437699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con02a-point.txt	0.45695300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con02b-counter.txt	0.29666000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con03a-point.txt	0.466955
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con03b-counter.txt	0.856897
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con04a-point.txt	0.27355399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con04b-counter.txt	0.46360900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con05a-point.txt	0.12681699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/con/con05b-counter.txt	0.812312
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro01a-point.txt	0.15656199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro01b-counter.txt	0.381023
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro02a-point.txt	0.11795299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro02b-counter.txt	0.599393
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro03a-point.txt	0.848775
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro03b-counter.txt	0.09020600000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro04a-point.txt	0.272841
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/americas-europe-global-middle-east-politics-politics-general-house-would/pro/pro04b-counter.txt	0.41190499999999997

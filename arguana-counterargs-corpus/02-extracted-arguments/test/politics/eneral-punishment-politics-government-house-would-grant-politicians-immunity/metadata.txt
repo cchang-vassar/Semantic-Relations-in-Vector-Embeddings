@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law/law-general-punishment-politics-government/house-would-grant-politicians-immunity
+published_time	2012-03-02T15:07:52+01:00
+modified_time	2017-04-26T12:34:01+02:00
+crawled_time	Sun Feb 04 18:43:06 CET 2018
+voting_pro	50
+voting_con	50
+reads	21767

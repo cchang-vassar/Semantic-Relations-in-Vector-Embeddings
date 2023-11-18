@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con01a-point.txt	0.958651
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con01b-counter.txt	0.40703100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con02a-point.txt	0.070322
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con02b-counter.txt	0.709254
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con03a-point.txt	0.436265
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/con/con03b-counter.txt	0.808913
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro01a-point.txt	0.765488
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro01b-counter.txt	0.28052200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro02a-point.txt	0.961921
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro02b-counter.txt	0.24530200000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro03a-point.txt	0.08663299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-minorities-house-believes-zero-tolerance-policing-good-tactic-fighting/pro/pro03b-counter.txt	0.048748000000000014

@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con01a-point.txt	0.251436
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con01b-counter.txt	0.511422
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con02a-point.txt	0.896345
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con02b-counter.txt	0.19381000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con03a-point.txt	0.518331
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/con/con03b-counter.txt	0.017689999999999984
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro01a-point.txt	0.169535
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro01b-counter.txt	0.04345500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro02a-point.txt	0.16366199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro02b-counter.txt	0.19459700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro03a-point.txt	0.076654
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro03b-counter.txt	0.08236900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro04a-point.txt	0.880478
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-youth-house-believes-age-consent-laws-should-be-made-more-liberal-lowered/pro/pro04b-counter.txt	0.919436

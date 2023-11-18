@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con01a-point.txt	0.27661800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con01b-counter.txt	0.769515
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con02a-point.txt	0.640587
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con02b-counter.txt	0.976607
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con03a-point.txt	0.773056
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con03b-counter.txt	0.620005
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con04a-point.txt	0.732193
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/con/con04b-counter.txt	0.950767
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro01a-point.txt	0.47050099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro01b-counter.txt	0.48104899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro02a-point.txt	0.34992599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro02b-counter.txt	0.571419
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro03a-point.txt	0.871075
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro03b-counter.txt	0.366016
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro04a-point.txt	0.912171
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/local-government-house-would-directly-elect-city-mayors/pro/pro04b-counter.txt	0.521318

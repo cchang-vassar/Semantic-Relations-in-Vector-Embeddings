@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con01a-point.txt	0.26168899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con01b-counter.txt	0.45953999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con02a-point.txt	0.19704299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con02b-counter.txt	0.365162
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con03a-point.txt	0.19417700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/con/con03b-counter.txt	0.105236
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro01a-point.txt	0.526338
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro01b-counter.txt	0.933163
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro02a-point.txt	0.845223
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro02b-counter.txt	0.29762900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro03a-point.txt	0.907905
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro03b-counter.txt	0.440905
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro04a-point.txt	0.47526999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro04b-counter.txt	0.43269
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro05a-point.txt	0.516971
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-introduce-restrictions-overseas-players-football/pro/pro05b-counter.txt	0.10869099999999998

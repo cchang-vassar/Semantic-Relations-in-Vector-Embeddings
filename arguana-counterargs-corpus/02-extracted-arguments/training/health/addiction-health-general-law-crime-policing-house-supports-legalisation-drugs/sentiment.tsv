@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con01a-point.txt	0.21286899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con01b-counter.txt	0.100889
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con02a-point.txt	0.559692
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con02b-counter.txt	0.19183399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con03a-point.txt	0.687978
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/con/con03b-counter.txt	0.420446
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro01a-point.txt	0.02513500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro01b-counter.txt	0.531097
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro02a-point.txt	0.43377600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro02b-counter.txt	0.27455799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro03a-point.txt	0.11463599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro03b-counter.txt	0.41010199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro04a-point.txt	0.721582
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro04b-counter.txt	0.803565
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro05a-point.txt	0.32335800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro05b-counter.txt	0.154072
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro06a-point.txt	0.17369800000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro06b-counter.txt	0.31104600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro07a-point.txt	0.02490199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-law-crime-policing-house-supports-legalisation-drugs/pro/pro07b-counter.txt	0.13410599999999995

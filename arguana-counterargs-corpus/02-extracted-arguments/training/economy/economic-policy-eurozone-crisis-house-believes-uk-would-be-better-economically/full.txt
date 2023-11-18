@@ -1,0 +1,158 @@
+# METADATA
+url	https://idebate.org/debatabase/economy-economic-policy-eurozone-crisis/house-believes-uk-would-be-better-economically
+published_time	2016-05-31T10:59:33+02:00
+modified_time	2017-03-20T15:59:39+01:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	33
+voting_con	67
+reads	13260
+
+
+# THESIS
+This House believes the UK would be better off economically outside the European Union
+
+
+# INTRO
+At the referendum on whether the UK should leave the European Union a key issue will be the economy. Many voters will ask themselves whether they personally will be better off if the UK stays in or leaves. The economy is quite possibly the most important area of debate in the referendum; trust in managing the economy is a key factor in elections, people are unlikely to vote for something if they think it will make them worse off. In this referendum 55% put it as one of the three most important factors influencing their decision. [1] As a result a main plank of the campaign to stay in the EU, Remain’s, agenda is to show the negative economic consequences of leaving. Vote Leave on the other hand seeks to undermine confidence in Remain’s forecasts, and point to the possible reductions in bureaucracy and wider ability to trade with the world beyond Europe.
+
+What is ‘better off’ in the context of a debate about Europe is a slippery concept. While there likely will be short term economic pain due to the unavoidable uncertainty should there be a vote to leave it is quite possible for the UK to be better off in the long term. And in the long term the economy will be bigger regardless of the vote, the question is how much bigger? Moreover the longer into the future the more inexact economic forecasts get. There are many unknowns; what will be the reaction of the remaining EU members, what trade deal will a departing UK get, will foreign investment really move to other European countries? Since no one knows the full answer to these or many other questions each side can simply give reasons for why their outcome is more likely.
+
+[1] Comres, ‘ITV News / Daily Mail EU Referendum Poll May 2016’, 19 May 2016, http://www.comres.co.uk/polls/itv-news-daily-mail-eu-referendum-poll-may-2016/
+
+
+# PRO01A-POINT
+Leaving would take back power to control the economy
+
+Voting to leave would take back the power over the British economy that the European Union currently has and give it back to the sovereign British Parliament. EU common fisheries and agriculture (CAP) policies control how many fish we can catch and what is commercially farmable. If the UK were to leave the British government would be once more able to shape an industrial policy; for example under EU rules it did not have the power to save Port Talbot as it is not allowed to provide subsidies to support the failing plant. [1]
+
+[1] Rankin, Jennifer, ‘EU sets tone as it cracks down on subsidies for struggling steelworks’, theguardian.com, 20 January 2016, https://www.theguardian.com/business/2016/jan/20/eu-cracks-down-subsidies-struggling-steelworks-belgium
+
+# PRO01B-COUNTER
+British government policy has been against state intervention in industry for decades. Rather since the Thatcher government the free market has been considered to know best and so companies or factories that make a loss should be allowed to go bust.
+
+# PRO02A-POINT
+We need to unshackle the economy
+
+The UK needs to unshackle the economy from the restrictions the EU places upon it. EU bureaucracy and red tape holds back Britain’s service industries. Regulations on employment rights, hiring, and firing restrict the supply of workers pushing up costs to businesses. To take one example Britain is facing a curry crisis; curry houses are closing due to an inability to secure skilled chefs from the Indian subcontinent. [1] Being able to set the UK’s own migration system would enable the UK to hire people with the skills we need.
+
+[1] Robinson, Nick, ‘Who will cook your Indian curry?’, BBC News, 26 May 2016, http://www.bbc.co.uk/news/uk-politics-eu-referendum-36378655
+
+# PRO02B-COUNTER
+The Brexit can’t have it both ways that it will both deregulate promoting the free market and enable an industrial policy that allows subsidies. In practice unshackling the economy means damaging workers’ rights that are protected by EU legislation of which the Working Time Directive is just the best known. Leaving would also damage just those sectors the Brexit side says it will help; finance needs access to Europe, as do many other creative industries.
+
+# PRO03A-POINT
+There will be £350 million more to spend a week
+
+Through leaving the EU Britain will no longer send £350million per week to Europe so can spend it at home. [1] Of course much of this sum comes back to the UK but the UK will gain greater control over how and where the money is spent. Thus for example some money comes back in the form of CAP. We would however be able to decide how this money is used on farming rather than being dictated to by the EU or take the money out of farming all together. Even taking in to account money that comes back to the UK, and the rebate, the UK still sends £120million per week to Europe. [2] Money which would be freed up to spend on helping the NHS or building more affordable houses upon leaving.
+
+[1] ‘A vote to remain is the riskier option’, Vote Leave, http://www.voteleavetakecontrol.org/balance_sheet
+
+[2] Ashworth-Hayes, Sam, ‘UK doesn’t sent EU £350m a week or £55m a day’, infacts.org, 25 February 2016, http://infacts.org/uk-doesnt-send-eu-350m-a-week-or-55m-a-day/
+
+# PRO03B-COUNTER
+Most of the claimed £350 million per week either is accounted for by the British rebate, £4.8billion in 2015 [1] – which never actually leaves the UK – or is money the EU spends in the UK. The £120 million remainder is however buys access to the EU’s market. Norway pays €340 million per year – about £63 million per week if it had a comparable population to the UK – to get access to the EU market but does not have any chance to influence that market. [2]
+
+[1] 94.4million per week, HM Treasury, ‘European Union Finances 2015: statement on the 2015 EU Budget and measures to counter fraud and financial mismanagement’, gov.uk, December 2015, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf#page=18
+
+[2] Solberg, Erna, ‘The ‘Norwegian model’ would be a poor alternative to EU membership for the UK’, LSE, 19th April 2013, http://blogs.lse.ac.uk/europpblog/2013/04/19/norwegian-model-poor-alternative-eu-uk-membership-eea-erna-solberg/
+
+# PRO04A-POINT
+A step away from a failing Eurozone
+
+The Euro is failing as has been demonstrated by the years’ long slow motion crisis involving Greece and other peripheral countries Ireland, Spain, and Portugal. The chancellor George Osborne has in the past said that a Eurozone recession is the biggest economic risk to the UK. [1] This is still true. The UK will be safer taking a step away from integration with Europe by leaving the EU.
+
+[1] Chan, Szu Ping, ‘Eurozone recession is biggest risk to UK, says George Osborne’, The Telegraph, 10 October 2014, http://www.telegraph.co.uk/finance/economics/11154749/Eurozone-recession-is-biggest-risk-to-UK-says-George-Osborne.html
+
+# PRO04B-COUNTER
+The UK is already insulated from the Euro crisis by not being a member of the Eurozone. With the pound sterling the UK is no more exposed in the EU than it would be outside of the EU. Finance is globally interconnected. Leaving the EU will make no difference to this. The UK has already negotiated, in 2015, a deal which ensures that the UK will not be liable for any bailouts in the Eurozone. [1] However Britain could cause such a Eurozone crisis, by leaving as the UK leaving would have an impact on the EU economies just as it would on the UK’s own.
+
+[1] BBC News, ‘UK ‘strikes deal’ over Greek bailout’, 16 July 2015, http://www.bbc.co.uk/news/uk-politics-33556085
+
+
+# CON01A-POINT
+Economic growth comes with closer integration with your neighbours
+
+Economic integration with neighbours is the best way to economic growth. Neighbouring countries are almost always the countries a nation trades most with; in the UK’s case the EU accounts for 44.6% of exports and 53.2% of imports. [1] It is therefore in the UK’s interest to increase integration to encourage this trade. Throughout the world the trend is towards regional integration rather than away from it with regional organisations from Mercosur in South America to ASEAN in South East Asia encouraging integration.
+
+[1] Office for National Statistics, ‘How important is the European Union to UK trade and investment?’, 26 June 2015, http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/international-transactions/outward-foreign-affiliates-statistics/how-important-is-the-european-union-to-uk-trade-and-investment-/sty-eu.html
+
+# CON01B-COUNTER
+Britain can have free trade without all the baggage of political decisions being made in Brussels. Just as the EU accounts for a high portion of UK trade so the UK is a high proportion of EU trade; around 16% of EU exports go to the UK, [1] so the EU would want to have a deal with the UK to allow this trade to continue.
+
+[1] Portes, J., ‘After Brexit: how important would UK trade be to the EU?’, National Institute of Economic and Social Research, 2 November 2015, http://www.niesr.ac.uk/blog/after-brexit-how-important-would-uk-trade-be-eu#.V0hbCr7iv7Y
+
+# CON02A-POINT
+Britain is needed to create a more business friendly Europe
+
+The UK is a leader among the countries in the EU that is in favour of greater deregulation, privatisation, and free trade. As such the UK has been a strong positive influence on the EU in favour of these things. In the same way the UK played a strong role in encouraging the EU’s expansion to create a bigger market. The UK needs to remain in the EU to ensure the organisation flourishes. Prime Minister Cameron’s deal with Europe prior to the referendum for example included a promise by the EU to engage in “lowering administrative burdens and compliance costs on economic operators, especially small and medium enterprises, and repealing unnecessary legislation” something that benefits not just the UK but the EU as a whole. [1]
+
+[1] Reuters, ‘Full text of EU's special status deal for Britain’, 19 February 2016, http://uk.reuters.com/article/uk-britain-eu-factbox-idUKKCN0VS2SH
+
+# CON02B-COUNTER
+There is no guarantee that the EU will actually implement anything in the agreement with David Cameron. The wording is clear enough but with no specifics about how or when the administrative burden will be lowered. Yes the UK may be fighting to create a more business friendly Europe but more important however is the way that the EU increases the regulatory burden on the UK. This regulatory burden can be much easier done away with by leaving the EU than by negotiating reductions with the rest of the Union.
+
+# CON03A-POINT
+Leaving will cause a shock to the British economy
+
+The UK leaving the EU would likely be damaging not just to the British economy but globally with the G7 saying it would be “a further serious risk to growth.” [1] The damage to the UK economy would come for several reasons. First there would be uncertainty about what comes next; no one is quite sure what kind of deal the UK will get with the EU, or what will happen to EU migrants in the UK. Additionally businesses that trade with the EU will have uncertainty over that trading relationship and the UK will be a less favourable investment prospect because it is no longer a bridge to 500milion EU consumers. The treasury has estimated that GDP will be lower by 6.2% by 2030 as a result so many people will be considerably worse off. [2]
+
+[1] Asthana, Anushka, ‘Brexit would pose ‘serious risk’ to global growth, say G7 leaders’, theguardian.co.uk, 27 May 2015, http://www.theguardian.com/politics/2016/may/27/brexit-would-pose-a-serious-risk-to-global-growth-say-g7-leaders
+
+[2] HM Treasury, ‘HM Treasury analysis shows leaving EU would cost British households £4,300 per year’, gov.uk, 18 April 2016, https://www.gov.uk/government/news/hm-treasury-analysis-shows-leaving-eu-would-cost-british-households-4300-per-year
+
+# CON03B-COUNTER
+While it is almost certain that there will be a brief short term shock caused by uncertainty no one knows for sure what will happen in the long term. A Britain that is out of Europe will be better able to run its economy to encourage growth so will likely do better than it does under the status quo.
+
+# CON04A-POINT
+Leaving may increase British unemployment
+
+Alongside this likely shock to the economy will most likely be a loss in jobs as a result in a loss in trade. Some big employers, such as many car makers, are located in the UK in large part as a result of the access to the EU market. It is estimated that three million UK jobs are linked to trade with the EU. [1] Estimates of the number of jobs lost vary considerably; the CBI has suggested 950,000 [2] while the Treasury thinks 500,000. [3] The number may turn out to be less but clearly a large number of livelihoods will be damaged.
+
+[1] Ashworth-Hayes, Sam, ‘Will 3 million jobs be lost if we quit EU?’, infacts.org, 15 March 2016, http://infacts.org/will-3-million-jobs-lost-quit-eu/
+
+[2] Kollewe, Julia, ‘ Brexit could cost £100bn and nearly 1m jobs, CBI warns’, theguardian.com, 21 March 2016, http://www.theguardian.com/politics/2016/mar/21/brexit-could-cost-100bn-and-nearly-1m-jobs-cbi-warns
+
+[3] HM Treasury, ‘Britain to enter recession with 500,000 UK jobs lost if it left EU, new Treasury analysis shows’, gov.uk, 23 May 2016, https://www.gov.uk/government/news/britain-to-enter-recession-with-500000-uk-jobs-lost-if-it-left-eu-new-treasury-analysis-shows
+
+# CON04B-COUNTER
+There is considerable churn in the jobs market already; with 3.7 million jobs lost a year already but simply being replaced by new jobs. [1] Leaving the EU would therefore make little difference.
+
+[1] Bourne, Ryan, ‘The EU Jobs Myth’, Institute of Economic Affairs, March 2015, http://www.iea.org.uk/sites/default/files/publications/files/Briefing_1502_The%20EU%20Jobs%20Myth_web.pdf p.9.
+
+
+# LITERATURE
+Ashworth-Hayes, Sam, ‘UK doesn’t sent EU £350m a week or £55m a day’, infacts.org, 25 February 2016, http://infacts.org/uk-doesnt-send-eu-350m-a-week-or-55m-a-day/
+
+Ashworth-Hayes, Sam, ‘Will 3 million jobs be lost if we quit EU?’, infacts.org, 15 March 2016, http://infacts.org/will-3-million-jobs-lost-quit-eu/
+
+Asthana, Anushka, ‘Brexit would pose ‘serious risk’ to global growth, say G7 leaders’, theguardian.co.uk, 27 May 2015, http://www.theguardian.com/politics/2016/may/27/brexit-would-pose-a-serious-risk-to-global-growth-say-g7-leaders
+
+BBC News, ‘UK ‘strikes deal’ over Greek bailout’, 16 July 2015, http://www.bbc.co.uk/news/uk-politics-33556085
+
+Bourne, Ryan, ‘The EU Jobs Myth’, Institute of Economic Affairs, March 2015, http://www.iea.org.uk/sites/default/files/publications/files/Briefing_1502_The%20EU%20Jobs%20Myth_web.pdf
+
+Chan, Szu Ping, ‘Eurozone recession is biggest risk to UK, says George Osborne’, The Telegraph, 10 October 2014, http://www.telegraph.co.uk/finance/economics/11154749/Eurozone-recession-is-biggest-risk-to-UK-says-George-Osborne.html
+
+Comres, ‘ITV News / Daily Mail EU Referendum Poll May 2016’, 19 May 2016, http://www.comres.co.uk/polls/itv-news-daily-mail-eu-referendum-poll-may-2016/
+
+HM Treasury, ‘HM Treasury analysis shows leaving EU would cost British households £4,300 per year’, gov.uk, 18 April 2016, https://www.gov.uk/government/news/hm-treasury-analysis-shows-leaving-eu-would-cost-british-households-4300-per-year
+
+HM Treasury, ‘Britain to enter recession with 500,000 UK jobs lost if it left EU, new Treasury analysis shows’, gov.uk, 23 May 2016, https://www.gov.uk/government/news/britain-to-enter-recession-with-500000-uk-jobs-lost-if-it-left-eu-new-treasury-analysis-shows
+
+HM Treasury, ‘European Union Finances 2015: statement on the 2015 EU Budget and measures to counter fraud and financial mismanagement’, gov.uk, December 2015, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf#page=18
+
+Kollewe, Julia, ‘ Brexit could cost £100bn and nearly 1m jobs, CBI warns’, theguardian.com, 21 March 2016, http://www.theguardian.com/politics/2016/mar/21/brexit-could-cost-100bn-and-nearly-1m-jobs-cbi-warns
+
+Office for National Statistics, ‘How important is the European Union to UK trade and investment?’, 26 June 2015, http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/international-transactions/outward-foreign-affiliates-statistics/how-important-is-the-european-union-to-uk-trade-and-investment-/sty-eu.html
+
+Portes, J., ‘After Brexit: how important would UK trade be to the EU?’, National Institute of Economic and Social Research, 2 November 2015, http://www.niesr.ac.uk/blog/after-brexit-how-important-would-uk-trade-be-eu#.V0hbCr7iv7Y
+
+Rankin, Jennifer, ‘EU sets tone as it cracks down on subsidies for struggling steelworks’, theguardian.com, 20 January 2016, https://www.theguardian.com/business/2016/jan/20/eu-cracks-down-subsidies-struggling-steelworks-belgium
+
+Reuters, ‘Full text of EU's special status deal for Britain’, 19 February 2016, http://uk.reuters.com/article/uk-britain-eu-factbox-idUKKCN0VS2SH
+
+Robinson, Nick, ‘Who will cook your Indian curry?’, BBC News, 26 May 2016, http://www.bbc.co.uk/news/uk-politics-eu-referendum-36378655
+
+Solberg, Erna, ‘The ‘Norwegian model’ would be a poor alternative to EU membership for the UK’, LSE, 19th April 2013, http://blogs.lse.ac.uk/europpblog/2013/04/19/norwegian-model-poor-alternative-eu-uk-membership-eea-erna-solberg/
+
+‘A vote to remain is the riskier option’, Vote Leave, http://www.voteleavetakecontrol.org/balance_sheet

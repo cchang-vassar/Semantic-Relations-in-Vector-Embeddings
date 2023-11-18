@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con01a-point.txt	0.509265
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con01b-counter.txt	0.850557
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con02a-point.txt	0.966415
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con02b-counter.txt	0.468542
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con03a-point.txt	0.630572
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/con/con03b-counter.txt	0.16280899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro01a-point.txt	0.765982
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro01b-counter.txt	0.28827800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro02a-point.txt	0.259517
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro02b-counter.txt	0.005901000000000045
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro03a-point.txt	0.733202
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro03b-counter.txt	0.763942
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro04a-point.txt	0.255653
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro04b-counter.txt	0.504777
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro05a-point.txt	0.15427100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/law-general-house-believes-attorney-client-privilege-should-be-abolished/pro/pro05b-counter.txt	0.21821599999999997

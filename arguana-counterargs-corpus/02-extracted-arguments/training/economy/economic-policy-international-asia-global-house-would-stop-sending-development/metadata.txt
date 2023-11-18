@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-economic-policy-international-asia-global/house-would-stop-sending-development
+published_time	2013-01-28T16:30:11+01:00
+modified_time	2017-04-18T12:32:08+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	8962

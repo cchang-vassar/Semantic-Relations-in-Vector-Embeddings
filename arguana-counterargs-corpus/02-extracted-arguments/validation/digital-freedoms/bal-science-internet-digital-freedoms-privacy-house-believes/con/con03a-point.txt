@@ -1,0 +1,5 @@
+Allows monitoring of foreign governments
+
+Governments expect to be monitored by other governments and do so themselves as well. Monitoring other governments provides major advantages even when those governments are ostensibly friendly as no government is going to tell even its allies everything there need to be other ways to learn such information. Surveillance can provide advantages in negotiations; it can let you know how far the other side is willing to go. GCHQ for example engaged in intercepting communications by monitoring phones and even setting up fake internet cafes during the G20 meetings in London in 2008. [1]
+
+[1] MacAskill, Ewen et al., ‘GCHQ intercepted foreign politicians’ communications at G20 summits’, The Guardian, 17 June 2013, http://www.theguardian.com/uk/2013/jun/16/gchq-intercepted-communications-g20-summits

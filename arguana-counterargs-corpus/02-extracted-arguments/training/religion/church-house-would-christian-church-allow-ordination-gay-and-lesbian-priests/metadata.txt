@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/religion-church/house-would-christian-church-allow-ordination-gay-and-lesbian-priests
+published_time	2012-02-21T17:28:22+01:00
+modified_time	2017-05-19T19:53:02+02:00
+crawled_time	Sun Feb 04 18:42:37 CET 2018
+voting_pro	0
+voting_con	100
+reads	12714

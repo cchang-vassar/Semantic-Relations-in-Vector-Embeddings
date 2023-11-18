@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con01a-point.txt	0.589932
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con01b-counter.txt	0.446743
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con02a-point.txt	0.536567
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con02b-counter.txt	0.796647
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con03a-point.txt	0.722215
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con03b-counter.txt	0.21453
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con04a-point.txt	0.05829099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/con/con04b-counter.txt	0.022716999999999987
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro01a-point.txt	0.91947
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro01b-counter.txt	0.791185
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro02a-point.txt	0.792916
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro02b-counter.txt	0.498494
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro03a-point.txt	0.945037
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro03b-counter.txt	0.30776400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro04a-point.txt	0.829883
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro04b-counter.txt	0.741629
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro05a-point.txt	0.12254100000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-employment-house-would-make-raising-business-and-labour-standards/pro/pro05b-counter.txt	0.931569

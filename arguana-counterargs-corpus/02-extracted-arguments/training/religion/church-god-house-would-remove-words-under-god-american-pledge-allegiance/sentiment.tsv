@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con01a-point.txt	0.061636000000000024
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con01b-counter.txt	0.029205999999999954
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con02a-point.txt	0.15796100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con02b-counter.txt	0.04273400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con03a-point.txt	0.34883299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con03b-counter.txt	0.009861000000000009
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con04a-point.txt	0.07943299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con04b-counter.txt	0.006616999999999984
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con05a-point.txt	0.541032
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/con/con05b-counter.txt	0.055285999999999946
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro01a-point.txt	0.06974100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro01b-counter.txt	0.013059000000000043
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro02a-point.txt	0.509542
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro02b-counter.txt	0.00740200000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro03a-point.txt	0.137714
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro03b-counter.txt	0.11189199999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro04a-point.txt	0.22689099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro04b-counter.txt	0.40965700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro05a-point.txt	0.506143
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-god-house-would-remove-words-under-god-american-pledge-allegiance/pro/pro05b-counter.txt	0.30961700000000003

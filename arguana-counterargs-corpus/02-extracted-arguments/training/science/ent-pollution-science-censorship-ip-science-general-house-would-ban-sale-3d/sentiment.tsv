@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con01a-point.txt	0.15563400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con01b-counter.txt	0.08149600000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con02a-point.txt	0.16033299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con02b-counter.txt	0.06689999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con03a-point.txt	0.09880199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con03b-counter.txt	0.40754500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con04a-point.txt	0.616397
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con04b-counter.txt	0.710588
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con05a-point.txt	0.18712799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/con/con05b-counter.txt	0.060335999999999945
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro01a-point.txt	0.050336999999999965
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro01b-counter.txt	0.874716
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro02a-point.txt	0.08859600000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro02b-counter.txt	0.600547
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro03a-point.txt	0.06368799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro03b-counter.txt	0.027976
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro04a-point.txt	0.254084
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro04b-counter.txt	0.113182
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro05a-point.txt	0.29542
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ent-pollution-science-censorship-ip-science-general-house-would-ban-sale-3d/pro/pro05b-counter.txt	0.12888500000000003

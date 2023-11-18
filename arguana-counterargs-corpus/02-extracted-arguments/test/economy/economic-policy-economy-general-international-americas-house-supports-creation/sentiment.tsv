@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con01a-point.txt	0.417339
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con01b-counter.txt	0.893765
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con02a-point.txt	0.516243
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con02b-counter.txt	0.668975
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con03a-point.txt	0.11451699999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con03b-counter.txt	0.14461100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con04a-point.txt	0.29396999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/con/con04b-counter.txt	0.807414
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro01a-point.txt	0.978008
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro01b-counter.txt	0.183948
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro02a-point.txt	0.44227700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro02b-counter.txt	0.44910300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro03a-point.txt	0.507339
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-economy-general-international-americas-house-supports-creation/pro/pro03b-counter.txt	0.14624800000000004

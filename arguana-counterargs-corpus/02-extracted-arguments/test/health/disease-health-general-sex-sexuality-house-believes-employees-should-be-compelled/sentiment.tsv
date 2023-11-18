@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con01a-point.txt	0.33251299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con01b-counter.txt	0.445847
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con02a-point.txt	0.13017500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con02b-counter.txt	0.09196400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con03a-point.txt	0.346576
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/con/con03b-counter.txt	0.909429
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro01a-point.txt	0.47078
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro01b-counter.txt	0.355066
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro02a-point.txt	0.677728
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro02b-counter.txt	0.8439
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro03a-point.txt	0.46029200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro03b-counter.txt	0.08287800000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro04a-point.txt	0.07312300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-sex-sexuality-house-believes-employees-should-be-compelled/pro/pro04b-counter.txt	0.695005

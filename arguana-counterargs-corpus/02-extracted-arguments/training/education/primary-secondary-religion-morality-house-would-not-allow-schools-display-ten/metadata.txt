@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-primary-secondary-religion-morality/house-would-not-allow-schools-display-ten
+published_time	2012-01-26T16:35:13+01:00
+modified_time	2012-10-01T15:36:25+02:00
+crawled_time	Sun Feb 04 18:42:27 CET 2018
+voting_pro	100
+voting_con	0
+reads	17726

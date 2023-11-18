@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con01a-point.txt	0.45719699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con01b-counter.txt	0.081368
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con02a-point.txt	0.548841
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con02b-counter.txt	0.14974200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con03a-point.txt	0.756524
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con03b-counter.txt	0.619556
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con04a-point.txt	0.27152299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con04b-counter.txt	0.03931300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con05a-point.txt	0.627973
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/con/con05b-counter.txt	0.14974200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro01a-point.txt	0.809267
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro01b-counter.txt	0.42348399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro02a-point.txt	0.13885999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro02b-counter.txt	0.22384499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro03a-point.txt	0.550843
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro03b-counter.txt	0.48148599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro04a-point.txt	0.706334
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro04b-counter.txt	0.788211
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro05a-point.txt	0.511086
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/-general-government-digital-freedoms-access-knowledge-house-would-force/pro/pro05b-counter.txt	0.149995

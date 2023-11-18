@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy/economy-finance/house-supports-chapter-11-bankruptcy-laws
+published_time	2012-02-17T17:09:51+01:00
+modified_time	2012-07-18T11:45:25+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	7108

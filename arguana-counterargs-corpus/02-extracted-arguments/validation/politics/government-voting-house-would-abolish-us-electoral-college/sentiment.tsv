@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con01a-point.txt	0.627219
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con01b-counter.txt	0.46272599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con02a-point.txt	0.994114
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con02b-counter.txt	0.06028100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con03a-point.txt	0.33861399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con03b-counter.txt	0.933301
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con04a-point.txt	0.874812
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con04b-counter.txt	0.872648
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con05a-point.txt	0.863576
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/con/con05b-counter.txt	0.935344
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro01a-point.txt	0.214495
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro01b-counter.txt	0.46581799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro02a-point.txt	0.110985
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro02b-counter.txt	0.665759
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro03a-point.txt	0.36756
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro03b-counter.txt	0.610582
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro04a-point.txt	0.608137
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro04b-counter.txt	0.16645200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro05a-point.txt	0.27684699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/government-voting-house-would-abolish-us-electoral-college/pro/pro05b-counter.txt	0.623605

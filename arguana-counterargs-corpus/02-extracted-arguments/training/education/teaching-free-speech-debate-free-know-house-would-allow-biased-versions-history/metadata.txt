@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-teaching-free-speech-debate-free-know/house-would-allow-biased-versions-history
+published_time	2012-11-14T11:59:51+01:00
+modified_time	2017-04-18T13:50:40+02:00
+crawled_time	Sun Feb 04 18:42:27 CET 2018
+voting_pro	50
+voting_con	50
+reads	53832

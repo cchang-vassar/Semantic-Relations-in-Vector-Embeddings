@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-human-rights-international-law-punishment-politics-warpeace/house-believes
+published_time	2013-09-04T18:30:25+02:00
+modified_time	2017-04-11T12:30:55+02:00
+crawled_time	Sun Feb 04 18:42:50 CET 2018
+voting_pro	50
+voting_con	50
+reads	11517

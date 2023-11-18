@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/culture-media-free-speech-debate-media-and-good-government/house-believes-rupert-murdoch
+published_time	2012-05-01T21:38:40+02:00
+modified_time	2017-04-20T13:58:50+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	13676

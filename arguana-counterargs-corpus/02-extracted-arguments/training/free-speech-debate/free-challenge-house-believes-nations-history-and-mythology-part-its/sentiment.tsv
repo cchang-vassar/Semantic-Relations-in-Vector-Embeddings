@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con01a-point.txt	0.41234000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con01b-counter.txt	0.54665
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con02a-point.txt	0.600541
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con02b-counter.txt	0.35787899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con03a-point.txt	0.456985
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/con/con03b-counter.txt	0.186191
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro01a-point.txt	0.519198
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro01b-counter.txt	0.21627700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro02a-point.txt	0.414593
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro02b-counter.txt	0.462572
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro03a-point.txt	0.541087
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/free-challenge-house-believes-nations-history-and-mythology-part-its/pro/pro03b-counter.txt	0.08280399999999999

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con01a-point.txt	0.010843999999999965
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con01b-counter.txt	0.005421000000000009
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con02a-point.txt	0.11722200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con02b-counter.txt	0.048344000000000054
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con03a-point.txt	0.06752100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/con/con03b-counter.txt	0.156856
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro01a-point.txt	0.48975199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro01b-counter.txt	0.32065200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro02a-point.txt	0.39937900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro02b-counter.txt	0.867829
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro03a-point.txt	0.203364
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro03b-counter.txt	0.853001
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro04a-point.txt	0.699351
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro04b-counter.txt	0.015719999999999956
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro05a-point.txt	0.040152999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro05b-counter.txt	0.10204000000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro06a-point.txt	0.665904
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro06b-counter.txt	0.053220000000000045
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro07a-point.txt	0.036197000000000035
+data/corpus-counterarguments-18/02-extracted-arguments/test/religion/y-epistemology-religion-church-faith-religion-general-god-morality-secularism/pro/pro07b-counter.txt	0.969681

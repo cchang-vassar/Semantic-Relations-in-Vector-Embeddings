@@ -1,0 +1,128 @@
+# METADATA
+url	https://idebate.org/debatabase/education-education-general-secondary-crime-policing/house-supports-random-drug-testing
+published_time	2012-03-02T17:10:00+01:00
+modified_time	2017-04-26T12:12:46+02:00
+crawled_time	Sun Feb 04 18:43:02 CET 2018
+voting_pro	100
+voting_con	0
+reads	86821
+
+
+# THESIS
+This House supports random drug-testing in schools
+
+
+# INTRO
+In a landmark ruling, the US Supreme Court ruled 6-3 in Vernonia School District v. Acton that schools could randomly test student athletes for drug use, after a student, James Acton, was banned from trialling for his school football team without consenting to a test [1] . The legal battle for the school’s right to drug-test has gained and lost ground for many years in the USA; in 1998 the United States Court of Appeals for the Seventh Circuit in Todd v. Rush County Schools upheld an Indiana school board program that banned students from participation in extracurricular activities without first passing a random drugs test. This was however later struck down as being against state constitutional law. [2] And in 2001 the Tenth Circuit in Willis v. Anderson Community School Corporation ruled that tests imposed unreasonable searches upon students in violation of Fourth Amendment rights against unreasonable searches and seizures. [3]
+
+A study conducted in the United Kingdom in 2004 by the Independent Inquiry into Drug Testing at Work found that attempts by employers to force employees to take drug tests could potentially be challenged as a violation of privacy under the UK Human Rights Act and Article 8 of the European Convention of Human Rights. [4]
+
+This debate should focus on society’s desire to combat what it perceives as a growing drug abuse problem, pitted against children and families’ right to privacy. Tests can be conducted on urine, hair, breath or occasionally blood.
+
+[1] Vernonia Sch. Dist. 47J v. Acton (94-590), 515 U.S. 646, 26 June 1995, Cornell University Law School, http://www.law.cornell.edu/supct/html/94-590.ZO.html
+
+[2] Wilgoren, Jodi, ‘Court Rulings Signal a Shift on Random Drug Tests in Schools’, The New York Times, 25 March 2001, http://www.nytimes.com/2001/03/25/us/court-rulings-signal-a-shift-on-random-drug-tests-in-schools.html?pagewanted=all&amp;src=pm
+
+[3] Phelps, Shirelle, and Cengage, Gale, ‘Drug Testing’, Encyclopedia of Everyday Law, 2006, http://www.enotes.com/education-reference/drug-testing
+
+[4] Evans, Ruth et al., ‘Drug testing in the workplace’, Joseph Rowntree Foundation, 2004, http://www.jrf.org.uk/sites/files/jrf/185935212x.pdf
+
+
+# PRO01A-POINT
+Prevent drug use
+
+There is a clear and present problem with drug use among children and teenagers in many countries. According to the UK Department of Health, in 2002-2003 38% of 15 year olds had used illegal drugs, as had 8% of 11 year olds [1] . The fact that all of these children would have been in schools at the age of 15 shows that current policies of targeting the supply train of drugs (for example by arresting drug dealers and intercepting drug shipments) is failing to protect children. Therefore a more direct approach that intervenes at the point of consumption is needed, most crucially for children and teenagers, as their years in education are crucial for both their personal development and their realization of their future education and employment potential.
+
+Drug use at a young age may lead to lifelong use and addiction. Random drug testing in schools will allow for vulnerable children's drug problems to be discovered, and assist the state in getting them the help they need to get off drugs. Random testing is especially valuable in this scenario because many infant and teenage drug users will try to disguise their drug use from parents and teachers and so avoid detection through avoiding suspicion, a tactic which will prove of no use against random drug tests which will likely affect all students at one point or another. It should also deter many students from starting taking drugs in the first place as the prospect of them being caught becomes far more likely, as they know disguising their drug use will be of no use.
+
+[1] Department of Health. “Statistics on young people and drug misuse: England, 2003”. http://www.dh.gov.uk/en/Publicationsandstatistics/Statistics/Statistical...
+
+# PRO01B-COUNTER
+Drug users' decisions are influenced by an irrational desire to fulfil the chemical need they feel (to get their 'high'). As a consequence many drug users in schools will simply look for ways to evade drug testing regimes that are put in place. This is a problem as drug testing is most likely to catch cannabis users (the most widely-used drug among teenagers) [1] , as cannabis endures longer in the body than other more dangerous drugs such as heroin and cocaine. This can potentially lead would-be cannabis users to switch to these harder drugs, most of which generally have significantly shorter detection times and/or are less likely to be tested for. [2] This harm clearly outweighs the benefits of catching or deterring a few more cannabis users.
+
+[1] Department of Health. “Statistics on young people and drug misuse: England, 2003”. http://www.dh.gov.uk/en/Publicationsandstatistics/Statistics/Statistical...
+
+[2] Rosenbaum, Marsha. “Safety First: A Reality-Based Approach to Teens and Drugs”. Drug Policy Alliance. January 1, 2007
+
+# PRO02A-POINT
+School's duty of care
+
+Peer pressure drives most drug use among children and teenagers. [1] The fact that the state requires all children to be engaged in education means that most of them will be gathered into large groups in schools for most of the day, five days a week, essentially creating the necessary conditions for peer pressure to take place and be powerful. This occurs as some children face ostracism or exclusion from their peers in the social environment that the state compels them to be in if they refuse to take illegal drugs, if drug use is deemed necessary to be 'cool' or 'popular'.
+
+It is, generally, the state that operates a western liberal democracy’s education system. Under circumstances in which children are placed into the care of the state, and are made vulnerable to peer pressure the state has a duty to ensure that children are not coerced into using drugs. This means that concerns of 'privacy' are secondary to protecting the choice not to take drugs, as ensuring the 'privacy' of all students by not having random drug tests empowers some students to socially coerce other students into using drugs when they otherwise would not.
+
+Random drug tests help prevent cultures or norms of drug-taking (by which it can become the 'cool' thing to do) by ensuring that most drug users will be caught and helped to quit, thus protecting the choice of others not to be pressured into drug use.
+
+[1] Rosenbaum, Marsha. “Safety First: A Reality-Based Approach to Teens and Drugs”. Drug Policy Alliance. January 1, 2007
+
+# PRO02B-COUNTER
+None of these benefits apply if the peer pressure simply switches to harder drugs which are harder to test for or less likely to be tested for.
+
+Moreover, peer pressure can exist outside of schools, and amongst older teenagers who have the choice to vary their attendance of sixth forms, FE colleges or senior high schools. Random drug testing could lead to older children being pressured to cut classes for prolonged periods of time, in order to take drugs, in order to be thought of as cool.
+
+Teenagers are also notorious for believing that “nothing bad can happen to me”, even if that bad thing becomes more likely (such as being caught with a random drugs test). This is demonstrated by the fact that many teenagers already engage in illegal drug use despite the reasonably high chances that an adult will see them using drugs, smell smoke or notice the drug's effects on them in the status quo. [1]
+
+[1] Grim, Ryan. “Blowing Smoke: Why random drug testing doesn't reduce student drug use”. Slate. March 21, 2006. http://www.slate.com/articles/health_and_science/science/2006/03/blowing_smoke.html
+
+# PRO03A-POINT
+No harm to non-drug users
+
+Random drug tests will pose no harm to students who do not use illegal drugs, as they have nothing to fear from this fact being certified. If anything it serves as a vindication of their law-abidance and good character.
+
+Random drug tests will only catch those who are actively taking drugs, as tests can be used which are unlikely to make a 'positive' reading from secondary exposure (for example, being near someone else smoking cannabis).
+
+Those actively taking drugs need help in getting off drugs far more urgently than they need their right to 'privacy', as addiction at a young age could have a significant negative impact upon the remainder of their time in education. Therefore, non-drug users have nothing to fear from testing. As a result random checks are in the best interests of drug users.
+
+# PRO03B-COUNTER
+Students who do not use illegal drugs do have something to fear - the violation of privacy and loss of dignity caused by random drug tests. They may well feel that they are being treated as under suspicion with no evidence or cause, and resent this imposition upon their privacy. Indeed, the indignity of drugs testing may compel children who are already in a position of vulnerability as a result of social marginalisation or personal or family problems to drop out of school entirely.
+
+
+# CON01A-POINT
+Right to privacy
+
+Even if a right to privacy (which would prevent random drug testing with no reason for suspicion) does not exist in law in every country, many students being affected by drugs tests will perceive that the notional right to privacy which they believe they possess is being violated. Because they would perceive this violation as a harm, it should not be imposed without good reason. This problematizes the nature of 'random' testing, which by definition means forcing drug tests on individuals on whom there is no reasonable suspicion of drug use.
+
+Firstly, the majority of those being tested will most likely test negative (as the previously cited statistics suggest) and so a majority will be harmed for no fault of their own, but rather as a consequence of the crimes of others. This may be seen as the equivalent of searching all homes in a neighbourhood for an illegal weapon on the suspicion that one of them was hiding it -an action which would be illegal in almost every western liberal democracy.
+
+Further, however, even if students do engage in illegal drug use, random drug tests will additionally catch only those on whom there was previously no suspicion against (as students who show signs of drug use are already usually tested). In order to not already be under suspicion, these drug-using students would have to be engaging in their education, not disrupting the education of others, and not displaying erratic or harmful behaviour. As they are not actively harming others, these students should be subject only to the same standards as individuals in other areas of society: to only have their privacy violated by drugs tests if their behaviour actively brings them under suspicion.
+
+# CON01B-COUNTER
+The students in question may not realize the long-term harms of drug use or fully understand the risks of addiction, and as they are not yet fully adult and responsible for themselves, the state has the right to ensure that they do not exercise their 'right to privacy' in a way that could be harmful to them.
+
+# CON02A-POINT
+Keeping teenagers in education
+
+Studies in Michigan in the USA have found that random drug tests in schools do not deter drug use, as schools with and without random tests have similar levels of drug use among their pupils. [1]
+
+It seems unlikely that random drug tests will, in fact, deter students from taking drugs. What such tests will result in, however, is a greater number of exclusions and disciplinary actions resulting from catching student drug users, which as the studies have shown has no guarantee of lowering drug use overall.
+
+Faced with a situation of continuing to be caught and reprimanded for drug use in school due to random drug tests, many older teenagers who reach the age whereby they may choose to leave school may choose to do so in greater numbers. This may well be compounded by an adolescent desire to rebel and reject authority when it tries to prevent them doing what they want, and so a greater number of teenage students may drop out of school so as to allow themselves to continue doing what they want more easily – that is, taking drugs. Leaving school at such an age for no other reason than to pursue a drug-using lifestyle is almost certainly more harmful than the worst-case alternative, whereby they at least remain in education even if they continue to use illegal drugs, comparatively improving their future career and education choices. Simply driving teenagers out of education with random drug tests benefits no-one.
+
+[1] Grim, Ryan. “Blowing Smoke: Why random drug testing doesn't reduce student drug use”. Slate. March 21, 2006. http://www.slate.com/articles/health_and_science/science/2006/03/blowing_smoke.html
+
+# CON02B-COUNTER
+Using random drug tests would mean that a greater number of teenage drug users would be caught and put into drug rehabilitation programs, which would surely help at least some of them. The school's duty of care means that they must at least be given this chance to give up drugs, even if they refuse it, as opposed to simply allowing them to keep using, which will most likely disrupt their education severely anyway.
+
+# CON03A-POINT
+Safeguarding the teacher-student relationship
+
+Random drug tests change the student-teacher relationship from one of trust into one of suspicion, whereby the teachers and the school establishment become a body which many students will perceive as being out to catch them, and suspicious of all. The destruction of this trust makes it far harder for teachers to impart useful information on illegal drugs and the consequences of their use to students, and students may be less willing to seek teachers out on this information. This would lead to students relying increasingly on their peers and the internet for information on illegal drugs, and this information is far more likely to be of questionable policy or influenced by notions of drug use as 'cool' or glamorous. Thus schools' anti-drugs message may be harmed by random drug tests.
+
+# CON03B-COUNTER
+Random drug tests may actually help remove mistrust between teachers and students. Individual suspicion will no longer be the cause of drug tests for students, but rather these tests will be something al students will face at one time or another. This means students may actually feel freer to approach their teachers, and they may feel the need to more keenly, as they know they may be tested at any time.
+
+
+# LITERATURE
+Department of Health. “Statistics on young people and drug misuse: England, 2003”. http://www.dh.gov.uk/en/Publicationsandstatistics/Statistics/Statistical... ;
+
+Rosenbaum, Marsha. “Safety First: A Reality-Based Approach to Teens and Drugs”. Drug Policy Alliance. January 1, 2007 ;
+
+Grim, Ryan. “Blowing Smoke: Why random drug testing doesn't reduce student drug use”. Slate. March 21, 2006. http://www.slate.com/articles/health_and_science/science/2006/03/blowing_smoke.html
+
+Vernonia Sch. Dist. 47J v. Acton (94-590), 515 U.S. 646, 26 June 1995, Cornell University Law School, http://www.law.cornell.edu/supct/html/94-590.ZO.html
+
+Wilgoren, Jodi, ‘Court Rulings Signal a Shift on Random Drug Tests in Schools’, The New York Times, 25 March 2001, http://www.nytimes.com/2001/03/25/us/court-rulings-signal-a-shift-on-random-drug-tests-in-schools.html?pagewanted=all&amp;src=pm
+
+Phelps, Shirelle, and Cengage, Gale, ‘Drug Testing’, Encyclopedia of Everyday Law, 2006, http://www.enotes.com/education-reference/drug-testing
+
+Evans, Ruth et al., ‘Drug testing in the workplace’, Joseph Rowntree Foundation, 2004, http://www.jrf.org.uk/sites/files/jrf/185935212x.pdf

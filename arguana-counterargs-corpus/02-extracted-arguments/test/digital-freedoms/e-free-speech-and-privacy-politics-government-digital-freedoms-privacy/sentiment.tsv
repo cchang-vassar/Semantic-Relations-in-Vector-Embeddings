@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con01a-point.txt	0.36147799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con01b-counter.txt	0.611223
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con02a-point.txt	0.522705
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con02b-counter.txt	0.682796
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con03a-point.txt	0.734136
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con03b-counter.txt	0.328851
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con04a-point.txt	0.12633000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con04b-counter.txt	0.19925400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con05a-point.txt	0.799019
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/con/con05b-counter.txt	0.974057
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro01a-point.txt	0.08660800000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro01b-counter.txt	0.39945299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro02a-point.txt	0.547027
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro02b-counter.txt	0.40161899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro03a-point.txt	0.889326
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro03b-counter.txt	0.782014
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro04a-point.txt	0.797518
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/e-free-speech-and-privacy-politics-government-digital-freedoms-privacy/pro/pro04b-counter.txt	0.859657

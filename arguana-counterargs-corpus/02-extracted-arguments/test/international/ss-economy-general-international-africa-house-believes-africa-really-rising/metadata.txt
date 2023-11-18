@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-business-economy-general-international-africa/house-believes-africa-really-rising
+published_time	2013-12-02T17:52:55+01:00
+modified_time	2017-04-10T12:21:05+02:00
+crawled_time	Sun Feb 04 18:43:11 CET 2018
+voting_pro	50
+voting_con	50
+reads	8494

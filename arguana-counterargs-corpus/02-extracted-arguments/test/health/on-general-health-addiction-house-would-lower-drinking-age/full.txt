@@ -1,0 +1,43 @@
+# METADATA
+url	https://idebate.org/debatabase/education-general-health-addiction/house-would-lower-drinking-age
+published_time	2012-02-17T17:00:54+01:00
+modified_time	2013-02-25T12:15:51+01:00
+crawled_time	Sun Feb 04 18:42:59 CET 2018
+voting_pro	100
+voting_con	0
+reads	120997
+
+
+# THESIS
+This House Would Lower The Drinking Age
+
+
+# INTRO
+Alcohol has been part of the culture of recreation for thousands of years, It is also a dangerous substance. As such, almost all countries place an age restriction on it. The few exceptions where there is no minimum drinking age include Albania, Vietnam and Cambodia [1] . While the US and UK have comparatively high drinking ages of 21 and 18 respectively [2] , some European countries allow drinking at a younger age; usually around 16 (at least for beer, if not for spirits) [3] . The purpose of a minimum drinking age is to act as a deterrent from drinking alcohol, as young people face legal punishment if they break the law by drinking underage. Supposedly, this deterrent helps to preserve the overall health and safety of young people until they reach an age where they are considered responsible enough to regulate their own drinking. However, underage drinking remains a problem. The law is often difficult to enforce if people drink in their own homes, rather than in a public place. Though establishments such as bars or supermarkets often have a policy to ask for identification when selling alcohol [4] in the UK, levels of sales to minors are still not considered to be low enough [5] . So far, the minimum drinking age in the UK and the US [6] has failed to stop some minors from obtaining alcohol.
+
+The mechanism for this debate is simple: passing a law to change the legal drinking age. For the US, this could be changing from 21 to 18; for the UK, from 18 to 16; for other European countries, considering that 18 is now a common drinking age, 16 would also be suitable here. In any of these particular settings, the principle arguments remain the same.
+
+The proposition might also choose to tie in extra conditions to the mechanism, for example raising tax on harder forms of alcohol like spirits, or on youth-targeted alcoholic drinks like alcopops, to deter excessive drinking by young people after the law is passed. Studies have also found that higher taxes on alcohol can noticeably reduce the number of accidents and violent incidents [7] . Another mechanism tie-in would be to state that tax money gained from the sale of alcohol to young people who can now legally drink will be funded back into educational schemes to promote responsible drinking, or in worst case to cover the costs of medical treatment or criminal damage committed. It may be useful to point out the analogy to smoking. Though smoking results in a lot of medical conditions (and a hefty economic strain on the NHS in the UK), the tax money from cigarettes ‘more than pays for’ the cost of healthcare for people who get cancer from smoking [8] .
+
+[1] International Center for Alcohol Policies, 2010,
+http://www.icap.org/Table/MinimumAgeLimitsWorldwide
+
+[2] International Center for Alcohol Policies, 2010, http://www.icap.org/Table/MinimumAgeLimitsWorldwide
+
+[3] International Center for Alcohol Policies, 2010, http://www.icap.org/Table/MinimumAgeLimitsWorldwide
+
+[4] WSTA, http://www.wsta.co.uk/challenge-25.html
+
+[5] WSTA, http://www.wsta.co.uk/challenge-25.html
+
+[6] CDC, 2010, http://www.cdc.gov/alcohol/fact-sheets/underage-drinking.htm
+
+[7] IAS, 2008, http://www.ias.org.uk/resources/factsheets/tax.pdf
+
+[8] ASH, 1997, http://www.ash.org.uk/media-room/press-releases/ash-welcomes-cigarette-tax-hike
+
+
+
+
+# LITERATURE
+ASH, ‘ASH Welcomes Cigarette Tax Hike’, Action on Smoking and Health, 2 July 1997, http://www.ash.org.uk/media-room/press-releases/ash-welcomes-cigarette-tax-hike , accessed 03/08/11CDC, ‘Alcohol and Public Health Fact Sheets, Underage Drinking’, Centers for Disease Control and Prevention, 2010, http://www.cdc.gov/alcohol/fact-sheets/underage-drinking.htm , accessed 01/08/11Fraser, Christian, ‘Attitudes to alcohol in Europe: Italy’, 13 November 2007, http://news.bbc.co.uk/1/hi/uk/7093143.stm#italy , accessed 03/08/11IAS, ‘Alcohol: Tax, Price and Public Health, Institute of Alcohol Studies, 13 March 2008, http://www.ias.org.uk/resources/factsheets/tax.pdf , accessed 03/08/11International Center for Alcohol Policies, 2010, http://www.icap.org/Table/MinimumAgeLimitsWorldwide , accessed 01/08/11Medic8, ‘Young people and marijuana’, medic8.com, http://www.medic8.com/healthguide/marijuana/young-people-and-marijuana.html , accessed 01/08/11Medline Plus, ‘Underage Drinking’, http://www.nlm.nih.gov/medlineplus/underagedrinking.html , accessed 01/08/11National Drug Prevention Alliance, http://drugprevent.org.uk/ppp/2009/08/milan-italy-enacting-ordinance-to-curb-underage-drinkingmilan-italy-enacting-ordinance-to-curb-underage-drinking/ , accessed 03/08/11NIAAA, ‘Underage Drinking why do adolescents drink, what are the risks and how can underage drinking be prevented, Alcohol Alert, January 2006, No.67, http://pubs.niaaa.nih.gov/publications/AA67/AA67.htm , accessed 01/08/11ScienceDaily, ‘UK Teen Binge Drinking Is Serious And Chronic, Study Suggests’, 2 April 2009, http://www.sciencedaily.com/releases/2009/04/090401102944.htm , accessed 01/08/11WSTA, ‘Challenge 25’ retail strategy in the UK, The Wine and Spirit Trade Association, http://www.wsta.co.uk/challenge-25.html , accessed 01/08/11

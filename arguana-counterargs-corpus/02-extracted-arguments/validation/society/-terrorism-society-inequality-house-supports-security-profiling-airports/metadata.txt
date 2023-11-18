@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-terrorism-society-inequality/house-supports-security-profiling-airports
+published_time	2012-02-20T16:02:20+01:00
+modified_time	2017-05-24T19:41:06+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	0
+voting_con	100
+reads	15769

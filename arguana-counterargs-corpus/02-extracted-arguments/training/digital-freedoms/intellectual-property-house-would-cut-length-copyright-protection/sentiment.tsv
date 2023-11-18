@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con01a-point.txt	0.486086
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con01b-counter.txt	0.178682
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con02a-point.txt	0.852171
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con02b-counter.txt	0.667445
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con03a-point.txt	0.11462000000000006
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con03b-counter.txt	0.19259800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con04a-point.txt	0.23530600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/con/con04b-counter.txt	0.556934
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro01a-point.txt	0.07091499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro01b-counter.txt	0.567783
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro02a-point.txt	0.15242199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro02b-counter.txt	0.13278999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro03a-point.txt	0.045736
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro03b-counter.txt	0.511603
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro04a-point.txt	0.413172
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/intellectual-property-house-would-cut-length-copyright-protection/pro/pro04b-counter.txt	0.41514700000000004

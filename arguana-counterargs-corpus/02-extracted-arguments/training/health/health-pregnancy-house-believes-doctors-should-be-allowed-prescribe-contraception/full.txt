@@ -1,0 +1,43 @@
+# METADATA
+url	https://idebate.org/debatabase/health/health-pregnancy/house-believes-doctors-should-be-allowed-prescribe-contraception
+published_time	2012-02-17T13:48:13+01:00
+modified_time	2013-02-25T12:44:01+01:00
+crawled_time	Sun Feb 04 18:42:21 CET 2018
+voting_pro	0
+voting_con	100
+reads	23258
+
+
+# THESIS
+This House believes that doctors should be allowed to prescribe contraception for under-age girls
+
+
+# INTRO
+Teenage pregnancy rates are on the rise, and contraceptives are often hailed as the underlying cause. However, few people agree on why contraceptives might be causing an increase in pregnancy rates. Some believe that a lack of contraceptives has led to more unprotected sex among young girls who choose to take that risk [1] ; others claim that the availability of contraceptives encourages young girls to underestimate the emotional and physical impact of having sex at a young age [2] . It is very difficult to reach an absolute conclusion either way because of the difficulties of gathering data about whether underage girls have engaged in sexual activity. They may refuse to tell, or falsely say that they have been sexually active as a result of peer pressure to have sex [3] .
+
+A high teenage pregnancy rate damages to the girls’ career or life prospects, and for society it often creates a financial and social burden to support the children and young mothers [4] . While doctors are bound by the principles of medical ethics to aid their patients as far as possible [5] , providing contraceptives to under-age girls can be seen as undermining the purpose of the law against under-age intercourse because it provides a ‘safe’ way for them to break that law. It can also put doctors in an uncomfortable position if they feel that the girl will have intercourse without contraception if they refuse to prescribe it, at which point they may feel that they are failing to help the patient to avoid physical and mental health issues which could potentially result from unprotected sex.
+
+The mechanism for this debate is that doctors should be able to prescribe contraception to young girls, even if they have not yet reached the legal age of consent, as long as they satisfy certain conditions already laid out by medical authorities such as the British Medical Association. In this case, under the rules for informed consent, the patient must be ‘aware of’ and have ‘genuinely understood the hazards and benefits of various methods of contraception.’ [6] Doctors must also ‘make sure that patients are able to use the chosen method properly and can recognise and cope with side effects.’ [7] This mechanism does not impose an absolute limit to contraceptive prescriptions based on age, but rather assesses each patient as an individual to ascertain whether that personally are ready for a sexual relationship. This upholds medical ethics in that the doctor’s concern should be ‘the welfare of the patient concerned’ [8] – basing individual prescriptions on individual need – rather than imposing a uniform age restriction.
+
+[1] Accessed from
+http://reproductiverights.org/en/document/parental-consent-and-notice-for-contraceptives-threatens-teen-health-and-constitutional-rig on 16/09/11
+
+[2] The Telegraph. ‘Sex education failing to halt teen pregnancy.’ Published 30/12/2007. Accessed from http://www.telegraph.co.uk/news/uknews/1574043/Sex-education-failing-to-halt-teen-pregnancy.html on 16/09/11.
+
+[3] Accessed from http://www.msnbc.msn.com/id/6867362/t/sex-peer-pressure/ on 16/09/11.
+
+[4] Accessed from http://www.msnbc.msn.com/id/35448556/ns/us_news-the_elkhart_project/t/baby-changes-everything-true-cost-teen-pregnancys-uptick/ on 16/09/11
+
+[5] BBC. ‘Medical Ethics and Contraception.’ Accessed from http://www.bbc.co.uk/ethics/contraception/ethics_contraception_1.shtml on 16/09/11.
+
+[6] BBC. ‘Medical Ethics and Contraception’. Accessed from http://www.bbc.co.uk/ethics/contraception/ethics_contraception_1.shtml on 16/09/11.
+
+[7] BBC. ‘Medical Ethics and Contraception’. Accessed from http://www.bbc.co.uk/ethics/contraception/ethics_contraception_1.shtml on 16/09/11
+
+[8] BBC. ‘Medical Ethics and Contraception’. Accessed from http://www.bbc.co.uk/ethics/contraception/ethics_contraception_1.shtml on 16/09/11.
+
+
+
+
+# LITERATURE
+Army. (n.d.). Join us. Retrieved August 1, 2011, from Army (U.K): http://www.army.mod.uk/armoured/regiments/5417.aspx Avert. (n.d.). Worldwide Ages of Consent. Retrieved August 1, 2011, from Averting HIV and AIDS: http://www.avert.org/age-of-consent.htm BBC News. (2005, May 27). Teen pregnancy: Why are rates rising? Retrieved August 1, 2011, from BBC News: http://news.bbc.co.uk/1/hi/uk/4584175.stm CBS News. (2009, February 11). Teen sex may take emotional toll. Retrieved August 1, 2011, from CBS News: http://www.cbsnews.com/stories/2007/02/06/health/webmd/main2440089.shtml CDC. (2011, July 21). Teen Births. Retrieved August 1, 2011, from Centers for Disease Control and Prevention: http://www.cdc.gov/nchs/fastats/teenbrth.htm Center for Science in the Public Interest. (2008, December). Enforcing Underage Drinking Laws. Retrieved August 1, 2011, from Center for Science in the Public Interest: http://www.cspinet.org/booze/enforcing.htm Family Doctor. (2010, November). Puberty: What to expect when your child goes through puberty. Retrieved August 1, 2011, from Family Doctor: http://familydoctor.org/online/famdocen/home/children/parents/parents-te... Family Violence Prevention Fund. (2009). The Facts on Teens and Dating Violence. Retrieved August 1, 2011, from Family Violence Protection Fund: http://www.futureswithoutviolence.org/userfiles/file/Teens/teens_facts.pdf Hobart, P. (n.d.). Self Defense Law and the Martial Artist. Retrieved August 1, 2011, from Ittendojo: http://www.ittendojo.org/articles/general-4.htm Lawlor, D. A., &amp; Shaw, M. (2004, March). Teenage pregnancy rates: high compared with where and when? Retrieved August 1, 2011, from Journal of the Royal Society of Medicine: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1079321/ Military Advice. (n.d.). Joining US Army. Retrieved August 1, 2011, from Military Advice: http://www.militaryadvice.org/joining-us-army/joining-us-army.html Nebot, M., Borrell, C., &amp; Villalbf, J. R. (1997). Adolescent motherhood and socioeconomic factors. European Journal of Public Health, 144-148.NHS Choices. (2009, October 13). Contraception: What's right for me? Retrieved August 1, 2011, from NHS Choices: http://www.nhs.uk/Livewell/Contraception/Pages/Whichmethodsuitsme.aspx NHS Choices. (2009, October 6). Peer pressure. Retrieved August 1, 2011, from NHS Choices: http://www.nhs.uk/Livewell/Sexandyoungpeople/Pages/Peerpressure.aspx NHS Choices. (2010, January 4). How effective is contraception at preventing pregnancy? Retrieved August 1, 2011, from NHS Choices: http://www.nhs.uk/chq/Pages/825.aspx?CategoryID=117&amp;SubCategoryID=114 NHS Choices. (2011, July 13). What services do family planning clinics provide? Retrieved August 1, 2011, from NHS Choices: http://www.nhs.uk/chq/Pages/839.aspx?CategoryID=54&amp;SubCategoryID=128 NHS Local. (n.d.). Conditions. Retrieved August 1, 2011, from NHS Local: http://nhslocal.nhs.uk/my-health/conditions/c/combined-contraceptive-pil... Parliament . (n.d.). The law of marriage. Retrieved August 1, 2011, from Parliament (U.K.): http://www.parliament.uk/about/living-heritage/transformingsociety/priva... Stanford. (n.d.). What are the basic principles of medical ethics? Retrieved August 1, 2011, from Stanford: http://www.stanford.edu/class/siw198q/websites/reprotech/New%20Ways%20of... Starkman, N., &amp; Rajani, N. (2004). The Case for Comprehensive Sex Education. AIDS Patient Care and STDs, 313-318.The National Campaign. (n.d.). Counting It Up: The Public Costs of Teen Childbearing. Retrieved August 1, 2011, from The National Campaign to Prevent Teen and Unplanned Pregnancy: http://www.thenationalcampaign.org/costs/ UNICEF. (n.d.). Convention on the Rights of the Child. Retrieved August 1, 2011, from UNICEF: http://www.unicef.org/crc/ US Legal. (n.d.). Age Requirements. Retrieved August 1, 2011, from US Legal: http://marriage.uslegal.com/age-requirements/ Weithorn, L. A., &amp; Campbell, S. B. (1982). Child Development. Early Adolescence, 53(6), 1589-1598.Youth Rights. (n.d.). Age of Majority. Retrieved August 1, 2011, from Youth Rights: http://www.youthrights.net/index.php?title=Age_of_majority

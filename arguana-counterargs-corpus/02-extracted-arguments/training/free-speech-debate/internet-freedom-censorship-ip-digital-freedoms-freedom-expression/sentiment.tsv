@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con01a-point.txt	0.618461
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con01b-counter.txt	0.422423
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con02a-point.txt	0.673942
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con02b-counter.txt	0.38949
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con03a-point.txt	0.33555100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con03b-counter.txt	0.630222
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con04a-point.txt	0.14200400000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/con/con04b-counter.txt	0.781347
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro01a-point.txt	0.764741
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro01b-counter.txt	0.923332
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro02a-point.txt	0.39180000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro02b-counter.txt	0.529135
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro03a-point.txt	0.47460500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro03b-counter.txt	0.253482
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro04a-point.txt	0.33797900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/internet-freedom-censorship-ip-digital-freedoms-freedom-expression/pro/pro04b-counter.txt	0.11877199999999999

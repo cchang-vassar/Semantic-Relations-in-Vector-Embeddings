@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con01a-point.txt	0.45945400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con01b-counter.txt	0.06447899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con02a-point.txt	0.06752100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con02b-counter.txt	0.521906
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con03a-point.txt	0.26034999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con03b-counter.txt	0.689674
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con04a-point.txt	0.447596
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/con/con04b-counter.txt	0.37638000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro01a-point.txt	0.676323
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro01b-counter.txt	0.838226
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro02a-point.txt	0.227761
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro02b-counter.txt	0.054332999999999965
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro03a-point.txt	0.45456700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro03b-counter.txt	0.16091
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro04a-point.txt	0.511561
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/ional-global-science-censorship-ip-internet-digital-freedoms-freedom-expression/pro/pro04b-counter.txt	0.023289000000000004

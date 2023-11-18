@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con01a-point.txt	0.300291
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con01b-counter.txt	0.835392
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con02a-point.txt	0.708822
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con02b-counter.txt	0.31289999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con03a-point.txt	0.974768
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con03b-counter.txt	0.876637
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con04a-point.txt	0.379941
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con04b-counter.txt	0.68457
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con05a-point.txt	0.761728
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/con/con05b-counter.txt	0.80648
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro01a-point.txt	0.942278
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro01b-counter.txt	0.89089
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro02a-point.txt	0.828553
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro02b-counter.txt	0.822558
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro03a-point.txt	0.97105
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro03b-counter.txt	0.09805900000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro04a-point.txt	0.944112
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro04b-counter.txt	0.688232
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro05a-point.txt	0.858462
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-world-government/pro/pro05b-counter.txt	0.910071

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con01a-point.txt	0.07117899999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con01b-counter.txt	0.267046
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con02a-point.txt	0.151289
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con02b-counter.txt	0.06444899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con03a-point.txt	0.13891399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/con/con03b-counter.txt	0.119305
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro01a-point.txt	0.745552
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro01b-counter.txt	0.489444
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro02a-point.txt	0.454129
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro02b-counter.txt	0.10050800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro03a-point.txt	0.60901
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/terrorism-society-minorities-inequality-house-would-use-racial-profiling-part/pro/pro03b-counter.txt	0.48523099999999997

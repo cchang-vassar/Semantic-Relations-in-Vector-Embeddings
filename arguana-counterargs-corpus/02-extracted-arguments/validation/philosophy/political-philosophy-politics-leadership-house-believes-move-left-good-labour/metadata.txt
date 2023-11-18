@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/philosophy-political-philosophy-politics-leadership/house-believes-move-left-good-labour
+published_time	2015-09-18T14:59:57+02:00
+modified_time	2017-04-03T13:35:14+02:00
+crawled_time	Sun Feb 04 18:42:54 CET 2018
+voting_pro	0
+voting_con	100
+reads	14834

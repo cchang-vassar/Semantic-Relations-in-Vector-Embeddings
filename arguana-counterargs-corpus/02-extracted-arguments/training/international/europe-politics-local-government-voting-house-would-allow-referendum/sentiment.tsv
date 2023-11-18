@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con01a-point.txt	0.446109
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con01b-counter.txt	0.717167
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con02a-point.txt	0.46295699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con02b-counter.txt	0.988309
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con03a-point.txt	0.413755
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/con/con03b-counter.txt	0.225464
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro01a-point.txt	0.591509
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro01b-counter.txt	0.331611
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro02a-point.txt	0.403737
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro02b-counter.txt	0.591015
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro03a-point.txt	0.631285
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro03b-counter.txt	0.681849
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro04a-point.txt	0.20001899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-local-government-voting-house-would-allow-referendum/pro/pro04b-counter.txt	0.02840699999999996

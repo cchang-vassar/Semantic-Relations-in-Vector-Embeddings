@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con01a-point.txt	0.675575
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con01b-counter.txt	0.579634
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con02a-point.txt	0.864645
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con02b-counter.txt	0.24865000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con03a-point.txt	0.40225599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/con/con03b-counter.txt	0.44201
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro01a-point.txt	0.090665
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro01b-counter.txt	0.18870299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro02a-point.txt	0.406602
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro02b-counter.txt	0.286126
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro03a-point.txt	0.406648
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/nce-computers-phones-society-house-would-legalise-use-cell-phones-cars/pro/pro03b-counter.txt	0.79839

@@ -1,0 +1,11 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/con/con01a-point.txt	0.475024
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/con/con01b-counter.txt	0.3809
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/con/con02a-point.txt	0.35219599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/con/con02b-counter.txt	0.01972700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro01a-point.txt	0.676885
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro01b-counter.txt	0.16869500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro02a-point.txt	0.392026
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro02b-counter.txt	0.55708
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro03a-point.txt	0.39856499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/ronment-animals-climate-energy-environment-general-health-general/pro/pro03b-counter.txt	0.648573

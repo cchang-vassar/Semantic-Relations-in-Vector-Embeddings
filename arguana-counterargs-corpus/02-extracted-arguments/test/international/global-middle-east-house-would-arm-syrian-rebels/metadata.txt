@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-global-middle-east/house-would-arm-syrian-rebels
+published_time	2013-04-16T17:03:28+02:00
+modified_time	2017-04-13T12:55:16+02:00
+crawled_time	Sun Feb 04 18:43:09 CET 2018
+voting_pro	50
+voting_con	50
+reads	12412

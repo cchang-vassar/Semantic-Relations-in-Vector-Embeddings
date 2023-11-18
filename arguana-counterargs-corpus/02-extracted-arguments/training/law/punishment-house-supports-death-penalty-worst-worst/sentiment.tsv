@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con01a-point.txt	0.28701699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con01b-counter.txt	0.711538
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con02a-point.txt	0.016071999999999975
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con02b-counter.txt	0.10920799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con03a-point.txt	0.218997
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con03b-counter.txt	0.001982999999999957
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con04a-point.txt	9.000000000036756E-6
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/con/con04b-counter.txt	-1.0000000000065512E-5
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro01a-point.txt	0.0020839999999999748
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro01b-counter.txt	0.221306
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro02a-point.txt	0.07732099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro02b-counter.txt	0.41112400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro03a-point.txt	0.019464999999999955
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro03b-counter.txt	0.07115300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro04a-point.txt	0.37926800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/punishment-house-supports-death-penalty-worst-worst/pro/pro04b-counter.txt	0.39575899999999997

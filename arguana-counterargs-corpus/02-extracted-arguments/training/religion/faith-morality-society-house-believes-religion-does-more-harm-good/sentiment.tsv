@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con01a-point.txt	0.998643
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con01b-counter.txt	0.50736
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con02a-point.txt	0.90713
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con02b-counter.txt	0.524139
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con03a-point.txt	0.859028
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/con/con03b-counter.txt	0.675225
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro01a-point.txt	0.315825
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro01b-counter.txt	0.25783599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro02a-point.txt	0.48119599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro02b-counter.txt	0.044638999999999984
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro03a-point.txt	0.31299699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/faith-morality-society-house-believes-religion-does-more-harm-good/pro/pro03b-counter.txt	0.442642

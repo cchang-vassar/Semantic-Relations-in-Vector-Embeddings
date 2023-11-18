@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/religion/religion-religion-general-god/house-would-criminalise-blasphemy
+published_time	2012-02-17T15:38:52+01:00
+modified_time	2012-11-12T11:32:21+01:00
+crawled_time	Sun Feb 04 18:42:54 CET 2018
+voting_pro	0
+voting_con	100
+reads	17548

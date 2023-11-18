@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con01a-point.txt	0.19066300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con01b-counter.txt	0.020888000000000018
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con02a-point.txt	0.20143100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con02b-counter.txt	0.701717
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con03a-point.txt	0.795179
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con03b-counter.txt	0.15327800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con04a-point.txt	0.057970999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/con/con04b-counter.txt	0.397212
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro01a-point.txt	0.451329
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro01b-counter.txt	0.30566800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro02a-point.txt	0.279633
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro02b-counter.txt	0.79073
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro03a-point.txt	0.894145
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro03b-counter.txt	0.019317999999999946
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro04a-point.txt	0.10862300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-law-human-rights-international-law-house-would-create-african/pro/pro04b-counter.txt	0.12834599999999996

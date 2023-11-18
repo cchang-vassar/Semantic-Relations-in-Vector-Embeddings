@@ -1,0 +1,14 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/con/con01a-point.txt	0.356989
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/con/con02a-point.txt	0.04389900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/con/con02b-counter.txt	0.51291
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/con/con03a-point.txt	0.45911
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/con/con03b-counter.txt	0.451904
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro01a-point.txt	0.30797699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro01b-counter.txt	0.010473999999999983
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro02a-point.txt	0.554964
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro02b-counter.txt	0.183504
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro03a-point.txt	0.91616
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro03b-counter.txt	0.38015699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro04a-point.txt	0.253822
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-health-health-general-house-would-allow-pharmaceutical-companies/pro/pro04b-counter.txt	0.566218

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-global-science-internet-digital-freedoms-privacy/house-believes
+published_time	2013-08-09T18:00:23+02:00
+modified_time	2017-04-11T13:16:32+02:00
+crawled_time	Sun Feb 04 18:42:47 CET 2018
+voting_pro	50
+voting_con	50
+reads	31776

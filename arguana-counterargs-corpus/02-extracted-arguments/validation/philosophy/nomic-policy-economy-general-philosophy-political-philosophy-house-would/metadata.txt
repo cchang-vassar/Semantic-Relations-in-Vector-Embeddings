@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-economic-policy-economy-general-philosophy-political-philosophy/house-would
+published_time	2012-02-22T12:38:59+01:00
+modified_time	2017-05-18T13:53:45+02:00
+crawled_time	Sun Feb 04 18:42:54 CET 2018
+voting_pro	100
+voting_con	0
+reads	11057

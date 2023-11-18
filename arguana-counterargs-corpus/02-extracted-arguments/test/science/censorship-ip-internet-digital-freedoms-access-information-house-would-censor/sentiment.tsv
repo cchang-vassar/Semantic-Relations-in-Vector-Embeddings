@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con01a-point.txt	0.011865000000000014
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con01b-counter.txt	0.03440900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con02a-point.txt	0.10045700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con02b-counter.txt	0.75484
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con03a-point.txt	0.20412799999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/con/con03b-counter.txt	0.758486
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro01a-point.txt	0.28058399999999994
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro01b-counter.txt	0.575387
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro02a-point.txt	0.122058
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro02b-counter.txt	0.072604
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro03a-point.txt	0.765538
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro03b-counter.txt	0.600218
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro04a-point.txt	0.786718
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/censorship-ip-internet-digital-freedoms-access-information-house-would-censor/pro/pro04b-counter.txt	0.072654

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con01a-point.txt	0.937084
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con01b-counter.txt	0.11025700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con02a-point.txt	0.36931
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con02b-counter.txt	0.06312600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con03a-point.txt	0.058738999999999986
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/con/con03b-counter.txt	0.49505699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro01a-point.txt	0.004526999999999948
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro01b-counter.txt	0.843792
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro02a-point.txt	0.531437
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro02b-counter.txt	0.809023
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro03a-point.txt	0.023289000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/government-house-believes-republican-party-has-lost-its-way/pro/pro03b-counter.txt	0.873823

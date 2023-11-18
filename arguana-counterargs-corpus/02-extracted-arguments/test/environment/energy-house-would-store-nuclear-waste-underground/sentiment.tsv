@@ -1,0 +1,11 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con01a-point.txt	0.472247
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con01b-counter.txt	0.562791
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con02a-point.txt	0.338557
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con02b-counter.txt	0.16978300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con03a-point.txt	0.07534300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/con/con03b-counter.txt	0.01931700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/pro/pro01a-point.txt	0.520883
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/pro/pro01b-counter.txt	0.88334
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/pro/pro02a-point.txt	0.14968800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/environment/energy-house-would-store-nuclear-waste-underground/pro/pro02b-counter.txt	0.18508400000000003

@@ -1,0 +1,147 @@
+# METADATA
+url	https://idebate.org/debatabase/law/law-general/house-would-place-cameras-courtrooms-televise-court-cases
+published_time	2012-02-17T12:35:42+01:00
+modified_time	2017-08-07T18:21:28+02:00
+crawled_time	Sun Feb 04 18:43:00 CET 2018
+voting_pro	50
+voting_con	50
+reads	14080
+
+
+# THESIS
+This House Would Place Cameras in Courtrooms to Televise Court Cases
+
+
+# INTRO
+Democratic states, while all aiming to uphold justice through a fair trial, have different approaches to the trials themselves. In the United States, well-publicised criminal trials can be televised, or documentaries can later portray the court proceedings [1] . One notable example of this is the case of O.J Simpson. However, in France, the media is not allowed to show the face of any suspect who has not yet been found guilty - and the French were outraged that American media showed Dominique Strauss-Kahn’s face before his trial began [2] . The Dutch justice system allows the press to refer to the accused, but only by their ‘first names and last initials’ [3] . All of this indicated that the justice system is not a matter of black-and-white interpretation, but it very sensitive to change. Those who oppose televised court cases argue that it only serves to make court cases theatrical, often focusing more on entertainment factor, or the lawyers and judges involved (particularly in the O.J Simpson trial [4] ), than achieving justice for its own sake. Televising court cases can bring a huge amount of public attention, whether overwhelming sympathy for the victim-figure, or hatred for the accused.
+
+A conventional proposition case would argue that the whole court proceedings would be recorded by cameras around the courtroom. The faces of the jurors would not be shown (to try and avoid distorted verdicts). However, this in itself leans towards an admission that televising court cases could distort justice. The proposition would most likely exclude cases involving national security, or other cases where the presence of an audience is already limited, such as cases involving children [5] . It is already recognised that this information is too sensitive for public viewing; a prop line that acknowledges this is much easier to defend and falls into standards which are already in place.
+
+[1]
+http://www.jstor.org/pss/1289011 , accessed 05/08/11
+
+[2] http://www.economist.com/blogs/democracyinamerica/2011/05/arrest_dominique_strauss-kahn?page=1 , accessed 05/08/11
+
+[3] http://www.economist.com/blogs/democracyinamerica/2011/05/arrest_dominique_strauss-kahn?page=1 , accessed 05/08/11
+
+[4] http://people.famouswhy.com/robert_kardashian/ , accessed 05/08/11
+
+[5] http://stakeholders.ofcom.org.uk/broadcasting/broadcast-codes/broadcast-code/protecting-under-18s/ , accessed 18/08/11
+
+
+# PRO01A-POINT
+People should have a right of access to justice.
+
+Given that people are already allowed to watch court proceedings from the public gallery – including the Judicial Committee of the House of Lords in the UK [1] , and the Supreme Court in the US [2] – there is little reason why this should not be extended to give better access across the nation to anybody who wants to watch. Those with full-time jobs or who live far away from the courts are currently unfairly limited in this respect, and those who do wish to attend well-publicised trials often have to arrive hours in advance to get a seat. Individuals should not have to give up so much time and money just to be able to watch a democratic proceeding, which is a cornerstone of democratic nations. Given that many closed trials such as the trial of the Guantánamo Bay terrorism suspects [3] have still led to intense media coverage, we would be better off showing the courts to be transparent and just instead of vainly trying to hide everything behind closed doors.
+
+[1] http://www.parliament.uk/documents/lords-information-office/hoflbpjudicial.pdf , accessed 05/08/11
+
+[2] http://blunt.senate.gov/public/index.cfm/popular-places-to-visit , accessed 05/08/11
+
+[3] http://www.guardian.co.uk/world/2007/mar/09/september11.guantanamo , accessed 19/08/11.
+
+# PRO01B-COUNTER
+When people take the time and effort to visit the law courts and watch a case, it is a formal, regulated atmosphere. If this were televised, it would become closer to ‘entertainment’ than to fair, legal proceedings. It becomes a human interest story rather than a legitimate court case, where the focus is on moral retribution rather than fair application of the law. Given that high-profile cases can go on for weeks, or even months, even if you were to broadcast every step of the court case it is likely that viewers would only tune in for the climax of the trial. This means that they would miss important (but perhaps comparatively boring) steps which led to that conclusion; it obscures the whole picture of the trial.
+
+# PRO02A-POINT
+Video footage of a court case would provide valuable information for both defendant and judiciary.
+
+If the defendant is convicted of a crime, they have a right to appeal in the UK [1] and US [2] . However, this is made difficult for another court to re-assess the conviction if they cannot know how reliable evidence was in the first trial. Without film recordings of court trials, judges who have the duty to re-examine the case are unable to see witness testimonies; though new evidence does sometimes come to light during the course of an appeal [3] , it would be easier to assess this new evidence if the judges also had knowledge of how the first trial went. If the judges could watch a video of the first trial, they could judge the demeanour, body language and general impression given by each witness in the first trial. Body language can affect a court’s perception of a witness [4] , but this information could not be gained by a transcript. However, this evidence may be important for a new verdict to be reached.
+
+[1] http://www.judiciary.gov.uk/about-the-judiciary/the-judiciary-in-detail/jud-acc-ind/right-2-appeal , accessed 18/08/11
+
+[2] http://www.law.cornell.edu/uscode/html/uscode28a/usc_sec_28a_00000003----000-.html , accessed 18/08/11
+
+[3] http://www.publications.parliament.uk/pa/ld200102/ldjudgmt/jd011213/pendle-1.htm , accessed 18/08/11
+
+[4] http://www.maritimeconsultant.com/macnewsletters/fall90/courtroom_dynamics.htm , accessed 18/08/11
+
+# PRO02B-COUNTER
+A stenographer already records every word spoken during the course of the trial, which already serves to help with potential appeals [1] [2] . Furthermore, appeal court judges rarely interfere with the verdicts of lower courts because they were not present at the original trial. Using a video record to overturn the verdict of a previous court would essentially eradicated the role of a jury; which is to reach a decision based on the fact presented, guided by the judge’s knowledge of the law [3] [4] . Far from making court proceedings more democratic and transparent, using cameras in courtrooms would actually be damaging because it undermines the position of normal people to reach a verdict of ‘guilty’ or ‘not guilty’. In this case, a judge’s choice to hang a new verdict on video information would make the law a very exclusive practice where very few individuals can determine the fates of others, and the role of jury would become irrelevant.
+
+[1] In the UK: https://nextstep.direct.gov.uk/PlanningYourCareer/JobProfiles/JobProfile0884/Pages/default.aspx , accessed 18/08/11
+
+[2] In the US: http://www.bls.gov/oco/ocos152.htm , accessed 18/08/11
+
+[3] in the UK: http://webarchive.nationalarchives.gov.uk/+/www.direct.gov.uk/en/CrimeJusticeAndTheLaw/Thejudicialsystem/DG_181788 , accessed 18/08/11
+
+[4] In the US: http://www.sundaylaw.net/books/other/standish/liberty/litb04.htm , accessed 18/08/11
+
+# PRO03A-POINT
+Cameras encourage efficiency and high standards.
+
+Placing cameras into courtrooms encourages the judiciary and lawyers to increase their efficiency and have high standards of behaviour, because they are aware that it will be carried outside of the courtroom by public viewing. The introductions of cameras to the Houses of Parliament in the UK resulted in significantly improved standards of debate, greater punctuality, and greater attendance of MPs [1] . We can expect this same principle to continue in courtrooms when cameras are put in place.
+
+[1] http://www.parliament.the-stationery-office.co.uk/pa/cm199900/cmselect/cmbroad/642/64205.htm , accessed 06/08/11
+
+# PRO03B-COUNTER
+Putting this kind of pressure on the judiciary and lawyers does not have the same kinds of benefits that it might in the House of Commons. Politicians often focus on, and are expected to uphold, the general interest of the public, which is why having public access to televised debates is an incentive for them to push those interests through as far as possible. However, the rule of law does not always correlate to public opinion. Particularly in high-profile cases, the public may wish to see the accused given the harshest sentence possible; however, this might not be the legally correct sentence to give in those circumstances. Public outrage has been known to tamper with judicial verdicts in places such as India [1] , and is damaging to the principle of a fair trial.
+
+[1] http://studyshare.in/share/showthread.php?2361-Jessica-Lal-Case-Study-Public-Outrage-and-Criminal-Justice-Lessons-Learnt , accessed 06/08/11
+
+
+# CON01A-POINT
+This turns court cases into entertainment, rather than legitimate legal proceedings.
+
+Several television shows, such as ‘Judge Judy’, assert the style of a legal courtroom [1] . These shows are based on entertainment value from scrutinising the accused and defendant; it would be dangerous to remove a barrier which currently separates genuine legal proceedings from entertainment by televising them. The risk that the public would see them as one and the same is increased by an incident where a man really did believe that the Judge Judy trial was a real trial [2] . The trial of Casey Anthony in Florida, where cameras are allowed, escalated into a media frenzy where legal justice became unimportant in comparison to television ratings [3] . Court cases, then, are at risk of not being taken seriously and used instead for the public to satisfy their curiosity into other peoples’ lives. Televising court cases also immediately undermines some fundamental principles of the justice system, such as rehabilitation. If somebody is convicted of a crime on national television, his or her anonymity or chance of future employment is severely compromised. The rights of the victims, their families, and the defendants should be placed ahead society’s assumed ‘right’ to sensationalist portrayals of the courtroom.
+
+[1] http://www.judgejudy.com/profiles_of_justice.php , accessed 18/08/11
+
+[2] http://dailycaller.com/2010/02/18/apparently-intoxicated-man-mistakes-judge-judy-courtroom-for-an-actual-courtroom-video/ , accessed 18/08/11
+
+[3] http://news.yahoo.com/casey-anthony-trial-turned-media-frenzy-031041514.html , accessed 19/08/11
+
+# CON01B-COUNTER
+It is unlikely that people will use court cases as a form of entertainment; if the entire case is televised, then a lot of the case will be ‘boring’ discussion of applying law and legal theory [1] , rather than doling out punishment Judge Judy-style. Even if a few people do try to use it as entertainment, the potential benefit to wider society as they can literally see how their legal system works to protect them outweighs the very small number of people who might group court cases and reality television shows together. Furthermore, if somebody is convicted of a serious crime like murder, their chances of rehabilitation are already slim (and convicts often re-offend), whether it is televised or not [2] . Indeed, some would argue that they have forfeited their right to rehabilitation by committing murder in the first place [3] . However, if they were acquitted of a serious crime on television, future employers could be more likely to accept them as they could see exactly how the court progressed and arrived at that conclusion, rather than having it shrouded in mystery which could breed suspicion.
+
+[1] Transcript of a court case: http://hiwaay.net/~becraft/LongLloyd1.htm , accessed 18/08/11
+
+[2] http://www.civitas.org.uk/pdf/Rehab.pdf , accessed 19/08/11
+
+[3] http://news.bbc.co.uk/1/hi/uk/7899143.stm , accessed 19/08/11
+
+# CON02A-POINT
+Invoking public reaction can damage the lives of those concerned in the court case.
+
+Proposition may well argue that televising court cases gains a sense of ‘sympathy’ and justice for the victims of the case. However, this is double-edged. Firstly, particularly emotive and controversial court cases concerning crimes such as sexual assault could blind the public (or ‘audience’) to any untruthfulness from the ‘victim’, by virtue of being perceived as vulnerable and wronged. Secondly, any sympathy which is gained for one person often arises out of increased hatred or outrage against another – namely the defendant. This could lead to public condemnation of an individual who is never actually convicted of a crime; they will be exposed to public reaction that might be wholly unjustified if he is subsequently acquitted. One example of this is when Milly Dowler’s father was questioned in court as a suspect of his daughter’s death and his personal, pornographic magazines were used as evidence against him [1] . Although he was completely innocent, the prosecution’s job was to explore any possibility of perversion or dangerous character. This is an infringement upon that individual’s rights, as being publicly portrayed as a villain could go on to affect their future private life, such as their chances of future employment or anonymity.
+
+[1] http://www.telegraph.co.uk/news/uknews/crime/8517521/Levi-Bellfield-trial-Pornography-made-Milly-Dowlers-father-first-suspect.html , accessed 19/08/11
+
+# CON02B-COUNTER
+Withholding video evidence of a court trial will not stop people from automatically siding with the victim and denouncing the accused; it will just stop them from being able to see the body language and other actions which can balance out the media’s assertion that one party is definitively a ‘victim’ while the other is a ‘criminal’. These labels are already in place – televising court cases just helps us to understand the details and nuances of a case, and garner a more sophisticated view of the case in question.
+
+# CON03A-POINT
+Televising court cases undermines the right to privacy for the victim and the defendant’s family
+
+Court proceedings can be extremely stressful for the families of the accused, and publicising them in this way only makes this worse. Again, a good example of this is the Milly Dowler case, when her father’s pornographic magazines were used as evidence against him [1] . Not only did he then have to try and come to terms with his daughter’s disappearance, but also the knowledge that the media – and his family – now knew intensely personal details about him which were not even relevant to the case, but used to try and condemn him anyway. Meanwhile, although the family members have done nothing wrong, they are forced to listen to critical evidence of another family member which is suddenly now broadcast into peoples’ homes directly from the court. Their public and private lives would be irrevocably transformed by this experience. Secondly, because the defence must try to protect the defendant, these vilifying tactics can also be used against the victim – which could then lead to fewer people being prepared to testify. There is already a problem in society where not all crimes are even reported, sometimes because the victims are afraid of how people will then think of them [2] [3] . The knowledge that the defence will try to expose them as a fraud, or deny that the offence took place – in front of millions of people watching the case on television – suddenly becomes a much bigger obstacle for victims, especially if they are emotionally shaken by their experience [4] , to come forward and help a criminal to be convicted.
+
+[1] http://www.telegraph.co.uk/news/uknews/crime/8517521/Levi-Bellfield-trial-Pornography-made-Milly-Dowlers-father-first-suspect.html , accessed 19/08/11
+
+[2] http://www.crimestoppers-uk.org/crime-prevention/latest-crime-statistics , accessed 19/08/11
+
+[3] http://business.timesonline.co.uk/tol/business/law/article6237368.ece , accessed 19/08/11
+
+[4] Support group for women who have been victims of rape; helping them to testify in court http://www.justicewomen.com/testifying_tips.html , accessed 19/08/11
+
+# CON03B-COUNTER
+For the families of defendants, incriminating evidence of the defendant comes out anyway – the emotional problems are still there under the status quo, whether or not the trials are televised. For the victims, often a reason why cases are dropped or the victims decide not to testify is the idea that their case is not seen as important, or will not make a difference [1] . Giving a public focus to this cases, and emphasising public outrage against rape, sexual assault and other serious crimes, endorses victims’ rights and makes them see that justice for this crimes is incredibly important. Perhaps this is the best step towards encouraging more people to make a difference by coming forward to testify.
+
+[1] http://ezinearticles.com/?Rape---Problems-and-Solutions&amp;id=3739958 , accessed 19/08/11
+
+# CON04A-POINT
+Witnesses and jurors could easily become involved in the media coverage of the case and place the trial at jeopardy.
+
+Newspaper interviews with witnesses have already caused trials to be cancelled in the past [1] because the judiciary recognises that media coverage can change people’s incentives and warp their priorities. This interference may affect the reliability of the witness’ evidence or the jurors’ verdict. Following the televised trial of O. J. Simpson, several witnesses and jurors gave interviews to the media, or wrote their memoirs of the case [2] . If witnesses and jurors know that their public lives could be affected by how the rest of society perceives them through a court case, they might have an incentive to be more harsh or more lenient; public outrage when the criminal sentence does not match their own interpretations is likely to be laid on those who caused that sentence. This is particularly dangerous for America, where they have trial by jury [3] . Here, the jury has more control over the sentencing of criminals – which obviously becomes a problem if the jury has a vested interest in giving harsh sentences to offenders in order to gain public support. Cameras in court can only encourage witnesses and jurors to distort their true recollection or their opinions in order to profit from the media circus.
+
+[1] http://www.execulink.com/~kbrannen/press2.htm , accessed 19/08/11
+
+[2] http://crimemagazine.com/oj-simpson-trial , accessed 19/08/11
+
+[3] http://www.americanbar.org/content/dam/aba/migrated/jury/moreinfo/dialoguepart1.authcheckdam.pdf , accessed 19/08/11
+
+# CON04B-COUNTER
+Juror involvement is made less likely by the proposition line that jurors’ faces will be blanked out during the broadcast. For witnesses, the potential to warp and distort the truth already exists; they could be trying to avoid a sentence, or to make sure that justice is done if they have been wronged. They are already emotionally involved. If anything, video footage of the trial could encourage them to temper their responses and make absolutely sure that they are accurate in order to avoid questioning by the media or incrimination for giving an inaccurate statement.
+
+
+# LITERATURE
+null

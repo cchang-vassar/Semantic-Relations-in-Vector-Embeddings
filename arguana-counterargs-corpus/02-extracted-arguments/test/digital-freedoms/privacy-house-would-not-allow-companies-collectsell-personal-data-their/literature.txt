@@ -1,0 +1,29 @@
+Acquisti, A. “The Economics of Personal Data and the Economics of Privacy”. OECD. 2010, http://www.oecd.org/sti/interneteconomy/46968784.pdf
+
+Columbus Metropolitan Library. “Using Demographics to Target Your Market”. 2012. http://www.columbuslibrary.org/research/tutorials/using-demographic
+
+Deighton, J. and J. Quelch. “Economic Value of the Advertising-Supported Internet Ecosystem”. IAB Report. 2009. http://www.iab.net/media/file/Economic-Value-Report.pdf
+
+European Commission Justice, “Commission proposes a comprehensive reform of the data protection rules”, 25 January 2012, http://ec.europa.eu/justice/newsroom/data-protection/news/120125_en.htm
+
+Federal Trade Commission. “Privacy online: Fair information practices in the electronic marketplace: A report to Congress. Technical report, Federal Trade Commission”. May 2000. http://www.ftc.gov/reports/privacy2000/privacy2000.pdf
+
+Ives, D., “Anonymizer, Inc. Survey Finds Most Consumers Confused About Online Safety Measures”, Anonymizer, 19 October 2010, https://www.anonymizer.com/company/pressroom/archive/20101019-anonymizer-survey-finds-consumers-confused-about-online-safety/
+
+Linden, G., B. Smith, and J. York. “Amazon. com recommendations: Item-to-item collaborative filtering.” IEEE Internet computing 7(1), 76–80. January-February 2003. http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf
+
+Morris, J., and Lacandera, E., “Why big companies buy, sell your data”, CNN, 23 August 2012, http://edition.cnn.com/2012/08/23/tech/web/big-data-acxiom
+
+PewInternet, “The Future of Big Data”, Pew Research Center, 20 July 2012, http://pewinternet.org/Press-Releases/2012/The-Future-of-Big-Data.aspx
+
+Pinsent Masons. “US Web Users Reject Behavioural Advertising, Study Finds”. Out-Laws. 30 September 2009. http://www.out-law.com/page-10410
+
+Risk Based Security, “2012 Sets New Record for Reported Data Breaches”, PR Newswire, 14 February 2013, http://www.prnewswire.com/news-releases/2012-sets-new-record-for-reported-data-breaches-191272781.html
+
+Risk Based Security, “Historically, Over 1.2 Billion Records Exposed According to Risk Based Security, Inc.” Risk Based Security, 22 February 2012, http://www.riskbasedsecurity.com/2012/02/historically-over-1-2-billion-records-exposed-according-to-risk-based-security-inc/
+
+Story, L. “AOL Brings Out the Penguins to Explain Ad Targeting”. New York Times. 3 September 2008, http://bits.blogs.nytimes.com/2008/03/09/aol-brings-out-the-penguins-to-explain-ad-targeting-ok-saul-and-louise-post-with-article/
+
+Taylor, C., “Private Demands and Demands For Privacy: Dynamic Pricing and the Market for Customer Information”, Duke University, September 2002, http://public.econ.duke.edu/Papers/Other/Taylor/private.pdf
+
+The Canadian Press. “Academics Want Watchdog to Probe Online Profiling”. CTV News. 28 July 2008. http://www.ctvnews.ca/academics-want-watchdog-to-probe-online-profiling-1.311784

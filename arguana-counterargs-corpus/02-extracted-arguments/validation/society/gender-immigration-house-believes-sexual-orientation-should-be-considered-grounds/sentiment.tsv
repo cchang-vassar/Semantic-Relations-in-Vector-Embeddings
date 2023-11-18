@@ -1,0 +1,14 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con01a-point.txt	0.231487
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con01b-counter.txt	0.064805
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con02a-point.txt	0.22962700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con02b-counter.txt	0.14221099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con03a-point.txt	0.413416
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con03b-counter.txt	0.29103599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/con/con04a-point.txt	0.24539299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro01a-point.txt	0.48210699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro01b-counter.txt	0.006749000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro02a-point.txt	0.648359
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro02b-counter.txt	0.840596
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro03a-point.txt	0.71721
+data/corpus-counterarguments-18/02-extracted-arguments/validation/society/gender-immigration-house-believes-sexual-orientation-should-be-considered-grounds/pro/pro03b-counter.txt	0.05933900000000003

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-asia/house-would-visit-yasukuni-shrine
+published_time	2013-08-16T18:15:27+02:00
+modified_time	2017-04-11T13:06:38+02:00
+crawled_time	Sun Feb 04 18:42:45 CET 2018
+voting_pro	50
+voting_con	50
+reads	11315

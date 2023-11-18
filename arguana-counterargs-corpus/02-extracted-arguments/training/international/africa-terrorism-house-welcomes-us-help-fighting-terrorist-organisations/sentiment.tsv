@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con01a-point.txt	0.366978
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con01b-counter.txt	0.898863
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con02a-point.txt	0.297987
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con02b-counter.txt	0.898918
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con03a-point.txt	0.705886
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con03b-counter.txt	0.922784
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con04a-point.txt	0.825637
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/con/con04b-counter.txt	0.931866
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro01a-point.txt	0.766629
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro01b-counter.txt	0.05945900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro02a-point.txt	0.188149
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro02b-counter.txt	0.89168
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro03a-point.txt	0.12338000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro03b-counter.txt	0.31461700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro04a-point.txt	0.782542
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-terrorism-house-welcomes-us-help-fighting-terrorist-organisations/pro/pro04b-counter.txt	0.14424199999999998

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-human-rights-international-law/house-believes-international-criminal-court-force-good
+published_time	2012-01-26T16:33:14+01:00
+modified_time	2017-08-20T11:41:48+02:00
+crawled_time	Sun Feb 04 18:42:49 CET 2018
+voting_pro	50
+voting_con	50
+reads	28940

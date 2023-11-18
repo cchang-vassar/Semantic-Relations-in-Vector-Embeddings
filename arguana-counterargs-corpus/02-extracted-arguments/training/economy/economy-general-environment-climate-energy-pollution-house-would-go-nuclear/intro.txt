@@ -1,0 +1,14 @@
+Nuclear power is any nuclear technology designed to extract usable energy from atomic nuclei via controlled nuclear reactions [1] . The most common method is through nuclear fission, though other methods include nuclear fusion and radioactive decay. Nuclear fission is the splitting of large atoms into smaller atoms with the release of energy stored in the original nucleus. It produces no greenhouse gases or other such pollutants but does produce radioactive waste that must be stored safely for thousands of years. There is also the risk of a nuclear explosion (due to meltdown) if the reaction gets out of control. This is different from nuclear fusion, a process by which small atoms are joined to create larger atoms, releasing energy in the process. This technology is currently some years away from being widespread.
+
+The debate surrounding the use of nuclear power is hugely contentious. There is much public fear about nuclear energy, fuelled by incidents such as Chernobyl, Three Mile Island and, most recently, Fukushima in Japan. It is, however, an issue which is becoming more important as we approach a time when fossil fuel resources may run out, making it necessary to find other power sources. Germany has fuelled the debate by announcing a complete abandonment of its nuclear power programme by 2022, a U-turn on its previous decision to extend the life of its oldest plants by around 12 years [2] . In 2007, nuclear power produced 28% of the EU's commercial electricity, down from 32% in 2002 [3] . The US had 103 reactors providing 19% of the country's electricity [4] .
+
+The main question is whether nuclear energy should constitute a major component of the 21st century mixed economy of energy plans to combat global warming and to help us meet the growing energy demand?
+
+[1]
+‘Nuclear Power – legal definition’, The Free Dictionary.
+
+[2] ‘Germany: Nuclear power plants to close by 2022’, BBC 30 th May 2011.
+
+[3] ‘2008 World nuclear industry status report: Western Europe’, by Mycle Schneider, 19 th September 2008.
+
+[4] ‘Nuclear Power Worldwide: Status and Outlook’

@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con01a-point.txt	0.31899
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con01b-counter.txt	0.29702300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con02a-point.txt	0.30035999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con02b-counter.txt	0.17110000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con03a-point.txt	0.17078099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con03b-counter.txt	0.964389
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con04a-point.txt	0.702907
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/con/con04b-counter.txt	0.015920000000000045
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro01a-point.txt	0.46408400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro01b-counter.txt	0.21291700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro02a-point.txt	0.516886
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro02b-counter.txt	0.261374
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro03a-point.txt	0.298686
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro03b-counter.txt	0.14702700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro04a-point.txt	0.14252900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/human-rights-international-law-house-would-send-yanukovych-hague/pro/pro04b-counter.txt	0.909458

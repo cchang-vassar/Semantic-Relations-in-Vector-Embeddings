@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con01a-point.txt	0.49992099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con01b-counter.txt	0.965091
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con02a-point.txt	0.602582
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con02b-counter.txt	0.09467000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con03a-point.txt	0.7058
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con03b-counter.txt	0.06214699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con04a-point.txt	0.30656399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/con/con04b-counter.txt	0.02816099999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro01a-point.txt	0.13384700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro01b-counter.txt	0.12287800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro02a-point.txt	0.959118
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro02b-counter.txt	0.589152
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro03a-point.txt	0.506666
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro03b-counter.txt	0.02111099999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro04a-point.txt	0.750035
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro04b-counter.txt	0.24321700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro05a-point.txt	0.301249
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-voting-house-would-allow-voting-16-european-parliament/pro/pro05b-counter.txt	0.314979

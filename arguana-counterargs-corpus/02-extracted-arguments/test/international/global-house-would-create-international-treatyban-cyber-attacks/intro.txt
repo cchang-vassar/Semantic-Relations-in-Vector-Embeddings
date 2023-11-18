@@ -1,0 +1,23 @@
+The first thing to note here is that we are not considering a broad brush treaty on internet governance that covers all sorts of questions such as who creates domain names as such an agreement would be very difficult to hammer out as shown by the failure at the International Telecommunications Union in 2012. Instead this would be a treaty purely between governments and limited to cybersecurity; as it is a national security issue it is clearly a governmental issue.
+
+What are cyber-attacks? This could potentially mean the use of cyberspace in war but that is not what we are going to debate; the chances of states adhering to such an international treaty in a war situation would seem to be slim and it would be of little use the rest of the time. Instead we are talking about the multitude of attacks that are launched every day. The ban would most clearly apply to state actors but for convenience sake it might be best to consider it outlawing all cyber attacks and placing the burden on each state to tackle it as a domestic law enforcement issue.
+
+Andrea Renda of the Centre for European Policy Studies suggests:
+
+Countries should formally commit to fighting botnets and refraining from government-sponsored cyberattacks.
+
+Governments should set up Computer Emergency Readiness Teams that receive notification from private parties and secure network resilience either directly or through private network operators.
+
+Operators should agree on industry-wide codes of conduct at a regional, and possibly at a global, level to ensure that the flow of information between operators and public authorities is fast and reliable.
+
+Trust should be established between public and private operators through a dedicated platform, as is currently being adopted in Europe.
+
+A taxonomy and classification of major risks and available counterstrategies should be developed. This would enable the development of a more mature insurance market for cybersecurity. [1]
+
+This debate would simply mean putting these into treaty form.
+
+Note this debate directly follows on from a previous debatabase debate on whether sanctions could be used as a response to cyber-attacks and covers many of the same issues. [2]
+
+[1] Renda, Andrea, ‘Cybersecurity and Internety Governance’, Council on Foreign Relations, 3 May 2013, http://www.cfr.org/cybersecurity/cybersecurity-internet-governance/p30621
+
+[2] This House would use targeted sanctions to respond to cyber-attacks

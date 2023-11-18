@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con01a-point.txt	0.09768900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con01b-counter.txt	0.859515
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con02a-point.txt	0.016867999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con02b-counter.txt	0.47153
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con03a-point.txt	0.673163
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con03b-counter.txt	0.907996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con04a-point.txt	0.09469700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con04b-counter.txt	0.459835
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con05a-point.txt	0.455739
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/con/con05b-counter.txt	0.32158600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro01a-point.txt	0.142293
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro01b-counter.txt	0.40449999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro02a-point.txt	0.616068
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro02b-counter.txt	0.02643899999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro03a-point.txt	0.645543
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro03b-counter.txt	0.447225
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro04a-point.txt	0.681876
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro04b-counter.txt	0.03898999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro05a-point.txt	0.822807
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-americas-society-immigration-house-believes-mexico-us-border-fence/pro/pro05b-counter.txt	0.37343499999999996

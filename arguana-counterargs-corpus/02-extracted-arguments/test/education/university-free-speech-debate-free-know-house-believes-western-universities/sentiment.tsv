@@ -1,0 +1,12 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/con/con01a-point.txt	0.769214
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/con/con01b-counter.txt	0.16292799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/con/con02a-point.txt	0.427829
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/con/con02b-counter.txt	0.34204100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/con/con03a-point.txt	0.214731
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro01a-point.txt	0.29863399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro01b-counter.txt	0.649272
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro02a-point.txt	0.713267
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro02b-counter.txt	0.357113
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro03a-point.txt	0.28509399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/university-free-speech-debate-free-know-house-believes-western-universities/pro/pro03b-counter.txt	0.25571900000000003

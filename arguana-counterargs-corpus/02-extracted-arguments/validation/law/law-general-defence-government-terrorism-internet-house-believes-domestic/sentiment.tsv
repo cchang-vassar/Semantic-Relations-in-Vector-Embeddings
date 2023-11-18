@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con01a-point.txt	0.752085
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con01b-counter.txt	0.970779
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con02a-point.txt	0.086121
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con02b-counter.txt	0.48154399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con03a-point.txt	0.616015
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/con/con03b-counter.txt	0.14513200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro01a-point.txt	0.569437
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro01b-counter.txt	0.438951
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro02a-point.txt	0.658328
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro02b-counter.txt	0.715397
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro03a-point.txt	0.796992
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro03b-counter.txt	0.511522
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro04a-point.txt	0.908454
+data/corpus-counterarguments-18/02-extracted-arguments/validation/law/law-general-defence-government-terrorism-internet-house-believes-domestic/pro/pro04b-counter.txt	0.348533

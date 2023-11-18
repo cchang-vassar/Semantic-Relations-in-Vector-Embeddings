@@ -1,0 +1,230 @@
+# METADATA
+url	https://idebate.org/debatabase/science/science-general/house-would-ban-development-genetically-modified-organisms
+published_time	2012-02-17T12:13:19+01:00
+modified_time	2017-08-09T14:58:22+02:00
+crawled_time	Sun Feb 04 18:43:02 CET 2018
+voting_pro	100
+voting_con	0
+reads	80773
+
+
+# THESIS
+This House would ban the development of genetically modified organisms
+
+
+# INTRO
+In the last decade, the development of Genetically Modified Organisms (GMO) has emerged as a highly controversial topic. This is a difficult topic because a basic grasp on the scientific issues is necessary to take the debate beyond the level of media headlines. Here is a very brief summary of some of the key concepts: Deoxyribonucleic Acid (DNA) DNA, the complex molecule that genes are composed of, is frequently likened to a computer program - an information-bearing code. One of the things that the DNA in genes codes for is the production of proteins - chemicals that regulate many of the processes that occur inside cells.
+
+Genetic Modification will typically do one of two things: either add new sections of DNA to the genes of a particular plant or animal to code for new proteins, or remove stretches of DNA so that a particular protein is not produced. A section of DNA coding for one particular protein is called a gene. There are an enormous number of changes that can be made to organisms with genetic modification. These range from the introduction of fish genes into plants to lead to better frost resistance, to modifications leading to rice plants producing more vitamin A. [1] The 'Terminator' Gene is one of the most controversial additions since it is a stretch of DNA that renders the seeds produced by the plant infertile; this makes the plant unable to reproduce (and is used by seed companies to force farmers to buy new supplies of the seed each year. [2]
+
+In the past varieties of crops and their seeds have not been owned by anyone and have not been patented. There is an increasing trend for biotechnology companies to patent GM crop varieties and thus own the exclusive right to produce and sell their seeds. This means that farmers in developing (and developed) countries will become dependent on these multinational seed-producing firms who will be able to charge high prices for patented varieties. The leader in GMO patenting (and profiting out of it) is the company Monsanto. Farmers explain that many times, they have to pay fees to Monsanto, as the company believes they have planted (2 nd generation) soybeans in violation of the company’s patent – not paying for them. [3]
+
+Currently, the EU has a strict regulation on genetically modified crops, as of July 2011, a type of maize called MON 810 is the only GM food cultivated commercially in the EU, the EU Commission proposed that the EU should decide on approvals or bans on environmental or health grounds for any crop with genetic modifications. [4]
+
+Currently legislation in the US allows the cultivation and also distribution of GMO as food. The official position of the FDA (Food and Drug Administration) is that GMOs are no different from other natural organisms and therefore do not need special labeling or treatment. So in the US, status quo is that GMO used for food are not labeled and are in no way a threat to health. [5]
+
+In 2001 the EU has decided to pass the so-called 'safeguard clause' (Art. 23 Dir. 2001/18/EC), which allows member states to prohibit the use and/or sale of the GM products on its territory. In 2011 6 countries within the EU apply this clause: Austria, France, Greece, Hungary, Germany and Luxembourg. [6] Within the whole EU, food and feed must carry a label which refers to the presence of GMOs, commercialization of GMO corps have to approved by EU bodies. The requirements for labeling, do not apply to food/feed which contains, consists of, or is produced from GMOs in a proportion no higher than 0.9 % (for example: imported food from the US). [7]
+
+Possible debate topics include whether or not GM food should be limited in distribution and commercial use. Other topics include the mandating of labeling of GM food and whether animal feed should be allowed to be GM.
+
+[1] Human Genome Project Information, Genetically modified foods and organisms,
+http://www.ornl.gov/sci/techresources/Human_Genome/elsi/gmfood.shtml , accessed 09/02/2011
+
+[2] Camden J., The Terminator Gene, University of Notre Dame, http://www.nd.edu/~chem191/f2.html , accessed 09/05/2011
+
+[3] Barlett D., Monsanto’s Harvest of Fear, published May 2008, http://www.vanityfair.com/politics/features/2008/05/monsanto200805 , accessed 08/27/2011
+
+[4] BBC News, GM crops: EU parliament backs national bans, published 07/11/2011 http://www.bbc.co.uk/news/world-europe-14045365 , accessed 08/28/2011
+
+[5] NaturalNews.com, US opposes honest labeling of GMO foods, 07/09/2010 http://www.naturalnews.com/029168_GMO_foods_labeling.html , accessed 08/28/2011
+
+[6] European Commission, Rules on GMOs in the EU, http://ec.europa.eu/food/food/biotechnology/gmo_ban_cultivation_en.htm , accessed 08/28/2011
+
+[7] European Commission, GMO labeling, http://ec.europa.eu/food/food/biotechnology/gmo_labelling_en.htm , accessed 08/28/2011
+
+
+# PRO01A-POINT
+Genetically modified food is too new and little researched to be allowed for public use.
+
+There are two problems associated with scientifically testing the impact of genetically modifying food. The first is that 'Peer review' (the checking of scientific test results by fellow scientists) is often made impossible by the unwillingness of biotechnology companies to give up their results for review. [1]
+
+Furthermore, government agencies are often unwilling to stop GM foodstuffs reaching the shelf because of the clout that the companies have with their government. So in regards to research, there have not yet been unbiased findings showing that GMO crops are safe.
+
+It is true, that in the US, there have been no adverse consequences from over 500 field releases in the United States. U.S. Department of Agriculture (USDA) evaluated in 1993 data on genetically modified organisms regarding safety claims. The Union of Concerned Scientists (UCS) believes that the USDA evaluation was too small scale, to actually asses the risks. Also many reports also failed to mention or even measure any environmental risks connected with GM food commercialisation. [2]
+
+Also, there are a number of dangers associated with the food itself, even without scientific evaluations. For example, the addition of nut proteins to soybeans caused those with nut allergies to go into shock upon eating the soybeans. Although this was detected in testing, sooner or later a transferred gene will cause risk to human health because the scientists did not conceive it could be a problem. [3] This will become a greater problem as more modifications are introduced. There are also possible dangers associated with the scientific technique itself by which the DNA is modified, an example is the spread of antibiotic resistance.
+
+[1] Pusztai A., Genetically modified foods: Are they a risk to Human/Animal Health ?, published June 2001, http://www.actionbioscience.org/biotech/pusztai.html , accessed 09/02/2011
+
+[2] Shah A., Is GE food safe ?, Global Issues, http://www.globalissues.org/article/189/is-ge-food-safe , accessed 09/02/2011
+
+[3] European Federation of Biotechnology, Allergies from GM food, published September 2000, http://www.efb-central.org/images/uploads/allergiesGMfoods.pdf , accessed 09/02/2011
+
+# PRO01B-COUNTER
+This debate should be decided on the basis of hard facts, not woolly assertions and environmental sentiment. Until scientific tests show there to be some real risk of harm from farming and eating GM food there is no case for a ban or a moratorium.
+
+Not only is genetically modification well understood but extensive testing is applied to every new GM foodstuff before it is placed on the market.
+
+The European Food Safety Authority explains that tests of GMOs include a comparative assessment between the GMO and its non-GMO counterpart and there is a case by case evaluation of every single GMO entering the market – however, because products are so different there is no “by the book” procedure for testing. [1]
+
+Researcher Nina Fedoroff from the Penn State University explains: “Genetically modified foods are as safe to eat as foods made from plants modified by more traditional methods of plant breeding. In fact, they are very probably safer, simply because they undergo testing that has never been required for food plants modified either by traditional breeding techniques or by mutagenesis, both of which can alter a plant's chemical composition.” [2]
+
+[1] European Food Safety Agency, FAQ on genetically modified organisms, http://www.efsa.europa.eu/en/faqs/faqgmo.htm , accessed 09/05/2011
+
+[2] Pacchioli D., Are genetically modified foods safe to eat ?, http://www.rps.psu.edu/probing/modified.html , accessed 08/28/2011
+
+# PRO02A-POINT
+Genetically modified food is a danger to eco-systems.
+
+GM foods also present a danger to the environment. The use of these crops is causing fewer strains to be planted. In a traditional ecosystem based on 100 varieties of rice, a disease wiping out one strain is not too much of a problem. However, if just two strains are planted (as now occurs) and one is wiped out the result is catastrophic. In addition, removing certain varieties of crops causes organisms, which feed on these crops, to be wiped out as well, such as the butterfly population decimated by a recent Monsanto field trial. [1] This supports the concerns that GM plants or transgenes can escape into the environment and that the impacts of broad-spectrum herbicides used with the herbicide tolerant GM crops on the countryside ecosystems have consequences. One of the impacts was that the Bacillus Thuringiensis toxin was produced by Bt crops (GMOs) on no-target species (butterflies), which lead to them dying. [2]
+
+Another concern is also that pollen produced from GM crops can be blown into neighboring fields where it fertilizes unmodified crops. This process (cross-pollination) pollutes the natural gene pool. [3] This in turn makes labeling impossible which reduces consumer choice. This can be prevented with the terminator gene. However, use of this is immoral for reasons outlined below. Furthermore, not all companies have access to the terminator technology.
+
+[1] Whitman D., Genetically Modified Foods: Harmful or Helpful, published April 2000, http://www.csa.com/discoveryguides/gmfood/overview.php , accessed 09/02/2011
+
+[2] WWF Switzerland, Genetically modified Organisms (GMOs): A danger to sustainable development of agriculture, published May 2005, www.panda.org/downloads/trash/gmosadangertosustainableagriculture.pdf , p.4 , accessed 09/02/2011
+
+[3] Whitman D., Genetically Modified Foods: Harmful or Helpful, published April 2000, http://www.csa.com/discoveryguides/gmfood/overview.php , accessed 09/02/2011
+
+# PRO02B-COUNTER
+The fears about GM food have been nothing more than a media spin. The media have created a story about nothing due to headlines such as 'Frankenfood'. Simply because people are scared they assert that there are not enough testing of the benefits of GM foods.
+
+The proposition is mainly falling into a media trap because at the moment all reasonable precautions are being taken for ensured safety. There is no reason why many different strains of GM crops cannot be produced and planted - where this is not happening at present, it should be.
+
+However, the need for many different strains is not an argument against some or all of those being GM. Adding or removing genes from natural varieties does not make the rest of their DNA identical. Furthermore, there is no concrete scientific evidence of what harm is done by the spreading of GM pollen. [1]
+
+All these effects are considered when a genetically modified crop is to be approved for agricultural use, if a product would cause any of the above mentioned effects, it would not be approved. [2]
+
+[1] Open Forum on Agricultural Biotechnology in Africa, Biotechnology FAQ, Would the spread of GMO traits into traditional maize be a serious problem ?, http://www.ofabafrica.org/faqs.php , accessed 09/07/2011
+
+[2] Bionetonline.org, Is it safe to grow genetically modified foods ?, http://www.bionetonline.org/english/content/ff_cont7.htm , accessed 09/02/2011
+
+# PRO03A-POINT
+GMOs would create too much dependency on biotechnology companies
+
+The legislative framework and historical behavior governing and guiding the operation of big business is geared towards maximizing shareholder returns. This propensity has been demonstrated time and again and might suggest that the GM companies are not modifying the food in the interests of better health, but of better profit. This is reinforced by the nature of many of the GM modifications, including terminator seeds (infertile seed requiring a re-purchase of seed stock each season), various forms of pest and herbicide resistance potentially leading to pests (and weeds) resistant to the current crop of chemical defenses. One of the more disturbing manifestations of this is the licensing of genes that are naturally occurring and suing those who dare to grow them, even if they are there because of cross contamination by wind-blown seeds or some other mechanism. [1] One has only to look at the history of corporations under North American and similar corporations’ law to see the effect of this pressure to perform on behalf of the shareholder. The pollution of water supplies, the continued sale of tobacco, dioxins, asbestos, and the list goes on. Most of those anti-social examples are done with the full knowledge of the corporation involved. [2]
+
+The example of potato farmers in the US illustrates big company dependence: "By ''opening and using this product,'' it is stated, that farmers only have the license to grow these potatoes for a single generation. The problem is that the genes remain the intellectual property of Monsanto, protected under numerous United States patents (Nos. 5,196,525, 5,164,316, 5,322,938 and 5,352,605), under these patents, people are not allowed to save even crop for next year, because with this they would break Federal law of intellectual property. [3]
+
+[1] Barlett D., Monsanto’s Harvest of Fear, published May 2008, http://www.vanityfair.com/politics/features/2008/05/monsanto200805 , accessed 08/27/2011
+
+[2] Hurt H., The Toxic Ten, published 02/19/2008, http://www.portfolio.com/news-markets/national-news/portfolio/2008/02/19/10-Worst-Corporate-Polluters/ , accessed 09/05/2011
+
+[3] Pollan M., Playing God in the Garden, published 10/25/1998, http://www.nytimes.com/1998/10/25/magazine/playing-god-in-the-garden.html , accessed 09/02/2011
+
+# PRO03B-COUNTER
+The immoral behavior of some people towards this technology is not a reason to ban it unless it can be shown that more harm than good is caused. This research is important to deal with global climate change which is reducing the landmass of the earth that can grow food, whilst the global population is rising.
+
+Regulation may be better than outright banning, as we do with many aspects of business. For example gene patenting and the discovery of new genes is an area very similar to genetically modified foods. In the US gene patenting is allowed and when the company Myriad Genetics found the gene BRCA1 and BRCA2 (connected with breast cancer) and made too many restrictions on the use of it (so it hurt people in general), the court stepped in and allowed others to use it, gave them more rights over the “patented product”. [1] With this we see, that there can always be regulation of products if a company attempts to profit out of the misery of others. The same can be done with GMOs. If the company is demanding too high prices, preventing farmers from doing their work, the courts and legal system can always step in. Just because one company acts unethically, this does not mean that all must. There is a market for ethical consumerism, so the actions of a few corporations are not a reason to ban GMOs entirely.
+
+[1] Nature.com, Testing time for gene patents, published 04/15/2010, http://www.nature.com/nature/journal/v464/n7291/full/464957a.html , accessed 09/02/2011
+
+
+# CON01A-POINT
+Genetically modified food is no different from any other scientific advance, thus should be legal to use.
+
+Genetic modification is entirely natural. The process of crop cultivation by selective breeding, which has been performed by farmers for thousands of years, leads to exactly the same kind of changes in DNA as modern modification techniques do. Current techniques are just faster and more selective. In fact, given two strands of DNA, created from the same original strand, one by selective breeding and one by modern modification techniques it is impossible to tell which is which. The changes caused by selective breeding have been just as radical as current modifications. Wheat, for example, was cultivated, through selective breeding, from an almost no-yield rice-type crop into the super-crop it is today. [1]
+
+[1] Trewas A. and Leaver C., How Nature itself uses genetic modification,Published January 6 2000, Nature, http://www.biotech-info.net/how_nature.html , accessed 09/05/2011
+
+# CON01B-COUNTER
+Genetic modification is unnatural. There is a fundamental difference between modification via selective breeding and genetic engineering techniques. The former occurs over thousands of years and so the genes are changed much more gradually. Genetic modification will supposedly deliver much but we have not had the time to assess the long-term consequences. [1] A recent study by the Soil Association actually proves that many of the promises companies gave were false. GM crops did not increase yield. Another example is a frost-resistant cotton plant that ended up not ripening. [2] GMOs do not reliably produce the benefits desired because we do not know the long term effects of utilizing them. Given the risks, we should seek to ban them.
+
+[1] Pusztai A., Genetically modified foods: Are they a risk to Human/Animal Health ?, published June 2001, http://www.actionbioscience.org/biotech/pusztai.html , accessed 09/02/2011
+
+[2] University of Alberta, Genetic Ethics Lecture, published Fall 2008, http://www.biology.ualberta.ca/courses.hp/bio207.hp/locke/DebateCON-07.pdf , accessed 09/02/2011
+
+# CON02A-POINT
+Genetically modified organisms can solve the problem of food supply in the developing world.
+
+The possible benefits from GM food are enormous. Modifications which render plants less vulnerable from pests lead to less pesticide use, which is better for the environment. Other modifications lead to higher crop yield, which leads to lower food prices for all. However, This technology really comes into its own in developing countries. Here where water is at a shortage, modifications (which lead crops to needing less water), are of vital importance. The World Health Organization predicts that vitamin A deficiency, with the use of GMOs, could be wiped out rapidly in the modern world. The scientists developed the strain of rice, called “golden rice”, which produces more beta-carotene and this way produces 20 times more vitamins than other strains, creating a cure for childhood blindness in developing countries. [1]
+
+The fact that it has not is illustrative of the lack of political and economic will to solve these problems. GM food provides a solution that does not rely on charity from Western governments. As the world population increases and the environment deteriorates further this technology will become not just useful but necessary.
+
+[1] Black R., GM “golden rice” boosts vitamin A, published 03/25/2005, http://news.bbc.co.uk/2/hi/science/nature/4386933.stm , accessed 09/02/2011
+
+# CON02B-COUNTER
+GM food will do nothing to help solve the problems in developing countries. The problem there is not one of food production but of an inability to distribute the food (due to wars, for example), the growing and selling of cash crops rather than staple crops to pay off the national debt and desertification leading to completely infertile land. Bob Watson, the chief scientist at the Department for Environment, Food and Rural Affairs (Defra), has stated that GM technology is oversold. The problem is not that there is not enough food, but that the food that is available is not being distributed. “Today the amount of food available per capita has never been higher, how costs are still low, and yet still around 900m people go to bed hungry every night” [1] . Instead of money being invested into genetic modification, what should be looked at is which areas allow food to go to waste and which areas need food, and then a redistribution needs to occur. Better transport and roads is where money should be invested. Not with potentially hazardous GM crops.
+
+In addition, the terminator gene prevents the farmer from re-growing the same crop year after year and instead must buy it annually from the producer. Abolishing the terminator gene leads to the other problem of cross-pollination and companies demanding reparations for the “re-use” of their crops.
+
+[1] Sample I, Nearly a billion people go hungry every day – can GM crops help feed them?, published 01/23/2009 http://www.guardian.co.uk/science/blog/2009/jan/23/gm-crops-genetically-modified-food-crisis , accessed 09/05/2011
+
+# CON03A-POINT
+Genetically modified organisms will prevent starvation due to global climate changes.
+
+The temperature of the earth is rising, and the rate of increase is itself increasing. As this continues, foods that grow now will not be acclimatized to the hotter conditions. Evolution takes many years and we simply do not have the time to starve while we wait for this to occur. Whilst there may be a vast supply of food now, we need to look to the future and how our current crops will withstand our changing environment. We can improve our food supply for the future if we invest in GM crops now. These crops can be made specifically to deal with the hotter conditions.
+
+Moreover, Rodomiro Ortiz, director of resource mobilization at the International Maize and Wheat Improvement Centre in Mexico, is currently conducting trials with GM crops to get them to grow is drought conditions. [1] This has already in 2007 been implemented by Monsanto in South Africa and has shown that genetically modified maize can be grown in South Africa and so prevent starvation. [2]
+
+In other countries, this would also mean that foods could be cultured where organic foods would not be able to. This would mean those in third world countries could grow their own crops on their low nutrient content soil. This has the additional benefit of not impacting on the environment as no transport would be needed to take the food to the places where it is needed; this would have to occur with organic foods grown in areas of good soil and weather conditions. [3]
+
+[1] Ortiz R., Overview on Crop Genetic Engineering for Drought-prone Environments, published December 2007, http://www.icrisat.org/journal/SpecialProject/sp3.pdf , accessed 09/05/2011
+
+[2] African Center for Biosafety, Monsanto’s genetically modified drought tolerant maize in South Africa, http://www.biosafety-info.net/file_dir/4871488837158955b.pdf , accessed 09/02/2011
+
+[3] Rosenthal E., Environmental Costs of Shipping Groceries around the World, published 04/26/2008, http://www.nytimes.com/2008/04/26/business/worldbusiness/26food.html , accessed 09/02/2011
+
+
+# LITERATURE
+Single author
+
+Camden J., The Terminator Gene, University of Notre Dame, http://www.nd.edu/~chem191/f2.html , accessed 09/05/2011
+
+Barlett D., Monsanto’s Harvest of Fear, published May 2008, http://www.vanityfair.com/politics/features/2008/05/monsanto200805 , accessed 08/27/2011Pusztai A., Genetically modified foods: Are they a risk to Human/Animal Health ?, published June 2001, http://www.actionbioscience.org/biotech/pusztai.html , accessed 09/02/2011
+
+Shah A., Is GE food safe ?, Global Issues, http://www.globalissues.org/article/189/is-ge-food-safe , accessed 09/02/2011
+
+Pacchioli D., Are genetically modified foods safe to eat ?, http://www.rps.psu.edu/probing/modified.html , accessed 08/28/2011
+
+Whitman D., Genetically Modified Foods: Harmful or Helpful, published April 2000, http://www.csa.com/discoveryguides/gmfood/overview.php , accessed 09/02/2011
+
+Barlett D., Monsanto’s Harvest of Fear, published May 2008, http://www.vanityfair.com/politics/features/2008/05/monsanto200805 , accessed 08/27/2011
+
+Hurt H., The Toxic Ten, published 02/19/2008, http://www.portfolio.com/news-markets/national-news/portfolio/2008/02/19/10-Worst-Corporate-Polluters/ , accessed 09/05/2011
+
+Pollan M., Playing God in the Garden, published 10/25/1998, http://www.nytimes.com/1998/10/25/magazine/playing-god-in-the-garden.html , accessed 09/02/2011
+
+Trewas A. and Leaver C., How Nature itself uses genetic modification,Published January 6 2000, Nature, http://www.biotech-info.net/how_nature.html , accessed 09/05/2011
+
+Sample I, Nearly a billion people go hungry every day – can GM crops help feed them?, published 01/23/2009 http://www.guardian.co.uk/science/blog/2009/jan/23/gm-crops-genetically-modified-food-crisis , accessed 09/05/2011
+
+Black R., GM “golden rice” boosts vitamin A, published 03/25/2005, http://news.bbc.co.uk/2/hi/science/nature/4386933.stm , accessed 09/02/2011
+
+Ford L., Andrew Mitchell urged to support poor farmers, 06/15/2010, http://www.guardian.co.uk/katine/katine-chronicles-blog/2010/jun/15/support-smallholder-farmers , accessed 09/02/2011
+
+Ortiz R., Overview on Crop Genetic Engineering for Drought-prone Environments, published December 2007, http://www.icrisat.org/journal/SpecialProject/sp3.pdf , accessed 09/05/2011
+
+Rosenthal E., Environmental Costs of Shipping Groceries around the World, published 04/26/2008, http://www.nytimes.com/2008/04/26/business/worldbusiness/26food.html , accessed 09/02/2011
+
+Multiple authors
+
+Human Genome Project Information, Genetically modified foods and organisms, http://www.ornl.gov/sci/techresources/Human_Genome/elsi/gmfood.shtml , accessed 09/02/2011
+
+BBC News, GM crops: EU parliament backs national bans, published 07/11/2011 http://www.bbc.co.uk/news/world-europe-14045365 , accessed 08/28/2011
+
+NaturalNews.com, US opposes honest labeling of GMO foods, 07/09/2010 http://www.naturalnews.com/029168_GMO_foods_labeling.html , accessed 08/28/2011
+
+European Commission, Rules on GMOs in the EU, http://ec.europa.eu/food/food/biotechnology/gmo_ban_cultivation_en.htm , accessed 08/28/2011
+
+European Commission, GMO labeling, http://ec.europa.eu/food/food/biotechnology/gmo_labelling_en.htm , accessed 08/28/2011
+
+Iowa State University, The Debate on Labeling Genetically Modified Food (page 4), http://www.public.iastate.edu/~ethics/LabelGMFood.pdf , accessed 09/05/2011
+
+European Federation of Biotechnology, Allergies from GM food, published September 2000, http://www.efb-central.org/images/uploads/allergiesGMfoods.pdf , accessed 09/02/2011
+
+European Food Safety Agency, FAQ on genetically modified organisms, http://www.efsa.europa.eu/en/faqs/faqgmo.htm , accessed 09/05/2011
+
+WWF Switzerland, Genetically modified Organisms (GMOs): A danger to sustainable development of agriculture, published May 2005, www.panda.org/downloads/trash/gmosadangertosustainableagriculture.pdf , accessed 09/02/2011
+
+Open Forum on Agricultural Biotechnology in Africa, Biotechnology FAQ, Would the spread of GMO traits into traditional maize be a serious problem ?, http://www.ofabafrica.org/faqs.php , accessed 09/07/2011
+
+Bionetonline.org, Is it safe to grow genetically modified foods ?, http://www.bionetonline.org/english/content/ff_cont7.htm , accessed 09/02/2011
+
+Nature.com, Testing time for gene patents, published 04/15/2010, http://www.nature.com/nature/journal/v464/n7291/full/464957a.html , accessed 09/02/2011
+
+University of Alberta, Genetic Ethics Lecture, published Fall 2008, http://www.biology.ualberta.ca/courses.hp/bio207.hp/locke/DebateCON-07.pdf , accessed 09/02/2011
+
+Vandanashiva, We don’t need Genetically Modified Foods, just biodiverse farms, published 02/28/2011 http://www.vandanashiva.org/?p=554 , accessed 09/02/2011
+
+African Center for Biosafety, Monsanto’s genetically modified drought tolerant maize in South Africa, http://www.biosafety-info.net/file_dir/4871488837158955b.pdf , accessed 09/02/2011

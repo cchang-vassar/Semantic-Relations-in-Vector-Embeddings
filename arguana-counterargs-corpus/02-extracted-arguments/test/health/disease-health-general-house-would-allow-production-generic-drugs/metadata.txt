@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/health-disease-health-general/house-would-allow-production-generic-drugs
+published_time	2012-01-26T16:33:14+01:00
+modified_time	2017-08-20T11:28:37+02:00
+crawled_time	Sun Feb 04 18:42:59 CET 2018
+voting_pro	100
+voting_con	0
+reads	25090

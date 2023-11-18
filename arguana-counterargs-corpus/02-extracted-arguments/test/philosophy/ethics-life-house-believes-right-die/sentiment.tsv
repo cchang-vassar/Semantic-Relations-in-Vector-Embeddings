@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con01a-point.txt	0.24112699999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con01b-counter.txt	0.555415
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con02a-point.txt	0.08874499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con02b-counter.txt	0.83077
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con03a-point.txt	0.505393
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con03b-counter.txt	0.491062
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con04a-point.txt	0.310798
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/con/con04b-counter.txt	0.861074
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro01a-point.txt	0.566392
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro01b-counter.txt	0.466672
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro02a-point.txt	0.904357
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro02b-counter.txt	0.580116
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro03a-point.txt	0.653337
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-house-believes-right-die/pro/pro03b-counter.txt	0.389525

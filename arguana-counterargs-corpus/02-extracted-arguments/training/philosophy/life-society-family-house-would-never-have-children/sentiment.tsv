@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con01a-point.txt	0.593415
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con01b-counter.txt	0.281331
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con02a-point.txt	0.474363
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con02b-counter.txt	0.34282900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con03a-point.txt	0.411308
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con03b-counter.txt	0.525075
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con04a-point.txt	0.924598
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/con/con04b-counter.txt	0.758394
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro01a-point.txt	0.632509
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro01b-counter.txt	0.566427
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro02a-point.txt	0.865184
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro02b-counter.txt	0.824675
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro03a-point.txt	0.522718
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro03b-counter.txt	0.094217
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro04a-point.txt	0.05903199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro04b-counter.txt	0.822229
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro05a-point.txt	0.18301800000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro05b-counter.txt	0.141019
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro06a-point.txt	0.22066799999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-society-family-house-would-never-have-children/pro/pro06b-counter.txt	0.410833

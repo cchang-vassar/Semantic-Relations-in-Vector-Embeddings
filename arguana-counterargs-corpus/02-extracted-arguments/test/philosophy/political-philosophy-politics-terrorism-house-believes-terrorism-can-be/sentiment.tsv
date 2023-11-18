@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con01a-point.txt	0.224182
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con01b-counter.txt	0.23295500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con02a-point.txt	0.603013
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con02b-counter.txt	0.971665
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con03a-point.txt	0.55972
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con03b-counter.txt	0.20805600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con04a-point.txt	0.27417800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/con/con04b-counter.txt	0.750655
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro01a-point.txt	0.127286
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro01b-counter.txt	0.43376800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro02a-point.txt	0.91391
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro02b-counter.txt	0.43904
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro03a-point.txt	0.724796
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro03b-counter.txt	0.625252
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro04a-point.txt	0.790371
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro04b-counter.txt	0.439612
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro05a-point.txt	0.607418
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-terrorism-house-believes-terrorism-can-be/pro/pro05b-counter.txt	0.17968700000000004

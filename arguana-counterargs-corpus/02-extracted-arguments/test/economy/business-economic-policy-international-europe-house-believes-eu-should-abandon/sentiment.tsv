@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con01a-point.txt	0.929042
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con01b-counter.txt	0.600562
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con02a-point.txt	0.854804
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con02b-counter.txt	0.03091200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con03a-point.txt	0.968565
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/con/con03b-counter.txt	0.050925
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro01a-point.txt	0.08977599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro01b-counter.txt	0.335893
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro02a-point.txt	0.590234
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro02b-counter.txt	0.544574
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro03a-point.txt	0.47965100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro03b-counter.txt	0.707307
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro04a-point.txt	0.43991199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/business-economic-policy-international-europe-house-believes-eu-should-abandon/pro/pro04b-counter.txt	0.561731

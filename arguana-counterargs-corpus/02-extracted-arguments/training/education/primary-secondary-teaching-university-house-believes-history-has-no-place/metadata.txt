@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-primary-secondary-teaching-university/house-believes-history-has-no-place
+published_time	2012-01-26T16:33:52+01:00
+modified_time	2017-08-19T08:23:36+02:00
+crawled_time	Sun Feb 04 18:42:28 CET 2018
+voting_pro	50
+voting_con	50
+reads	27256

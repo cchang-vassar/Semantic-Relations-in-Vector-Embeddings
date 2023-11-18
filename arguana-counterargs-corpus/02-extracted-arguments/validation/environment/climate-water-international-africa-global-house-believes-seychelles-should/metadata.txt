@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/environment-climate-water-international-africa-global/house-believes-seychelles-should
+published_time	2014-02-27T13:19:18+01:00
+modified_time	2017-04-03T16:29:40+02:00
+crawled_time	Sun Feb 04 18:42:55 CET 2018
+voting_pro	50
+voting_con	50
+reads	12092

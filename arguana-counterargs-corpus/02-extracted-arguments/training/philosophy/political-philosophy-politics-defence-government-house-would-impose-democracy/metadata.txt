@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/philosophy/political-philosophy-politics-defence-government/house-would-impose-democracy
+published_time	2012-01-26T16:33:57+01:00
+modified_time	2017-08-18T21:03:49+02:00
+crawled_time	Sun Feb 04 18:42:38 CET 2018
+voting_pro	50
+voting_con	50
+reads	64257

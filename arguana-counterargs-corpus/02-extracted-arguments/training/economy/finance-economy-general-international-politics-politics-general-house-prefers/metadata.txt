@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-finance-economy-general-international-politics-politics-general/house-prefers
+published_time	2012-01-26T16:33:29+01:00
+modified_time	2017-08-20T09:09:29+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	31471

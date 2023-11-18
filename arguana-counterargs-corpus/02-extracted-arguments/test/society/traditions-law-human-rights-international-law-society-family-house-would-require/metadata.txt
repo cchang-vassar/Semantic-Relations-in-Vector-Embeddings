@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/culture-traditions-law-human-rights-international-law-society-family/house-would-require
+published_time	2012-02-23T16:17:48+01:00
+modified_time	2017-04-27T13:49:00+02:00
+crawled_time	Sun Feb 04 18:43:04 CET 2018
+voting_pro	50
+voting_con	50
+reads	13035

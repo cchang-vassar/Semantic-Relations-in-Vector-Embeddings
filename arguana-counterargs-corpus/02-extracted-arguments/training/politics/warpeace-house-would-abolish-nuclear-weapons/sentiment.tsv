@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con01a-point.txt	0.686563
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con01b-counter.txt	0.47587999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con02a-point.txt	0.306084
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con02b-counter.txt	0.854125
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con03a-point.txt	0.497028
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/con/con03b-counter.txt	0.352676
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro01a-point.txt	0.23660899999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro01b-counter.txt	0.14027199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro02a-point.txt	0.480274
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro02b-counter.txt	0.681674
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro03a-point.txt	0.30328
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro03b-counter.txt	0.05304900000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro04a-point.txt	0.654487
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro04b-counter.txt	0.31521699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro05a-point.txt	0.74437
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/warpeace-house-would-abolish-nuclear-weapons/pro/pro05b-counter.txt	0.146026

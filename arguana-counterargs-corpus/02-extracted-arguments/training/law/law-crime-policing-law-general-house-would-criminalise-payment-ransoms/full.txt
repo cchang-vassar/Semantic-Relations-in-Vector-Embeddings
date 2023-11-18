@@ -1,0 +1,24 @@
+# METADATA
+url	https://idebate.org/debatabase/law/law-crime-policing-law-general/house-would-criminalise-payment-ransoms
+published_time	2012-01-26T16:34:43+01:00
+modified_time	2013-01-25T15:34:10+01:00
+crawled_time	Sun Feb 04 18:42:23 CET 2018
+voting_pro	0
+voting_con	100
+reads	15736
+
+
+# THESIS
+This House would criminalise the payment of ransoms
+
+
+# INTRO
+The crime of "kidnap" involves the capture and imprisonment of an individual with a subsequent demand for payment to secure their release. As such, it is a 'serious violation of the most elementary right of mankind: the right to a dignified existence' 1 Payment is usually demanded from relatives, but sometimes rich individuals are kidnapped in order to make them provide access to their bank details. Occasionally a ransom is demanded from the victim's government. Cases of ransom are particularly common in Central and South America, as well as in post-conflict situations such as those in the Middle East. The motive behind ransom is always financial in some respect (hence the difference to hostage-taking) but ideological motives may also affect the desire for money and the nature of the victim. In South America, much of the motivation for kidnapping is to finance hostilities in the region 1Cases of ransom are rarer in Europe and the US, but are often very high profile when they occur. In recent years pirates operating from lawless Somalia have captured whole ships with their crews, demanding large ransoms before both the vessels and the sailors are released.
+
+1 http://www.ikvpaxchristi.nl/files/Documenten/LA Colombia/English Colombia/Eng brochure_Opmaak 1.pdf
+
+
+
+
+# LITERATURE
+BBC News. (2001, June 27). Colombia: Kidnap capital of the world. Retrieved August 3, 2011, from BBC News: Blake, H. (2010, November 15). Paul and Racher Chandler: decision to pay ransom 'will put other pleasure sailors at risk'. Retrieved August 3, 2011, from The Daily Telegraph: Borger, J. (2008, November 19). Piracy and ransom payments: Risky business - safe transactions. Retrieved August 3, 2011, from Guardian: GMA News. (2008, August 7). RP cop wants paying ransom to Abu Sayyaf. Retrieved August 3, 2011, from GMA News: Harper, M. (2009, May 24). Chasing the Somali piracy money trial. Retrieved August 3, 2011, from BBC News: IKV Pax Christi. (2008, July). Kidnapping is booming business. Retrieved August 3, 2011, from IKV Pax Christi: Neptune Maritime Security. (2010, May 31). Obama piracy order 'unhelpful', ship owner groups say. Retrieved August 3, 2011, from Neptune Maritime Security: Reuters. (2009, July 4). Africa leaders want payment of ransoms made illegal. Retrieved August 3, 2011, from Reuters:

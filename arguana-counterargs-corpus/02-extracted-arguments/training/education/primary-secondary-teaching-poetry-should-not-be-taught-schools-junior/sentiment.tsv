@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con01a-point.txt	0.989335
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con01b-counter.txt	0.354754
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con02a-point.txt	0.971471
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con02b-counter.txt	0.09405699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con03a-point.txt	0.485024
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con03b-counter.txt	0.947339
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con04a-point.txt	0.99331
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/con/con04b-counter.txt	0.668626
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro01a-point.txt	0.38209099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro01b-counter.txt	0.924759
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro02a-point.txt	0.07513000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro02b-counter.txt	0.819186
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro03a-point.txt	0.637292
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-secondary-teaching-poetry-should-not-be-taught-schools-junior/pro/pro03b-counter.txt	0.893931

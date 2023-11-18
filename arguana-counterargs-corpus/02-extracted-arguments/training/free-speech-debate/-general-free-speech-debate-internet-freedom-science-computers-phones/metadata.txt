@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education/education-general-free-speech-debate-internet-freedom-science-computers-phones
+published_time	2013-12-06T17:18:24+01:00
+modified_time	2017-04-05T14:36:42+02:00
+crawled_time	Sun Feb 04 18:42:20 CET 2018
+voting_pro	60
+voting_con	40
+reads	39860

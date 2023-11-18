@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con01a-point.txt	0.268471
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con01b-counter.txt	0.975911
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con02a-point.txt	0.820096
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con02b-counter.txt	0.09724200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con03a-point.txt	0.654476
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con03b-counter.txt	0.024387000000000048
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con04a-point.txt	0.68547
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/con/con04b-counter.txt	0.853714
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro01a-point.txt	0.787871
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro01b-counter.txt	0.730691
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro02a-point.txt	0.864248
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro02b-counter.txt	0.650399
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro03a-point.txt	0.43590799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro03b-counter.txt	0.631454
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro04a-point.txt	0.444319
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro04b-counter.txt	0.850931
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro05a-point.txt	0.556756
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro05b-counter.txt	0.910233
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro06a-point.txt	0.0030489999999999684
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-european-union-should-adopt-single-working-language/pro/pro06b-counter.txt	0.619038

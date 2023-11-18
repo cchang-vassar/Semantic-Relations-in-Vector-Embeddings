@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con01a-point.txt	0.49773599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con01b-counter.txt	0.28806299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con02a-point.txt	0.32903000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con02b-counter.txt	0.12223499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con03a-point.txt	0.29932099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con03b-counter.txt	0.906304
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con04a-point.txt	0.35099100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/con/con04b-counter.txt	0.607198
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro01a-point.txt	0.614953
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro01b-counter.txt	0.16990700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro02a-point.txt	0.667902
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro02b-counter.txt	0.30509299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro03a-point.txt	0.737835
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro03b-counter.txt	0.264579
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro04a-point.txt	0.684821
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-warpeace-house-believes-nato-has-succeeded-afghanistan/pro/pro04b-counter.txt	0.19465100000000002

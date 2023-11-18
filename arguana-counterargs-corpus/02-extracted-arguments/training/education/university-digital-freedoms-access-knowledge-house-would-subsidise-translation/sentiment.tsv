@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con01a-point.txt	0.56404
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con01b-counter.txt	0.649754
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con02a-point.txt	0.26032
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con02b-counter.txt	0.795593
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con03a-point.txt	0.04708000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/con/con03b-counter.txt	0.937475
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro01a-point.txt	0.827352
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro01b-counter.txt	0.46123899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro02a-point.txt	0.746214
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro02b-counter.txt	0.820298
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro03a-point.txt	0.90302
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-digital-freedoms-access-knowledge-house-would-subsidise-translation/pro/pro03b-counter.txt	0.285833

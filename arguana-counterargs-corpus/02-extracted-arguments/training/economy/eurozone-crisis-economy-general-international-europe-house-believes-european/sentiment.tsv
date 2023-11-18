@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con01a-point.txt	0.85833
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con01b-counter.txt	0.95497
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con02a-point.txt	0.909233
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con02b-counter.txt	0.11283500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con03a-point.txt	0.928209
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con03b-counter.txt	0.24224299999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con04a-point.txt	0.434982
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con04b-counter.txt	0.21775
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con05a-point.txt	0.938338
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/con/con05b-counter.txt	0.06109600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro01a-point.txt	0.488189
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro01b-counter.txt	0.955275
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro02a-point.txt	0.262223
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro02b-counter.txt	0.46887900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro03a-point.txt	0.31528500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro03b-counter.txt	0.110734
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro04a-point.txt	0.730206
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/eurozone-crisis-economy-general-international-europe-house-believes-european/pro/pro04b-counter.txt	0.568222

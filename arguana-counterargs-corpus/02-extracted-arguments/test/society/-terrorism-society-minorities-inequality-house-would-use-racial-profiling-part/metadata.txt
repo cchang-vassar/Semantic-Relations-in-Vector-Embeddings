@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-terrorism-society-minorities-inequality/house-would-use-racial-profiling-part
+published_time	2012-02-21T15:42:44+01:00
+modified_time	2017-05-19T22:28:15+02:00
+crawled_time	Sun Feb 04 18:43:03 CET 2018
+voting_pro	50
+voting_con	50
+reads	19550

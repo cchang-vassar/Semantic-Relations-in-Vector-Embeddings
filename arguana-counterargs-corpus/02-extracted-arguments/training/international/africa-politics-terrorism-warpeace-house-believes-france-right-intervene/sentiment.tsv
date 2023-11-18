@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con01a-point.txt	0.23384400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con01b-counter.txt	0.379444
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con02a-point.txt	0.27814799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con02b-counter.txt	0.455817
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con03a-point.txt	0.744394
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/con/con03b-counter.txt	0.06331399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro01a-point.txt	0.353248
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro01b-counter.txt	0.03991900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro02a-point.txt	0.538169
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro02b-counter.txt	0.684584
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro03a-point.txt	0.864529
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro03b-counter.txt	0.162779
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro04a-point.txt	0.515181
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-terrorism-warpeace-house-believes-france-right-intervene/pro/pro04b-counter.txt	0.13997199999999999

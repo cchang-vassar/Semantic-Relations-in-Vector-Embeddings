@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-law-general-punishment-internet-society-youth/house-would-have-cyberbullies-do-time
+published_time	2016-04-29T17:38:53+02:00
+modified_time	2017-03-11T17:32:20+01:00
+crawled_time	Sun Feb 04 18:42:52 CET 2018
+voting_pro	67
+voting_con	33
+reads	16419

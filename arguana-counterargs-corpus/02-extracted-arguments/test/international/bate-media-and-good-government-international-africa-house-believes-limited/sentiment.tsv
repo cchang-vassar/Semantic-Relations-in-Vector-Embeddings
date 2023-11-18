@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con01a-point.txt	0.725593
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con01b-counter.txt	0.365679
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con02a-point.txt	0.803148
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con02b-counter.txt	0.23924299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con03a-point.txt	0.382359
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/con/con03b-counter.txt	0.674986
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro01a-point.txt	0.612093
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro01b-counter.txt	0.031227000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro02a-point.txt	0.07542300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro02b-counter.txt	0.327897
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro03a-point.txt	0.606484
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/bate-media-and-good-government-international-africa-house-believes-limited/pro/pro03b-counter.txt	0.243572

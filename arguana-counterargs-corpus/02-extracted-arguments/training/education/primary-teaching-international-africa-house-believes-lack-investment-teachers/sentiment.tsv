@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con01a-point.txt	0.35386799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con01b-counter.txt	0.34761200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con02a-point.txt	0.41813500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con02b-counter.txt	0.407215
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con03a-point.txt	0.856349
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con03b-counter.txt	0.917029
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con04a-point.txt	0.03779100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/con/con04b-counter.txt	0.00661299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro01a-point.txt	0.850867
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro01b-counter.txt	0.644241
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro02a-point.txt	0.858033
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro02b-counter.txt	0.778444
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro03a-point.txt	0.763278
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro03b-counter.txt	0.977028
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro04a-point.txt	0.638306
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/primary-teaching-international-africa-house-believes-lack-investment-teachers/pro/pro04b-counter.txt	0.524107

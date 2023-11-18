@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-secondary/house-would-raise-school-leaving-age-18
+published_time	2012-02-20T13:08:49+01:00
+modified_time	2017-05-25T10:44:03+02:00
+crawled_time	Sun Feb 04 18:42:27 CET 2018
+voting_pro	50
+voting_con	50
+reads	33157

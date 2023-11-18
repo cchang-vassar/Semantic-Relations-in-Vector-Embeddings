@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con01a-point.txt	0.19553600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con01b-counter.txt	0.17378000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con02a-point.txt	0.748902
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con02b-counter.txt	0.781551
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con03a-point.txt	0.09046900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con03b-counter.txt	0.20453600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con04a-point.txt	0.207862
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/con/con04b-counter.txt	0.406373
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro01a-point.txt	0.819159
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro01b-counter.txt	0.27578400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro02a-point.txt	0.489004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro02b-counter.txt	0.299037
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro03a-point.txt	0.845961
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro03b-counter.txt	0.03934000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro04a-point.txt	0.518128
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/voting-house-would-lower-voting-age-16/pro/pro04b-counter.txt	0.04060799999999998

@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con01a-point.txt	0.039073000000000024
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con01b-counter.txt	0.64587
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con02a-point.txt	0.231557
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con02b-counter.txt	0.31492699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con03a-point.txt	0.938258
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con03b-counter.txt	0.537187
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con04a-point.txt	0.47592
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/con/con04b-counter.txt	0.9421
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro01a-point.txt	0.30157199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro01b-counter.txt	0.23693699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro02a-point.txt	0.493796
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro02b-counter.txt	0.09106099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro03a-point.txt	0.564694
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/conomic-policy-eurozone-crisis-finance-international-europe-politics-government/pro/pro03b-counter.txt	0.260753

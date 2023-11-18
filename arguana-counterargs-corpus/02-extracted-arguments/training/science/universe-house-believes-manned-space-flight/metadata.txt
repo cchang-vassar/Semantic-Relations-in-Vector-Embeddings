@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/science-universe/house-believes-manned-space-flight
+published_time	2012-02-21T14:45:15+01:00
+modified_time	2017-05-20T08:36:01+02:00
+crawled_time	Sun Feb 04 18:42:29 CET 2018
+voting_pro	50
+voting_con	50
+reads	20286

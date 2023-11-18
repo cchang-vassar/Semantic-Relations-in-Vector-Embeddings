@@ -1,0 +1,82 @@
+# METADATA
+url	https://idebate.org/debatabase/international/americas/house-believes-wall-shared-usa-and-mexico-border-would-be
+published_time	2017-11-20T14:09:31+01:00
+modified_time	2017-11-20T14:50:11+01:00
+crawled_time	Sun Feb 04 18:42:56 CET 2018
+voting_pro	100
+voting_con	0
+reads	unknown
+
+
+# THESIS
+This house believes that a ‘wall’ on the shared USA and Mexico border would be ineffective.
+
+
+# INTRO
+During the 2016 United States Presidential Election, Donald Trump proposed the idea of a wall that stretched the border of the US and Mexico. The purpose of the wall would be an attempt to primarily stop the flow of undocumented people and drugs. A wall between the border would be made of various types of fencing in some places and a stone wall in other depending on what the landscape allowed. Trump also stated his intention to have a large door in the wall. There are logistical problems to the wall as well as ethical ones, but what remains to be seen is whether or not a wall would be effective. Presently, there is fencing along some parts of the border that has been ineffective at stopping any enter or exit.
+
+
+# PRO01A-POINT
+A lot of undocumented workers are already in the US
+
+According to data from Department of homeland security most of the people who are here illegally arrive here legally and then overstay their visa. Over 400,000 people whose Visas expired in 2015 were still living in the country in 2016. That's about the same as the number of people who cross the southern border every year (328,00 - 479,00). The wall would do nothing to the people that are already here.
+
+# PRO01B-COUNTER
+There are still a large number of people that do cross the border every year that would be affected if a wall was constructed. Even if the wall does not stop illegal immigration all together, even stopping some of it does make it effective.
+
+# PRO02A-POINT
+Cartels can maneuver past checkpoints
+
+The current 650 miles of wall has done nothing to stop the flow of drugs. Cartels heavily study checkpoints and find their weaknesses and exploit them. Checkpoint officers can also be corrupted and/or ineffective. Most drugs also come through ports of entry, not the border according to the Institute for Policy Studies. Drugs is the biggest danger that comes from the free flow between the borders, yet a wall would not effectively stop the flow of drugs. If it does not stop the bringing of drugs into the US then the wall does not fulfill its purpose.
+
+# PRO02B-COUNTER
+The wall would also entail a large overall of current border checkpoint protocol. This disrupts the routine of the cartels and makes it harder to smuggle drugs across the border and it will take a while before the figure out the new system.
+
+# PRO03A-POINT
+Terrorists are not undocumented
+
+80% of terrorists than have been apprehended since 2001 in the US are homegrown. Only one of 154 terrorists in the US since 1975 has been Mexican.
+
+# PRO03B-COUNTER
+Preventing terrorism is not the primary goal of the wall, only an added benefit. The primary goals of the wall is to stop the flow of undocumented people and illegal drugs. Any prevention of terrorism is an added benefit to the utility of the wall, however small the added benefit may be.
+
+# PRO04A-POINT
+Economic downturn would cause a surge of immigration
+
+People leave Mexico because of poor employment opportunities, the wall would likely hurt the economy of Mexico and create a surge of immigration. Building the wall has a negative effect on natural resources as well as businesses in the area. Also it would discourage investment in Mexico because it would look like a serving of the partnership between the US and Mexico. Any hit to the Mexican economy would likely increase illegal immigration, despite the wall’s construction.
+
+# PRO04B-COUNTER
+The state of the economy does nothing to change the effectiveness of the wall at keeping drugs and people from crossing the US-Mexico border.
+
+
+# CON01A-POINT
+Would create US jobs
+
+A building project that large would likely create close to 25000 US jobs. There would also be a large increase in border patrol agents. This would make the wall an effective way to decrease unemployment and create economic opportunity that the Trump administration promised.
+
+# CON01B-COUNTER
+US is currently enduring a construction labor shortage. So the jobs that would be created would not likely to be filled by American worker and not have a very large effect on the unemployment rate. All the people who want a job in that sector likely already have one due to the shortage. Also border security agents make up a huge portion of the Department of Homeland Security’s budget so this would cause a huge increase in spending.
+
+# CON02A-POINT
+At the very least it slows people down
+
+Navigating past the wall will be a problem that people trying to cross the border or bring drugs through the border will have to face. It will create apprehension from attempting to do so. It will make it harder for these crossings to occur.
+
+# CON02B-COUNTER
+According to the Department of Homeland Security, people attempting to cross the border is already on the decline, so this wall might already be a mute point.
+
+# CON03A-POINT
+Prototypes have seen success
+
+A prototype in San Diego has been built and has seen a success. The number of illegal crossings dropped from 560,000 in 1992 to 68000 in 2010 after the prototype had been constructed.
+
+# CON03B-COUNTER
+This is a large time jump and can be attributed to other exogenous factors, not just the construction of the prototype wall.
+
+
+# LITERATURE
+Alvarez, Priscilla. “The Border-Wall Prototypes Are Up-Now What?” The Atlantic, Atlantic Media Company, 26 Oct. 2017, www.theatlantic.com/politics/archive/2017/10/can-trumps-wall-stop-illega... .
+
+Bahler, Kristen. “The Wall Will Create Thousands of New Jobs. But There Could Be a Catch.” Time Money, Time Magazine , 27 Jan. 2017, time.com/money/4651290/the-wall-will-create-thousands-of-new-jobs-but-there-could-be-a-catch/.
+
+Dear, Michael, et al. “5 Problems ‘the Wall’ Won’t Solve.” POLITICO Magazine, 28 Feb. 2017, www.politico.com/magazine/story/2017/02/trump-wall-mexico-problems-immig... .

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international/africa-global-law-human-rights-international-law/house-believes
+published_time	2014-02-24T18:13:17+01:00
+modified_time	2017-04-03T16:37:30+02:00
+crawled_time	Sun Feb 04 18:43:09 CET 2018
+voting_pro	50
+voting_con	50
+reads	13123

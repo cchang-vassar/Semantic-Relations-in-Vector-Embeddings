@@ -1,0 +1,28 @@
+In the last decade, the development of Genetically Modified Organisms (GMO) has emerged as a highly controversial topic. This is a difficult topic because a basic grasp on the scientific issues is necessary to take the debate beyond the level of media headlines. Here is a very brief summary of some of the key concepts: Deoxyribonucleic Acid (DNA) DNA, the complex molecule that genes are composed of, is frequently likened to a computer program - an information-bearing code. One of the things that the DNA in genes codes for is the production of proteins - chemicals that regulate many of the processes that occur inside cells.
+
+Genetic Modification will typically do one of two things: either add new sections of DNA to the genes of a particular plant or animal to code for new proteins, or remove stretches of DNA so that a particular protein is not produced. A section of DNA coding for one particular protein is called a gene. There are an enormous number of changes that can be made to organisms with genetic modification. These range from the introduction of fish genes into plants to lead to better frost resistance, to modifications leading to rice plants producing more vitamin A. [1] The 'Terminator' Gene is one of the most controversial additions since it is a stretch of DNA that renders the seeds produced by the plant infertile; this makes the plant unable to reproduce (and is used by seed companies to force farmers to buy new supplies of the seed each year. [2]
+
+In the past varieties of crops and their seeds have not been owned by anyone and have not been patented. There is an increasing trend for biotechnology companies to patent GM crop varieties and thus own the exclusive right to produce and sell their seeds. This means that farmers in developing (and developed) countries will become dependent on these multinational seed-producing firms who will be able to charge high prices for patented varieties. The leader in GMO patenting (and profiting out of it) is the company Monsanto. Farmers explain that many times, they have to pay fees to Monsanto, as the company believes they have planted (2 nd generation) soybeans in violation of the company’s patent – not paying for them. [3]
+
+Currently, the EU has a strict regulation on genetically modified crops, as of July 2011, a type of maize called MON 810 is the only GM food cultivated commercially in the EU, the EU Commission proposed that the EU should decide on approvals or bans on environmental or health grounds for any crop with genetic modifications. [4]
+
+Currently legislation in the US allows the cultivation and also distribution of GMO as food. The official position of the FDA (Food and Drug Administration) is that GMOs are no different from other natural organisms and therefore do not need special labeling or treatment. So in the US, status quo is that GMO used for food are not labeled and are in no way a threat to health. [5]
+
+In 2001 the EU has decided to pass the so-called 'safeguard clause' (Art. 23 Dir. 2001/18/EC), which allows member states to prohibit the use and/or sale of the GM products on its territory. In 2011 6 countries within the EU apply this clause: Austria, France, Greece, Hungary, Germany and Luxembourg. [6] Within the whole EU, food and feed must carry a label which refers to the presence of GMOs, commercialization of GMO corps have to approved by EU bodies. The requirements for labeling, do not apply to food/feed which contains, consists of, or is produced from GMOs in a proportion no higher than 0.9 % (for example: imported food from the US). [7]
+
+Possible debate topics include whether or not GM food should be limited in distribution and commercial use. Other topics include the mandating of labeling of GM food and whether animal feed should be allowed to be GM.
+
+[1] Human Genome Project Information, Genetically modified foods and organisms,
+http://www.ornl.gov/sci/techresources/Human_Genome/elsi/gmfood.shtml , accessed 09/02/2011
+
+[2] Camden J., The Terminator Gene, University of Notre Dame, http://www.nd.edu/~chem191/f2.html , accessed 09/05/2011
+
+[3] Barlett D., Monsanto’s Harvest of Fear, published May 2008, http://www.vanityfair.com/politics/features/2008/05/monsanto200805 , accessed 08/27/2011
+
+[4] BBC News, GM crops: EU parliament backs national bans, published 07/11/2011 http://www.bbc.co.uk/news/world-europe-14045365 , accessed 08/28/2011
+
+[5] NaturalNews.com, US opposes honest labeling of GMO foods, 07/09/2010 http://www.naturalnews.com/029168_GMO_foods_labeling.html , accessed 08/28/2011
+
+[6] European Commission, Rules on GMOs in the EU, http://ec.europa.eu/food/food/biotechnology/gmo_ban_cultivation_en.htm , accessed 08/28/2011
+
+[7] European Commission, GMO labeling, http://ec.europa.eu/food/food/biotechnology/gmo_labelling_en.htm , accessed 08/28/2011

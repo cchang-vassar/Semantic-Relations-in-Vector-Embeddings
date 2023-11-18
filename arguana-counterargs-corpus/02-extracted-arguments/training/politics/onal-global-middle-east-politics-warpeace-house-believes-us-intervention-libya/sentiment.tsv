@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con01a-point.txt	0.630357
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con01b-counter.txt	0.276961
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con02a-point.txt	0.29459100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con02b-counter.txt	0.86163
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con03a-point.txt	0.509251
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/con/con03b-counter.txt	0.858328
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro01a-point.txt	0.31440500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro01b-counter.txt	0.13079399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro02a-point.txt	0.23779700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro02b-counter.txt	0.688106
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro03a-point.txt	0.463553
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-global-middle-east-politics-warpeace-house-believes-us-intervention-libya/pro/pro03b-counter.txt	0.396752

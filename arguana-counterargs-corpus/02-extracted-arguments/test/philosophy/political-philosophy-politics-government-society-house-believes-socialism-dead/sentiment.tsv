@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con01a-point.txt	0.511888
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con01b-counter.txt	0.244996
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con02a-point.txt	0.31834799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con02b-counter.txt	0.07421699999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con03a-point.txt	0.541767
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con03b-counter.txt	0.504616
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con04a-point.txt	0.663381
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con04b-counter.txt	0.987641
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con05a-point.txt	0.30726299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/con/con05b-counter.txt	0.03711500000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro01a-point.txt	0.25157799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro01b-counter.txt	0.16529400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro02a-point.txt	0.432381
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro02b-counter.txt	0.15048300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro03a-point.txt	0.365055
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/political-philosophy-politics-government-society-house-believes-socialism-dead/pro/pro03b-counter.txt	0.70449

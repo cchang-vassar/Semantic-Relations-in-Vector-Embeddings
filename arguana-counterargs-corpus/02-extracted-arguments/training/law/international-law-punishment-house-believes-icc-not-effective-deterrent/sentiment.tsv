@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con01a-point.txt	0.15772600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con01b-counter.txt	0.17395300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con02a-point.txt	0.821017
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con02b-counter.txt	0.753302
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con03a-point.txt	0.890522
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/con/con03b-counter.txt	0.285416
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro01a-point.txt	0.270227
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro01b-counter.txt	0.30990300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro02a-point.txt	0.34982100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro02b-counter.txt	0.806751
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro03a-point.txt	0.878531
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-punishment-house-believes-icc-not-effective-deterrent/pro/pro03b-counter.txt	0.549084

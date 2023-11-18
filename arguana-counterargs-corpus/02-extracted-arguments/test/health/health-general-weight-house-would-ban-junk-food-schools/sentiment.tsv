@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con01a-point.txt	0.747298
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con01b-counter.txt	0.821558
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con02a-point.txt	0.662417
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con02b-counter.txt	0.906482
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con03a-point.txt	0.40537
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con03b-counter.txt	0.309052
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con04a-point.txt	0.41958300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/con/con04b-counter.txt	0.404868
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro01a-point.txt	0.825633
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro01b-counter.txt	0.05901599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro02a-point.txt	0.967541
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro02b-counter.txt	0.663161
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro03a-point.txt	0.496718
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/health-general-weight-house-would-ban-junk-food-schools/pro/pro03b-counter.txt	0.11945399999999995

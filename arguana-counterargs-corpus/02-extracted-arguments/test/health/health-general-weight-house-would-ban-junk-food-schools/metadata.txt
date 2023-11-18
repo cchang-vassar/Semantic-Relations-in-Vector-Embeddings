@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/health-health-general-weight/house-would-ban-junk-food-schools
+published_time	2012-02-17T09:22:29+01:00
+modified_time	2017-08-10T07:42:49+02:00
+crawled_time	Sun Feb 04 18:42:59 CET 2018
+voting_pro	50
+voting_con	50
+reads	172012

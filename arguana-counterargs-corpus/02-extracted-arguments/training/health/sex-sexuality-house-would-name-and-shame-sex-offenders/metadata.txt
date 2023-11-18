@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/health/sex-sexuality/house-would-name-and-shame-sex-offenders
+published_time	2012-01-26T16:34:06+01:00
+modified_time	2017-08-18T20:00:25+02:00
+crawled_time	Sun Feb 04 18:42:22 CET 2018
+voting_pro	50
+voting_con	50
+reads	17725

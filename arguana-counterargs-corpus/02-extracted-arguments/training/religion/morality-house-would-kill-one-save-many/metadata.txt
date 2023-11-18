@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/religion-morality/house-would-kill-one-save-many
+published_time	2012-02-18T16:56:55+01:00
+modified_time	2017-05-29T18:36:26+02:00
+crawled_time	Sun Feb 04 18:42:37 CET 2018
+voting_pro	50
+voting_con	50
+reads	33160

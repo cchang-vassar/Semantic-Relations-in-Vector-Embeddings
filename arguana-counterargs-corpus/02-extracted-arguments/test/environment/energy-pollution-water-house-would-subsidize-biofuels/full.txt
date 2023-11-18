@@ -1,0 +1,32 @@
+# METADATA
+url	https://idebate.org/debatabase/environment-energy-pollution-water/house-would-subsidize-biofuels
+published_time	2012-01-26T16:33:05+01:00
+modified_time	2012-09-14T14:20:18+02:00
+crawled_time	Sun Feb 04 18:43:08 CET 2018
+voting_pro	50
+voting_con	50
+reads	26700
+
+
+# THESIS
+This house would subsidize biofuels
+
+
+# INTRO
+Biofuels are sources of energy which come from living, renewable sources, such as crops, trees and even animal manure. Fossil fuels like oil, gas and coal, on the other hand, formed in the earth from decaying vegetation many millions of years ago, and cannot be renewed. In recent years biofuels have come to mean fuels such as ethanol and biodiesel which can be burned in engines to drive vehicles in place of fossil fuels like petroleum and diesel. Ethanol can be made from a variety of crops, such as maize or sugarcane, while biodiesel is often made from palm oil, soya or rapeseed (canola). In the past biofuels have not been given much attention (save in Brazil, which has little oil but much sugar cane to convert into transport fuel), but this is rapidly changing [1] . As the price of oil has soared in the past few years and biofuel production methods have improved, the price gap has narrowed considerably although levels of subsidy are an important part of the economic equation. Biofuels have also been promoted as a way of reducing carbon emissions and so of tackling global climate change.
+
+In most cases ethanol or biodiesel is mixed with regular gasoline or diesel – typically 5% or 10% of what comes out of the pump is biofuel, but it can be as high as 85% [2] . The US saw a 14% increase in biofuel consumption in 2009, and the federal government wants 30% of gasoline to come from biofuels within 25 years [3] . The EU has similar targets, although in Europe biodiesel is more important than ethanol at present [4] . This topic looks at whether biofuels really are better than fossil fuels, and if governments should continue and develop policies to promote biofuel production and use. The specific arguments will vary a little from country to country, but the principles behind them should be relevant everywhere.
+
+[1] http://www.eia.gov/kids/energy.cfm?page=biofuel_home-basics
+
+[2] http://www.eia.gov/kids/energy.cfm?page=biofuel_home-basics
+
+[3] http://www.economist.com/node/15773820
+
+[4] http://www.biodieselmagazine.com/articles/3103/eu-adopts-10-percent-biofuels-mandate
+
+
+
+
+# LITERATURE
+BBC (2011), "Oil Prices Rise as Libya Unrest Continues", [Accessed July 26, 2011]. Energy Information Administration, "Biofuels", EIA Kids, [Accessed August 3, 2011]. Fitzgerald, Michael (2006), "India's Big Plans for Biodiesel", Technology Review: MIT, [Accessed August 3, 2011]. Clark, Josh, "Are Biofuels Carbon Neutral?", Discovery News, [Accessed August 3, 2011]. Renton, Alex (2007), "How America is betraying the hungry children of Africa", The Guardian, [Accessed August 3, 2011] Bradbury, Danny (2011), "Rising sugar prices and US tariffs force Brazil towards ethanol imports" Business Green, [Accessed August 3, 2011] Mshomba, Richard (2002), 'How Northern Subsidies Hurt Africa", Africa Recovery: United Nations, [Accessed August 3, 2011] CNN (2009), "Ukraine, Russia cut off gas to Europe", [Accessed August 3, 2011] Kunzig, Robert (2009), "The Canadian Oil Boom", National Geographic, [Accessed August 3, 2011] Economist (2011), "The Difference Engine" [Accessed August 3, 2011] Wall Street Journal (2009), "Sins of Emission" [Accessed August 3, 2011] Schill, Suzanne, "EU adopts 10 Percent Biofuels Mandate", Biodiesel Magazine, [Accessed August 3, 2011] Economist (2010), "Coming up Empty" [Accessed August 3, 2011] EIA, "Trends in Renewable Energy Consumption and Electricity 2009" [Accessed August 3, 2011] EIA, "Using and Saving Energy" EIA Kids, [Accessed August 3, 2011] Renewable Fuels Association (2010), "University Report: Ethanol Reduced Gas Prices $.89 in 2010" [Accessed August 3, 2011] National Renewable Energy Laboratory (2007), "The Impact of Ethanol Blending on US Gasoline Prices" [Accessed August 3, 2011] Global Subsidies Initiative (2006), "Biofuel Subsidies in the United States" [Accessed August 3, 2011] HM Revenue and Customs, "Agricultural purposes: Set-aside scheme" [Accessed August 3, 2011] Science Daily (2005), "Study: Ethanol Production Consumes Six Units of Energy To Produce Just One" [Accessed August 3, 2011] Rosenthal, Elisabeth (2008), "Biofuels Deemed a Greenhouse Threat" New York Times [Accessed August 3, 2011] US Department of Energy, "Biofuels &amp; Greenhouse Gas Emissions: Myths versus Facts" [Accessed August 3, 2011] Economist (2011), "The Difference Engine: The beef about corn" [Accessed August 3, 2011] Rattner, Steven (2011), "The Great Corn Con" New York Times, [Accessed August 3, 2011] Elisabeth, Rosenthal (2011), "Rush to Use Crops as Fuel Raises Food Prices and Hunger Fears" New York Times [Accessed August 3, 2011]

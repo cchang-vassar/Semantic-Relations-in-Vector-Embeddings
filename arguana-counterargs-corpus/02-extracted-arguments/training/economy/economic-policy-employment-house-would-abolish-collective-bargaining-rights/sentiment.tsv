@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con01a-point.txt	0.630745
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con01b-counter.txt	0.450631
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con02a-point.txt	0.543031
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con02b-counter.txt	0.581299
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con03a-point.txt	0.543031
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con03b-counter.txt	0.571871
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con04a-point.txt	0.727613
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/con/con04b-counter.txt	0.913434
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro01a-point.txt	0.735201
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro01b-counter.txt	0.32699100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro02a-point.txt	0.23896799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro02b-counter.txt	0.58496
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro03a-point.txt	0.880531
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro03b-counter.txt	0.40735699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro04a-point.txt	0.869492
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-abolish-collective-bargaining-rights/pro/pro04b-counter.txt	0.40735699999999997
