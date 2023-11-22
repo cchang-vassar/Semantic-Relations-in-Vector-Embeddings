@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con01a-point.txt	0.02997799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con01b-counter.txt	0.0018040000000000278
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con02a-point.txt	0.582624
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con02b-counter.txt	0.797995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con03a-point.txt	0.19887699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con03b-counter.txt	0.349935
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con04a-point.txt	0.630713
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con04b-counter.txt	0.514639
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con05a-point.txt	0.413192
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/con/con05b-counter.txt	0.33714599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro01a-point.txt	0.710154
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro01b-counter.txt	0.72845
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro02a-point.txt	0.913456
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro02b-counter.txt	0.29032800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro03a-point.txt	0.409652
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro03b-counter.txt	0.39303699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro04a-point.txt	0.702238
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-house-believes-university-education-should-be-free/pro/pro04b-counter.txt	0.757978

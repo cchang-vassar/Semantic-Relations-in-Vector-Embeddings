@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-tax-education-education-general-secondary/house-would-fund-education-using
+published_time	2012-03-01T16:58:42+01:00
+modified_time	2017-04-26T12:56:02+02:00
+crawled_time	Sun Feb 04 18:43:01 CET 2018
+voting_pro	50
+voting_con	50
+reads	8181

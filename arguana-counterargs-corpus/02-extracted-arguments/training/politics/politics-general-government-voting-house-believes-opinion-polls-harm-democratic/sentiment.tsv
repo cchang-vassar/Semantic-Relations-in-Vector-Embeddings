@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con01a-point.txt	0.12865800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con01b-counter.txt	0.0065870000000000095
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con02a-point.txt	0.13494700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con02b-counter.txt	0.08659300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con03a-point.txt	0.457774
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con03b-counter.txt	0.11106099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con04a-point.txt	0.28341000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con04b-counter.txt	0.948088
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con05a-point.txt	0.98141
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/con/con05b-counter.txt	0.06711400000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro01a-point.txt	0.762535
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro01b-counter.txt	0.19329700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro02a-point.txt	0.05536300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro02b-counter.txt	0.024500999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro03a-point.txt	0.15381599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro03b-counter.txt	0.47100200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro04a-point.txt	0.04470799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro04b-counter.txt	0.019510999999999945
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro05a-point.txt	0.273131
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-voting-house-believes-opinion-polls-harm-democratic/pro/pro05b-counter.txt	0.08028599999999997

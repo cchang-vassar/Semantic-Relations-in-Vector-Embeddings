@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-europe-politics-terrorism-computers-phones/house-believes-german
+published_time	2014-01-23T19:05:32+01:00
+modified_time	2017-04-04T13:25:49+02:00
+crawled_time	Sun Feb 04 18:42:41 CET 2018
+voting_pro	100
+voting_con	0
+reads	10651

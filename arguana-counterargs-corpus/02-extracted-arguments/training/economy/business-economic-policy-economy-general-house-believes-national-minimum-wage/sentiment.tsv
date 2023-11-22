@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con01a-point.txt	0.12683199999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con01b-counter.txt	0.03362100000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con02a-point.txt	0.63687
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con02b-counter.txt	0.20262199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con03a-point.txt	0.503743
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con03b-counter.txt	0.549287
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con04a-point.txt	0.34905200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/con/con04b-counter.txt	0.21702
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro01a-point.txt	0.534307
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro01b-counter.txt	0.549375
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro02a-point.txt	0.618981
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro02b-counter.txt	0.39054500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro03a-point.txt	0.388514
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro03b-counter.txt	0.912088
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro04a-point.txt	0.06895899999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-economy-general-house-believes-national-minimum-wage/pro/pro04b-counter.txt	0.302192

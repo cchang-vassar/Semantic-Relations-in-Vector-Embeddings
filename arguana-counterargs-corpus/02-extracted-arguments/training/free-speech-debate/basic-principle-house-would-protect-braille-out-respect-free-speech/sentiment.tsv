@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con01a-point.txt	0.47329
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con01b-counter.txt	0.007701999999999987
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con02a-point.txt	0.48400200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con02b-counter.txt	0.517364
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con03a-point.txt	0.50471
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/con/con03b-counter.txt	0.355425
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro01a-point.txt	0.717196
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro01b-counter.txt	0.015410999999999953
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro02a-point.txt	0.697809
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro02b-counter.txt	0.825554
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro03a-point.txt	0.626382
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-would-protect-braille-out-respect-free-speech/pro/pro03b-counter.txt	0.021666999999999992

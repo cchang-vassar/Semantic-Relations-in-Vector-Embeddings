@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con01a-point.txt	0.260107
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con01b-counter.txt	0.675329
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con02a-point.txt	0.18883300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con02b-counter.txt	0.853562
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con03a-point.txt	0.672659
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con03b-counter.txt	0.787915
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con04a-point.txt	0.635191
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/con/con04b-counter.txt	0.388784
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro01a-point.txt	0.92572
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro01b-counter.txt	0.03357399999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro02a-point.txt	0.936203
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro02b-counter.txt	0.364912
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro03a-point.txt	0.867364
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro03b-counter.txt	0.22429299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro04a-point.txt	0.929709
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/access-information-house-believes-internet-encourages-democracy/pro/pro04b-counter.txt	0.44667100000000004

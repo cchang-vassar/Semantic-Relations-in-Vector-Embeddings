@@ -1,0 +1,22 @@
+# METADATA
+url	https://idebate.org/debatabase/international/international-europe/european-union-should-not-continue-its-enlargement
+published_time	2012-09-25T13:26:58+02:00
+modified_time	2012-09-25T13:28:03+02:00
+crawled_time	Sun Feb 04 18:42:44 CET 2018
+voting_pro	50
+voting_con	50
+reads	3034
+
+
+# THESIS
+The European Union should not continue its enlargement process
+
+
+# INTRO
+
+
+
+
+
+# LITERATURE
+null

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con01a-point.txt	0.791264
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con01b-counter.txt	0.04356899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con02a-point.txt	0.48050499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con02b-counter.txt	0.15700899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con03a-point.txt	0.773941
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con03b-counter.txt	0.895157
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con04a-point.txt	0.534712
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/con/con04b-counter.txt	0.26796200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro01a-point.txt	0.758767
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro01b-counter.txt	0.762161
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro02a-point.txt	0.542749
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro02b-counter.txt	0.37125699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro03a-point.txt	0.93604
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro03b-counter.txt	0.880156
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro04a-point.txt	0.670666
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro04b-counter.txt	0.40489200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro05a-point.txt	0.02057399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro05b-counter.txt	0.19936399999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro06a-point.txt	0.12011899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-teaching-youth-house-supports-home-schooling/pro/pro06b-counter.txt	0.861963

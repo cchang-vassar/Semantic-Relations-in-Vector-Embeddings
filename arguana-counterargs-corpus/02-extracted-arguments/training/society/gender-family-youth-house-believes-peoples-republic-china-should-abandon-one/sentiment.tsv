@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con01a-point.txt	0.378571
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con01b-counter.txt	0.540472
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con02a-point.txt	0.232039
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con02b-counter.txt	0.277848
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con03a-point.txt	0.699116
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/con/con03b-counter.txt	0.10573999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro01a-point.txt	0.42655200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro01b-counter.txt	0.12795500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro02a-point.txt	0.547066
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro02b-counter.txt	0.004218999999999973
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro03a-point.txt	0.08208499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/gender-family-youth-house-believes-peoples-republic-china-should-abandon-one/pro/pro03b-counter.txt	0.28545

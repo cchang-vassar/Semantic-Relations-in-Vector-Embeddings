@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-employment/house-believes-unemployed-should-be-made-work-their-welfare-money
+published_time	2012-01-26T16:33:02+01:00
+modified_time	2017-08-20T12:15:41+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	26208

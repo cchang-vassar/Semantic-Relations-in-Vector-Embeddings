@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con01a-point.txt	0.31995700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con01b-counter.txt	0.629778
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con02a-point.txt	0.698015
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con02b-counter.txt	0.207013
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con03a-point.txt	0.860834
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/con/con03b-counter.txt	0.348735
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro01a-point.txt	0.296107
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro01b-counter.txt	0.207673
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro02a-point.txt	0.401949
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro02b-counter.txt	0.861455
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro03a-point.txt	0.12863999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro03b-counter.txt	0.537476
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro04a-point.txt	0.730688
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/finance-health-healthcare-politics-house-would-introduce-system-universal/pro/pro04b-counter.txt	0.435145

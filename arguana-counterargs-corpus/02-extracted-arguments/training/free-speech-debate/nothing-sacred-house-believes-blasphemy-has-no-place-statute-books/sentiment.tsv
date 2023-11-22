@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con01a-point.txt	0.04665699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con01b-counter.txt	0.054849999999999954
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con02a-point.txt	0.20281899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con02b-counter.txt	0.02016499999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con03a-point.txt	0.41416
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/con/con03b-counter.txt	0.818739
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro01a-point.txt	0.11355800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro01b-counter.txt	0.595077
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro02a-point.txt	0.36836199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro02b-counter.txt	0.16237000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro03a-point.txt	0.10162099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/nothing-sacred-house-believes-blasphemy-has-no-place-statute-books/pro/pro03b-counter.txt	0.12372799999999995

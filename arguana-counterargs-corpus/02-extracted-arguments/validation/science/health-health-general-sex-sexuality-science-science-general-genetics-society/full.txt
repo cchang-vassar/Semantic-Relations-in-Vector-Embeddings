@@ -1,0 +1,37 @@
+# METADATA
+url	https://idebate.org/debatabase/society/health-health-general-sex-sexuality-science-science-general-genetics-society
+published_time	2012-02-17T15:58:49+01:00
+modified_time	2012-10-01T16:52:53+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	50
+voting_con	50
+reads	13984
+
+
+# THESIS
+This House Would use public funding for IVF treatment
+
+
+# INTRO
+IVF (in vitro fertilization) treatment is a medical procedure to assist infertile (or otherwise unable) couples to conceive children. The process involves fertilizing egg cells with sperm outside of the womb (in vitro), and then transferring the fertilized egg (zygote) into either the biological mother’s womb, or the womb of a surrogate. Babies conceived through IVF are colloquially known as ‘test tube babies’. Pregnancy rates are around 35% (although this varies a lot between clinics), which means that many couples need to go through several ‘cycles’ of treatment before successfully conceiving – this is one of the reasons why costs are so high. Prices for one cycle of treatment range from around $4000 in Japan to $12,500 in the USA. [1] The overall cost per live birth ranges from $40,000 in the USA and the UK to $24,500 in Scandinavia and Japan. Some countries (e.g. Belgium, Sweden, Australia and Israel) provide funding for several cycles of IVF, while the UK’s NHS provides funding for just one cycle. [2]
+
+Countries, which have currently implemented the policy of public funding, have strict regulations regarding for those desiring publicly funded IVF. Usually there are publicly funded consultations and publicly funded treatments. In New Zealand, the duration of infertility has to be at least one year and it has to be known to doctors that there is a severe cause for the infertility. Also in Auckland specific eligibility criteria are that the woman has to be less than 40 years old at referral, is not obese and has not been smoking for at least 3 months before the treatment. [3] Similar policies, which will be eligible for public funding, could also be implemented in other countries.
+
+The debate can be set up by the proposition as providing one or more cycles as part of a national health service (so the state actually provides the treatment), or as the state subsidizing patients to receive the treatment privately.
+
+Countries, which have currently implemented the policy of public funding, have strict regulations regarding for those desiring publicly funded IVF. Usually there are publicly funded consultations and publicly funded treatments. In New Zealand, the duration of infertility has to be at least one year and it has to be known to doctors that there is a severe cause for the infertility. Also in Auckland specific eligibility criteria are that the woman has to be less than 40 years old at referral, is not obese and has not been smoking for at least 3 months before the treatment. [4] Similar policies, which will be eligible for public funding, could also be implemented in other countries.
+
+[1] World News, Videos on IVF,
+http://wn.com/IVF_Treatment# , accessed 08/21/2011
+
+[2] Wikipedia, In vitro fertilisation, http://en.wikipedia.org/wiki/In_vitro_fertilisation#Availability_and_utilisation , accessed 08/21/2011
+
+[3] Fertility associates, Public funding and eligibility, http://www.fertilityassociates.co.nz/paying-for-treatment/public-funding-and-eligibility.aspx , accessed 08/21/2011
+
+[4] Fertility associates, Public funding and eligibility, http://www.fertilityassociates.co.nz/paying-for-treatment/public-funding-and-eligibility.aspx , accessed 08/21/2011
+
+
+
+
+# LITERATURE
+Adoption facts and figures, Adoption UK, http://www.adoptionuk.org/information/103152/e_factsandfigs/ , accessed 08/22/2011 Cost of Liposuction, Liposuction.com, http://www.liposuction.com/cost-of-liposuction.html , accessed 08/22/2011 Fertility associates, Public funding and eligibility, http://www.fertilityassociates.co.nz/paying-for-treatment/public-funding-and-eligibility.aspx , accessed 08/21/2011 National Library of Medicine, The Hippocratic Oath, http://www.nlm.nih.gov/hmd/greek/greek_oath.html , accessed 08/22/2011 Picard A., When the state funds IVF, the cost is too high for everyone, The Globe and Mail, published 05/11/2011, http://www.theglobeandmail.com/life/health/new-health/andre-picard/when-the-state-funds-ivf-the-cost-is-too-high-for-everyone/article2018895/page1/ , accessed 08/21/2011 Private hip replacement costs in the UK and abroad, Private Healthcare UK, http://www.privatehealth.co.uk/hospitaltreatment/whatdoesitcost/hip-replacement/ , accessed 08/22/2011 The Right to Family, Human Rights Education Associates, http://www.hrea.org/index.php?doc_id=425 , accessed 08/22/2011 Child adoption statistics around the world, The Labor of Love http://www.thelaboroflove.com/articles/child-adoption-statistics-around-the-world , accessed 08/22/2011 Wikipedia, In vitro fertilisation, http://en.wikipedia.org/wiki/In_vitro_fertilisation#Availability_and_utilisation , accessed 08/21/2011 World News, Videos on IVF, http://wn.com/IVF_Treatment# , accessed 08/21/2011

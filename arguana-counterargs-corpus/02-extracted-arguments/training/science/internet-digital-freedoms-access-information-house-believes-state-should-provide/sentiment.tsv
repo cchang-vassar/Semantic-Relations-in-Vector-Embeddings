@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con01a-point.txt	0.144617
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con01b-counter.txt	0.887526
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con02a-point.txt	0.354476
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con02b-counter.txt	0.21195699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con03a-point.txt	0.43947499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/con/con03b-counter.txt	0.721021
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro01a-point.txt	0.589685
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro01b-counter.txt	0.268371
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro02a-point.txt	0.27149500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro02b-counter.txt	0.107846
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro03a-point.txt	0.537997
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro03b-counter.txt	0.68358
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro04a-point.txt	0.939731
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-access-information-house-believes-state-should-provide/pro/pro04b-counter.txt	0.522155

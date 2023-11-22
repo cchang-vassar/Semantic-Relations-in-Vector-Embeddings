@@ -1,0 +1,176 @@
+# METADATA
+url	https://idebate.org/debatabase/international-americas-middle-east/house-believes-us-and-israel-should-join-international
+published_time	2013-09-16T13:59:21+02:00
+modified_time	2017-04-11T12:24:40+02:00
+crawled_time	Sun Feb 04 18:43:11 CET 2018
+voting_pro	50
+voting_con	50
+reads	10934
+
+
+# THESIS
+This House believes that the US and Israel should join the International Criminal Court.
+
+
+# INTRO
+The International Criminal Court came in to being in 2003 as a permanent court created in order to prosecute the most severe international crimes, including crimes against humanity and genocide. It was intended that it would replace the single-purpose international courts such as the International Criminal Tribunal for Rwanda and the International Criminal Tribunal for the former Yugoslavia.
+
+The Rome Statute is what the International Criminal Court derives its powers from. However, as an ordinary international treaty, it does not have universal jurisdiction, it can only prosecute in cases involving nationals of state parties, in cases where the acts took place on the territory of a state party, or when referred by the UN Security Council, which the US has a veto on due to its permanent membership . There are 122 countries that have ratified the Rome Statute including all of the European Union member states, Brazil, Canada and Japan.
+
+The United States has attempted to “un-sign” the Rome Statute by declaring it has no intention to ratify the Rome Statute – something that would require a vote of the US Senate, which has been highly hostile to ratification. Subsequent US legislation, including the American Service-Members’ Protection Act, dubbed the “Hague Invasion Act” by its critics, authorizes the US president to use “all means necessary and appropriate” to remove any Americans from the ICC – in theory, according to critics of the legislation, even up to invading The Hague. Israel never signed it in the first place. Both countries fear that the ICC could be used as a political weapon against them.
+
+Similarly, Israel initially signed the Rome Statute but subsequently "unsigned". Israel’s concerns are centred on long-running issues with the Palestinians, and the US concerns are based on the prospect of a future US military intervention that they consider justified being subject to prosecution, coupled with doubts over the compatibility of the US constitution, both in terms of national sovereignty and the protections available for defendants such as trial by jury, and rules of evidence.
+
+Would it be in the best interests of the global community if the USA and Israel were to join the International Criminal Court?
+
+n.b. See the bibliography for references
+
+
+# PRO01A-POINT
+The ICC is a force for good, and the all states should be seen to be standing fully behind it.
+
+The International Criminal Court is a major breakthrough in providing a permanent and durable system that can effectively prosecute and independently try war criminals.
+
+In the past there was no permanent framework for dealing with grave breaches of human rights protection, often allowing states to perform evil acts with impunity. Only for the very worst atrocities were special courts and tribunals set up. It should also act as a deterrent to future violations; it may not reduce conflict but will encourage states to keep a tighter rein on their militaries.
+
+An attempt at a solution to the problem of enforcement of international criminal law is something to be applauded, for the same reason the criminal law on the domestic sphere is – it saves lives, protects human rights and provides civilization to what would otherwise be anarchy.
+
+# PRO01B-COUNTER
+It took nearly two years for the ICC to launch an investigation into atrocities in the Central African Republic. This has helped defeat the argument that it would be faster than the International Criminal Tribunal for the former Yugoslavia and International Tribunal for Rwanda were. So far being indicted by the ICC has had little impact; for example it failed to prevent the election of Uhuru Kenyatta, who is currently facing trial by the ICC for crimes against humanity, as President of Kenya.
+
+The ICC is also hamstrung by its inability to capture defendants itself. It can only do so with the co-operation of its member states.
+
+The US and Israel have nothing to gain from membership, and everything to lose in terms of being on the receiving end of politically motivated and abusive prosecutions.
+
+# PRO02A-POINT
+Domestic courts are often incapable of providing a fair trial, when they fail the ICC fills the void.
+
+Domestic legal systems will often suffer from a lack of judicial independence and potentially politicised prosecutions, and are also open to allegations of victors’ justice, or whitewashes by a judiciary biased towards the winners of the conflict.
+
+The ICC, as an effective court and with an independent judiciary, provide a suitable and unbiased climate for these cases to be heard in. While it is difficult to give any former head of state a fair trial, it is even more so in cases involving states divided along ethnic and political fault lines where any conviction could be seen as one based on continuing hatreds rather than evidence and criminal procedure.
+
+It is clearly in the interests of the United States and Israel to support the principle that where there is no independent judiciary cases can be moved to a higher level. These states as much as any other desire that those who commit large scale international crimes be brought to book. The ICC for example might provide an alternative method of going after terrorists.
+
+In addition, the principle of complementarity – that the ICC should only prosecute where states have shown themselves unable or unwilling to prosecute - means that when a state can take effective action against war crimes, there will be no role for the ICC. This means that the US and Israel with independent judiciaries should have nothing to worry about unless their judiciary proves unwilling to prosecute if one of their own nationals commits a crime prosecutable by the ICC.
+
+# PRO02B-COUNTER
+Independent nations are capable of trying war crimes themselves.
+
+The ICC is an unnecessary intrusion on national sovereignty. It should be up to each state to determine its own legal system as to how criminal matters should be prosecuted.
+
+If the US and Israel do have issues where military officials have broken the international criminal law, they can be dealt with by the existing Courts-Martial of their respective militaries. Both Israel and the US are states that obey the rule of law. The ICC was unnecessary when the US military convicted William Calley for the My Lai massacre, or the Mahmudiyah case.
+
+The principle of complementarity is no guarantee as it is up to the ICC itself to determine if the state is unable or unwilling, meaning it could take over a case for its own ends.
+
+# PRO03A-POINT
+The American people support ICC membership.
+
+In a democracy the voice of the people should carry weight in determining how the country acts internationally. According to a 2005 poll carried out by the Chicago Council on foreign relations 69% of the US population are in favour of US participation in the ICC. This clearly shows that the US people are unconvinced by the arguments on the theorized drawbacks of the International Criminal Court and are happy for it to be ratified.
+
+# PRO03B-COUNTER
+Just because there is widespread public support for a thing or measure does not mean that it should automatically be the case. The issue should be debated on its own merits, rather than resting on a potentially ill-informed public. Ratification of treaties is left to congress and the Knesset to ensure that their consequences are properly considered.
+
+
+# CON01A-POINT
+Ratification of the International Criminal Court would be a violation of national sovereignty
+
+Any state ratifying the Rome Statute, is placing its citizens at the mercy of a court that operates outside of national control. This is an unacceptable ceding of national sovereignty – thus no state other than the US has the power to deal with American criminals, and no one but Israel should deal with Israeli criminals. International criminal law and national sovereignty are inevitably enemies
+
+Not only does the ICC threaten American sovereignty, it threatens the sovereignty of all nations – the ICC can, in some cases, prosecute citizens of nations that are not state parties. Authority for justice within one’s territory is however at the heart of the concept of sovereignty. As a matter of principle the US should not be supporting measures that affect the sovereignty of any nation, let alone the US itself.
+
+# CON01B-COUNTER
+It is accepted that there is now such a thing as international criminal law – from Nuremberg onwards, there are some matters that can be punished by multinational courts. The US also supported the ICTY and ICTR – if the ICC is a breach of national sovereignty, so are all the single use tribunals. The ICC is essentially an intergovernmental institution in the mould of the United Nations or the IAEA – an institution that can sometimes lead to a decision that goes against the wishes of individual members but that does not mean the members sovereignty is undermined.
+
+While the ICC does have jurisdiction over nationals of non-party states, that only applies if referred by the UN Security Council or if the acts in question. The principle of complementarity will allow states to deal with issues themselves if they are willing and able to do so. Therefore the ICC is perfectly compatible with national sovereignty.
+
+# CON02A-POINT
+Risk of “lawfare” against Israel
+
+The specific position that Israel is in, places it at a unique risk of “lawfare”, the use and abuse of the legal process by states for political ends.
+
+A particular concern is Article 8(2)(b)(viii), which could be used as a particular tool to attack Israel over the settlements policy. Issues over settlements in the West Bank should be resolved by negotiation during the existing, albeit fractious, peace process, rather than being used as a tool for those who wish to derail good faith negotiations by dragging matters in to the hands of the international courts.
+
+Israel has regularly been singled out for particular beration by UN bodies. For example, over half of the country-specific resolutions passed by the UN Human Rights Council have been about Israel, while praising Muammar Gadaffi.
+
+# CON02B-COUNTER
+If Israeli nationals have not committed any criminal offences against international law, they have nothing to fear from joining the International Criminal Court system. While some may agitate for action to be brought against Israel for political reasons, the International Criminal Court has an independent prosecutor and complex procedures that will act as an adequate filter to stop it being hijacked as a tool for “lawfare”
+
+No state should have immunity from the international law, whatever their circumstances or potentials for mischievous uses of the legal system.
+
+In addition, Israeli membership of the ICC would be useful part of the bargaining in the peace process, to allow any criminal cases against Israel to be handled by an impartial international court obeying full rules of law.
+
+# CON03A-POINT
+The rest of the world is better off with the US out
+
+The crucial role that the US plays for international security means that, for the benefit of the rest of the world, it is advantageous for the US to be outside of the ICC jurisdiction.
+
+When military intervention is needed , it will often be the US that does so. The US being in a position where its actions would be constrained by a fear of ICC prosecution.
+
+This would be even worse if the crime of aggression were to take effect, a broad definition of which could harm US interests. With the notable exceptions of the 1991 Gulf War and the invasion of Afghanistan, most recent US overseas missions could be seen as amounting to the crime of aggression. Depending on the definition used, it has been argued that every single US president since Kennedy has committed the crime of aggression. In an increasingly uncertain world, it could be necessary for the US to intervene
+
+American ratification of the ICC would therefore have the unintended consequence of constraining US actions that would otherwise save lives. If the United States does not intervene in cases where there may be considered to be a responsibility to protect then it is unlikely that any other state will either.
+
+# CON03B-COUNTER
+The only effect on US freedom of action would be prohibition of clear and significant violations of international law.
+
+If the US stays within the international criminal law, they will not be affected by the ICC. It would be harmful for any state to have special treatment – if the US were to be granted such special treatment to the United States other large states could request the same due to their self-perceived international roles. Such exceptions and opt outs would mean that the International Criminal Court would be granting impunity to large states, whatever gargantuan violations of the international law are committed, and only investigate smaller ones. This would clearly be an unfair system of international justice. If a country engages in more military engagements, and is larger and more powerful, it is all the more necessary that they are held to the same standards as smaller powers.
+
+# CON04A-POINT
+ICC trials violate the due process guarantees of the US constitution
+
+US ratification of the Rome Statute would lead to the possibility of Americans being subject to trials with procedures that violate the American Constitution. For example, there are no jury trials at the ICC – a majority vote of the judges is enough to convict - is a violation of the Sixth Amendment to the US Constitution.
+
+The independence and neutrality of some of the judges may be doubtful if they come from countries with definite foreign policy interests that run contrary to those of the US. This is particularly pertaining to judges who are from backgrounds where judicial independence from the executive is not a defining feature of the legal system who will be more likely swayed by political considerations.
+
+There is, in addition, a lack of rules against double jeopardy, and the glacial rate of progress made by the ICC with lengthy waits in pre-trial detention for defendants, affecting the right to a speedy trial. It has also been argued that the procedures for special measures to protect witnesses hamper the defence.
+
+# CON04B-COUNTER
+While the ICC operates its own rules of procedure and uses its own formulation for due process rights, it has protections as strong as the top legal systems around the world.
+
+While the ICC is unique, it meets the standards accepted for a fair trial. For example, article 66(2) of the Rome Statute guarantees the presumption of innocence, article 54(1) covers disclosure, article 67 includes the right to counsel and a speedy trial. These safeguards are considered more than adequate by human rights campaign groups such as Amnesty International.
+
+While the ICC does not use juries, in many cases it would be difficult to find an impartial jury or to transport them, and they would be unlikely to cope with the weighty and complex legal issues that occur in complex international criminal trials. At any rate, many states, even common law ones such as the US, do not use juries at all (such as Israel), and in some circumstances they can be allowed in the US.
+
+
+# LITERATURE
+Intro and Prop 1 – ICC is necessary
+
+Amnesty International, “International Criminal Court: Fact sheet 1: Introduction to the International Criminal Court”, amnesty.org, 2000, http://www.amnesty.org/en/library/asset/IOR40/001/2004/en/3fb07bea-d649-...
+
+Amnesty International, “International Criminal Court: Fact sheet 2: The Case for Ratification”, amnesty.org, 2000, http://www.amnesty.org/en/library/asset/IOR40/003/2000/en/b9d468bc-df61-11dd-acaa-7d9091d4638f/ior400032000en.html
+
+Prop 1 Counterargument – ICC is ineffective
+
+Schaefer, Brett D and Groves, Steven “The ICC Review Conference: A Threat to US Interests”, The Heritage Foundation x/05/2010, http://www.heritage.org/research/reports/2010/05/the-icc-review-conference-a-threat-to-us-interests
+
+Schaefer, Brett D and Groves, Steven, “The US Should Not Join the International Criminal Court”, The Heritage Foundation, 18/08/2009, http://www.heritage.org/research/reports/2009/08/the-us-should-not-join-the-international-criminal-court#_ftnref77
+
+The Chicago Council on Foreign Relations, “Large Bipartisan Majority of Americans Favors Referring Darfur War Crime Cases to International Criminal Court”, thechicagocouncil.org, 01/03/2005, http://www.thechicagocouncil.org/UserFiles/File/POS_Topline%20Reports/POS%202005_March/POS%20March%202005%20Press%20Release_Darfur.pdf
+
+Opp 1 – State Sovereignty
+
+Cryer, Robert, “International Criminal Law vs State Sovereignty: Another Round?”, The European Journal of International Law, Vol.16, No.5, 2006 http://www.ejil.org/pdfs/16/5/333.pdf
+
+Opp 2 – lawfare against Israel
+
+Alayon, Danny, Theater of the Absurd, ForeignPolicy.com, 30/02/2012, http://www.foreignpolicy.com/articles/2012/03/30/theater_of_the_absurd
+
+Opp 3 – Don’t want a handcuffed US
+
+Schaefer, Brett D. and Groves, Steven “The ICC Review Conference: A Threat to US Interests”, The Heritage Foundation 28/05/2010, http://www.heritage.org/research/reports/2010/05/the-icc-review-conference-a-threat-to-us-interests
+
+Glennon, Michael J., “The Vague New Crime of Aggression”, The New York Times, 5/04/2010
+
+Dempsey, Gary, “Courting Disaster”, Cato Institute, 19/08/1998, http://www.cato.org/publications/commentary/courting-disaster
+
+Opp 4 – Unconstitutional trials
+
+Carpenter, Ted Galen, “No Civil Liberties at the International Criminal Court”, Cato Institute, 27/12/2000, http://www.cato.org/publications/commentary/no-civil-liberties-international-criminal-court
+
+Opp 4 Counterarguement – ICC Has fair trial guarantees
+
+Amnesty International, “The International Criminal Court: Fact Sheet 9: Fair trial guarantees”, amnesty.org, 31/07/2000, https://www.amnesty.org/en/library/asset/IOR40/009/2000/en/a442c8aa-df5f-11dd-acaa-7d9091d4638f/ior400092000en.html
+
+[United Kingdom] Criminal Justice Act 2003, s44
+
+Amnesty International USA, “Prosecuting Crimes in the Name of International Justice”, amnestyusa.org, no date, http://www.amnestyusa.org/our-work/issues/international-justice/international-criminal-court

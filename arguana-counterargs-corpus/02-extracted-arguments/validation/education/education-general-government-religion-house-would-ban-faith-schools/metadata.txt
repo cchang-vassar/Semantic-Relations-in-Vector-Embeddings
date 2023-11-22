@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-government-religion/house-would-ban-faith-schools
+published_time	2012-03-09T13:00:18+01:00
+modified_time	2017-04-24T14:33:41+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	100
+voting_con	0
+reads	18922

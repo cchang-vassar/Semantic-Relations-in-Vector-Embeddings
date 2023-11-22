@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/philosophy-ethics-life/house-believes-right-die
+published_time	2012-10-18T12:30:41+02:00
+modified_time	2017-04-19T13:29:17+02:00
+crawled_time	Sun Feb 04 18:43:07 CET 2018
+voting_pro	0
+voting_con	100
+reads	41051

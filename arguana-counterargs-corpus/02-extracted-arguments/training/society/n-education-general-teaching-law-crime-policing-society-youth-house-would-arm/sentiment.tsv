@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con01a-point.txt	0.06341699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con01b-counter.txt	0.07195399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con02a-point.txt	0.272185
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con02b-counter.txt	0.255363
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con03a-point.txt	0.513574
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con03b-counter.txt	0.497336
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con04a-point.txt	0.269725
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/con/con04b-counter.txt	0.42997300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro01a-point.txt	0.791892
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro01b-counter.txt	0.09519200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro02a-point.txt	0.762236
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro02b-counter.txt	0.928827
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro03a-point.txt	0.609119
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro03b-counter.txt	0.27644199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro04a-point.txt	0.756509
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/n-education-general-teaching-law-crime-policing-society-youth-house-would-arm/pro/pro04b-counter.txt	0.329441

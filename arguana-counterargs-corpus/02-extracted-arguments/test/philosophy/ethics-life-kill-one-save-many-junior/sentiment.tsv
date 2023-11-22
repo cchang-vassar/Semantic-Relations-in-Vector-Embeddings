@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con01a-point.txt	0.343796
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con01b-counter.txt	0.79601
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con02a-point.txt	0.06621999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con02b-counter.txt	0.21752499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con03a-point.txt	0.07906800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con03b-counter.txt	0.609803
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con04a-point.txt	0.095194
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con04b-counter.txt	0.20877400000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con05a-point.txt	0.828346
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con05b-counter.txt	0.171531
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con06a-point.txt	0.457927
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/con/con06b-counter.txt	0.068021
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro01a-point.txt	0.95933
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro01b-counter.txt	0.15301200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro02a-point.txt	0.756383
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro02b-counter.txt	0.585775
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro03a-point.txt	0.971062
+data/corpus-counterarguments-18/02-extracted-arguments/test/philosophy/ethics-life-kill-one-save-many-junior/pro/pro03b-counter.txt	0.611943

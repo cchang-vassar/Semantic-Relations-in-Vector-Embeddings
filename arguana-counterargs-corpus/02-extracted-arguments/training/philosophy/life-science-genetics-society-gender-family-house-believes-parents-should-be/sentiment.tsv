@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con01a-point.txt	0.586137
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con01b-counter.txt	0.658446
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con02a-point.txt	0.27265300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con02b-counter.txt	0.36102999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con03a-point.txt	0.190172
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/con/con03b-counter.txt	0.040796000000000054
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro01a-point.txt	0.817108
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro01b-counter.txt	0.183446
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro02a-point.txt	0.780325
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro02b-counter.txt	0.098379
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro03a-point.txt	0.48114199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro03b-counter.txt	0.39974699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro04a-point.txt	0.42656499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/life-science-genetics-society-gender-family-house-believes-parents-should-be/pro/pro04b-counter.txt	0.07975500000000002

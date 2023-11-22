@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/free-speech-debate-media-and-good-government-international-africa/house-believes-limited
+published_time	2014-02-28T13:49:08+01:00
+modified_time	2017-04-03T16:16:20+02:00
+crawled_time	Sun Feb 04 18:42:20 CET 2018
+voting_pro	50
+voting_con	50
+reads	11039

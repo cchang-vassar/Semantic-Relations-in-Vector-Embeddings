@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/environment-climate-international-global/house-believes-outcome-paris-climate-conference
+published_time	2015-12-07T17:47:33+01:00
+modified_time	2017-04-03T13:17:00+02:00
+crawled_time	Sun Feb 04 18:42:54 CET 2018
+voting_pro	50
+voting_con	50
+reads	14145

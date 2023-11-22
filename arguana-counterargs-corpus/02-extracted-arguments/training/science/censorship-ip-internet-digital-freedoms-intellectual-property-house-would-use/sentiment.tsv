@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con01a-point.txt	0.043904000000000054
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con01b-counter.txt	0.09773399999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con02a-point.txt	0.26428399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con02b-counter.txt	0.662765
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con03a-point.txt	0.133795
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/con/con03b-counter.txt	0.42551000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro01a-point.txt	0.029092000000000007
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro01b-counter.txt	0.18120099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro02a-point.txt	0.12283100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro02b-counter.txt	0.564402
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro03a-point.txt	0.055969999999999964
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use/pro/pro03b-counter.txt	0.673873

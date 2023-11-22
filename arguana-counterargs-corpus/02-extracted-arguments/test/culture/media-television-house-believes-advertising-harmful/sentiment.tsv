@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con01a-point.txt	0.12360800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con01b-counter.txt	0.015641000000000016
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con02a-point.txt	0.350098
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con02b-counter.txt	0.0034279999999999866
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con03a-point.txt	0.03142100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con03b-counter.txt	0.03797700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con04a-point.txt	0.20267999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/con/con04b-counter.txt	0.005224000000000006
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro01a-point.txt	0.543387
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro01b-counter.txt	0.39028300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro02a-point.txt	0.002766999999999964
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro02b-counter.txt	0.06846200000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro03a-point.txt	0.286787
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro03b-counter.txt	0.18758600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro04a-point.txt	0.029855999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro04b-counter.txt	0.018782999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro05a-point.txt	0.15121600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/media-television-house-believes-advertising-harmful/pro/pro05b-counter.txt	0.139119

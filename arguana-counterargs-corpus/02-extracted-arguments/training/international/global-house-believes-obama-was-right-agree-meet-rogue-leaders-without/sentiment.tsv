@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con01a-point.txt	0.69221
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con01b-counter.txt	0.984246
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con02a-point.txt	0.10092199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con02b-counter.txt	0.44813099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con03a-point.txt	0.281624
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con03b-counter.txt	0.15957299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con04a-point.txt	0.770799
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/con/con04b-counter.txt	0.311624
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro01a-point.txt	0.576984
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro01b-counter.txt	0.07402299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro02a-point.txt	0.790365
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro02b-counter.txt	0.875996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro03a-point.txt	0.14023699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro03b-counter.txt	0.03043499999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro04a-point.txt	0.40173400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro04b-counter.txt	0.41311
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro05a-point.txt	0.787534
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-believes-obama-was-right-agree-meet-rogue-leaders-without/pro/pro05b-counter.txt	0.15402099999999996

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con01a-point.txt	0.28974
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con01b-counter.txt	0.41795899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con02a-point.txt	0.873844
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con02b-counter.txt	0.724381
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con03a-point.txt	0.852954
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/con/con03b-counter.txt	0.079762
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro01a-point.txt	0.700725
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro01b-counter.txt	0.47433499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro02a-point.txt	0.590069
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro02b-counter.txt	0.06510300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro03a-point.txt	0.962903
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/pregnancy-sex-sexuality-africa-house-believes-men-are-key-family-planning-uganda/pro/pro03b-counter.txt	0.35124299999999997

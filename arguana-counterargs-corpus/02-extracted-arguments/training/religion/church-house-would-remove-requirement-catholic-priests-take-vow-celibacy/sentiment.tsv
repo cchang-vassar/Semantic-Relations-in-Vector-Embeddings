@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con01a-point.txt	0.932966
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con01b-counter.txt	0.02487499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con02a-point.txt	0.17214700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con02b-counter.txt	0.772834
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con03a-point.txt	0.7815
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/con/con03b-counter.txt	0.771913
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro01a-point.txt	0.725253
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro01b-counter.txt	0.47514900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro02a-point.txt	0.709885
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro02b-counter.txt	0.354642
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro03a-point.txt	0.620307
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro03b-counter.txt	0.984617
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro04a-point.txt	0.025260999999999978
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/church-house-would-remove-requirement-catholic-priests-take-vow-celibacy/pro/pro04b-counter.txt	0.008054000000000006

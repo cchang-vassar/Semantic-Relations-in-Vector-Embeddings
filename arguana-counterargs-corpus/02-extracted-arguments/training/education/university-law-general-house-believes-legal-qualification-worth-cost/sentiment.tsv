@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con01a-point.txt	0.40261800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con01b-counter.txt	0.231425
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con02a-point.txt	0.925625
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con02b-counter.txt	0.803004
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con03a-point.txt	0.634437
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con03b-counter.txt	0.90829
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con04a-point.txt	0.530438
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/con/con04b-counter.txt	0.665552
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro01a-point.txt	0.734296
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro01b-counter.txt	0.627134
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro02a-point.txt	0.623246
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro02b-counter.txt	0.172207
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro03a-point.txt	0.216908
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro03b-counter.txt	0.382258
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro04a-point.txt	0.91822
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro04b-counter.txt	0.630163
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro05a-point.txt	0.974782
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/university-law-general-house-believes-legal-qualification-worth-cost/pro/pro05b-counter.txt	0.481051

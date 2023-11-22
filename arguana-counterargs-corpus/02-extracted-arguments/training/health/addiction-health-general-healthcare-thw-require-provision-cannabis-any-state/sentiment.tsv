@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con01a-point.txt	0.33792599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con01b-counter.txt	0.306133
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con02a-point.txt	0.503332
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con02b-counter.txt	0.742536
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con03a-point.txt	0.16535699999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/con/con03b-counter.txt	0.46622300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro01a-point.txt	0.540016
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro01b-counter.txt	0.681525
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro02a-point.txt	0.732021
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro02b-counter.txt	0.716586
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro03a-point.txt	0.145509
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/addiction-health-general-healthcare-thw-require-provision-cannabis-any-state/pro/pro03b-counter.txt	0.674494

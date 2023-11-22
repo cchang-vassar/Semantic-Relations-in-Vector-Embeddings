@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con01a-point.txt	0.889299
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con01b-counter.txt	0.20954399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con02a-point.txt	0.41605099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con02b-counter.txt	0.04967100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con03a-point.txt	0.756335
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/con/con03b-counter.txt	0.12043599999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro01a-point.txt	0.13477799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro01b-counter.txt	0.19966099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro02a-point.txt	0.04479299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro02b-counter.txt	0.458877
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro03a-point.txt	0.20633800000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-sport-sport-general-house-believes-all-nations-should-ban/pro/pro03b-counter.txt	0.905818

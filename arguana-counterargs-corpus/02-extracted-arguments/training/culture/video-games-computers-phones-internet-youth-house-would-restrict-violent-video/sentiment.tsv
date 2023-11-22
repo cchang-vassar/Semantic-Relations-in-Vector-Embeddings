@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con01a-point.txt	0.814828
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con01b-counter.txt	0.48487499999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con02a-point.txt	0.38435600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con02b-counter.txt	0.35388200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con03a-point.txt	0.07133599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/con/con03b-counter.txt	0.11219000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro01a-point.txt	0.718291
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro01b-counter.txt	0.10565500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro02a-point.txt	0.531982
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro02b-counter.txt	0.698803
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro03a-point.txt	0.542141
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro03b-counter.txt	0.284409
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro04a-point.txt	0.946102
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/video-games-computers-phones-internet-youth-house-would-restrict-violent-video/pro/pro04b-counter.txt	0.06897399999999998

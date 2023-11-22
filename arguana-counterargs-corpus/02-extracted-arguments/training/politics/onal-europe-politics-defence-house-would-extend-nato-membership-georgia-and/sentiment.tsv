@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con01a-point.txt	0.27952999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con01b-counter.txt	0.5638
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con02a-point.txt	0.745132
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con02b-counter.txt	0.11540399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con03a-point.txt	0.38852200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/con/con03b-counter.txt	0.034996999999999945
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro01a-point.txt	0.593619
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro01b-counter.txt	0.366235
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro02a-point.txt	0.48557399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro02b-counter.txt	0.28430900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro03a-point.txt	0.773985
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/onal-europe-politics-defence-house-would-extend-nato-membership-georgia-and/pro/pro03b-counter.txt	0.23958500000000005

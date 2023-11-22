@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-global-law-human-rights-international-law/house-believes-united-nations-has
+published_time	2012-01-26T16:35:25+01:00
+modified_time	2017-08-16T14:40:48+02:00
+crawled_time	Sun Feb 04 18:42:50 CET 2018
+voting_pro	50
+voting_con	50
+reads	18678

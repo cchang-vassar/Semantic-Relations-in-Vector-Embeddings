@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-secondary/house-would-make-sex-education-mandatory-schools
+published_time	2012-02-20T13:44:03+01:00
+modified_time	2017-05-25T09:24:46+02:00
+crawled_time	Sun Feb 04 18:42:50 CET 2018
+voting_pro	50
+voting_con	50
+reads	77685

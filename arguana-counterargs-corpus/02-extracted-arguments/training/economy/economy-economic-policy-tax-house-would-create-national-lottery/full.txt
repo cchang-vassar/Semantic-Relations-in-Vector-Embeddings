@@ -1,0 +1,22 @@
+# METADATA
+url	https://idebate.org/debatabase/economy/economy-economic-policy-tax/house-would-create-national-lottery
+published_time	2012-01-26T16:33:44+01:00
+modified_time	2013-03-06T11:09:02+01:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	23840
+
+
+# THESIS
+This house would create a national lottery
+
+
+# INTRO
+A lottery is a form of gambling whereby lots are drawn and, depending on selections, prizes handed out. Many countries have lotteries which raise revenues for various levels of government as well as often providing a charitable donation to numerous worthy causes. The lotteries are usually monopolies granted by the government to private companies who take a slice of the profits and turn the rest over to the state. Income from state lotteries is often devoted to special categories of spending, partly in order to make playing the game more attractive to the public; in the USA states often use lottery funds for education, in Britain they are pledged to areas such as sport, the arts and charities. Most lotteries involve tickets purchased from local vendors, these may be pre-printed with digits or carry a selection of numbers chosen by the purchaser. Draws are usually made on national television with a frequency which varies from country to country, but in almost every case huge media and advertising attention surrounds the event. Proponents argue that lotteries provide unique, life-changing opportunities for winners whilst providing a source of revenue separate from traditional, antagonistic direct tax methods. Opponents maintain that national lotteries only serve to encourage and foster addictions to gambling and that it is an implicit taxation that in fact only works in favour of the already-wealthy.
+
+
+
+
+# LITERATURE
+Alexander, B. (2011, February 15). Call for gambling 'risk awareness'. Retrieved June 20, 2011, from BBC Newsbeat: BBC News. (2000, November 8). Gambling 'as addictive as smoking'. Retrieved June 20, 2011, from BBC News: Blaszczynski, A., Ladouceur, R., Nower, L., &amp; Shaffe, H. (2008). Informed choice and gambling: principles for consumer protection. Retrieved June 20, 2011, from The Journal of Gambling Business and Economics: Department of Culture, Media and Sport. (2010, October 15). National Lottery to be reformed. Retrieved June 21, 2011, from Department of Culture, Media and Sport: Euromillions. (n.d.). Odds for winning the jackpot on the Euromillions. Retrieved June 20, 2011, from Euromillions: Gamcare. (n.d.). Online Support. Retrieved June 20, 2011, from Gamcare: Hansen, A. (2004, October 1). Lotteries and State Fiscal Policy. Retrieved June 20, 2011, from Tax Foundation: Levin, S. (2008, July 25). Poverty leads to playing lottery. Retrieved June 21, 2011, from The Pittsburgh Post-Gazette: National Lottery. (n.d.). Retrieved June 20, 2011, from National Lottery: National Lottery. (2011, June 21). Be part of London 2012. Retrieved June 20, 2011, from The National Lottery: National Lottery. (2011, May 9). Odds for winning any prize on the UK National Lottery and Euromillions. Retrieved June 20, 2011, from National Lottery: National Lottery. (n.d.). Instant Win. Retrieved June 20, 2011, from National Lottery: National Lottery. (n.d.). Where the money goes. Retrieved June 20, 2011, from The National Lottery: New York Times. (2009, October 2). Do Olympic Host Cities Ever Win? Retrieved June 20, 2011, from New York Times: NHS. (2009). Statistics for the costs and effects of smoking. Retrieved June 20, 2011, from NHS: Riddix, M. (2010, May 13). Six hidden government revenue streams. Retrieved June 20, 2011, from Forbes: Saul, S. (2008, August 30). Government gets hooked on tobacco tax billions. Retrieved June 20, 2011, from New York Times: Talking Point. (2001, July 2). Has the National Lottery lost its appeal? Retrieved June 20, 2011, from BBC News:

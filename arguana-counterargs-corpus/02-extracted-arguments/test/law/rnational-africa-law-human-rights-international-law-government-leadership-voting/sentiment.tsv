@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con01a-point.txt	0.349333
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con01b-counter.txt	0.821613
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con02a-point.txt	0.10916499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con02b-counter.txt	0.27421700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con03a-point.txt	0.383521
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con03b-counter.txt	0.619018
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con04a-point.txt	0.05107499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/con/con04b-counter.txt	0.10194199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro01a-point.txt	0.908704
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro01b-counter.txt	0.09944200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro02a-point.txt	0.037856
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro02b-counter.txt	0.35697199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro03a-point.txt	0.680606
+data/corpus-counterarguments-18/02-extracted-arguments/test/law/rnational-africa-law-human-rights-international-law-government-leadership-voting/pro/pro03b-counter.txt	0.801242

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con01a-point.txt	0.06913400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con01b-counter.txt	0.0020200000000000218
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con02a-point.txt	0.681991
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con02b-counter.txt	0.383054
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con03a-point.txt	0.48445099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/con/con03b-counter.txt	0.901014
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro01a-point.txt	0.36205200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro01b-counter.txt	0.126761
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro02a-point.txt	0.13941099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro02b-counter.txt	0.328318
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro03a-point.txt	0.341171
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-ban-use-trans-fats-food-stuffs/pro/pro03b-counter.txt	0.126761

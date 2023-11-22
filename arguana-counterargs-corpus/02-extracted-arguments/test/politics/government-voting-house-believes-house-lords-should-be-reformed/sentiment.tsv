@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con01a-point.txt	0.943269
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con01b-counter.txt	0.39632500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con02a-point.txt	0.407563
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con02b-counter.txt	0.28627400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con03a-point.txt	0.538767
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con03b-counter.txt	0.875706
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con04a-point.txt	0.18460699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/con/con04b-counter.txt	0.14554299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro01a-point.txt	0.16061400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro01b-counter.txt	0.062361
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro02a-point.txt	0.373267
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro02b-counter.txt	0.859382
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro03a-point.txt	0.67928
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro03b-counter.txt	0.332805
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro04a-point.txt	0.38756999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/government-voting-house-believes-house-lords-should-be-reformed/pro/pro04b-counter.txt	0.204079

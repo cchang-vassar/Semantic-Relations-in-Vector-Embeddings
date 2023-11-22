@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con01a-point.txt	0.570724
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con01b-counter.txt	0.16085099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con02a-point.txt	0.67921
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con02b-counter.txt	0.276636
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con03a-point.txt	0.604813
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/con/con03b-counter.txt	0.566017
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro01a-point.txt	0.743154
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro01b-counter.txt	0.695161
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro02a-point.txt	0.152266
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro02b-counter.txt	0.445858
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro03a-point.txt	0.16142199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/ethics-house-believes-important-decisions-about-childrens-health-should-be/pro/pro03b-counter.txt	0.89074

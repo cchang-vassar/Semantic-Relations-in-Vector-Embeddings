@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con01a-point.txt	0.754447
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con01b-counter.txt	0.45136299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con02a-point.txt	0.31574500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con02b-counter.txt	0.618659
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con03a-point.txt	0.494514
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/con/con03b-counter.txt	0.45404500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro01a-point.txt	0.34326599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro01b-counter.txt	0.625881
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro02a-point.txt	0.13821300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro02b-counter.txt	0.17576199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro03a-point.txt	0.41434099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/climate-energy-pollution-house-believes-eu-should-abandon-nuclear-energy/pro/pro03b-counter.txt	0.945527

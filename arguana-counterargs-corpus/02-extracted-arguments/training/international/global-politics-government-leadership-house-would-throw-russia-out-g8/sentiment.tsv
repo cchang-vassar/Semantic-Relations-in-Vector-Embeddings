@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con01a-point.txt	0.850262
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con01b-counter.txt	0.01866699999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con02a-point.txt	0.804308
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con02b-counter.txt	0.593968
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con03a-point.txt	0.566275
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con03b-counter.txt	0.950476
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con04a-point.txt	0.441798
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/con/con04b-counter.txt	0.009314000000000044
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro01a-point.txt	0.38245300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro01b-counter.txt	0.179917
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro02a-point.txt	0.705436
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro02b-counter.txt	0.11858500000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro03a-point.txt	0.199102
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro03b-counter.txt	0.514936
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro04a-point.txt	0.163945
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-politics-government-leadership-house-would-throw-russia-out-g8/pro/pro04b-counter.txt	0.143038

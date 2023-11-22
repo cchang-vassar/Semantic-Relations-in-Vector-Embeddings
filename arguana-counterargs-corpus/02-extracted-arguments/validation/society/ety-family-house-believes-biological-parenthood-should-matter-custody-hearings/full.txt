@@ -1,0 +1,22 @@
+# METADATA
+url	https://idebate.org/debatabase/law-society-family/house-believes-biological-parenthood-should-matter-custody-hearings
+published_time	2012-02-17T12:29:06+01:00
+modified_time	2012-10-01T14:39:05+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	50
+voting_con	50
+reads	8786
+
+
+# THESIS
+This House Believes That Biological parenthood should matter in custody hearings.
+
+
+# INTRO
+Custody hearings are a special type of decision-making forum which take place within the family courts. In a these cases, judges are empowered to make decisions about residence (where the child should live) most often when parents separate or when children are born to parents who are not in a relationship. The hearing must also consider contact (how much time the non-residential parent can spend with the child) despite residence agreement. Judges can order direct contact (either overnight or daytime), supervised contact (at special centres) or indirect contact (by telephone, letter or email). Residential parents who refuse to allow such contact face a range of sanctions including prison in extreme cases. When making decisions, courts take into account all available information about the child and both parents. Biological parenthood generally refers to the mother who gave birth to the child and the parents who are genetically related to the child. This stands in opposition to social parents who care for the child: adoptive parents, stepparents, partners within homosexual couples who have undertaken IVF, etc. The growth of non-traditional families has meant that this definition of parenthood has gained increasing prominence. The term gestational parenthood is used in circumstances in which a child's gestational mother differs from its genetic mother — as happens in egg (or embryo) donation and gestational surrogacy when a different woman carries and gives birth to the child. In this case up to three women have claims to parenthood of the child – the egg donor (the genetic parent), the surrogate (the gestational parent), and the intended mother (the social parent). Such cases and issues appear in courts in the UK and the US as well as across Europe but this discussion will focus on UK law. The debate tackles the issue of how important biological parenthood should be in custody hearings. The proposition argues that biological parenthood is of great importance and should be prioritised over the other constructions of parenthood in the decision-making process of the judge. While the opposition argues for equality between constructions or even priority to those other formulations of parenthood.
+
+
+
+
+# LITERATURE
+‘The rights of Children and The Redefinition of Parenthood’ David Blankenhorn, Presentation at the Danish Institute for Human Rights (2005) ‘Unmarried Fathers’ Rights’ Families Need Fathers (2010) http://www.fnf.org.uk/law-and-information/unmarried-fathers ‘Parenthood and Procreation’ Stamford Dictionary of Philosophy (2006) http://plato.stanford.edu/entries/parenthood/#GenAcc ‘Re G – Changing the Face of Parenthood?’ Family Law Week (2006) http://www.familylawweek.co.uk/site.aspx?i=ed2147 ‘The Tensions Between Legal, Biological and Social Conceptions of Parenthood in English Law’ EJCL (2006) http://www.ejcl.org/103/art103-14.doc ‘Our surrogacy Laws are Putting our Children at Risk’ The Guardian (2011) http://www.guardian.co.uk/commentisfree/2011/feb/09/surrogacy-laws-children-at-risk?INTCMP=SRCH Couple win fight for custody of “stateless” surrogate twins’ The Daily Mail (2008) http://www.dailymail.co.uk/news/article-1093922/Couple-win-fight-custody-stateless-surrogate-twins.html ‘Donor-Conceived Children in Search of their Biological Histories’, Psychology Today (2011) http://www.psychologytoday.com/blog/genetic-crossroads/201103/donor-conceived-children-in-search-their-biological-histories ‘Fathers and Children: the Law’, Dad.info http://www.dad.info/separation/law-and-rights/fathers-and-children-the-law?show=all ; ‘Father Absence and the Welfare of Children’, Network on the Family and the Economy http://apps.olin.wustl.edu/macarthur/working%20papers/wp-mclanahan2.htm ‘Baby M – Surrogate Motherhood Case’, About.com http://womenshistory.about.com/od/motherhood/a/baby_m.htm ’Family, Ancestry and Self: What is the Moral Significance of Biological Ties?’ MIT http://www.mit.edu/~shaslang/papers/HaslangerFASm.pdf

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con01a-point.txt	0.240437
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con01b-counter.txt	0.964944
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con02a-point.txt	0.555904
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con02b-counter.txt	0.696515
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con03a-point.txt	0.394212
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con03b-counter.txt	0.634489
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con04a-point.txt	0.625569
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con04b-counter.txt	0.44470299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con05a-point.txt	0.238564
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/con/con05b-counter.txt	0.18273700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro01a-point.txt	0.799994
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro01b-counter.txt	0.24905900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro02a-point.txt	0.712239
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro02b-counter.txt	0.21521999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro03a-point.txt	0.928956
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro03b-counter.txt	0.03486599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro04a-point.txt	0.740218
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro04b-counter.txt	0.03897600000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro05a-point.txt	0.788663
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/ional-global-society-immigration-minorities-house-believes-nations-world-should/pro/pro05b-counter.txt	0.44554400000000005

@@ -1,0 +1,18 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con01a-point.txt	0.318793
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con01b-counter.txt	0.38655399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con02a-point.txt	0.570507
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con02b-counter.txt	0.676012
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con03a-point.txt	0.031503999999999976
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con03b-counter.txt	0.13183500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con04a-point.txt	0.36608300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/con/con04b-counter.txt	0.016793999999999976
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro01a-point.txt	0.730405
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro01b-counter.txt	0.00661299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro02a-point.txt	0.010531999999999986
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro02b-counter.txt	0.13661299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro03a-point.txt	0.901949
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro03b-counter.txt	0.589271
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro04a-point.txt	0.910473
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro04b-counter.txt	0.206032
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/evolution-universe-house-would-continue-funding-attempts-contact-extra/pro/pro05a-point.txt	0.642513

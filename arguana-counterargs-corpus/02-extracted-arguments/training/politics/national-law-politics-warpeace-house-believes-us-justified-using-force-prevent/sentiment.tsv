@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con01a-point.txt	0.140926
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con01b-counter.txt	0.461295
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con02a-point.txt	0.29189699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con02b-counter.txt	0.07111100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con03a-point.txt	0.554765
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con03b-counter.txt	0.12260599999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con04a-point.txt	0.754578
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/con/con04b-counter.txt	0.09409299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro01a-point.txt	0.578275
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro01b-counter.txt	0.532666
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro02a-point.txt	0.573839
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro02b-counter.txt	0.19199200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro03a-point.txt	0.24938099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro03b-counter.txt	0.44871000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro04a-point.txt	0.36582000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro04b-counter.txt	0.646095
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro05a-point.txt	0.252483
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro05b-counter.txt	0.506961
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro06a-point.txt	0.10740300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/national-law-politics-warpeace-house-believes-us-justified-using-force-prevent/pro/pro06b-counter.txt	0.011437999999999948

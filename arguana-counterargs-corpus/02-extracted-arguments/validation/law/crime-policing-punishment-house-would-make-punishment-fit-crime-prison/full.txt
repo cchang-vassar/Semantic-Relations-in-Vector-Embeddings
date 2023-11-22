@@ -1,0 +1,152 @@
+# METADATA
+url	https://idebate.org/debatabase/law-crime-policing-punishment/house-would-make-punishment-fit-crime-prison
+published_time	2014-02-10T13:20:10+01:00
+modified_time	2017-04-04T12:21:18+02:00
+crawled_time	Sun Feb 04 18:42:50 CET 2018
+voting_pro	50
+voting_con	50
+reads	22493
+
+
+# THESIS
+This House would “make the punishment fit the crime” in prison.
+
+
+# INTRO
+In his book The Death of Punishment, Robert Blecker proposes that prison conditions should vary, based on the offences that a person is convicted of; those who have committed more heinous crimes should have harsher prison conditions. Currently prison sentences are calibrated to fit the crime by their length, rather than their conditions.
+
+Blecker supports the death penalty for the worst of the worst, but if this is unavailable wishes a separate prison system for them. The system proposed by Blecker is a “permanent punitive situation” in which prision would deliberately be make “painful and unpleasant” for those whose crimes are heinous enough that they are “specially condemned by a jury to suffer this fate”, essentially for those who today in the United States would receive the death penalty.
+
+The regime under PPS would include the sole food being nutraloaf (euphemistically referred to as “special management meal” by some), a foodstuff made to be tasteless and used as a disciplinary measure: the compatibility of punishing inmates by altering their food intake with the US constitution has been disputed [1] . “We should keep their visits to the constitutional minimum, and none would be contact visits, ever… They would labor daily, and exercise. But they would not be allowed to play.” It goes without saying they would have no access to computers or the TV. [2] Blecker proposes placing photographs of the victim of the offence the prisoner was convicted of in their cell, restricting visits the absolute minimum, minimizing showers to once per week, the constitutional minimum exercise and no association with other prisoners.
+
+Blecker singles out for criticism the system of the US where he argues that counterintuitively the worst prisoners get the best treatment in prison. An action that draws Blecker’s ire in particular is the sight of prisoners serving life without parole (LWOP) playing baseball (note that while LWOP is, in theory, the second highest sentence after the death penalty, over 3,000 people in the US are serving LWOP for nonviolent drug and property offences. [3] Blecker would have such offenses in normal prisons) [4] . The problem, in part, is that those who are in prison longest are most able to obtain privileges for good behaviour. Even worse is Death Row as “They have it better than everybody else in the prison” to the point that Blecker quotes a lifer saying “I’d be better off killing an officer. Get better privileges if they moved me to the Row.” This is because the wardens “want to make the time as easy for them as we can because it makes it easy for us if it is easy for them.” [5]
+
+In England and Wales, male prisoners are divided in to a number of categories based on factors including the type of crime, duration of sentence, escape risk and potential danger in escape. Categories A, B and C are closed prison categories, Category D is for those held in open prisons. Category A prisoners are subdivided in to further categories based on escape risk. Remand prisoners (those who have not been convicted of anything and await trial, but bail has been denied) are generally given some privileges that those convicted don’t have (for example, in general, wearing their own clothes). This is not always the case in the US.
+
+[1] Cohen, Adam, ‘Can Food Be Cruel and Unusual Punishment’, Time, 2 April 2012, http://ideas.time.com/2012/04/02/can-food-be-cruel-and-unusual-punishment/
+
+[2] Blecker, Robert, The Death of Punishment, Palgrave Macmillan, November 2013, http://us.macmillan.com/thedeathofpunishment/RobertBlecker , p.201
+
+[3] Pilkingon, Ed, ‘Over 3,000 US prisoners serving life without parole for non-violent crimes’, theguardian.com, 13 November 2013, http://www.theguardian.com/world/2013/nov/13/us-prisoners-sentences-life-non-violent-crimes
+
+[4] Blecker, Robert, ‘This is not justice’, New York Daily News, 1 December 2013, http://www.nydailynews.com/opinion/justice-article-1.1531357
+
+[5] Blecker, pp.94, 103
+
+
+# PRO01A-POINT
+Punishment is good
+
+Retributive theories of justice accept that the reason why a criminal justice exists is to punish offenders – society declaring its rejection of crime by inflicting deliberately unpleasant punishments. Prisons do not reflect this – a prisoner is a prisoner, and prison officers generally do not care about what offence they are convicted of. Their motivation for doing this being to make the prison easier to administrate. [1]
+
+“The past counts”. If we are making prisoners stay in prison we should make them feel as if they are being punished. This means deprivation of more than just the liberty to move from the prison but also of other luxuries.
+
+[1] Blecker, p.103
+
+# PRO01B-COUNTER
+This is all based on the vengeance-fuelled concept of “retributive justice”. This is not a model of thinking that has much merit. Imprisonment in the criminal justice works by deterring individuals from crime (prison always will be a deterrent), and incapacitating criminals, making them unable to commit crimes due to the fact they are in prison. The intent of prison is to prevent crime, not to impose harsh conditions of punishment.
+
+Imprisonment with legitimate utilitarian goals is acceptable. Simply inflicting conditions on people for no practical reason is mere sadism.
+
+# PRO02A-POINT
+Differences in treatment are already accepted
+
+Differences between different categories of prisoner are already accepted in the criminal justice system – prisoners are generally kept in different conditions due to factors such as escape risk and other factors. For example the UK has open prisons which offer the freedom to move around within the prison and the system is aimed at reintegration so freedoms like alcohol are allowed, as are home visits. [1]
+
+Once it is accepted that not all prisons and not all prisoners are treated the same then a difference in treatment based on the crime committed makes sense. If that is the case, it could be calibrated that those serving certain sentences for certain offences should be held in certain conditions – for example, in Connecticut (a state that has abolished the Death Penalty so LWOP is the greatest penalty imposed) those serving life without parole are now denied contact visits and are given no more than two hours of recreation per day [2] .
+
+[1] James, Erwin, ‘Why life in an open prison is no holiday camp’, The Guardian, 13 January 2011, http://www.theguardian.com/society/2011/jan/13/open-prison-no-holiday-camp
+
+[2] Blecker, p.230
+
+# PRO02B-COUNTER
+The reasons for different categories is for escape risk – escape being the antithesis of a utilitarian purpose of prison, that of incapacitation. Those who are unlikely to seek to escape – prisoners serving short sentences or near the end of their sentence so have little reason to risk having their sentence extended – are those kept in more comfortable conditions. The measure in Connecticut meanwhile is a last minute political fudge, and one brought in solely to appease those who demand irrational justice policies such as retributivism.
+
+# PRO03A-POINT
+Harsher conditions are a deterrent
+
+Worse prison conditions for particular offences would act as a deterrent. If people, in prisons generally and in society as a whole, see that those who are convicted of particularly bad crimes will be deterred from committing those worse crimes.
+
+If prison is simply a holding place that prevents people inside from committing crime then it is failing in creating deterrence; criminals sometimes feel it is better to commit a crime when released in order to get back into prison. [1] Katz, Levitt, and Shustorovich using death rates show how harsh prison conditions are likely to mean lower crime rates overall – though a doubling of the death rate only reduces the crime rate by a few percentage points. [2]
+
+[1] Blecker, p.68
+
+[2] Katz, Lawrence et al., ‘Prison Conditions, Capital Punishment, and Deterrence’, American Law and Economics Review, Vol.5, No.2, 2003 http://bus.lsu.edu/mocan/kls_aler.pdf , p.340
+
+# PRO03B-COUNTER
+Prison itself is already a deterrent. Harsher prison conditions do not prevent recidivism, and could actually make convicts more likely to reoffend when released. Chen and Shapiro estimate that if all inmates were housed in above minimum security facilities there would be “an increase in the crimes committed by former convicts of approximately 82 per 100,000 Americans” – this would be higher than the reduction of 58 crimes per 100,000 found by Katz et al. as a result of deterring those outside prison [1] .
+
+[1] Chen, M. Keith, and Shapiro, Jesse M., ‘Do Harsher Prision Conditions Reduce Recidivism? A Discontinuity-based Approach’, American Law and Economics Review, Vol.9, No.1, 2007 http://www.anderson.ucla.edu/faculty/keith.chen/papers/Final_ALER07.pdf
+
+
+# CON01A-POINT
+Punishment is not purpose of prison
+
+Prison itself already has punishment value: the loss of liberty and exclusion from society. However, punishment is not the purpose of prison. This is accepted in the US, where state prison systems do not claim punishment is a goal: see California [1] , New York [2] and Nevada (“Protect the public by confining convicted felons according to the law, while keeping staff and inmates safe.“) [3] . Similarly, the UK’s Ministry of Justice does not list “punishment” as a priority of HM Prison Service [4] . Instead the aim is to prevent crime by holding prisoners, and to rehabilitate criminals so that when they are released they are able to reintegrate into society without reoffending.
+
+[1] California Department of Corrections &amp; Rehabilitation, ‘Vision, Mission, Values, and Goals’, CA.gov, accessed 6/2/2014 http://www.cdcr.ca.gov/About_CDCR/vision-mission-values.html
+
+[2] Department of Corrections and Community Supervision, ‘The Departmental Mission’, NY.gov, accessed 6/2/2014, http://www.doccs.ny.gov/mission.html
+
+[3] Nevada Department of Corrections, ‘Mission Statement’, NV.gov, accessed 6/2/2014 http://www.doc.nv.gov/?q=node/192
+
+[4] HM Prison Service, ‘About HM Prison Service’, justice.gov.uk, accessed 6/2/2014, http://www.justice.gov.uk/about/hmps
+
+# CON01B-COUNTER
+The fact that the prison system is not designed to be punitive doesn’t mean it shouldn’t be. Retributive justice demands that criminals are punished. Prison should do that, and it should fit the crime, by having more than one category of punishment based on the offence. It is understandable that prison services themselves do not consider their task to be to punish; they claim that is done by the judge or jury that hands out the sentence. This however in effect means that no one takes responsibility for punishing those who have done wrong. Instead each stage of the criminal justice system becomes solely an attempt to prevent future crime without consideration to past victims.
+
+# CON02A-POINT
+A tiered system already exists
+
+To some extent, prisoners will be categorized according to the offences they have committed. For example, those convicted of offences like armed robbery and many murders will start of at a higher level on the security system, which will mean restrictions in terms of activities, prison work and association with other prisoners.
+
+A person convicted of a sex offence against children, or anything else particularly notorious, would be likely to be placed in some sort of protective custody. In the UK, this is done under Rule 45 of the Prison Rules [1] .
+
+[1] England and Wales prison rules, available from http://www.insidetime.org/resources/Rules/English-Prison-Rules-2010.pdf , rule 45
+
+# CON02B-COUNTER
+That system is based on security risk, not the actual offence per se. There is no extra punitive value attached to the offence in terms of prison conditions for the pure reason of the offence.
+
+The reason why those inmates are kept separate is for their own safety (capital punishment should not be meted out by other prisoners!), not based on any ideal of punishment.
+
+# CON03A-POINT
+Harsh punishment is counterproductive
+
+Punishment for its own sake achieves nothing practical. When putting people in prison we need to look to the future, not to the past. However, harsher prison conditions can act in a way that makes individuals more likely to reoffend [1] . This is because those who have suffered harsh conditions do not become prepared for life outside; they do not learn the necessary skills that would bring them a job when released. Harsher prison conditions also breed mental health problems; isolation in supermax prisons has been observed to cause anxiety, paranoia, hallucinations, and self mutilation – one study has found isolation in a secure housing unit caused 88% of prisoners to suffer from irrational anger and 91% anxiety. [2] It is notable that the opposite is also the case the Bastøy prison in Norway, derided by some for its supposedly “soft” conditions, has a reoffending rate less than a quarter of that of the European average [3] .
+
+[1] Chen, 2007
+
+[2] Haney, Craig, ‘Mental Health Issues in Long-Term Solitary and “Supermax” Confinement’, Crime &amp; Delinquency, Vol.49, No.1, January 2003, http://www.supermaxed.com/NewSupermaxMaterials/Haney-MentalHealthIssues.pdf , pp.133-4
+
+[3] James, Erwin, ‘Bastoy: The Norwegian prision that works’, The Guardian, 4 September 2013, http://www.theguardian.com/society/2013/sep/04/bastoy-norwegian-prison-works
+
+# CON03B-COUNTER
+Punishment is irrational, but it is a legitimate desire for a justice system to meter out retribution to those convicted of serious crimes. Punishment does not have to have a beneficial impact on public safety to make it the right thing to do. The desire for victims for retribution is legitimate; they should not have to see a criminal who abused them live a cushy life in prison – at their expense.
+
+
+# LITERATURE
+Blecker, Robert, The Death of Punishment, Palgrave Macmillan, November 2013, http://us.macmillan.com/thedeathofpunishment/RobertBlecker
+
+Blecker, Robert, ‘This is not justice’, New York Daily News, 1 December 2013, http://www.nydailynews.com/opinion/justice-article-1.1531357
+
+California Department of Corrections &amp; Rehabilitation, ‘Vision, Mission, Values, and Goals’, CA.gov, accessed 6/2/2014 http://www.cdcr.ca.gov/About_CDCR/vision-mission-values.html
+
+Chen, M. Keith, and Shapiro, Jesse M., ‘Do Harsher Prison Conditions Reduce Recidivism? A Discontinuity-based Approach’, American Law and Economics Review, Vol.9, No.1, 2007 http://www.anderson.ucla.edu/faculty/keith.chen/papers/Final_ALER07.pdf
+
+Cohen, Adam, ‘Can Food Be Cruel and Unusual Punishment’, Time, 2 April 2012, http://ideas.time.com/2012/04/02/can-food-be-cruel-and-unusual-punishment/
+
+Department of Corrections and Community Supervision, ‘The Departmental Mission’, NY.gov, accessed 6/2/2014, http://www.doccs.ny.gov/mission.html
+
+Haney, Craig, ‘Mental Health Issues in Long-Term Solitary and “Supermax” Confinement’, Crime &amp; Delinquency, Vol.49, No.1, January 2003, http://www.supermaxed.com/NewSupermaxMaterials/Haney-MentalHealthIssues.pdf
+
+HM Prison Service, ‘About HM Prison Service’, justice.gov.uk, accessed 6/2/2014, http://www.justice.gov.uk/about/hmps
+
+James, Erwin, ‘Bastoy: The Norwegian prison that works’, The Guardian, 4 September 2013, http://www.theguardian.com/society/2013/sep/04/bastoy-norwegian-prison-works
+
+James, Erwin, ‘Why life in an open prison is no holiday camp’, The Guardian, 13 January 2011, http://www.theguardian.com/society/2011/jan/13/open-prison-no-holiday-camp
+
+Katz, Lawrence et al., ‘Prison Conditions, Capital Punishment, and Deterrence’, American Law and Economics Review, Vol.5, No.2, 2003 http://bus.lsu.edu/mocan/kls_aler.pdf
+
+Nevada Department of Corrections, ‘Mission Statement’, NV.gov, accessed 6/2/2014 http://www.doc.nv.gov/?q=node/192
+
+Pilkingon, Ed, ‘Over 3,000 US prisoners serving life without parole for non-violent crimes’, theguardian.com, 13 November 2013, http://www.theguardian.com/world/2013/nov/13/us-prisoners-sentences-life-non-violent-crimes

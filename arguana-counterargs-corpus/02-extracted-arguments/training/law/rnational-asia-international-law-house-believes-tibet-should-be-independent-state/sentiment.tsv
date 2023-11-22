@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con01a-point.txt	0.532019
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con01b-counter.txt	0.286057
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con02a-point.txt	0.401783
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con02b-counter.txt	0.521784
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con03a-point.txt	0.12099700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con03b-counter.txt	0.418748
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con04a-point.txt	0.22266699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/con/con04b-counter.txt	0.772833
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro01a-point.txt	0.740701
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro01b-counter.txt	0.51314
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro02a-point.txt	0.44394
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro02b-counter.txt	0.427245
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro03a-point.txt	0.793741
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro03b-counter.txt	0.52432
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro04a-point.txt	0.55365
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-asia-international-law-house-believes-tibet-should-be-independent-state/pro/pro04b-counter.txt	0.14671500000000004

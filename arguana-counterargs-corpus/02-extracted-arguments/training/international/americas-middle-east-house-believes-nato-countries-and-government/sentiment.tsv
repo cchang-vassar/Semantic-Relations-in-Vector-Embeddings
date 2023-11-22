@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con01a-point.txt	0.37908
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con01b-counter.txt	0.607338
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con02a-point.txt	0.703384
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con02b-counter.txt	0.21195299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con03a-point.txt	0.19793300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con03b-counter.txt	0.543395
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con04a-point.txt	0.32271799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/con/con04b-counter.txt	0.576683
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro01a-point.txt	0.506278
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro01b-counter.txt	0.08545599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro02a-point.txt	0.279999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro02b-counter.txt	0.306196
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro03a-point.txt	0.44671000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro03b-counter.txt	0.601044
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro04a-point.txt	0.363687
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro04b-counter.txt	0.33952400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro05a-point.txt	0.922368
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/americas-middle-east-house-believes-nato-countries-and-government/pro/pro05b-counter.txt	0.665329

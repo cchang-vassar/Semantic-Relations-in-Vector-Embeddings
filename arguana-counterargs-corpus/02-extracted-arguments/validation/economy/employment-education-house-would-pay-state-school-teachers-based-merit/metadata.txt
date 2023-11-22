@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy/employment-education/house-would-pay-state-school-teachers-based-merit
+published_time	2012-02-21T15:56:28+01:00
+modified_time	2017-05-19T22:17:23+02:00
+crawled_time	Sun Feb 04 18:42:48 CET 2018
+voting_pro	50
+voting_con	50
+reads	19868

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-primary-secondary-teaching/homework-waste-time-junior
+published_time	2013-04-26T15:53:49+02:00
+modified_time	2017-04-13T11:51:22+02:00
+crawled_time	Sun Feb 04 18:42:51 CET 2018
+voting_pro	50
+voting_con	50
+reads	299271

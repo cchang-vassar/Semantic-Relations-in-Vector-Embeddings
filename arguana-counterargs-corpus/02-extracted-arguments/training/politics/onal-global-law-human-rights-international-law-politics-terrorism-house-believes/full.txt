@@ -1,0 +1,24 @@
+# METADATA
+url	https://idebate.org/debatabase/international-global-law-human-rights-international-law-politics-terrorism/house-believes
+published_time	2012-02-17T10:29:59+01:00
+modified_time	2012-10-01T13:07:02+02:00
+crawled_time	Sun Feb 04 18:42:35 CET 2018
+voting_pro	50
+voting_con	50
+reads	18118
+
+
+# THESIS
+This house believes the practice of extraordinary rendition a useful and necessary policy in the fight against terrorism.
+
+
+# INTRO
+“Extraordinary rendition” is the transfer of an individual, without the benefit of a legal proceeding in which the individual can challenge the transfer, to a country where he or she is at risk of torture. [1] This makes it different from other rendition-methods, like extradition, which is treaty-based, or deportation, which is based on the expelling country’s domestic judicial processes. Other terms used for “extraordinary rendition” are “rendition” (the way Amnesty International refers to it), or “irregular rendition”. Although rendition began in the 1990s under Bill Clinton the word usually crops up in connection to the September 11 attacks and the U.S. Government’s “war on terrorism”. The persons who are “rendered” might be captured outside the U.S.A (by the C.I.A. or any other body, e.g. in Afghanistan) and then, without legal process, transferred to America. They also might be captured on foreign soil and then transferred to any other country by the U.S.A. It is the latter case which has attracted the most criticism: according to the critics, the U.S. uses this specific form of extraordinary rendition to torture suspects of terrorism, without having to do the torturing themselves. Proponents of the procedure, including the US Government, argue in contrast that they have no knowledge of torture occurring in the states where suspects are sent, and that even if they are, the resultant information justifies the methods used to extract them.
+
+[1] Satterthwaite, M. L. (2007, August) Rendered meaningless: Extraordinary Rendition and the Rule of Law. Retrieved June 22, 2011 from the George Washington Law Review: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=945711
+
+
+
+
+# LITERATURE
+All Party Parliamentary on Extraordinary Rendition. (2005). Torture by Proxy: International Law applicable to 'Extraordinary Renditions'. New York.Detter, I. (2007, August). The Law of War and Illegal Combatants. Retrieved May 16, 2011, from George Washington Law Review: http://www.uio.no/studier/emner/jus/humanrights/HUMR5503/h09/undervisnin... European Parliament. (2007, January 30). Report on the alleged use of European countries by the CIA for the transportation and illegal detention of prisoners. Retrieved May 16, 2011, from European Parliament: http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+REPO... Garcia, M. J. (2009, September 8). Renditions: Constraints Imposed by Laws on Torture. Retrieved May 16, 2011, from Congressional Research Service: http://www.fas.org/sgp/crs/natsec/RL32890.pdf International Committee of the Red Cross. (1949). Convention (IV) relative to the Protection of Civilian Persons in Time of War. Geneva: ICRC.Kroeger, A. (2007, February 14). EU to vote on CIA flights report. Retrieved May 16, 2011, from BBC News: http://news.bbc.co.uk/1/hi/6359875.stm Markon, J. (2006, May 19). Lawsuit against CIA is dismissed. Retrieved May 16, 2011, from Washington Post: http://www.washingtonpost.com/wp-dyn/content/article/2006/05/18/AR200605... Mayer, J. (2005, February 13). Outsourcing Torture. Retrieved May 16, 2011, from The New Yorker: http://www.newyorker.com/archive/2005/02/14/050214fa_fact6 Priest, D. (2005, December 4). Wrongful Imprisonment: Anatomy of a CIA Mistake. Retrieved May 16, 2011, from Washington Post: http://www.washingtonpost.com/wp-dyn/content/article/2005/12/03/AR200512... Rice, C. (2005, December 5). Full Text: Rice defends US policy. Retrieved May 16, 2011, from BBC News: http://news.bbc.co.uk/1/hi/4500630.stm Satterthwaite, M. L. (2007, August) Rendered meaningless: Extraordinary Rendition and the Rule of Law. Retrieved June 22, 2011 from the George Washington Law Review: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=945711 Spillius, Alex, “Barack Obama to allow anti-terror rendition to continue”, The Telegraph, 1 February 2009, Retrieved August 1 2011, http://www.telegraph.co.uk/news/worldnews/barackobama/4425135/Barack-Oba... United Nations. (1984, December 10). Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. Retrieved May 16, 2011, from United Nations: http://www.un.org/millennium/law/iv-9.htm Human Rights Library, “U.S. reservations, declarations, and understandings, Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, Cong. Rec. S17486-01 (daily ed., Oct. 27, 1990).” University of Minnesota, retrieved September 1 2011: http://www1.umn.edu/humanrts/usdocs/tortres.html

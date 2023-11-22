@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con01a-point.txt	0.918736
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con01b-counter.txt	0.655036
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con02a-point.txt	0.735704
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con02b-counter.txt	0.08688300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con03a-point.txt	0.33696400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/con/con03b-counter.txt	0.590816
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro01a-point.txt	0.34736999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro01b-counter.txt	0.40293599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro02a-point.txt	0.2782
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro02b-counter.txt	0.598094
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro03a-point.txt	0.13392400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/ch-debate-internet-freedom-politics-government-digital-freedoms-freedom/pro/pro03b-counter.txt	0.824964

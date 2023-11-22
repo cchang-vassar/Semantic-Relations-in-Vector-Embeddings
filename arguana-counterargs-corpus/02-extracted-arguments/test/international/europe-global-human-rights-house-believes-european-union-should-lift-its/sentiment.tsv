@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con01a-point.txt	0.636369
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con01b-counter.txt	0.23538599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con02a-point.txt	0.360896
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con02b-counter.txt	0.34352099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con03a-point.txt	0.37844999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con03b-counter.txt	0.41265399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con04a-point.txt	0.715116
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con04b-counter.txt	0.06647999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con05a-point.txt	0.33777599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/con/con05b-counter.txt	0.452989
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro01a-point.txt	0.724262
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro01b-counter.txt	0.04651000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro02a-point.txt	0.749224
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro02b-counter.txt	0.498105
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro03a-point.txt	0.11040499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro03b-counter.txt	0.349414
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro04a-point.txt	0.757362
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro04b-counter.txt	0.37281699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro05a-point.txt	0.04716500000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-global-human-rights-house-believes-european-union-should-lift-its/pro/pro05b-counter.txt	0.38235300000000005

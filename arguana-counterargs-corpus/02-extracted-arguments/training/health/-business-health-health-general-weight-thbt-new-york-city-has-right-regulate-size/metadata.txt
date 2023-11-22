@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-business-health-health-general-weight/thbt-new-york-city-has-right-regulate-size
+published_time	2012-08-10T13:20:57+02:00
+modified_time	2017-04-20T11:58:59+02:00
+crawled_time	Sun Feb 04 18:42:20 CET 2018
+voting_pro	0
+voting_con	100
+reads	13195

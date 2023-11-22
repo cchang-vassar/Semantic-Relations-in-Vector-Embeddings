@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con01a-point.txt	0.59032
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con01b-counter.txt	0.31435900000000006
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con02a-point.txt	0.04826699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con02b-counter.txt	0.004893999999999954
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con03a-point.txt	0.12105600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/con/con03b-counter.txt	0.518221
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro01a-point.txt	0.36617
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro01b-counter.txt	0.219665
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro02a-point.txt	0.447214
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro02b-counter.txt	0.03227199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro03a-point.txt	0.41589600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/health/health-general-weight-house-would-introduce-labels-food-encourage-people-eat/pro/pro03b-counter.txt	0.19408099999999995

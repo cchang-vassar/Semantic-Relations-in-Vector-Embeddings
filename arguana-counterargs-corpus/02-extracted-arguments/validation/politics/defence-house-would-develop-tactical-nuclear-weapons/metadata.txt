@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-defence/house-would-develop-tactical-nuclear-weapons
+published_time	2012-01-26T16:35:41+01:00
+modified_time	2017-08-11T13:37:33+02:00
+crawled_time	Sun Feb 04 18:42:53 CET 2018
+voting_pro	50
+voting_con	50
+reads	10567

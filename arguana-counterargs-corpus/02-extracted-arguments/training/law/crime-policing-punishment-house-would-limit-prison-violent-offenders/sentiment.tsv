@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con01a-point.txt	0.22242499999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con01b-counter.txt	0.016754999999999964
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con02a-point.txt	0.699823
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con02b-counter.txt	0.796402
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con03a-point.txt	0.791744
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/con/con03b-counter.txt	0.723253
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro01a-point.txt	0.47912999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro01b-counter.txt	0.733656
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro02a-point.txt	0.53482
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro02b-counter.txt	0.818268
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro03a-point.txt	0.12736499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro03b-counter.txt	0.417208
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro04a-point.txt	0.16973400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/crime-policing-punishment-house-would-limit-prison-violent-offenders/pro/pro04b-counter.txt	0.322191

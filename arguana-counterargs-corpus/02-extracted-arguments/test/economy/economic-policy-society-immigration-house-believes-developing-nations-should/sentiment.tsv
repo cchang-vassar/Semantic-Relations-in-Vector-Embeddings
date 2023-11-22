@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con01a-point.txt	0.947857
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con01b-counter.txt	0.22416599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con02a-point.txt	0.34132300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con02b-counter.txt	0.327882
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con03a-point.txt	0.03635299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con03b-counter.txt	0.841041
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con04a-point.txt	0.25383599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/con/con04b-counter.txt	0.03546400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro01a-point.txt	0.719271
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro01b-counter.txt	0.14366199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro02a-point.txt	0.276463
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro02b-counter.txt	0.788978
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro03a-point.txt	0.404737
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro03b-counter.txt	0.10246
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro04a-point.txt	0.16486800000000001
+data/corpus-counterarguments-18/02-extracted-arguments/test/economy/economic-policy-society-immigration-house-believes-developing-nations-should/pro/pro04b-counter.txt	0.814979

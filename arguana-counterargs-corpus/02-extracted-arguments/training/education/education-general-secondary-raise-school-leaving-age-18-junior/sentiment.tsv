@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con01a-point.txt	0.11731499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con01b-counter.txt	0.37318799999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con02a-point.txt	0.664293
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con02b-counter.txt	0.901672
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con03a-point.txt	0.668414
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/con/con03b-counter.txt	0.865596
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro01a-point.txt	0.970957
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro01b-counter.txt	0.023224000000000022
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro02a-point.txt	0.523886
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro02b-counter.txt	0.06948699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro03a-point.txt	0.917678
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/education-general-secondary-raise-school-leaving-age-18-junior/pro/pro03b-counter.txt	0.922961

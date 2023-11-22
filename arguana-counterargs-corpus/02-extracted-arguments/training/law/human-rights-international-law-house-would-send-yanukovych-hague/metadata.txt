@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/law-human-rights-international-law/house-would-send-yanukovych-hague
+published_time	2014-02-28T19:09:36+01:00
+modified_time	2017-04-03T16:10:04+02:00
+crawled_time	Sun Feb 04 18:42:27 CET 2018
+voting_pro	50
+voting_con	50
+reads	9533

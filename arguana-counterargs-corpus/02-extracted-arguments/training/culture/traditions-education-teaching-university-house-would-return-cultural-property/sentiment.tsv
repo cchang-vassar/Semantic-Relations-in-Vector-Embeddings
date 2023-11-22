@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con01a-point.txt	0.31716200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con01b-counter.txt	0.816285
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con02a-point.txt	0.846649
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con02b-counter.txt	0.560654
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con03a-point.txt	0.969006
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con03b-counter.txt	0.673279
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con04a-point.txt	0.531939
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/con/con04b-counter.txt	0.18377500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro01a-point.txt	0.344098
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro01b-counter.txt	0.782578
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro02a-point.txt	0.24473599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro02b-counter.txt	0.06786400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro03a-point.txt	0.595623
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro03b-counter.txt	0.30879
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro04a-point.txt	0.505442
+data/corpus-counterarguments-18/02-extracted-arguments/training/culture/traditions-education-teaching-university-house-would-return-cultural-property/pro/pro04b-counter.txt	0.29187399999999997

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-local-government/house-would-directly-elect-city-mayors
+published_time	2012-04-30T15:15:08+02:00
+modified_time	2017-04-20T14:02:07+02:00
+crawled_time	Sun Feb 04 18:43:05 CET 2018
+voting_pro	50
+voting_con	50
+reads	16183

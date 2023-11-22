@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con01a-point.txt	0.801667
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con01b-counter.txt	0.200716
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con02a-point.txt	0.511431
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con02b-counter.txt	0.534496
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con03a-point.txt	0.44750999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/con/con03b-counter.txt	0.887687
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro01a-point.txt	0.04098999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro01b-counter.txt	0.14670399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro02a-point.txt	0.12627
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro02b-counter.txt	0.142447
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro03a-point.txt	0.780198
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/defence-terrorism-house-believes-islamic-statedaesh-most-significant-threat-west/pro/pro03b-counter.txt	0.573126

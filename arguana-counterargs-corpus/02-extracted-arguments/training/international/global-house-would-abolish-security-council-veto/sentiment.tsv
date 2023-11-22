@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con01a-point.txt	0.451885
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con01b-counter.txt	0.08593899999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con02a-point.txt	0.77556
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con02b-counter.txt	0.313283
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con03a-point.txt	0.21689499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con03b-counter.txt	0.409651
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/con/con04a-point.txt	0.804618
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro01a-point.txt	0.19646600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro01b-counter.txt	0.572742
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro02a-point.txt	0.637538
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro02b-counter.txt	0.31222799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro03a-point.txt	0.46248999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro03b-counter.txt	0.754111
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro04a-point.txt	0.38223700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro04b-counter.txt	0.670104
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-abolish-security-council-veto/pro/pro05a-point.txt	0.39131400000000005

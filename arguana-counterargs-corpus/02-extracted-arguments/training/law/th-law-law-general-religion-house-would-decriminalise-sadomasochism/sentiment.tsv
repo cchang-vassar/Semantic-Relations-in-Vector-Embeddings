@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con01a-point.txt	0.679074
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con01b-counter.txt	0.12864299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con02a-point.txt	0.08114900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con02b-counter.txt	0.651102
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con03a-point.txt	0.285532
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con03b-counter.txt	0.456581
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con04a-point.txt	0.510264
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/con/con04b-counter.txt	0.24821499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro01a-point.txt	0.21818700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro01b-counter.txt	0.31262500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro02a-point.txt	0.05126200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro02b-counter.txt	0.43559000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro03a-point.txt	0.607118
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro03b-counter.txt	0.11331800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro04a-point.txt	0.42318
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/th-law-law-general-religion-house-would-decriminalise-sadomasochism/pro/pro04b-counter.txt	0.51498

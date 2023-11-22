@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/philosophy-political-philosophy-politics-government-voting/house-would-make-voting
+published_time	2012-01-26T16:34:50+01:00
+modified_time	2017-11-15T12:23:20+01:00
+crawled_time	Sun Feb 04 18:43:06 CET 2018
+voting_pro	0
+voting_con	100
+reads	117602

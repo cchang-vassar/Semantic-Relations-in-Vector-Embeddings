@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con01a-point.txt	0.06769999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con01b-counter.txt	0.49784399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con02a-point.txt	0.24181200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con02b-counter.txt	0.28364100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con03a-point.txt	0.025957000000000008
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con03b-counter.txt	0.21226999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con04a-point.txt	0.28067600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/con/con04b-counter.txt	0.207511
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro01a-point.txt	0.06692399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro01b-counter.txt	0.481355
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro02a-point.txt	0.528114
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro02b-counter.txt	0.002785999999999955
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro03a-point.txt	0.504527
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro03b-counter.txt	0.509287
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro04a-point.txt	0.940251
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro04b-counter.txt	0.331033
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro05a-point.txt	0.350444
+data/corpus-counterarguments-18/02-extracted-arguments/validation/international/africa-law-human-rights-house-believes-us-should-have-done-more-darfur/pro/pro05b-counter.txt	0.600301

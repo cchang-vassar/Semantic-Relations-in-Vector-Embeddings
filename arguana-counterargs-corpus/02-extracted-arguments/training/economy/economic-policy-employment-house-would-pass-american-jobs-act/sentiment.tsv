@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con01a-point.txt	0.41348799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con01b-counter.txt	0.13656999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con02a-point.txt	0.046651
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con02b-counter.txt	0.585437
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con03a-point.txt	0.28543399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/con/con03b-counter.txt	0.517138
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro01a-point.txt	0.534314
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro01b-counter.txt	0.626402
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro02a-point.txt	0.507568
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro02b-counter.txt	0.27022900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro03a-point.txt	0.902539
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/economic-policy-employment-house-would-pass-american-jobs-act/pro/pro03b-counter.txt	0.206716

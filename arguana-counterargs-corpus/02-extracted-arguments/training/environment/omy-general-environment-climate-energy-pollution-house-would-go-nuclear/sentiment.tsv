@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con01a-point.txt	0.285971
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con01b-counter.txt	0.28430200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con02a-point.txt	0.86574
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con02b-counter.txt	0.66789
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con03a-point.txt	0.29632000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con03b-counter.txt	0.09180900000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con04a-point.txt	0.14950399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/con/con04b-counter.txt	0.13815299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro01a-point.txt	0.32670999999999994
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro01b-counter.txt	0.50016
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro02a-point.txt	0.728889
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro02b-counter.txt	0.262914
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro03a-point.txt	0.765956
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro03b-counter.txt	0.12252099999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro04a-point.txt	0.731183
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/omy-general-environment-climate-energy-pollution-house-would-go-nuclear/pro/pro04b-counter.txt	0.627022

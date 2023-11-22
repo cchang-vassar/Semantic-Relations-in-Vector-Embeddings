@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con01a-point.txt	0.693282
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con01b-counter.txt	0.011379000000000028
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con02a-point.txt	0.247066
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con02b-counter.txt	0.08360599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con03a-point.txt	0.44178700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/con/con03b-counter.txt	0.536125
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro01a-point.txt	0.382483
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro01b-counter.txt	0.34019
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro02a-point.txt	0.250796
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro02b-counter.txt	0.24083
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro03a-point.txt	0.049934000000000034
+data/corpus-counterarguments-18/02-extracted-arguments/test/digital-freedoms/privacy-house-would-not-allow-companies-collectsell-personal-data-their/pro/pro03b-counter.txt	0.845291

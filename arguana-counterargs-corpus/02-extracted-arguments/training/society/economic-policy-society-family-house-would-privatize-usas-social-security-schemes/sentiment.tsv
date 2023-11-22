@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con01a-point.txt	0.27544
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con01b-counter.txt	0.378548
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con02a-point.txt	0.43027000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con02b-counter.txt	0.23495100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con03a-point.txt	0.478931
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/con/con03b-counter.txt	0.21846100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro01a-point.txt	0.384641
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro01b-counter.txt	0.33876399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro02a-point.txt	0.18428699999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro02b-counter.txt	0.08124600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro03a-point.txt	0.22739900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/economic-policy-society-family-house-would-privatize-usas-social-security-schemes/pro/pro03b-counter.txt	0.24726400000000004

@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con01a-point.txt	0.79108
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con01b-counter.txt	0.782979
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con02a-point.txt	0.728689
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con02b-counter.txt	0.33950199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con03a-point.txt	0.25376600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/con/con03b-counter.txt	0.647857
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro01a-point.txt	0.421071
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro01b-counter.txt	0.610449
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro02a-point.txt	0.32610799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro02b-counter.txt	0.501757
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro03a-point.txt	0.630074
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro03b-counter.txt	0.702912
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro04a-point.txt	0.40364599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/politics/politics-general-government-house-would-ban-negative-advertising-political/pro/pro04b-counter.txt	0.38438399999999995

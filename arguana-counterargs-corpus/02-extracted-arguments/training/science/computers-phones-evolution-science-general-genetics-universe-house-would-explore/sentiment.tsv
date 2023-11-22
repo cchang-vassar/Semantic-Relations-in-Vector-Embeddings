@@ -1,0 +1,9 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con01a-point.txt	0.62764
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con01b-counter.txt	0.949787
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con02a-point.txt	0.058435000000000015
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con02b-counter.txt	0.893361
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con03a-point.txt	0.472325
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/con/con03b-counter.txt	0.755863
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/pro/pro01a-point.txt	0.463005
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/computers-phones-evolution-science-general-genetics-universe-house-would-explore/pro/pro01b-counter.txt	0.11218899999999998

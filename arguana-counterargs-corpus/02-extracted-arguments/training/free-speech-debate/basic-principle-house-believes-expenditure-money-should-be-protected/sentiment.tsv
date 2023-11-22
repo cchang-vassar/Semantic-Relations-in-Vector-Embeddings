@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con01a-point.txt	0.516328
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con01b-counter.txt	0.726443
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con02a-point.txt	0.555934
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con02b-counter.txt	0.407393
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con03a-point.txt	0.38091200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/con/con03b-counter.txt	0.20540000000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro01a-point.txt	0.840652
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro01b-counter.txt	0.35153100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro02a-point.txt	0.320666
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro02b-counter.txt	0.06450800000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro03a-point.txt	0.615954
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/basic-principle-house-believes-expenditure-money-should-be-protected/pro/pro03b-counter.txt	0.146324

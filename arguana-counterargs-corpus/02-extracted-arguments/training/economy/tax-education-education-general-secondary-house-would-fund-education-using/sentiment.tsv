@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con01a-point.txt	0.087453
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con01b-counter.txt	0.711018
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con02a-point.txt	0.529063
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con02b-counter.txt	0.06913000000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con03a-point.txt	0.801508
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/con/con03b-counter.txt	0.21958500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro01a-point.txt	0.635961
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro01b-counter.txt	0.842512
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro02a-point.txt	0.736373
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro02b-counter.txt	0.725351
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro03a-point.txt	0.925337
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/tax-education-education-general-secondary-house-would-fund-education-using/pro/pro03b-counter.txt	0.383603

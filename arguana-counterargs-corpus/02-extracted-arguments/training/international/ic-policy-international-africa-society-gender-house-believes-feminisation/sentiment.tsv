@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con01a-point.txt	0.716164
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con01b-counter.txt	0.789169
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con02a-point.txt	0.121143
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con02b-counter.txt	0.93676
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con03a-point.txt	0.966798
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con03b-counter.txt	0.37325699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con04a-point.txt	0.805484
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/con/con04b-counter.txt	0.980308
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro01a-point.txt	0.936453
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro01b-counter.txt	0.520942
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro02a-point.txt	0.976592
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro02b-counter.txt	0.060270000000000046
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro03a-point.txt	0.924472
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-gender-house-believes-feminisation/pro/pro03b-counter.txt	0.32509299999999997

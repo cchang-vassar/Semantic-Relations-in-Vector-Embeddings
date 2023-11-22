@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con01a-point.txt	0.22782899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con01b-counter.txt	0.359657
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con02a-point.txt	0.356591
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con02b-counter.txt	0.020194000000000045
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con03a-point.txt	0.143911
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/con/con03b-counter.txt	0.681758
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro01a-point.txt	0.326387
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro01b-counter.txt	0.24126499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro02a-point.txt	0.27459599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro02b-counter.txt	0.05754999999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro03a-point.txt	0.776011
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro03b-counter.txt	0.181377
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro04a-point.txt	0.521435
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-economic-policy-employment-eurozone-crisis-house-believes-eu-member/pro/pro04b-counter.txt	0.16867500000000002

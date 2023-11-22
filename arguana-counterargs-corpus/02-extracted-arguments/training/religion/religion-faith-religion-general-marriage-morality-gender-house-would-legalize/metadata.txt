@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/religion/religion-faith-religion-general-marriage-morality-gender/house-would-legalize
+published_time	2012-01-26T16:32:49+01:00
+modified_time	2012-09-14T13:57:33+02:00
+crawled_time	Sun Feb 04 18:42:37 CET 2018
+voting_pro	33
+voting_con	67
+reads	93737

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con01a-point.txt	0.264107
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con01b-counter.txt	0.694602
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con02a-point.txt	0.380721
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con02b-counter.txt	0.04293999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con03a-point.txt	0.438245
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/con/con03b-counter.txt	0.185967
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro01a-point.txt	0.45619
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro01b-counter.txt	0.579463
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro02a-point.txt	0.17077699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro02b-counter.txt	0.179917
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro03a-point.txt	0.092947
+data/corpus-counterarguments-18/02-extracted-arguments/training/law/international-law-politics-defence-warpeace-house-believes-us-should-ban-use-cluster/pro/pro03b-counter.txt	0.666435

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con01a-point.txt	0.12434500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con01b-counter.txt	0.24270599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con02a-point.txt	0.539356
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con02b-counter.txt	0.68418
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con03a-point.txt	0.30961799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/con/con03b-counter.txt	0.92473
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro01a-point.txt	0.696586
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro01b-counter.txt	0.11179399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro02a-point.txt	0.86177
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro02b-counter.txt	0.45163600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro03a-point.txt	0.857794
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/internet-digital-freedoms-intellectual-property-house-believes-governments-should/pro/pro03b-counter.txt	0.416073

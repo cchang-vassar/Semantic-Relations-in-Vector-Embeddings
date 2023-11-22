@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-voting/house-would-lower-voting-age-16
+published_time	2013-04-30T16:10:34+02:00
+modified_time	2017-04-13T11:41:12+02:00
+crawled_time	Sun Feb 04 18:42:35 CET 2018
+voting_pro	100
+voting_con	0
+reads	48254

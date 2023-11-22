@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/health-addiction-health-general-law-crime-policing/house-supports-legalisation-drugs
+published_time	2012-02-17T17:44:29+01:00
+modified_time	2017-05-30T15:00:14+02:00
+crawled_time	Sun Feb 04 18:43:00 CET 2018
+voting_pro	100
+voting_con	0
+reads	31300

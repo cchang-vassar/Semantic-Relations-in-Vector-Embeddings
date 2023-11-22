@@ -1,0 +1,24 @@
+# METADATA
+url	https://idebate.org/debatabase/politics/politics-voting/house-would-adopt-alternative-vote
+published_time	2012-01-26T16:33:31+01:00
+modified_time	2012-10-28T19:02:01+01:00
+crawled_time	Sun Feb 04 18:42:34 CET 2018
+voting_pro	50
+voting_con	50
+reads	12092
+
+
+# THESIS
+This house would adopt the alternative vote
+
+
+# INTRO
+The Alternative Vote (AV) electoral system is currently used to elect representatives to Australia's House of Representatives. It is sometimes called the Instant Run-off system (in America) or preferential voting (in Australia). Many of those who are dissatisfied with the First Past the Post (FPTP) electoral system used in the UK and USA argue for a change to AV. The UK Labour Party advocated AV in their manifesto for the 2010 General Election, and the Conservative-Lib Dem coalition held a referendum on changing the voting system for the UK House of Commons to AV on May 5th 2011.
+
+Like the FPTP system used in the USA and the UK, under AV each constituency or electoral district elects one representative to the legislature (Parliament, Assembly or Congress). But FPTP simply asks people to put a mark against the person they prefer. For a candidate to win under FPTP, they have to get more votes than any other candidate, meaning one may be declared the winner with less than 50% of the votes. The Alternative Vote system differs by ensuring that the winner of each constituency has to have the support of over half the voters – for this reason it is classed as a majoritarian system. AV achieves this by asking each voter to rank the candidates in order of preference. First preference votes are then counted and if one candidate has over 50% of votes cast, they are automatically declared the winner. If no one has over half the votes cast, then the candidate with the fewest first-preference votes is eliminated, and their votes given to the second-choice candidate on their voters’ ballot papers. If after adding these redistributed votes one candidate now has over 50% of the votes, then they are declared the winner; if not, the remaining candidate with fewest votes is eliminated and their ballot papers redistributed, and so on. Eventually one candidate must end up with the support of over half the voters, and so will represent that constituency/district in the legislature.
+
+
+
+
+# LITERATURE
+Crampton, Caroline, ‘The rule of the minority’, The Staggers The New Statesman rolling blog, 2nd July 2010. Balls, Jonathan, Would tactical voting end under AV, Fun fact.org, accessed 31/5/11 . Evans, Tim, ‘Compulsory voting in Australia’, Australian Electoral Commission, January 2006. Hix, Simon, et al., ‘Choosing an electoral system’, British Academy, 10th March 2010 . Stratton, Allegra, ‘AV: the main arguments, yes and no, stress-tested’, guardian.co.uk, 3rd May 2011 . Travis, Alan, Electoral reform: Alternative vote system would have had minimal impact on outcome of general election, guardian.co.uk, 10th May 2010 . Warsi, Sayeed, ‘AV will give extremist parties more credibility’ Conservatives.com, 30th March 2011. Miliband vs Miliband – AV in Practice, Electoral Reform Society, 19th July 2010 . Factcheck: for and against AV, Channel 4 News, 18th February 2011. For An Informed Referendum Decision, AV2011, 2011 . Most common AV related questions, Thoughtundermined, 28th April 2011 . The Importance of How to Vote Cards, Australianpolitics.com 2010 BES, The British Election Study .

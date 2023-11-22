@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con01a-point.txt	0.26522
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con01b-counter.txt	0.668002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con02a-point.txt	0.613636
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con02b-counter.txt	0.825606
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con03a-point.txt	0.17732599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con03b-counter.txt	0.16396100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con04a-point.txt	0.591034
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con04b-counter.txt	0.855426
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con05a-point.txt	0.591034
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/con/con05b-counter.txt	0.855426
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro01a-point.txt	0.836343
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro01b-counter.txt	0.189442
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro02a-point.txt	0.638719
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro02b-counter.txt	0.39155300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro03a-point.txt	0.713786
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro03b-counter.txt	0.31147
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro04a-point.txt	0.752048
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/asia-europe-global-house-believes-long-term-cooperation-between-russia-and/pro/pro04b-counter.txt	0.614453

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/free-speech-debate-living-difference/house-would-penalise-religious-hate-speech
+published_time	2012-11-12T14:37:10+01:00
+modified_time	2017-04-19T12:45:31+02:00
+crawled_time	Sun Feb 04 18:42:58 CET 2018
+voting_pro	50
+voting_con	50
+reads	19191

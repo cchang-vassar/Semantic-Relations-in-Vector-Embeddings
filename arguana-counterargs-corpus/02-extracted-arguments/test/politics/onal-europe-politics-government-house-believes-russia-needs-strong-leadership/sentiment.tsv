@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con01a-point.txt	0.849791
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con01b-counter.txt	0.838886
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con02a-point.txt	0.365221
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con02b-counter.txt	0.60047
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con03a-point.txt	0.781926
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con03b-counter.txt	0.672525
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con04a-point.txt	0.862049
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/con/con04b-counter.txt	0.708816
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro01a-point.txt	0.680427
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro01b-counter.txt	0.844612
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro02a-point.txt	0.992924
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro02b-counter.txt	0.85865
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro03a-point.txt	0.961705
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro03b-counter.txt	0.11500299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro04a-point.txt	0.702288
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-government-house-believes-russia-needs-strong-leadership/pro/pro04b-counter.txt	0.19240599999999997

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-politics-general-government-digital-freedoms-access-knowledge/house-would-force
+published_time	2013-06-11T14:00:31+02:00
+modified_time	2017-04-11T14:33:41+02:00
+crawled_time	Sun Feb 04 18:42:36 CET 2018
+voting_pro	50
+voting_con	50
+reads	7604

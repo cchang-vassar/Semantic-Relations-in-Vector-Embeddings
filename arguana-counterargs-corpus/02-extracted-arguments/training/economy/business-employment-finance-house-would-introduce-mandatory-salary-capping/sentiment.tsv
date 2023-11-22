@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con01a-point.txt	0.59617
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con01b-counter.txt	0.869475
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con02a-point.txt	0.61292
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con02b-counter.txt	0.810032
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con03a-point.txt	0.707694
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con03b-counter.txt	0.39496200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con04a-point.txt	0.07167000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/con/con04b-counter.txt	0.34163299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro01a-point.txt	0.32385699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro01b-counter.txt	0.135606
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro02a-point.txt	0.27195400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro02b-counter.txt	0.036707000000000045
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro03a-point.txt	0.259795
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro03b-counter.txt	0.25490999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro04a-point.txt	0.276319
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro04b-counter.txt	0.755026
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro05a-point.txt	0.618314
+data/corpus-counterarguments-18/02-extracted-arguments/training/economy/business-employment-finance-house-would-introduce-mandatory-salary-capping/pro/pro05b-counter.txt	0.42943

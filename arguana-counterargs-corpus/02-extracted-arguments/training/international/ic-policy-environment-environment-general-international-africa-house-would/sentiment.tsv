@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con01a-point.txt	0.948644
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con01b-counter.txt	0.51421
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con02a-point.txt	0.89463
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con02b-counter.txt	0.930573
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con03a-point.txt	0.664553
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con03b-counter.txt	0.33309500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con04a-point.txt	0.636113
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/con/con04b-counter.txt	0.809792
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro01a-point.txt	0.49727600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro01b-counter.txt	0.772234
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro02a-point.txt	0.623227
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro02b-counter.txt	0.006516999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro03a-point.txt	0.583707
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-environment-environment-general-international-africa-house-would/pro/pro03b-counter.txt	0.643158

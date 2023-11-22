@@ -1,0 +1,3 @@
+The NATO manual does specifically state “network intrusions, the deletion or destruction of data… computer network exploitation, and data theft do not amount to a non-international armed conflict.” [1] Instead it has to be persistent, and be carried out by organised armed groups; likely not criteria that would be ever satisfied by undermining censorship.
+
+[1] Schmitt, Michael N., ed., “The Tallinn Manual on the International Law Applicable to Cyber Warfare”, Cambridge University Press, 2013, pp.87-88. http://ccdcoe.org/249.html

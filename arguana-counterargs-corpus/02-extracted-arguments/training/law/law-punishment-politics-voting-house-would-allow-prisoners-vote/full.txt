@@ -1,0 +1,24 @@
+# METADATA
+url	https://idebate.org/debatabase/law/law-punishment-politics-voting/house-would-allow-prisoners-vote
+published_time	2012-01-26T16:35:22+01:00
+modified_time	2012-10-24T13:26:43+02:00
+crawled_time	Sun Feb 04 18:42:25 CET 2018
+voting_pro	67
+voting_con	33
+reads	112612
+
+
+# THESIS
+This house would allow prisoners to vote
+
+
+# INTRO
+Many countries restrict the right of those sentenced to imprisonment to vote in elections. For example, convicted prisoners are automatically banned from voting in Armenia, Bulgaria, the Czech Republic, Estonia, Hungary, Luxemburg, Romania, Russia and the United Kingdom. In Australia, prisoners are only entitled to vote if they are serving a sentence of less than three years. Eighteen European states, including Spain, the Netherlands and the Republic of Ireland, place no formal prohibition on prisoners voting. In practice, however, it is often difficult for prisoners in some of these countries to vote: in the Republic of Ireland, prisoners have the right to be registered to vote in their home constituency, but have no right to either a postal vote or to be released to cast a vote at a ballot box.
+
+The issue is particularly controversial in the United Kingdom and the USA. In April 2001, the British High Court rejected a case brought by John Hirst (a man serving a life sentence for manslaughter), who argued that the ban on prisoners voting was incompatible with the Human Rights Act 1998. In March 2004, the European Court of Human Rights ruled that the British government was in breach of the European Convention on Human Rights; the European Court's Grand Chamber rejected the British government's appeal in October 2005. Proponents argue this is proof that the right to vote is an unalienable right that cannot be taken from a prisoner, regardless of the severity of his crime. Opponents maintain that disenfranchisement is a suitable punishment for those who have proven unable to adhere to society's laws and will act as a deterrent against re-offending. As a result, in the United States, one in forty Americans of voting age are ineligible to vote because they are, or have been, in prison. The arguments below relate directly to whether those currently serving prison sentences should be allowed to vote.
+
+
+
+
+# LITERATURE
+Allison, L. (2006, November 1). Voting Rights of Prisoners. Retrieved May 18, 2011, from Australian Democrats: Australian Human Rights Commission. (2010, February). The right to vote is not enjoyed equally by all Australians. Retrieved May 18, 2011, from Australian Human Rights Commission. BBC News. (2001, March 21). Prisoners' voting rights bid attacked. Retrieved May 18, 2011, from BBC News. Clegg, R. (2002, September 6). Once a criminal, never a voter? Retrieved May 18, 2011, from New York Times. CTV News. (2002, November 1). Supreme Court backs prisoners' right to vote. Retrieved May 18, 2011, from CTV News. Gramlich, J. (2008, September 23) Groups push to expand ex-felon voting. Retrieved June 21, 2011 from Stateline. Itzkowitz, H., &amp; Oldak, L. (1972-73). Restoring the Ex-Offender's Right to Vote. Criminal Law Review, 721. Jackson, Jr., J. L. (2003, November 22). Fighting for a right to vote constitutional amendment. Retrieved May 18, 2011, from Fair Vote. Johnson-Parris, A. S. (2003). Felon Disenfrachisement: The Unconscionable Social Contract Breached. Virginia Law Review, 109-138. Maley, P. (2008) High Court lets prisoners vote. Retrieved June 21, 2011 from Wall Street Journal. Press Association (2010, November 2) Prisoners to get the right to vote. Retrieved June 21, 2011 from the Guardian. Quinn, B. (2011, April 12). Prisoners' voting rights: government loses final appeal in European Court. Retrieved May 18, 2011, from Guardian. Stringer, D. (2011, February 10) UK Lawmakers Vote to Deny Prisoners Right to Vote. Retrieved June 21, 2011, from ABC News. U.S. Congress. (2003, May 20). Civil Rights Division. Retrieved May 18, 2011, from The United States Department of Justice.

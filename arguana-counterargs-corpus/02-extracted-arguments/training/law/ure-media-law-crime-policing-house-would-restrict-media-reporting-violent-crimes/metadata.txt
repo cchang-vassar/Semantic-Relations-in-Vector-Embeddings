@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/culture-media-law-crime-policing/house-would-restrict-media-reporting-violent-crimes
+published_time	2012-07-13T12:51:15+02:00
+modified_time	2017-04-20T12:27:57+02:00
+crawled_time	Sun Feb 04 18:42:24 CET 2018
+voting_pro	50
+voting_con	50
+reads	31811

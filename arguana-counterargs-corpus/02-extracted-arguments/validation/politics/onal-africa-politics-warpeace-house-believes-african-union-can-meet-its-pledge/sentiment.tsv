@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con01a-point.txt	0.549927
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con01b-counter.txt	0.93675
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con02a-point.txt	0.310326
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con02b-counter.txt	0.46183700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con03a-point.txt	0.11122900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con03b-counter.txt	0.574756
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con04a-point.txt	0.38107599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/con/con04b-counter.txt	0.872097
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro01a-point.txt	0.755072
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro01b-counter.txt	0.011110999999999982
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro02a-point.txt	0.015912999999999955
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro02b-counter.txt	0.38713699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro03a-point.txt	0.816425
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro03b-counter.txt	0.469711
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro04a-point.txt	0.523854
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/onal-africa-politics-warpeace-house-believes-african-union-can-meet-its-pledge/pro/pro04b-counter.txt	0.944408

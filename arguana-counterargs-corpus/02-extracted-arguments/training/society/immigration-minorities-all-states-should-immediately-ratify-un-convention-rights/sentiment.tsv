@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con01a-point.txt	0.643652
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con01b-counter.txt	0.964944
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con02a-point.txt	0.289245
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con02b-counter.txt	0.618025
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con03a-point.txt	0.42336700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con03b-counter.txt	0.44470299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con04a-point.txt	0.344444
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con04b-counter.txt	0.696515
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con05a-point.txt	0.22596700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/con/con05b-counter.txt	0.08842799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro01a-point.txt	0.815261
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro01b-counter.txt	0.443766
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro02a-point.txt	0.980815
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro02b-counter.txt	0.07529200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro03a-point.txt	0.926491
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro03b-counter.txt	0.38009800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro04a-point.txt	0.939875
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro04b-counter.txt	0.15122000000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro05a-point.txt	0.686896
+data/corpus-counterarguments-18/02-extracted-arguments/training/society/immigration-minorities-all-states-should-immediately-ratify-un-convention-rights/pro/pro05b-counter.txt	0.16319399999999995

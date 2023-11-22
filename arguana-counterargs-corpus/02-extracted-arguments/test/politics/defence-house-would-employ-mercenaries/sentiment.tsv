@@ -1,0 +1,20 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con01a-point.txt	0.635387
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con01b-counter.txt	0.41071199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con02a-point.txt	0.26653899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con02b-counter.txt	0.08564899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con03a-point.txt	0.07381599999999999
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con03b-counter.txt	0.32390300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con04a-point.txt	0.347098
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/con/con04b-counter.txt	0.612861
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro01a-point.txt	0.983667
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro01b-counter.txt	0.013789000000000051
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro02a-point.txt	0.795638
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro02b-counter.txt	0.21932600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro03a-point.txt	0.566258
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro03b-counter.txt	0.519048
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro04a-point.txt	0.925156
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro04b-counter.txt	0.24684099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro05a-point.txt	0.817476
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro05b-counter.txt	0.03605499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/defence-house-would-employ-mercenaries/pro/pro06a-point.txt	0.272911

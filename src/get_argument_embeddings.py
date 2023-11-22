@@ -1,4 +1,9 @@
-import openai
+from openai import OpenAI
+import os
+os.environ["OPENAI_API_KEY"] = "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"
+client = OpenAI()
+client.models.list()
+
 import pandas as pd
 from sklearn.manifold import TSNE
 import numpy as np
@@ -8,32 +13,24 @@ import extract_arguments
 from extract_arguments import DebateTopic
 from plotnine import ggplot, geom_point, geom_text, aes, theme_void
 
-api_key = "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"
-openai.api_key = api_key
 
-def get_arguments_embeddings(arguments: {"pro": [], "con": []}):
+def get_arguments_embeddings(arguments: {}):
     pro_arguments = arguments["pro"]
     con_arguments = arguments["con"]
     arguments_embeddings = {"pro_arguments_embeddings": [], "con_arguments_embeddings": []}
     # Loop through all pro arguments and create embeddings
     for argument in pro_arguments:
-        argument_embedding = openai.Embedding.create(
-            model="text-embedding-ada-002",
-            input=argument
-        )
-        arguments_embeddings["pro_arguments_embeddings"].append(argument_embedding["data"][0]["embedding"])
+        argument_embedding = client.embeddings.create(input=argument, model="text-embedding-ada-002")
+        arguments_embeddings["pro_arguments_embeddings"].append(argument_embedding.data[0].embedding)
     # Loop through all con arguments and create embeddings
     for argument in con_arguments:
-        argument_embedding = openai.Embedding.create(
-            model="text-embedding-ada-002",
-            input=argument
-        )
-        arguments_embeddings["con_arguments_embeddings"].append(argument_embedding["data"][0]["embedding"])
+        argument_embedding = client.embeddings.create(input=argument, model="text-embedding-ada-002")
+        arguments_embeddings["con_arguments_embeddings"].append(argument_embedding.data[0].embedding)
     return arguments_embeddings
 
 
 # Convert the embeddings to lists
-def embeddings_df(arguments_embedding: {"pro_arguments_embeddings": [], "con_arguments_embeddings": []}):
+def embeddings_df(arguments_embedding: {}):
     reshaped_arguments_embeddings = pd.DataFrame()
     for i, pro_embedding in enumerate(arguments_embedding["pro_arguments_embeddings"]):
         reshaped_embedding = pd.DataFrame(np.array(pro_embedding).reshape(1, -1))
@@ -70,7 +67,7 @@ def tsne_write_to_file(
     file_path: str,
     arguments_tsne_plot_data: pd.DataFrame
     ):
-    arguments_tsne_plot_data.to_csv('../' + 'data_dump/' + 'tsne_dump' + debate_topic.value + '/' +
+    arguments_tsne_plot_data.to_csv('../' + 'data_dump/' + 'tsne_dump/' + debate_topic.value + '/' +
                                     file_path + '_tsne.csv', index=False)
 
 
@@ -87,20 +84,20 @@ def arguments_embeddings_tsne_plot(arguments_tsne_plot_data: pd.DataFrame):
 
 # Batch process debates to get tsne data
 def debates_embeddings_data_batch(
-    debates_files: [{"debate_topic": DebateTopic, "file_path": str}]
+    debates_files: []
     ):
+    
     debates_tsne_set = pd.DataFrame()
     for debate_file in debates_files:
         debate_file_topic = debate_file["debate_topic"]
         debate_file_path = debate_file["file_path"]
-        print(debate_file_topic.value)
-        # arguments = extract_arguments.extract_arguments(debate_file_topic.value, debate_file_path)
-        # arguments_embeddings = get_arguments_embeddings(arguments)
-        # arguments_df = embeddings_df(arguments_embeddings)
-        # arguments_tsne = arguments_embeddings_tsne(arguments_df)
-        # arguments_tsne['file_path'] = debate_file_path
-        # tsne_write_to_file(debate_file_topic, debate_file_path, arguments_tsne)
-        # debates_tsne_set = pd.concat([debates_tsne_set, arguments_tsne], axis=0)
+        arguments = extract_arguments.extract_arguments(debate_file_topic.value, debate_file_path)
+        arguments_embeddings = get_arguments_embeddings(arguments)
+        arguments_df = embeddings_df(arguments_embeddings)
+        arguments_tsne = arguments_embeddings_tsne(arguments_df)
+        arguments_tsne['file_path'] = debate_file_path
+        tsne_write_to_file(debate_file_topic, debate_file_path, arguments_tsne)
+        debates_tsne_set = pd.concat([debates_tsne_set, arguments_tsne], axis=0)
     return debates_tsne_set
         
         

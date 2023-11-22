@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con01a-point.txt	0.34870900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con01b-counter.txt	0.644617
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con02a-point.txt	0.16059299999999999
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con02b-counter.txt	0.712083
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con03a-point.txt	0.553399
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con03b-counter.txt	0.17546099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con04a-point.txt	0.29132
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/con/con04b-counter.txt	0.10699899999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro01a-point.txt	0.23899199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro01b-counter.txt	0.015221999999999958
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro02a-point.txt	0.680001
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro02b-counter.txt	0.646318
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro03a-point.txt	0.652112
+data/corpus-counterarguments-18/02-extracted-arguments/validation/free-speech-debate/internet-freedom-law-human-rights-digital-freedoms-freedom-expression/pro/pro03b-counter.txt	0.07505200000000001

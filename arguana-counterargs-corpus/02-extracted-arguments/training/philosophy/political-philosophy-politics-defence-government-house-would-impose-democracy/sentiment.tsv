@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con01a-point.txt	0.46473600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con01b-counter.txt	0.19332899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con02a-point.txt	0.635206
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con02b-counter.txt	0.26268800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con03a-point.txt	0.393216
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con03b-counter.txt	0.551626
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con04a-point.txt	0.48920699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con04b-counter.txt	0.43747800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con05a-point.txt	0.057200999999999946
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/con/con05b-counter.txt	0.834596
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro01a-point.txt	0.905766
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro01b-counter.txt	0.053364999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro02a-point.txt	0.135567
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro02b-counter.txt	0.03520599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro03a-point.txt	0.921748
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro03b-counter.txt	0.23397
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro04a-point.txt	0.917244
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/political-philosophy-politics-defence-government-house-would-impose-democracy/pro/pro04b-counter.txt	0.844803

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/politics-government-voting/house-would-abolish-us-electoral-college
+published_time	2012-02-21T14:46:56+01:00
+modified_time	2017-05-20T08:24:50+02:00
+crawled_time	Sun Feb 04 18:42:52 CET 2018
+voting_pro	50
+voting_con	50
+reads	29467

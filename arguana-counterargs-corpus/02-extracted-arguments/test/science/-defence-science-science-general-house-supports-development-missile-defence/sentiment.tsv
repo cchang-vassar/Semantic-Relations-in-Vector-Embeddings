@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con01a-point.txt	0.298196
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con01b-counter.txt	0.698088
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con02a-point.txt	0.75252
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con02b-counter.txt	0.664789
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con03a-point.txt	0.077071
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/con/con03b-counter.txt	0.879089
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro01a-point.txt	0.823472
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro01b-counter.txt	0.47726
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro02a-point.txt	0.580748
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro02b-counter.txt	0.015179999999999971
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro03a-point.txt	0.24297599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro03b-counter.txt	0.553395
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro04a-point.txt	0.15757600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/science/-defence-science-science-general-house-supports-development-missile-defence/pro/pro04b-counter.txt	0.610942

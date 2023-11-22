@@ -1,0 +1,9 @@
+FILE	INSTANCE TYPES WITH COUNTS
+01-debate-opposing-counters.tsv.zip	debate-same-counter 4052	true 1401
+02-debate-counters.tsv.zip	debate-oppo-counter 5260	debate-same-counter 4052	true 1401
+03-debate-opposing-arguments.tsv.zip	debate-oppo-point 5260	debate-same-counter 4052	true 1401
+04-debate-arguments.tsv.zip	debate-oppo-counter 5260	debate-oppo-point 5260	debate-same-counter 4052	debate-same-point 4058	true 1401
+05-theme-counters.tsv.zip	debate-oppo-counter 5260	debate-same-counter 4052	theme-counter 180558	true 1401
+06-theme-arguments.tsv.zip	debate-oppo-counter 5260	debate-oppo-point 5260	debate-same-counter 4052	debate-same-point 4058	theme-counter 180558	theme-point 180558	true 1401
+07-split-counters.tsv.zip	debate-oppo-counter 5260	debate-same-counter 4052	portal-counter 1771312	theme-counter 180558	true 1401
+08-split-arguments.tsv.zip	debate-oppo-counter 5260	debate-oppo-point 5260	debate-same-counter 4052	debate-same-point 4058	portal-counter 1771312	portal-point 1771524	theme-counter 180558	theme-point 180558	true 1401

@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con01a-point.txt	0.888344
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con01b-counter.txt	0.13075599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con02a-point.txt	0.93593
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con02b-counter.txt	0.696124
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con03a-point.txt	0.769092
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/con/con03b-counter.txt	0.12880599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro01a-point.txt	0.846769
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro01b-counter.txt	0.679961
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro02a-point.txt	0.455446
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro02b-counter.txt	0.98117
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro03a-point.txt	0.939987
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro03b-counter.txt	0.559751
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro04a-point.txt	0.704361
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro04b-counter.txt	0.79994
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro05a-point.txt	0.615957
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro05b-counter.txt	0.027738999999999958
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro06a-point.txt	0.608614
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/ic-policy-international-africa-society-family-house-believes-african-cities/pro/pro06b-counter.txt	0.30528599999999995

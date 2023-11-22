@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con01a-point.txt	0.373965
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con01b-counter.txt	0.760987
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con02a-point.txt	0.19013000000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con02b-counter.txt	0.162493
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con03a-point.txt	0.642214
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/con/con03b-counter.txt	0.992261
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro01a-point.txt	0.663314
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro01b-counter.txt	0.252919
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro02a-point.txt	0.643251
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro02b-counter.txt	0.249
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro03a-point.txt	0.20105099999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro03b-counter.txt	0.08884499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro04a-point.txt	0.011514000000000024
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro04b-counter.txt	0.327685
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro05a-point.txt	0.739244
+data/corpus-counterarguments-18/02-extracted-arguments/validation/philosophy/political-philosophy-politics-government-voting-house-would-make-voting/pro/pro05b-counter.txt	0.985505

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy-education-secondary-university-philosophy-religion-minorities/house-believes-use
+published_time	2012-02-17T11:35:07+01:00
+modified_time	2017-08-09T16:39:51+02:00
+crawled_time	Sun Feb 04 18:43:01 CET 2018
+voting_pro	0
+voting_con	100
+reads	30890

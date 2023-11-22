@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con01a-point.txt	0.889003
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con01b-counter.txt	0.48029999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con02a-point.txt	0.329881
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con02b-counter.txt	0.29892700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con03a-point.txt	0.400216
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con03b-counter.txt	0.56328
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con04a-point.txt	0.05849099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/con/con04b-counter.txt	0.613968
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro01a-point.txt	0.752098
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro01b-counter.txt	0.10799499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro02a-point.txt	0.377769
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro02b-counter.txt	0.756352
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro03a-point.txt	0.634923
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro03b-counter.txt	0.661357
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro04a-point.txt	0.619528
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/e-health-crime-policing-science-sport-olympics-house-would-permit-use-performance/pro/pro04b-counter.txt	0.30951399999999996

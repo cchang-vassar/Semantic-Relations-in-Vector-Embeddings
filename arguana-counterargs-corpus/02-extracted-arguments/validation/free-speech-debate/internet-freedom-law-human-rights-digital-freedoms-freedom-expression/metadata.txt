@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/free-speech-debate-internet-freedom-law-human-rights-digital-freedoms-freedom-expression
+published_time	2013-02-13T17:30:19+01:00
+modified_time	2017-04-18T12:15:36+02:00
+crawled_time	Sun Feb 04 18:42:48 CET 2018
+voting_pro	50
+voting_con	50
+reads	11670

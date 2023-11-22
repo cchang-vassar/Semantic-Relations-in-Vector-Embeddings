@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con01a-point.txt	0.83044
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con01b-counter.txt	0.108437
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con02a-point.txt	0.579636
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con02b-counter.txt	0.820908
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con03a-point.txt	0.585492
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con03b-counter.txt	0.49758100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con04a-point.txt	0.33964000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con04b-counter.txt	0.899619
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con05a-point.txt	0.045543
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/con/con05b-counter.txt	0.986309
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro01a-point.txt	0.8582
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro01b-counter.txt	0.975731
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro02a-point.txt	0.457917
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro02b-counter.txt	0.689571
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro03a-point.txt	0.845983
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro03b-counter.txt	0.990461
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro04a-point.txt	0.657752
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro04b-counter.txt	0.19449000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro05a-point.txt	0.738377
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/thcare-philosophy-ethics-house-would-allow-donations-vital-organs-even-expense/pro/pro05b-counter.txt	0.287899

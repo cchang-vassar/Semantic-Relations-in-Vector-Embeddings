@@ -10,8 +10,6 @@ class ArgumentType(Enum):
 
 # Enum for debate topic
 class DebateTopic(Enum):
-    def __str__(self):
-        return str(self.value)
     CULTURE = "culture"
     DIGITAL_FREEDOMS = "digital-freedoms"
     ECONOMY = "economy"

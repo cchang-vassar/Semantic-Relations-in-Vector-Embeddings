@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con01a-point.txt	0.06293000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con01b-counter.txt	0.535484
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con02a-point.txt	0.380355
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con02b-counter.txt	0.22730899999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con03a-point.txt	0.832694
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con03b-counter.txt	0.657298
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con04a-point.txt	0.867427
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con04b-counter.txt	0.740299
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con05a-point.txt	0.004206000000000043
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/con/con05b-counter.txt	0.05157299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro01a-point.txt	0.656823
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro01b-counter.txt	0.45881000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro02a-point.txt	0.539469
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro02b-counter.txt	0.49834199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro03a-point.txt	0.528269
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro03b-counter.txt	0.23002900000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro04a-point.txt	0.25016799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro04b-counter.txt	0.630152
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro05a-point.txt	0.05618599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-believes-instant-replay-should-be-used-major-league-baseball/pro/pro05b-counter.txt	0.11119699999999999

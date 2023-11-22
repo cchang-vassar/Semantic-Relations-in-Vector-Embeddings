@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con01a-point.txt	0.508662
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con01b-counter.txt	0.014375000000000027
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con02a-point.txt	0.374896
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con02b-counter.txt	0.03985000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con03a-point.txt	0.05556300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con03b-counter.txt	0.07878600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con04a-point.txt	0.877998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con04b-counter.txt	0.14347500000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con05a-point.txt	0.566759
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/con/con05b-counter.txt	0.19386099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro01a-point.txt	0.328445
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro01b-counter.txt	0.22230700000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro02a-point.txt	0.211712
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro02b-counter.txt	0.311176
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro03a-point.txt	0.48088699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro03b-counter.txt	0.719953
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro04a-point.txt	0.313323
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro04b-counter.txt	0.06190399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro05a-point.txt	0.774051
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/education-general-government-religion-house-would-ban-faith-schools/pro/pro05b-counter.txt	0.889094

@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con01a-point.txt	0.738501
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con01b-counter.txt	0.01792499999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con02a-point.txt	0.47729299999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con02b-counter.txt	0.864182
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con03a-point.txt	0.946147
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/con/con03b-counter.txt	0.970795
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro01a-point.txt	0.23432299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro01b-counter.txt	0.386069
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro02a-point.txt	0.173114
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro02b-counter.txt	0.20783300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro03a-point.txt	0.445665
+data/corpus-counterarguments-18/02-extracted-arguments/test/health/disease-health-general-healthcare-house-believes-alternative-medicine-poses-threat/pro/pro03b-counter.txt	0.729704

@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con01a-point.txt	0.13066999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con01b-counter.txt	0.487965
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con02a-point.txt	0.761142
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con02b-counter.txt	0.09223599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con03a-point.txt	0.23276699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con03b-counter.txt	0.831086
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con04a-point.txt	0.861177
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con04b-counter.txt	0.583256
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con05a-point.txt	0.750069
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/con/con05b-counter.txt	0.12097999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro01a-point.txt	0.860125
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro01b-counter.txt	0.17079999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro02a-point.txt	0.400085
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro02b-counter.txt	0.638246
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro03a-point.txt	0.854733
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro03b-counter.txt	0.510816
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro04a-point.txt	0.623762
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro04b-counter.txt	0.454514
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro05a-point.txt	0.09049300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/digital-freedoms/e-media-and-good-government-politics-defence-government-digital-freedoms/pro/pro05b-counter.txt	0.06645900000000005

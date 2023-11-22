@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con01a-point.txt	0.652221
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con01b-counter.txt	0.24614499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con02a-point.txt	0.18507600000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con02b-counter.txt	0.871155
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con03a-point.txt	0.169933
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con03b-counter.txt	0.380197
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con04a-point.txt	0.09650999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/con/con04b-counter.txt	0.582357
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro01a-point.txt	0.25219800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro01b-counter.txt	0.84594
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro02a-point.txt	0.428138
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro02b-counter.txt	0.974996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro03a-point.txt	0.530045
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro03b-counter.txt	1.4999999999987246E-5
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro04a-point.txt	0.253915
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/middle-east-politics-defence-warpeace-house-would-have-weapons-inspectors/pro/pro04b-counter.txt	0.005946000000000007

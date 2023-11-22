@@ -1,0 +1,30 @@
+# METADATA
+url	https://idebate.org/debatabase/environment-climate-energy-environment-general-pollution-water/house-would-privatize
+published_time	2012-01-26T16:33:59+01:00
+modified_time	2012-09-14T17:04:27+02:00
+crawled_time	Sun Feb 04 18:42:39 CET 2018
+voting_pro	0
+voting_con	100
+reads	36872
+
+
+# THESIS
+This House would privatize the supply of water.
+
+
+# INTRO
+Water is the most common substance on earth and constantly renews itself through evaporation and rainfall. Still, 97% of the world's water is salt water and thus undrinkable, and the majority of the earth's freshwater is locked up in ice caps and glaciers, leaving just 1% of the world's water available for human consumption. This water must not only satisfy domestic use, but also industry and agriculture.
+
+Water is also the most important basic human need. People can go weeks without food, yet only days without water. One in eight, over 884 million, people on earth do not have access to safe drinking water and 3.5 million people die each year from water-related disease 1. Without tackling these problems, little progress can be made on other development issues. When water is unavailable children are required by the family to collect it from several miles away and cannot attend school. These conditions cause a number of people to grow so sick that they cannot work, and infant mortality rises to very high levels. The United Nation's International Year of Fresh Water in 2003 focused attention on these issues, and produced commitments to halve the number of people without access to clean water over the next decade. It is estimated that it will take $30 billion dollars to provide safe drinking water to everyone in the world 2.
+
+In many countries, governments have failed to champion fresh water access, and so multi-national corporations have moved in and begun providing water to those without it. It is controversial, however, because many cannot afford the water provided by companies. As the globe's population is only increasing, and more people are demanding water, something needs to be done. This debate centers on whether it is just to privatize water in an effort to address the current drinking water crisis in the international community.
+
+1 Water.org (2011), "Water Facts", [Accessed July 11, 2011]
+
+2 Blueplanetnetwork.org (2011), "The Facts About the Global Drinking Water Crisis", [Accessed July 11, 2011]
+
+
+
+
+# LITERATURE
+Water.org (2011), "Water Facts", [Accessed July 11, 2011] Blueplanetnetwork.org (2011), "The Facts About the Global Drinking Water Crisis", [Accessed July 11, 2011] Philippe, Marin (2009), "Public-Private Partnerships for Urban Water Utilities", World Bank, [Accessed July 11, 2011] Economist (2003), "Private Passions", Economist Magazine, [Accessed July 11, 2011] Asian Water Supplies Chapter 11, "Tariffs, Subsidies, and Development Funding", [Accessed July 11, 2011] Bosch, Christophe, Hommann, Kirsten, Rubio, Gloria M., Sadoff, Claudia and Travers, Lee (2001), "Water, Sanitation and Poverty", Intussen,[Accessed July 11, 2011] World Bank (2011), "Paraguay - Community Based Rural Water Systems and the Development of Village Committees", World Bank, [Accessed July 11, 2011]. Deutsche Welle (2011), "Water is a Human Right, UN Says", Deutsche Welle,[Accessed July 11, 2011] Foshee, Jack, et al. (2007), "Thirsty for Change: Concidering Water Privatization in Developing Nations", Columbia University, [Accessed July 11, 2011] U.S. Geological Survey. "Estimated Use of Water in the United States in 2000: Public Supply." February 7, 2005. Accessed July 14, 2011.

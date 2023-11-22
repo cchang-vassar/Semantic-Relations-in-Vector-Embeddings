@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con01a-point.txt	0.509059
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con01b-counter.txt	0.313434
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con02a-point.txt	0.751693
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con02b-counter.txt	0.955119
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con03a-point.txt	0.37530600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/con/con03b-counter.txt	0.17274100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro01a-point.txt	0.851364
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro01b-counter.txt	0.868422
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro02a-point.txt	0.682114
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro02b-counter.txt	0.456156
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro03a-point.txt	0.685226
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/leadership-sport-general-team-sports-house-would-require-professional-sportsmen/pro/pro03b-counter.txt	0.22991399999999995

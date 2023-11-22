@@ -1,0 +1,11 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con01a-point.txt	0.39922100000000005
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con01b-counter.txt	0.573169
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con02a-point.txt	0.305484
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con02b-counter.txt	0.20404199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con03a-point.txt	0.11670199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/con/con03b-counter.txt	0.02198100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/pro/pro01a-point.txt	0.40030699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/pro/pro01b-counter.txt	0.881194
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/pro/pro02a-point.txt	0.21417799999999998
+data/corpus-counterarguments-18/02-extracted-arguments/validation/education/university-energy-house-would-store-nuclear-waste-underground/pro/pro02b-counter.txt	0.17149999999999999

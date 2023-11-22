@@ -1,0 +1,55 @@
+Electronic ‘intercept’ evidence can involve recording information which has been sent using any form of electronic media, including phone calls from fixed lines and mobiles (cellphones), emails, and pager or SMS messages [1] . Intercepted evidence can also include information and letters sent in the post [2] . By intercepting this information, many countries hope to prevent crime and increase national security through preventing violent incidents. Many countries already accept that wire-tapping is in fact necessary [3] to prevent atrocities such as terrorism – particularly in the wake of the 9/11 attacks on New York [4] - and that it is can be a highly effective way to combat ‘terror cells, war criminals and even mafia godfathers’ [5] . However, not all countries agree that the evidence gathered through wire-tapping is in accordance with legal principles. This has given rise to debates over whether intercepted and wire-tapped evidence should be admissible in court.
+
+Many western countries currently deem that wire-tap evidence is admissible in court and is merely subject to the standard rules of evidence [6] . However, wire-tap and intercept evidence is, or is meant to be, a last resort when the court finds that ‘normal investigative procedures have been tried and have failed or reasonably appear to be unlikely to succeed if tried or to be too dangerous.’ [7] This is generally interpreted by courts of law ‘to require only that law enforcement try some other techniques, not that they exhaust all reasonably available methods of obtaining the necessary evidence’ [8] . In either case, intercept evidence is not supposed to be used as an automatic option without other difficulties presenting themselves in due course of the investigation. While the law supposedly requires that law enforcement agents should not listen in on conversations which are obviously irrelevant to their case – such as personal phone calls among family and friends – it is rare that a wiretap is rejected in a court of law because the agents failed to minimise the tapping [9] .
+
+Britain [10] , Ireland [11] and some American states [12] still do not always allow the use of this evidence. Typically, warrants for taps can be issued by senior ministers (such as the Home Secretary in the UK [13] ) or by senior judges (in the USA [14] ) and must target a specific form of communication by a suspect [15] rather than granted general authority to tap communication lines; for example, they may tap the landline, or emails, or a mobile phone. Under the Foreign Intelligence Surveillance Act (FISA) in the USA, ‘roaming’ taps (taps which cover any form of communication used by a suspect [16] ) do exist but are very rare. In conditions where a judge has granted authorisation for a ‘roaming’ tap, it is possible that all the public telephones (pay phones) in an area could be tapped if authorities suspected that terrorists could be in that neighbourhood [17] . This is evidently a much more invasive and blanket-form of communications tapping. Since terrorist activities around 9/11, the American government has been criticised for the extensive levels of wire-tapping and interception which were secretly authorised and even encouraged by the government [18] . Particularly, the legal grounding for the creation of the tapping schemes remains unclear and controversial [19] .
+
+Wire-tapping tends to target three main types of crime: terrorism, organised crime and drug trafficking [20] . Many key drug trafficking trials in the USA have involved the admission of some kind of intercepted evidence [21] . However, in most countries a separate discussion is held either in court or with a judge after the warrant has been obtained for a tap in order to determine whether the specific intercept evidence is admissible, or whether it should be suppressed [22] . In the USA between 1985 and 1994, out of 8,489 criminal wiretaps judges across the US granted 138 suppression motions to ‘exclude intercepted material from evidence’ but denied 3,060 pleas for a suppression motion [23] . This ultimately resulted in a 4.3% suppression rate [24] . This data shows that almost all of the evidence collected by interception and wiretapping within states which allow it to be used as evidence is ultimately used in court. No FISA evidence which has been introduced to a criminal case has ever been excluded from that case.
+
+[1] http://www.official-documents.gov.uk/document/cm73/7324/7324.pdf , accessed 28/08/11
+
+[2] http://www.official-documents.gov.uk/document/cm73/7324/7324.pdf , accessed 28/08/11
+
+[3] http://blogs.abcnews.com/theblotter/2006/09/uk_attorney_gen.html , accessed 28/08/11
+
+[4] http://news.bbc.co.uk/1/hi/uk_politics/7230220.stm , accessed 28/08/11
+
+[5] http://news.bbc.co.uk/1/hi/uk_politics/7230220.stm , accessed 28/08/11
+
+[6] http://www.guardian.co.uk/politics/2009/jul/21/brown-intercept-evidence , accessed 28/08/11
+
+[7] http://cdt.org/wiretap/wiretap_overview.html , accessed 28/08/11
+
+[8] http://cdt.org/wiretap/wiretap_overview.html , accessed 28/08/11
+
+[9] http://cdt.org/wiretap/wiretap_overview.html , accessed 28/08/11
+
+[10] http://www.guardian.co.uk/politics/2009/jul/21/brown-intercept-evidence , accessed 28/08/11
+
+[11] http://blogs.abcnews.com/theblotter/2006/09/uk_attorney_gen.html , accessed 28/08/11
+
+[12] http://law-n-order.hubpages.com/hub/wiretapping , accessed 28/08/11
+
+[13] http://www.bbc.co.uk/crimewatch/solved/caseclosed/wiretaps_and_honeytraps.shtml , accessed 28/08/11
+
+[14] http://www.cnbc.com/id/43007292/How_Raj_Will_Fight_His_Conviction , accessed 28/08/11
+
+[15] https://www.privacyinternational.org/survey/countries-a-g.html , accessed 28/08/11
+
+[16] http://www.americanbar.org/publications/human_rights_magazine_home/irr_hr_winter02_podesta.html , accessed 28/08/11
+
+[17] http://www.americanbar.org/publications/human_rights_magazine_home/irr_hr_winter02_podesta.html , accessed 28/08/11
+
+[18] http://www.msnbc.msn.com/id/31852177/ns/politics/t/post--surveillance-went-beyond-wiretapping/ , accessed 28/08/11
+
+[19] http://www.msnbc.msn.com/id/31852177/ns/politics/t/post--surveillance-went-beyond-wiretapping/ , accessed 28/08/11
+
+[20] http://www.surveillance-and-society.org/articles4(3)/escalating.pdf , accessed 28/08/11
+
+[21] http://www.justice.org.uk/pages/intercept-evidence.html , accessed 28/08/11
+
+[22] http://www.icty.org/x/file/Legal%20Library/jud_supplement/supp44-e/brdjanin.htm , accessed 28/08/11
+
+[23] http://cdt.org/wiretap/wiretap_overview.html , accessed 28/08/11
+
+[24] http://cdt.org/wiretap/wiretap_overview.html , accessed 28/08/11

@@ -1,0 +1,28 @@
+# METADATA
+url	https://idebate.org/debatabase/education-university/house-calls-introduction-two-year-degrees-standard
+published_time	2012-01-26T16:33:51+01:00
+modified_time	2012-09-14T16:58:45+02:00
+crawled_time	Sun Feb 04 18:43:01 CET 2018
+voting_pro	50
+voting_con	50
+reads	12252
+
+
+# THESIS
+This house calls for the introduction of two-year degrees as standard
+
+
+# INTRO
+The length of full-time undergraduate degree courses varies from country to country, and may not be standard even within one education system. However, around the world four-year degrees are most common, with five years or more not unknown in countries such as Germany and Italy. England stands out as the main example of three-year degree courses, although within the UK Scottish undergraduate courses are usually four years in length and this is becoming increasingly common elsewhere in the UK. Since 1976 the private University of Buckingham in southern England has pioneered two-year undergraduate degrees 1, but until recently this had little influence on mainstream higher education in the UK or elsewhere. From 2007 onwards the UK government began to re-examine the way in which university courses were delivered, funding pilot studies for two-year degrees in several universities. 2010 financial pressures on the UK education system have led to a wider debate on whether two-year undergraduate degrees would be better for both students and the taxpayer.
+
+This case presents the arguments for shorter undergraduate degree courses with the UK debate in mind – this would mean a reduction of most undergraduate degrees from three years to two. However, the arguments could equally well apply to other countries, where proposals may be for a decrease from four or five years to three. This may be particularly relevant to continental European universities, as the Bologna process 2 by which European higher education will be harmonised towards a standard three-year Bachelor degree will affect them over the next few years.
+
+1University of Buckingham, http :// www . buckingham . ac . uk / about / twoyear
+
+2Bologna process, 2009, http://www.ond.vlaanderen.be/hogeronderwijs/bologna/about/
+
+
+
+
+# LITERATURE
+Information on the two year degree courses at the University of Buckingham: accessed 26/08/11 Information on the Bologna Process: accessed 26/08/11 University league table positions for the University of Buckingham: accessed 26/08/11 Report on the Association of Graduate Recruiters "Call to scrap 50% university student target", BBC News: accessed 26/08/11 Article "Universities struggle with 'unparalleled uncertainty', Heather Sharp in BBC News, 14 May 2011: accessed 26/08/11BBC News article "Budget: Education spending faces 25% cut", Hannah Richardson, 23 June 2010 Article "Tuition fees: 9K standard at a third of universities", Hannah Richardson in BBC News, 12 July 2011: accessed 26/08/11 BBC News report "Portsmouth student became bus driver to fund university": accessed 26/08/11 Article "University targets have 'devalued' degrees", Graeme Paton in The Telegraph, 09 March 2010: Article "Why university standards have fallen", Geoffrey Alderman in The Guardian, 10 March 2010: accessed 26/08/11 BBC News report "Staffordshire university defends its two year degrees", 11 October 2010: accessed 26/08/11 Statistics for mature students in the USA: accessed 26/08/11 Statistics for mature students at Oxford Brookes University: accessed 26/08/11 Statistics for mature students at University College London: accessed 26/08/11 Article "Moves towards university privatisation 'unstoppable", Polly Curtis in The Guardian, 30 October 2002: accessed 26/08/11 BBC News report "At-a-glance: Universities White Paper", 28 June 2011: accessed 26/08/11 Statistics and information on research funding: accessed 26/08/11 Article on Research Assessment Exercise, "Make or break week", Anthea Lipsett in The Guardian, 16 December 2008: accessed 26/08/11 Article "A-level subjects: What universities want", Lucy Tobin in The Guardian, 1 February 2011: accessed 26/08/11 Information on the International Baccalaureate: accessed 26/08/11 Article "Pupils confused by 'preferred' A-levels", Lucy Tobin in The Guardian, 1 February 2011(b): accessed 26/08/11 Article "Confused about university societies?", Su Quinn in The Guardian, 19 October 2002: accessed 26/08/11 Article "The Importance of Extracurricular Activities in a Student's Life", T. Sweeney on www.googobits.com, 14 June 2005: accessed 26/08/11 Parliamentary report on the Bologna Process: accessed 26/08/11Article " Two-year degrees may disadvantage UK graduates, Harriet Swain in The Guardian, 3 August 2010: accessed 26/08/11

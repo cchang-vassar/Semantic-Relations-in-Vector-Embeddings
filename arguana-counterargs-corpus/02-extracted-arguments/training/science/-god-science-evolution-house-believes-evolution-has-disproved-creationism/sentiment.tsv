@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con01a-point.txt	0.216294
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con01b-counter.txt	0.059097999999999984
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con02a-point.txt	0.320557
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con02b-counter.txt	0.734898
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con03a-point.txt	0.10608300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con03b-counter.txt	0.328291
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con04a-point.txt	0.15598599999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/con/con04b-counter.txt	0.16133299999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro01a-point.txt	0.965074
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro01b-counter.txt	0.716187
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro02a-point.txt	0.401489
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro02b-counter.txt	0.591967
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro03a-point.txt	0.601793
+data/corpus-counterarguments-18/02-extracted-arguments/training/science/-god-science-evolution-house-believes-evolution-has-disproved-creationism/pro/pro03b-counter.txt	0.647383

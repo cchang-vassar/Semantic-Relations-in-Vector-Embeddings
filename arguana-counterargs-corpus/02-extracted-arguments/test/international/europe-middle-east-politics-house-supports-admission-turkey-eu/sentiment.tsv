@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con01a-point.txt	0.572453
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con01b-counter.txt	0.405405
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con02a-point.txt	0.15395400000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con02b-counter.txt	0.13145399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con03a-point.txt	0.25983
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/con/con03b-counter.txt	0.17580399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro01a-point.txt	0.42332499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro01b-counter.txt	0.29446300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro02a-point.txt	0.837796
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro02b-counter.txt	0.311511
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro03a-point.txt	0.962826
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-middle-east-politics-house-supports-admission-turkey-eu/pro/pro03b-counter.txt	0.36865499999999995

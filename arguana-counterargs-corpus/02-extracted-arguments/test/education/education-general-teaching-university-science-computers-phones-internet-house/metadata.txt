@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-teaching-university-science-computers-phones-internet/house
+published_time	2014-01-06T01:00:00+01:00
+modified_time	2017-04-05T12:52:49+02:00
+crawled_time	Sun Feb 04 18:43:01 CET 2018
+voting_pro	50
+voting_con	50
+reads	37184

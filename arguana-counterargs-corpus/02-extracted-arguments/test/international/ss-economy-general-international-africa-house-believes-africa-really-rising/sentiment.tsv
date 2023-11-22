@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con01a-point.txt	0.739737
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con01b-counter.txt	0.38219899999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con02a-point.txt	0.761684
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con02b-counter.txt	0.911327
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con03a-point.txt	0.510384
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con03b-counter.txt	0.344986
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con04a-point.txt	0.31524700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/con/con04b-counter.txt	0.893951
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro01a-point.txt	0.745052
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro01b-counter.txt	0.52427
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro02a-point.txt	0.946466
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro02b-counter.txt	0.11098300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro03a-point.txt	0.754991
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro03b-counter.txt	0.20167100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro04a-point.txt	0.633669
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/ss-economy-general-international-africa-house-believes-africa-really-rising/pro/pro04b-counter.txt	0.103603

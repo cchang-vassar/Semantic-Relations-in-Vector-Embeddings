@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con01a-point.txt	0.578536
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con01b-counter.txt	0.28865700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con02a-point.txt	0.48234
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con02b-counter.txt	0.448383
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con03a-point.txt	0.76212
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/con/con03b-counter.txt	0.6584
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro01a-point.txt	0.531008
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro01b-counter.txt	0.845122
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro02a-point.txt	0.16949400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro02b-counter.txt	0.031108000000000025
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro03a-point.txt	0.689081
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-terrorism-computers-phones-house-believes-german/pro/pro03b-counter.txt	0.827904

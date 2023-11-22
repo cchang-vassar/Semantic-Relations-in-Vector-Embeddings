@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con01a-point.txt	0.50798
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con01b-counter.txt	0.980839
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con02a-point.txt	0.486298
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con02b-counter.txt	0.679159
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con03a-point.txt	0.756825
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con03b-counter.txt	0.643599
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con04a-point.txt	0.729747
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/con/con04b-counter.txt	0.10256699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro01a-point.txt	0.688483
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro01b-counter.txt	0.639628
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro02a-point.txt	0.792545
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro02b-counter.txt	0.18366300000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro03a-point.txt	0.46440800000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro03b-counter.txt	0.065272
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro04a-point.txt	0.785142
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro04b-counter.txt	0.577887
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro05a-point.txt	0.18871700000000002
+data/corpus-counterarguments-18/02-extracted-arguments/validation/politics/defence-house-would-develop-tactical-nuclear-weapons/pro/pro05b-counter.txt	0.622408

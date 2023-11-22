@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education-education-general-secondary/raise-school-leaving-age-18-junior
+published_time	2013-05-22T14:53:54+02:00
+modified_time	2017-04-11T15:07:37+02:00
+crawled_time	Sun Feb 04 18:42:28 CET 2018
+voting_pro	50
+voting_con	50
+reads	31380

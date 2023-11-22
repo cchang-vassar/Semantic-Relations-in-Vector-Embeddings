@@ -1,0 +1,142 @@
+# METADATA
+url	https://idebate.org/debatabase/culture/video-games-computers-phones-internet-youth/house-would-restrict-violent-video
+published_time	2012-01-26T16:34:05+01:00
+modified_time	2017-08-18T20:09:03+02:00
+crawled_time	Sun Feb 04 18:42:46 CET 2018
+voting_pro	67
+voting_con	33
+reads	30678
+
+
+# THESIS
+This house would restrict violent video games
+
+
+# INTRO
+In 1999, two students of Columbine High School, Colorado, shot and killed 13 fellow pupils and finally themselves. Eric Harris and Dylan Klebold enjoyed the bloody video game Doom and, according to some, were inspired by it. In the wake of the attack, advocates argued for increased restrictions on the sale of particularly violent video games. Opponents maintained that any correlation between the students and their video game habits was purely incidental. Laws banning or restricting the sale of violent video games and enforcing rating upon them have been introduced by several US states (Washington, Indiana and St. Louis among them). In Europe, Germany has also moved towards a ban on violent video games after 16 people were killed when a 19 year-old opened fire in an Erfurt School in 2002. Rating systems, adopted globally by the video game industry in 1994, established the Entertainment Software Rating Board (ESRB), a comprehensive labelling system that rates over 1,000 games per year and has now rated more than 8,000 games in total. Less than 1 per cent of all games released in the UK have been rated as suitable only for people 18 years or over.
+
+Proponents for a restriction on the sale of violent video games argue these figures are not sufficient, that there are more than 1% of video games on the market today that are too violent for young children to be playing and restrictions must be increased. Opponents argue however that there is no link between violent video games and violent behaviour and that restrictions would achieve little regardless, for kids would get hold of the games anyway.
+
+
+# PRO01A-POINT
+Violent video games desensitise users
+
+Violent video games do not only affect individuals but also society as a whole. The sole purpose of a player in these games is to be an aggressor. The heartlessness in these games and joy of killing innocent people create a desensitization and disinhibition to violence that can ultimately lead to a more violent society. A Bruce Bartholow study in 2011 proved for the first time the causal association between desensitisation to violence and increased human aggression1. They are also a very selfish, lonely form of entertainment which undermines the structure of an ordered, interdependent society. A study conducted by psychologists in 2007 found that of 430 primary school children, 'the kids who played more violent video games changed over the school year to become more verbally aggressive, more physically aggressive and less helpful to others.'2
+
+1 University of Missouri-Columbia. (2011, May 26). Violent video games reduce brain response to violence and increase aggressive behaviour. Retrieved June 2, 2011, from ScienceDaily:
+
+2 Schaffer, A. (2007, April 27). Don't Shoot. Retrieved June 2, 2011, from Slate:
+
+# PRO01B-COUNTER
+Desensitisation is not altogether a bad development. 'For patients suffering from arachnophobia, fear of flying, or post-traumatic stress disorder, therapists are beginning to use virtual realities as a desensitization tool.'1Furthermore, society has decided to embrace violent video games, which as a result are very profitable. These games are written for adults, rather than children, and the ratings system warns of any violent content. In a modern world, the role of protecting young people should lie with responsible parents who know their kids best and take an active interest in their leisure time, discouraging or barring them from unsuitable activities. In this case, there is not enough justification for governments to intervene in people's leisure time.
+
+1 Schaffer, A. (2007, April 27). Don't Shoot. Retrieved June 2, 2011, from Slate:
+
+# PRO02A-POINT
+Research has shown violent video games encourage criminal and anti-social behaviour
+
+Both experimental and non-experimental research have shown that violent video games damage young people playing them in both the short and long term, leading to criminal and anti-social behaviour. Exposure to violent video games causes aggressive thoughts and feelings. It also creates unwanted psychological arousal and belief in a 'scary world', especially among young children. This is particularly significant as video game graphics develop to become ever more realistic. The effects of violent video games are even worse than those of films and TV because of the interactive element that exists in video games. In addition, most video games are played alone, whereas cinema and television are usually a social experience, allowing social pressures to filter the experience of violence upon the viewer. An Australian Senate Committee established to look at this issue in 1993 concluded 'there is sufficient anecdotal evidence of a linkage…that the community cannot fail to act to control a situation which has the very real potential…to affect young people’1.
+
+1 Senate Committee, 1993.
+
+# PRO02B-COUNTER
+Each of the three approaches to proving a correlation between violent video games and criminal behaviour has its flaws. Studies that look for correlations between exposure to violent video games and real-world aggression can never prove that the games cause physical aggression1. Randomized tests, which assign subjects to play violent or nonviolent games and then compare levels of aggression, depend on lab-based measures of aggression that are difficult to compare with real-life aggression. Finally, longitudinal tests, which assess behaviour over time within a group, are a middle ground between the other two but similarly cannot prove it was the video games specifically that leads to increased aggression. In contrast to the claim that the effects of violent video games are worse than those of TV, a Potter study in 1999 found that 'children are more likely to be affected and more likely to imitate aggressive acts if the violence is depicted more realistically.'2
+
+1 Schaffer, A. (2007, April 27). Don't Shoot. Retrieved June 2, 2011, from Slate:
+
+2 Gentile, D. A., &amp; Anderson, C. A. (2003, October 16). Violent Video Games: The Newest Media Violence Hazard. Retrieved June 2, 2011, from
+
+# PRO03A-POINT
+Violent video games can cause psychological disturbances
+
+Multiple groups contend that the interactive nature of computer games considerably blurs the line that separates fantasy from reality1. As a result, game players are likely to become psychologically disturbed by the violence contained within these products. It is conceivable that many young gamers will view the new age of video games as fair depictions or representations of reality, real-world themes, real-world personalities, real-world violence. Because violent video games frequently develop and an exaggerated level of violence and destructiveness, they may arouse a belief that in a "scary world". If this is true, a greater level of fear and paranoia can be expected from such gamers in the real world than is justified. This may have the potential to lead to many adverse social effects from these gamers, such as social disengagement.
+
+1 Gentile, D. A., Lynch, P. J., Linder, J. R., &amp; Walsh, D. A. (2004). The effects of violent video game habits on adolescent hostility, aggressive behaviours, and school performance. Retrieved June 2, 2011, from Jounral of Adolescence
+
+# PRO03B-COUNTER
+Violent video games, far from causing psychological disturbances, are beneficial to the mental health of children. Experiments show visual, tracking benefits from video games, particularly shoot-em-ups: US scientists Shawn Green and Daphne Bavelier, were commissioned to perform a study in 2003 by the National Institute of Health. According to the BBC, "they found that regular players of shoot-em-ups, such as Half-Life and Medal of Honour, have much better visual skills than most of the population1. The researchers have shown that gamers were particularly good at spotting details in busy, confusing scenes1. Experimental tests show positive focus effects of video games: US scientists Green and Bavelier found focus benefits from shoot-em-up games, even to the extent that they could be used as a beneficial tool to treat Attention Deficit Disorder2.
+
+1 BBC News. (2003, May 28). Video games 'good for you'. Retrieved June 2, 2011, from BBC News:
+
+2 Olsen, S. (2005, November 8). Attention deficit disorder? Try video games. Retrieved June 2, 2011, from CNet:
+
+# PRO04A-POINT
+The government has a right to restrict the sale of violent video games, in order to protect law and order.
+
+The government has the right, and indeed the obligation, to impose restrictions that increase the security of citizens and encourage peaceful relations between them. The foundation of the social contract is the state providing security for all participating citizens. If the state believes that violent video games increase the propensity of users to commit violent acts, it is obligated to impose restrictions that will prevent such effects. The rights of individual citizens to do as they wish, and play the video games they like most, however violent, is subordinate to the government's right to increase security through the enforcement of restrictions. For example, one accepts the government's right to restrict what we carry onto aircrafts in order to prevent violent attacks. That is not to say there aren't limits to what we can carry on, just as violent video games are still available to adults we can still carry laptops and mobile phones onto aircrafts. Ultimately however, it must be accepted that the government's right to protect society includes a right to restrict the sale of violent games.
+
+# PRO04B-COUNTER
+The government has no such right to restrict the right of free speech inherent in all video games. In a 2011 judgement, the American Supreme Court ruled "while states have legitimate power to protect children from harm, 'that does not include a free-floating power to restrict the ideas to which children may be exposed.'"1 This is in part due to the fear that to restrict violent video games would be a step towards the banning or restriction of books considered antithetical to the views of the government. A state could ban all books or films that paint a negative image of society or encourage revolution, however that is clearly the action of a dictatorial or authoritarian state. Stan Lee, the creator of comic book characters like The Hulk and Spiderman, sees a comparison to the attempt in the 1950s to restrict the sales of comic books. "Comic books, it was said, contributed to 'juvenile delinquency'. A Senate subcommittee investigated and decided the U.S. could not 'afford the calculated risk involved in feeding its children, through comic books, a concentrated diet of crime, horror and violence.'"2 As Lee notes, in hindsight this appears comical2. The same mistake cannot be made with violent video games.
+
+1 Holland, J. J. (2011, June 27). Can't ban violent video sales to kids, court says. Retrieved June 28, 2011 from the Associated Press
+
+2 Lee, S. (2010, September). Defend video games with Stan Lee. Retrieved June 20, 2011, from Video Game Voters Network:
+
+
+# CON01A-POINT
+There is no causal link between violent video games and aggressive behaviour
+
+Many researchers 1/2/3 conclude that there is no causal link between violent video games and aggressive behaviour. Other influences, such as social environment, family background and peer pressure cause aggressive behaviour. Additionally, even if video games might create violent thoughts, according to researchers there is no reason for these thoughts to display themselves in action more than the aggressive thoughts caused by frustration in non-violent video games, or by the fast pace of action films (rather than their content). The small number of people who would be affected by such aggressive thoughts are people who already are habitually violent.
+
+1 Scott, D. (1995). The Effect of Video Games on Feelings of Aggression. Retrieved June 2, 2011, from The Journal of Psychology:
+
+2 Funk, J. B. (1993). Reevaluation of the impact of violent video games. Clinical Pediatrics, 86-90.
+
+3 Provenzo, E. F. (1991). Video kids: Making sense of Nintendo. Cambridge: Harvard University Press.
+
+# CON01B-COUNTER
+The fact there are many other contributing factors to aggressive behaviour should not lead to a blind eye being turned to the effects of violent video games. As Dill &amp; Dill found in 1998, 'if violent video game play indeed depicts victims as deserving attacks, and if these video games tend to portray other humans as targets, then reduced empathy is likely to be the consequence…thus putting the player at risk for becoming a more violent individual’1. An Anderson and Dill study in 2000 also found that ‘students who had previously played the violent video game delivered longer noise blasts to their opponents’2. Whilst it is a truism to say that the banning of violent video games will not prevent youth aggression, it will no longer be able to act as the catalyst for it in certain cases.
+
+1 Goldstein , 2001.
+
+2 Walsh , 2001.
+
+# CON02A-POINT
+Video games are an outlet for childhood aggression
+
+Video games are a useful outlet for childhood aggression. As psychologist Cheryl Olson writes, kids 'use games to vent anger or distract themselves from problems.'1 Play violence has always been a natural part of growing up, especially for boys. In the past it was considered normal for young people to act out violent fantasies in harmless way, for example with toy guns in games of cops and robbers, cowboys and Indians, war, pirates, etc. These games were often inspired by films, television or comic books and magazines, just as computer games commonly are today. Now that these traditional activities are frowned upon and "enlightened" parents prevent children from having toy guns, aggressive play has simply moved indoors, on to the computer screen instead. Suppressing these natural instincts is not only pointless, it is probably more dangerous to remove yet another harmless outlet for aggression from the young.
+
+1 Schaffer, A. (2007, April 27). Don't Shoot. Retrieved June 2, 2011, from Slate:
+
+# CON02B-COUNTER
+Video games are not useful outlets for childhood aggression. Modern video games cannot be fairly compared to traditional childhood play. Computer gaming is a largely solo experience, with none of the team play involved in games of war, cowboys, etc. Playing alone also makes it easier for the boundaries between fantasy and reality to become blurred, especially with the highly realistic graphics possible with modern technology. In any case, civilisation is about taming our base instincts, not celebrating the worst parts of human nature. Furthermore, and unique to video games, aggressive behaviour or its imitation at least is rewarded and repeated during gameplay1. Video games thereafter are not merely an outlet for aggression, but the fostering and feeding of that aggressive urge.
+
+1 Gentile, D. A., &amp; Anderson, C. A. (2003, October 16). Violent Video Games: The Newest Media Violence Hazard. Retrieved June 2, 2011, from
+
+# CON03A-POINT
+Restrictions would be ineffective
+
+Not only is it wrong for the government to take censorship-like steps against violent video games but it is also impossible to do so effectively. Violent video games will still be available on the internet and, in fact, by restricting the sale of violent video games the government will push would-be users to illegal downloading programmes (through file-sharing systems such as Limewire) and therefore to an increasingly prevalent black market. Furthermore, most games are bought by parents or with their consent. According to industry statistics, 9 out of every 10 video games are sold to adults. Moreover, there is little evidence to say that parents don't know what they are buying because a very descriptive labelling system exists for violent video games since the establishment of the Entertainment Software Rating Board (ESRB) in 1994.
+
+# CON03B-COUNTER
+If restrictions on the sale of alcohol can be effective, there is no reason to believe restrictions on violent video games cannot also be similarly effective. The primary role of a government is, ultimately, to protect its citizens from damaging themselves and society as a whole. It is considered acceptable and beneficial for governments to restrict the sale of dangerous things such as alcohol and tobacco to minors or even to enforce movie ratings or the use of seatbelts. Though illegal downloading programmes would permit the download of old, violent action games, video game creators would nevertheless be forced to turn their creative capacities and technology towards better, less violent games that would, over a short space of time, saturate the market.
+
+
+# LITERATURE
+BBC News. (2003, May 28). Video games 'good for you'. Retrieved June 2, 2011, from BBC News:
+
+Funk, J. B. (1993). Reevaluation of the impact of violent video games. Clinical Pediatrics, 86-90.
+
+Gentile, D. A., &amp; Anderson, C. A. (2003, October 16). Violent Video Games: The Newest Media Violence Hazard. Retrieved June 2, 2011, from
+
+Gentile, D. A., Lynch, P. J., Linder, J. R., &amp; Walsh, D. A. (2004). The effects of violent video game habits on adolescent hostility, aggressive behaviours, and school performance. Retrieved June 2, 2011, from Jounral of Adolescence
+
+Goldstein, J. (2001, October 27). Does playing video games cause aggressive behaviour? Retrieved June 2, 2011, from University of Chicago
+
+Holland, J. J. (2011, June 27). Can't ban violent video sales to kids, court says. Retrieved June 28, 2011 from the Associated Press
+
+Lee, S. (2010, September). Defend video games with Stan Lee. Retrieved June 20, 2011, from Video Game Voters Network:
+
+Olsen, S. (2005, November 8). Attention deficit disorder? Try video games. Retrieved June 2, 2011, from CNet:
+
+Provenzo, E. F. (1991). Video kids: Making sense of Nintendo. Cambridge: Harvard University Press.
+
+Schaffer, A. (2007, April 27). Don't Shoot. Retrieved June 2, 2011, from Slate:
+
+Scott, D. (1995). The Effect of Video Games on Feelings of Aggression. Retrieved June 2, 2011, from The Journal of Psychology:
+
+Senate Committee. (1993). Report on video and computer games and classification issues. Retrieved June 2, 2011, from Anthony Larme:
+
+University of Missouri-Columbia. (2011, May 26). Violent video games reduce brain response to violence and increase aggressive behaviour. Retrieved June 2, 2011, from ScienceDaily:
+
+Walsh, D. (2001). Video Game Violence and Public Policy. Retrieved June 2, 2011, from University of Chicago:

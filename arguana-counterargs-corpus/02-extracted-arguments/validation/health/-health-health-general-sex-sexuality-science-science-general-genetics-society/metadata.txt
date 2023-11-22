@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/society/health-health-general-sex-sexuality-science-science-general-genetics-society
+published_time	2012-02-17T15:58:49+01:00
+modified_time	2012-10-01T16:52:53+02:00
+crawled_time	Sun Feb 04 18:42:49 CET 2018
+voting_pro	50
+voting_con	50
+reads	13984

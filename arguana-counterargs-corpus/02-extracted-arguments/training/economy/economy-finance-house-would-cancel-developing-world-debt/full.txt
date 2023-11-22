@@ -1,0 +1,28 @@
+# METADATA
+url	https://idebate.org/debatabase/economy/economy-finance/house-would-cancel-developing-world-debt
+published_time	2012-01-26T16:35:46+01:00
+modified_time	2012-03-29T18:24:59+02:00
+crawled_time	Sun Feb 04 18:42:19 CET 2018
+voting_pro	50
+voting_con	50
+reads	14912
+
+
+# THESIS
+This House would cancel developing world debt
+
+
+# INTRO
+Debt is an issue that affects countries all over the world. Almost all countries are in debt as their governments take loans to cover for variations in their tax receipts. Yet while many developed countries such as Greece and Ireland are increasingly facing debt crises of their own the effect of such debt is not nearly as crippling as it is for developing nations. Many countries have over the past few decades sought debt restructuring from the IMF and other international institutions, as well as outright cancellation of their debts, such as Mexico in 1982 and 94, Russia in 1996, Argentina in 2001 and Hungary in 2010. Countries with colonial and dictatorial backgrounds in particular have sought recourse to debt cancellation to recover from crippling interest payments to investors in developed countries. Debt cancellation for the world's poorest countries in the wake of the 2005 Gleneagles summit has made such cancellations acceptable. As a result of this, as well as rapid economic growth, debt as a percent of gross national income in Sub-Saharan Africa fell from 66% to 23% in 2009. While compared to rich world debt this sounds very little the interest rates are much higher for the poorest countries and the resulting debt repayments have much more impact upon basic functions of the state. As developed countries increasingly are having to bail out other developed countries the momentum to help the poorest either through debt cancellation or through aid has stalled.
+
+
+
+
+# LITERATURE
+Proposition:
+
+Committee for the Abolition of Third World Debt. 2011. "Repay Historic Debts to Haiti". Jubilee Debt Campaign. 2011. "Haiti" Jubilee Debt Campaign. 2008. "Expanded Debt Cancellation: A Key Tool to Fight Global Poverty Krugman, Paul. 2009. The Return of Depression Economics and the Crisis of 2008. New York: W.W. Norton.
+
+Opposition:
+
+Bodie, Zvi and Alex Kane and Alan Marcus. 2005. Investments. New York: McGraw Hill. Brown, Bill. 2008. "Uncle Sam as Sugar Daddy". The Wall Street Journal. Homer, Sydney and Richard Sylla. 2005. A History of Interest Rates. Hoboken: John Wiley and Sons. IMF. 2011. "Argentina and the IMF". International Monetary Fund. Krueger, Anne. 2002. "A New Approach to Sovereign Debt Restructuring" International Monetary Fund. Krugman, Paul. 2009. The Return of Depression Economics and the Crisis of 2008. New York: W.W. Norton. Steele, Jonathan. 2000. "Corruption in the Third World is Our Problem". The Guardian. The Economist. 2011. "Rumble in the Jungle".

@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con01a-point.txt	0.03305800000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con01b-counter.txt	0.22097100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con02a-point.txt	0.319893
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con02b-counter.txt	0.04770200000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con03a-point.txt	0.47027300000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con03b-counter.txt	0.07894400000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con04a-point.txt	0.06892399999999999
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/con/con04b-counter.txt	0.069438
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro01a-point.txt	0.270575
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro01b-counter.txt	0.06561399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro02a-point.txt	0.20131100000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro02b-counter.txt	0.203538
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro03a-point.txt	0.14077399999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/environment/animals-house-would-cull-badgers/pro/pro03b-counter.txt	0.24343899999999996

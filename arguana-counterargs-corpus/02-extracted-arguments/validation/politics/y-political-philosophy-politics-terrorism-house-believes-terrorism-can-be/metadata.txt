@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/philosophy-political-philosophy-politics-terrorism/house-believes-terrorism-can-be
+published_time	2012-02-17T13:37:31+01:00
+modified_time	2017-08-05T11:44:00+02:00
+crawled_time	Sun Feb 04 18:42:53 CET 2018
+voting_pro	100
+voting_con	0
+reads	128084

@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con01a-point.txt	0.24221199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con01b-counter.txt	0.15647999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con02a-point.txt	0.21778600000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con02b-counter.txt	0.523321
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con03a-point.txt	0.869134
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con03b-counter.txt	0.11297100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con04a-point.txt	0.42866899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/con/con04b-counter.txt	0.287378
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro01a-point.txt	0.15729800000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro01b-counter.txt	0.688476
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro02a-point.txt	0.08435300000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro02b-counter.txt	0.062145000000000006
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro03a-point.txt	0.813125
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro03b-counter.txt	0.421435
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro04a-point.txt	0.765381
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro04b-counter.txt	0.642286
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro05a-point.txt	0.643829
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-house-believes-britain-should-give-its-eu-rebate/pro/pro05b-counter.txt	0.935789

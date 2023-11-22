@@ -1,0 +1,3 @@
+It is possible to avoid freakish results by only allowing a referendum to be valid if a certain percentage of the population votes, say 30%. Or indeed by implementing a threshold for setting up a referendum in the first place. There is no reason to think it would be hard to find a formula that avoids these sorts of problems.
+
+It may be formally true that the same referendum question could be put to the public again and again, but the same can be said of any political question in the status quo. Once a referendum has been held on an issue, politicians are unlikely to risk the wrath of the electorate by making them vote on the same question repeatedly.

@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con01a-point.txt	0.455307
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con01b-counter.txt	0.445731
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con02a-point.txt	0.06404200000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con02b-counter.txt	0.666237
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con03a-point.txt	0.06363700000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con03b-counter.txt	0.36561999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con04a-point.txt	0.06562900000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/con/con04b-counter.txt	0.010762999999999967
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro01a-point.txt	0.544734
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro01b-counter.txt	0.022279999999999966
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro02a-point.txt	0.655273
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro02b-counter.txt	0.434018
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro03a-point.txt	0.19393400000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro03b-counter.txt	0.043656999999999946
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro04a-point.txt	0.804849
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro04b-counter.txt	0.21201899999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro05a-point.txt	0.317762
+data/corpus-counterarguments-18/02-extracted-arguments/test/education/primary-secondary-teaching-religion-god-science-evolution-house-would-teach/pro/pro05b-counter.txt	0.21561300000000005

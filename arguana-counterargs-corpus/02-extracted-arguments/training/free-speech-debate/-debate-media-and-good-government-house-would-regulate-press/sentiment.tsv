@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con01a-point.txt	0.09065500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con01b-counter.txt	0.52682
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con02a-point.txt	0.24608600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con02b-counter.txt	0.11115900000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con03a-point.txt	0.648734
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/con/con03b-counter.txt	0.602884
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro01a-point.txt	0.040920999999999985
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro01b-counter.txt	0.48404400000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro02a-point.txt	0.026035999999999948
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro02b-counter.txt	0.17171199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro03a-point.txt	0.655551
+data/corpus-counterarguments-18/02-extracted-arguments/training/free-speech-debate/-debate-media-and-good-government-house-would-regulate-press/pro/pro03b-counter.txt	0.672319

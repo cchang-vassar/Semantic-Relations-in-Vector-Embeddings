@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-middle-east-politics-terrorism-warpeace/house-believes-israels-2008-2009
+published_time	2012-02-17T18:05:37+01:00
+modified_time	2017-05-30T14:01:18+02:00
+crawled_time	Sun Feb 04 18:42:36 CET 2018
+voting_pro	50
+voting_con	50
+reads	9349

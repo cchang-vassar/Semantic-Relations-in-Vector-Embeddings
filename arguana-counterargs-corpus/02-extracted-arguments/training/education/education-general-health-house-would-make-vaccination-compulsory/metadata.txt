@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/education/education-general-health/house-would-make-vaccination-compulsory
+published_time	2012-02-17T13:41:18+01:00
+modified_time	2017-08-05T11:19:15+02:00
+crawled_time	Sun Feb 04 18:42:28 CET 2018
+voting_pro	100
+voting_con	0
+reads	34359

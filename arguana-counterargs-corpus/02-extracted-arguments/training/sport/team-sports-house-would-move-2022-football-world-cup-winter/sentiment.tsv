@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con01a-point.txt	0.758212
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con01b-counter.txt	0.27121300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con02a-point.txt	0.701878
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con02b-counter.txt	0.688729
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con03a-point.txt	0.792584
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/con/con03b-counter.txt	0.811805
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro01a-point.txt	0.492325
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro01b-counter.txt	0.695596
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro02a-point.txt	0.54689
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro02b-counter.txt	0.356418
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro03a-point.txt	0.346685
+data/corpus-counterarguments-18/02-extracted-arguments/training/sport/team-sports-house-would-move-2022-football-world-cup-winter/pro/pro03b-counter.txt	0.892907

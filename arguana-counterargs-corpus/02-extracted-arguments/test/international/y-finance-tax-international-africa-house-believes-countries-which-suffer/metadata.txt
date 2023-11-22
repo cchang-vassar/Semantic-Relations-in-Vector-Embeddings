@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/economy/economy-finance-tax-international-africa/house-believes-countries-which-suffer
+published_time	2012-02-17T15:15:29+01:00
+modified_time	2012-10-24T16:21:18+02:00
+crawled_time	Sun Feb 04 18:43:11 CET 2018
+voting_pro	50
+voting_con	50
+reads	14032

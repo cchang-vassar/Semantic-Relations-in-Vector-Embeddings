@@ -1,0 +1,13 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con01a-point.txt	0.527511
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con01b-counter.txt	0.312694
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con02a-point.txt	0.764362
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con02b-counter.txt	0.27625
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con03a-point.txt	0.38017199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/con/con03b-counter.txt	0.14285599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro01a-point.txt	0.24136599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro01b-counter.txt	0.685131
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro02a-point.txt	0.10233099999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro02b-counter.txt	0.20384999999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro03a-point.txt	0.859344
+data/corpus-counterarguments-18/02-extracted-arguments/test/culture/arts-human-rights-thbt-social-disgust-legitimate-grounds-restriction-artistic/pro/pro03b-counter.txt	0.07948100000000002

@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con01a-point.txt	0.05560699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con01b-counter.txt	0.015031000000000017
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con02a-point.txt	0.14061199999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con02b-counter.txt	0.261961
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con03a-point.txt	0.12464600000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/con/con03b-counter.txt	0.005836999999999981
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro01a-point.txt	0.09079300000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro01b-counter.txt	0.017208
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro02a-point.txt	0.04149599999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro02b-counter.txt	0.11605600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro03a-point.txt	0.07337000000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro03b-counter.txt	0.83719
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro04a-point.txt	0.32701199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/philosophy/nancy-philosophy-ethics-life-family-house-would-ban-partial-birth-abortions/pro/pro04b-counter.txt	0.06735400000000002

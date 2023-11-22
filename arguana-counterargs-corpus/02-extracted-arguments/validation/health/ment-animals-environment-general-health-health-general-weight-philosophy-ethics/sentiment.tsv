@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con01a-point.txt	0.39810500000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con01b-counter.txt	0.791273
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con02a-point.txt	0.312167
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con02b-counter.txt	0.33129200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con03a-point.txt	0.795517
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/con/con03b-counter.txt	0.11174600000000001
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro01a-point.txt	0.15091299999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro01b-counter.txt	0.426562
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro02a-point.txt	0.45532700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro02b-counter.txt	0.353542
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro03a-point.txt	0.37038499999999996
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro03b-counter.txt	0.41599699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro04a-point.txt	0.540662
+data/corpus-counterarguments-18/02-extracted-arguments/validation/health/ment-animals-environment-general-health-health-general-weight-philosophy-ethics/pro/pro04b-counter.txt	0.605431

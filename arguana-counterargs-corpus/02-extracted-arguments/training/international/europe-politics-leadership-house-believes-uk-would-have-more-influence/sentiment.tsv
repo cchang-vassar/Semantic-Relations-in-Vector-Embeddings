@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con01a-point.txt	0.915271
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con01b-counter.txt	0.983931
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con02a-point.txt	0.550395
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con02b-counter.txt	0.18704900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con03a-point.txt	0.620119
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con03b-counter.txt	0.437766
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con04a-point.txt	0.770563
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/con/con04b-counter.txt	0.07062100000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro01a-point.txt	0.831219
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro01b-counter.txt	0.519436
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro02a-point.txt	0.965284
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro02b-counter.txt	0.926642
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro03a-point.txt	0.537647
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro03b-counter.txt	0.20870100000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro04a-point.txt	0.027978999999999976
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/europe-politics-leadership-house-believes-uk-would-have-more-influence/pro/pro04b-counter.txt	0.833505

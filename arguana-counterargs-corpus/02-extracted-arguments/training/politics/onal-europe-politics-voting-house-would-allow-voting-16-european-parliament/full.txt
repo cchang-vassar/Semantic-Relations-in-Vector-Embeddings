@@ -1,0 +1,182 @@
+# METADATA
+url	https://idebate.org/debatabase/international-europe-politics-voting/house-would-allow-voting-16-european-parliament
+published_time	2013-05-07T14:57:25+02:00
+modified_time	2017-04-13T11:32:20+02:00
+crawled_time	Sun Feb 04 18:42:33 CET 2018
+voting_pro	50
+voting_con	50
+reads	15567
+
+
+# THESIS
+This House would allow voting at 16 in European Parliament elections
+
+
+# INTRO
+The European Parliament is a directly elected body that covers all European Union members. It has 754 members who are elected once every five years. Unusually for a parliament the system for the election of MEPs is not uniform across the Union because this, within guidelines such as all using proportional representation, is left up to the member states to decide. [1] The biggest difference is that some countries have the whole country as one large constituency, such as Germany or Austria, while others split themselves into constituencies each with several MEP’s, Ireland for example has four constituencies with three MEPs representing each. But there are many smaller differences too; some countries vote for individuals and others for party lists, some require a gender balance, some use electronic voting, and even the day on which voting takes place is not uniform. [2] Of greater importance for the voter there are large differences in the number of citizens who are represented by each MEP; from the 2014 elections Germany will have 96 MEPs and Malta 6 [3] since Germany has a population of 82 million against Malta’s 400,000 [4] it has one for every 854,000 inhabitants against Malta’s one MEP per 66,000.
+
+Elections for the European Parliament historically have low turnouts and it has been declining; in 1979 turnout was 61.99% but this had fallen to 43% in 2009. [5] As the legitimacy of a parliament is based on a democratic mandate low turnouts damage the legitimacy of the European Parliament. It is therefore right to explore possible ways of raising the turnout, both in terms of the number of registered electors voting and in terms of the total electorate. The main response from the Parliament is to provide better information about what it does to voters and how it affects voters’ lives; something that is made possible by the increasing powers the parliament has. [6] However the European Parliament could think bigger and as such there have been calls for the EU to lower the voting age to 16 in order to increase turnout as well as “improve intergenerational dialogue” and allow “young Europeans… to have rights matching their duties”. [7]
+
+Debatabase already has a debate on the general issue of lowering the voting age ‘ This House would lower the voting age to 16 ’ and readers of this debate should read that more general debate first. That debate will give you a grounding in the general arguments that are useful for this debate and for the most part apply to this debate even if they are not mentioned here. This debate on the voting age for the European Parliament for the most part has different arguments or where they are the same arguments a different angle has been put to them as a result of EU circumstances.
+
+[1] European parliament, ‘The European Parliament: Electoral Procedures’, Fact Sheets on the European Union, 2013, http://www.europarl.europa.eu/ftu/pdf/en/FTU_1.3.4.pdf
+
+[2] Toplak, Jurij, ‘European Parliament Elections and the Uniform Election Procedure’, VII World Congress of the International Association of Constitutional Law, 2007 http://www.enelsyn.gr/papers/w3/Paper%20by%20Jurij%20Toplak.pdf , p.1
+
+[3] European Parliament, ‘How many MEPs will each country get after European Parliament elections in 2014?’, Europarl.europa.eu, 13 March 2013, http://www.europarl.europa.eu/news/en/headlines/content/20130308STO06280/html/How-many-MEPs-will-each-country-get-after-European-Parliament-elections-in-2014
+
+[4] ‘Member countries of the European Union’, Europa.eu, http://europa.eu/about-eu/countries/member-countries/index_en.htm , accessed 7 May 2013
+
+[5] European Parliament, ‘Turnout at the European elections (1979-2009)’, europarl.europa.eu, http://www.europarl.europa.eu/aboutparliament/en/000cdcd9d4/Turnout-(1979-2009).html , accessed 7 May 2013
+
+[6] European Commission, ‘European Parliament elections – getting out the vote’, ec.europa.eu, 13 March 2013, http://ec.europa.eu/news/eu_explained/130313_en.htm
+
+[7] Becker, Heinz K. et al., ‘Written Declaration pursuant to Rule 123 of the Rules of Procedure on lowering the voting age to 16’, europarl.europa.eu, 10 September 2012, http://www.europarl.europa.eu/sides/getDoc.do?type=WDECL&amp;reference=P7-DCL-2012-0027&amp;format=PDF&amp;language=EN
+
+
+# PRO01A-POINT
+The voting age should be the same across the Union
+
+It is ridiculous and clearly unfair that some sixteen year olds should get to vote in an election while most are barred from participating. This is the case in European Parliament elections at the moment; young people in Austria are able to vote in elections at 16 while everyone else has to wait until they are eighteen. [1] This means that a tiny minority of the Youth in the European Union get to vote before the rest something which is clearly discrimination against the majority of the European Union’s 16 and 17 year olds; ‘universal suffrage’ should be universal for the European Parliament across the whole of the Union. The age should therefore be lowered to sixteen so that voting age is universally recognised with no one group receiving the right to vote before the others.
+
+[1] European Parliament, ‘About Parliament - Members’, europarl.europa.eu, http://www.europarl.europa.eu/aboutparliament/en/0081ddfaa4/MEPs.html , accessed 3 May 2013
+
+# PRO01B-COUNTER
+By this argument we really should make eighteen the voting age for all countries so as to bring Austria into line with the rest of the European Union. It is unclear why the majority of countries should have to move their voting age to fit with the Austrians rather than the other way around.
+
+# PRO02A-POINT
+It would help distinguish between levels of elections
+
+The number of different elections can be confusing; almost everyone has three, European, National, and local, and some have others added in such as Mayoral, or regional elections. As such there is much to be gained from helping to differentiate elections by not being concerned about being allowed to vote for them all at the same age. Having elections for the European Parliament at the age of 16 would clearly distinguish the elections from all the other elections within the country (with the exception of Austria). For the European Union this would be an opportunity to show that it cares for the youth vote and has their issues at heart as it is a chance to get teenagers involved in Europe before they can be involved in their own national elections. For the teenagers it provides a chance to engage with one election, and one electoral system, before all the others helping to keep things simple.
+
+# PRO02B-COUNTER
+Distinguishing between the different levels of elections is not a good thing. It would show that the European Union is different from national government so demonstrating how far away from the voter it is. Moreover European elections need to be held at the same time as, and therefore associated with, national elections if anyone is to actually vote in them.
+
+# PRO03A-POINT
+Youth are not represented in politics
+
+Young people are not well represented in European national parliaments either in terms of the membership of those parliaments or the policies they produce. The average age in the Bundestag is 50 [1] and it is similar in most parliaments. Youth unemployment in Europe for the fourth quarter of 2012 was 23.2%, almost twice the unemployment rate as a whole. [2] This is because many countries do not implement youth friendly policies; northern countries like Germany are determined to impose austerity which increases unemployment, while southern countries when implementing reforms are not implementing labour reforms that would loosen the security of permanent workers in return for reducing unemployment. [3] This may in part be a result of demographics in Europe. Europe is aging; in 1991 19.3% of the EU 27’s population was under 14 while 13.9% over 65, by 2011 this had changed to 15.6% under 14 and 17.5% over 65. [4] With an increasing contingent of elderly (who are anyway more likely to vote) the influence of young voters is declining. Reducing the voting age will help to redress this imbalance.
+
+[1] Deutscher Bunderstag, ‘Facts The Bundestag at a glance’, Deutscher Bunderstag, August 2011, https://www.btg-bestellservice.de/pdf/80140000.pdf
+
+[2] Eurostat, ‘Unemployment Statistics’, European Commission, http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Unemployment_statistics , accessed 3 May 2013
+
+[3] Crook, ‘Why Europe Really Must Pursue ‘Structural Reform’’, Bloomberg, 1 February 2012, http://www.bloomberg.com/news/2012-02-01/why-europe-really-must-pursue-structural-reform-clive-crook.html
+
+[4] Eurostat, ‘Population structure and ageing’, European Commission, October 2012, http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Population_structure_and_ageing
+
+# PRO03B-COUNTER
+This is in large part because we expect the people we vote for to be experienced rather than strictly representative of the population, simply lowering the voting age is unlikely to lower the age of the members of the parliament. Lowering voting age may have some impact on policy but in practice as Europe ages this gain would be rapidly eaten up by increase in the numbers of older people. It is however wrong to conclude that people vote by demographic or that the old will not support policies that benefit the young; loosening the security of permanent workers was used as an example – why should the elderly be concerned about this when they are already retired?
+
+# PRO04A-POINT
+An opportunity for civic studies
+
+There would be clear advantages in having elections while young people are still in school as school could help prepare them for the elections. Schools would be able to teach their students in advance what the ballot is like, about the process of voting, and most importantly about the European Union and the function of the European Parliament. One of the biggest problems with the European Parliament is that voters don’t understand what it does. To take a couple of basics from a Eurobarometer poll in 2011, 42% of European citizens did not know MEPs were directly elected and 57% did not know that they sit in the Parliament according to ideology not nationality. [1] This shows how necessary education about the European Parliament is. Having elections at 16 provides an ideal opportunity as it means that most will participate in a European election while they are at school.
+
+Teaching about why voting matters would also help to improve turnout. When Austria reduced its voting age to 16 it was found that turnout from 16-17 year olds was significantly higher than turnout for 18-19 year olds when both groups are first time voters. [2] This suggests that 18 may simply be the wrong time to introduce people to voting for the first time. Since voting or not voting tends to be habit forming lowering the voting age could slowly increase turnout across the board.
+
+[1] EP/Eurobarometer - Public Opinion Surveys , ‘Media recall and knowledge of the EP’, European Parliament Information Office in the United Kingdom, http://www.europarl.org.uk/view/en/Food_for_Thought/Eurobarometer.html
+
+[2] Zeglovitis, Eva, ‘Votes at 16: Turnout of the Youngest Voters – Evidence from Austria’, ÖGPW Tagung “Tag der Politikwissenschaft”, Salzburg, 2 December 2011, http://www.oegpw.at/tagung2011/papers/1C_Zeglovits.pdf p.13
+
+# PRO04B-COUNTER
+While lowering the European Parliament voting age may provide an incentive to link in civic or political studies there is no guarantee that this will actually happen. There is also no reason why it should not happen already; there should not need to be an election to prompt schools into teaching students about their democratic rights and duties. What each democratic body does would seem to clearly be information that every student should learn as regardless of voting age it is going to be a civic duty for most of their lives.
+
+# PRO05A-POINT
+Votes by 16-17 year olds would not be protest votes
+
+Throughout the European Union in the Parliament elections there is a problem with protest voting. Indeed studies have found that almost 40% of votes in European Parliament elections are protest votes; [1] this is clearly bad for the European Parliament as these are not the parties that the electorate really want when it comes to creating policy. It reflects the fact that voters don’t believe that their vote for the European Parliament matters.
+
+Yet because voting at 16 is two years earlier than voting in most national elections voting for the European Parliament will be 16 and 17 year olds first experience of voting; as they did not vote for the government they are much less likely to be using their vote simply as a protest against the national government. This is because it will be clear that they are not voting on the basis of national issues because they can’t vote at that level. This then represents a good chance for parties to get their European policies across to the youngest voters so that they know what their vote at the European level means.
+
+[1] Hix, Simon, and Marsh, Michael, ‘Punishment or Protest? Understanding European Parliament Elections’, The Journal of Politics, Vol. 69, No.2, May 2007, pp.495-510, http://personal.lse.ac.uk/hix/Working_Papers/Marsh-Hix-JOP2007.pdf , p.506
+
+# PRO05B-COUNTER
+This would not stop teenagers from using their votes in the same way as a protest vote. Even people who are 16 and 17 will know the policy of their government and will be just as likely to vote on the basis of that policy regardless of whether they can influence it in national elections. Indeed teenagers tend to be rebellious against authority figures so it would seem much more likely that they would simply use their vote in protest, as a result they may well even be more likely to vote for parties that are extremist rather than simply going for the opposition to the government.
+
+
+# CON01A-POINT
+There should not be different voting ages for different elections
+
+There can be no legitimate moral reason for allowing someone to vote in one election and not another. Most of the arguments involved in when people can vote revolve around when they are mature enough, understand the issues, and are considered adult. All of these arguments make little sense if someone can vote in one election but not another on the basis of age. Why should someone be considered mature enough to understand the issues for a European election but not their own local elections? There are very few countries that have different voting ages for different elections – out of those Wikipedia lists only Germany, Israel, and Italy have differing ages for different elections. [1]
+
+[1] Wikipedia, ‘Voting age’, en.wikipedia.org, http://en.wikipedia.org/wiki/Voting_age , accessed 3 May 2013
+
+# CON01B-COUNTER
+Different levels of government carry out different roles and have different impacts on the electorate. It therefore makes sense that they should have different voting ages to reflect the differences in their roles. While the European Union may not seem to be the most obviously Youth orientated level of government it is particularly concerned with encouraging ‘Active citizenship’ for which it makes sense that the European Union actually enable youth to exercise one of the main rights that active citizenship involves; voting. [1]
+
+[1] European Commission, ‘The Council adopts new EU youth policy framework’, ec.europa.eu, http://ec.europa.eu/youth/news/the-council-adopts-new-eu-youth-policy-framework_en.htm , accessed 3 May 2013
+
+# CON02A-POINT
+A slippery slope to forcing all countries to allow the vote at sixteen for all votes
+
+The European Union should not be interfering with individual member’s electoral systems, it is clear that this is an area where it is up to the members to decide who can vote and when. Even when it comes to elections for the European Parliament it is up to each member to decide the form of the election within certain ground rules. [1] In this case the interference would not be direct; the European parliament would not be passing any legislation saying that national and regional parliaments must allow votes at sixteen because they don’t have the power to do that but by allowing voting at sixteen they would be making national elections look inconsistent. It would quickly be seen as illegitimate to allow sixteen and seventeen year olds the vote in some elections and not others without a good justification. As the level of election that is most distant from the individual if there were to be a discrepancy in voting ages it should logically be the other way around with the most abstract vote being granted last.
+
+[1] European Parliament, ‘About Parliament - Members’, europarl.europa.eu, http://www.europarl.europa.eu/aboutparliament/en/0081ddfaa4/MEPs.html , accessed 3 May 2013
+
+# CON02B-COUNTER
+While such a move might embarrass some parliaments into lowering their voting age there would certainly be no compulsion. And if it happened this would not necessarily a bad thing. If national parliaments feel embarrassed by the illogic of having differing voting age then it will be up to them to change it. In practice parliaments are unlikely to change their traditions simply because their peers have done so; they will look at all the evidence (which this change would provide more of) and then decide the best way forward for their democracy.
+
+# CON03A-POINT
+Would complicate elections
+
+Elections can be confusing enough already; there are numerous levels of elections which often all are voted for on the same day so that turnout is high for all the elections. As a result voters often get numerous different ballots to fill in; the system for voting in each may well be different and are often complex. Adding that sixteen year olds can vote in one election and not the other simply adds to this complexity in polling stations meaning more mistakes are likely to be made. Lack of knowledge of voting process, increased complexity of voting process, and long ballots decrease accuracy in voting. [1] The first, and possibly also the second are factors that this lowering of the voting age will influence – so this change would mean increasing the numbers of spoilt ballots.
+
+[1] Bederson, Benjamin B., et al., ‘The not so simple act of voting: An examination of voter errors with electronic voting’, University of Maryland, http://www.bsos.umd.edu/gvpt/apworkshop/herrnson2007.pdf , p.3
+
+# CON03B-COUNTER
+This at worst going to make a very marginal difference. In practice since the number of first time voters is the same because we all vote for the first time once the errors are simply going to be moved from one election to the election before. Indeed having 16 and 17 year olds have only one ballot on their first attempt at voting may help increase their experience making it easier when they have numerous ballots to fill in so overall reducing voting error.
+
+# CON04A-POINT
+EU elections would put young people off voting
+
+Let’s be honest; European Union elections are hardly exciting and certainly not the most obvious elections to start young people off with. The votes are on very broad issues that don’t have a direct impact on the individual such as trade agreements or broad brush environmental legislation such as the carbon trading market. These may be important issues but they are also abstract and removed from the lives of voters. As Professor Cees Van der Eijk argues "the media pays very little attention to European elections. EU actors are generally invisible, and the elections are labelled boring even before they take place". [1]
+
+To make matters worse each individual vote is worth much less in European than national elections making it more difficult to explain why the individual should vote. In Germany there are more than six times more Bundestag members than there are Germany MEPs. [2] By starting young people out on ‘boring’ elections that are about people and institutions they will never have heard of and have little relevance to young people’s daily lives lowering the voting age would be damaging to turn out. This would be damage not just for European elections but also to other levels as young people will be scared off all levels of politics by their experience of the European elections.
+
+[1] Miller, Vaughne, ‘2009 European Parliament Elections: parties, polls and recent developments’, House of Commons, 29 January 2009, http://www.parliament.uk/briefing-papers/SN04954.pdf , ‎p.9
+
+[2] Deutscher Bunderstag, ‘Facts The Bundestag at a glance’, Deutscher Bunderstag, August 2011, https://www.btg-bestellservice.de/pdf/80140000.pdf
+
+# CON04B-COUNTER
+This may be a good opportunity to change this impression of the European Parliament being boring. Having young people voting will in itself make the election more interesting to the media who will then talk about the issues at the same time. Europe focusing on broad brush issues may actually be a good thing as young people tend to be idealistic they may be more rather than less interested in the big issues such as carbon trading. Moreover if this fails then there is little reason to think that apathy at the European elections will spill over onto other elections
+
+
+# LITERATURE
+Becker, Heinz K. et al., ‘Written Declaration pursuant to Rule 123 of the Rules of Procedure on lowering the voting age to 16’, europarl.europa.eu, 10 September 2012, http://www.europarl.europa.eu/sides/getDoc.do?type=WDECL&amp;reference=P7-DCL-2012-0027&amp;format=PDF&amp;language=EN
+
+Bederson, Benjamin B., et al., ‘The not so simple act of voting: An examination of voter errors with electronic voting’, University of Maryland, http://www.bsos.umd.edu/gvpt/apworkshop/herrnson2007.pdf
+
+Crook, ‘Why Europe Really Must Pursue ‘Structural Reform’’, Bloomberg, 1 February 2012, http://www.bloomberg.com/news/2012-02-01/why-europe-really-must-pursue-structural-reform-clive-crook.html
+
+Deutscher Bunderstag, ‘Facts The Bundestag at a glance’, Deutscher Bunderstag, August 2011, https://www.btg-bestellservice.de/pdf/80140000.pdf
+
+EP/Eurobarometer - Public Opinion Surveys , ‘Media recall and knowledge of the EP’, European Parliament Information Office in the United Kingdom, http://www.europarl.org.uk/view/en/Food_for_Thought/Eurobarometer.html
+
+‘Member countries of the European Union’, Europa.eu, http://europa.eu/about-eu/countries/member-countries/index_en.htm , accessed 7 May 2013
+
+European Commission, ‘The Council adopts new EU youth policy framework’, ec.europa.eu, http://ec.europa.eu/youth/news/the-council-adopts-new-eu-youth-policy-framework_en.htm , accessed 3 May 2013
+
+European Commission, ‘European Parliament elections – getting out the vote’, ec.europa.eu, 13 March 2013, http://ec.europa.eu/news/eu_explained/130313_en.htm
+
+European Parliament, ‘The European Parliament: Electoral Procedures’, Fact Sheets on the European Union, 2013, http://www.europarl.europa.eu/ftu/pdf/en/FTU_1.3.4.pdf
+
+European Parliament, ‘How many MEPs will each country get after European Parliament elections in 2014?’, Europarl.europa.eu, 13 March 2013, http://www.europarl.europa.eu/news/en/headlines/content/20130308STO06280/html/How-many-MEPs-will-each-country-get-after-European-Parliament-elections-in-2014
+
+European Parliament, ‘About Parliament - Members’, europarl.europa.eu, http://www.europarl.europa.eu/aboutparliament/en/0081ddfaa4/MEPs.html , accessed 3 May 2013
+
+European Parliament, ‘Turnout at the European elections (1979-2009)’, europarl.europa.eu, http://www.europarl.europa.eu/aboutparliament/en/000cdcd9d4/Turnout-(1979-2009).html , accessed 7 May 2013
+
+Eurostat, ‘Unemployment Statistics’, European Commission, http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Unemployment_statistics , accessed 3 May 2013
+
+Eurostat, ‘Population structure and ageing’, European Commission, October 2012, http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Population_structure_and_ageing
+
+Hix, Simon, and Marsh, Michael, ‘Punishment or Protest? Understanding European Parliament Elections’, The Journal of Politics, Vol. 69, No.2, May 2007, pp.495-510, http://personal.lse.ac.uk/hix/Working_Papers/Marsh-Hix-JOP2007.pdf
+
+Miller, Vaughne, ‘2009 European Parliament Elections: parties, polls and recent developments’, House of Commons, 29 January 2009, http://www.parliament.uk/briefing-papers/SN04954.pdf
+
+Toplak, Jurij, ‘European Parliament Elections and the Uniform Election Procedure’, VII World Congress of the International Association of Constitutional Law, 2007 http://www.enelsyn.gr/papers/w3/Paper%20by%20Jurij%20Toplak.pdf
+
+Wikipedia, ‘Voting age’, en.wikipedia.org, http://en.wikipedia.org/wiki/Voting_age , accessed 3 May 2013
+
+Zeglovitis, Eva, ‘Votes at 16: Turnout of the Youngest Voters – Evidence from Austria’, ÖGPW Tagung “Tag der Politikwissenschaft”, Salzburg, 2 December 2011, http://www.oegpw.at/tagung2011/papers/1C_Zeglovits.pdf

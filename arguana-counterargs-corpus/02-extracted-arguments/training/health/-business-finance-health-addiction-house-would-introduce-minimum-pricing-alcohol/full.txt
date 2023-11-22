@@ -1,0 +1,44 @@
+# METADATA
+url	https://idebate.org/debatabase/economy-business-finance-health-addiction/house-would-introduce-minimum-pricing-alcohol
+published_time	2012-01-26T16:33:27+01:00
+modified_time	2012-09-14T15:39:59+02:00
+crawled_time	Sun Feb 04 18:42:21 CET 2018
+voting_pro	50
+voting_con	50
+reads	23285
+
+
+# THESIS
+This House would introduce minimum pricing on alcohol sales.
+
+
+# INTRO
+Health professionals agree that high levels of alcohol consumption are bad for individuals and society. Individuals who drink heavily may become alcoholics, dependent upon alcohol and unable to function effectively in society. They are likely to suffer liver damage and other illnesses, and binge drinkers (those who drink a lot of alcohol at one time) put themselves at increased risk of potentially-fatal blood poisoning and accidents. Society also pays a heavy price through increased health-care costs to care for those damaged by alcohol, and through the higher rates of anti-social behavior (including domestic violence and drunk-driving) associated with heavy drinking. Such concerns have been around for generations, but in recent years problems associated with alcohol have been increasing in a number of societies. The UK in particular is seen to have an alcohol problem, with binge drinking common among younger people (including those below the legal age of purchasing alcohol at 18) 1.
+
+In order to address the health and public order problems associated with heavy drinking, there have been calls over the past few years for governments to set a minimum price for each unit of alcohol (a unit is roughly half a pint of beer, a small glass of wine, or a single measure of spirits, but this can vary greatly depending on the alcoholic strength of the specific drink) 2. This would force supermarkets and discount stores to increase the price of their cheapest drinks, preventing them from selling some at a loss in order to attract more trade 3.
+
+Some Canadian provinces already have such a pricing policy, known there as social reference pricing, and a proposal to introduce this in Scotland was seriously debated in the Scottish Parliament in 2010 but ultimately failed to pass. In 2011 the new Coalition Government in the UK announced that it will set a minimum price per unit of alcohol in England and Wales by banning the sale of alcohol below the cost of the excise rate and value added tax upon each bottle (currently about 21 pence per unit for beer and 28 pence per unit for spirits) 4/ 5/ 6.
+
+This proposal has attracted both support and criticisms; some object to the whole idea, while health campaigners have pointed out that it would set the minimum price at such a low level that it will make almost no difference in practice to the cost of alcohol. For an effective debate, it will probably be best for the Proposition to propose setting a minimum price at a level that will genuinely affect the cost of much of the alcohol sold.
+
+1.Parliamentary Office of Science and Technology, ‘Binge Drinking and Public Health,’ Houses of Parliament. Number 244, 2005. http://www.parliament.uk/documents/post/postpn244.pdf Accessed 07/09/11
+
+NHS, http://www.nhs.uk/news/2009/01January/Pages/BingedrinkingBritain.aspx Accessed 07/09/11
+
+2.Drinkaware, ‘Unit Calculator,’ http://www.drinkaware.co.uk/tips-and-tools/drink-diary/ Accessed 07/09/11
+
+3. Bennets, Russell, ‘IAS Briefing Paper: Use of Alcohol as a loss-leader,’ Institute of Alcohol Studies, 3 rd June 2008. http://www.ias.org.uk/resources/papers/occasional/lossleading.pdf Accessed 07/09/11
+
+4. BBC, ‘Minimum alcohol price levels planned by coalition,’ 2011, http://www.bbc.co.uk/news/uk-politics-12212240 Accessed 07/09/11
+
+Macleans, ‘Why is the government standing in the way of cheaper beer?’ 2011 http://www2.macleans.ca/2011/01/19/from-the-editors-2/ Accessed 07/09/11
+
+Black, Andrew. ‘At a glance: SNP programme for government,’ BBC News, 2011. http://www.bbc.co.uk/news/uk-scotland-14804186 Accessed 07/09/11
+
+5.Slack J., “Price limit on alcohol 'will have no effect': Minimum cost is not high enough to deter drinkers, warn doctors,” The Daily Mail, published 16/01/2011, http://www.dailymail.co.uk/news/article-1348116/Alcohol-minimum-cost-high-deter-drinkers-warn-doctors.html#ixzz1VVv5fsOk , accessed 19/08/2011
+
+
+
+
+# LITERATURE
+AD Council, "Drunk Driving Prevention", , accessed 18.08/2011 BBC, 'Minimum alcohol price levels planned by coalition,' 2011, Accessed 07/09/11 Bennets, Russell, 'IAS Briefing Paper: Use of Alcohol as a loss-leader,' Institute of Alcohol Studies, 3rd June 2008. Accessed 07/09/11 Black, Andrew. 'At a glance: SNP programme for government,' BBC News, 2011. Accessed 07/09/11 Chaloupka, F and Wechsler, H."Binge drinking in college: the impact of price, availability, and alcohol control policies." Contemporary Economic Policy.Vol. 14, No. 4. 1996. Accessed 08/09/2011 Drinkaware, 'Unit Calculator,' Accessed 07/09/11 Fisher D., "Trying to break Russia's vodka dependence", BBC, published 01/01/2010, , accessed 18/08/2011 Health Committee 'Health Committee- First Report,' Houses of Parliament. 2009. Accessed 08/09/2011 , Section 10 Institute of Alcohol Studies, "Alcohol and the Workplace", , accessed 18/08/2011 International Center for Alcohol Policies, "If Alcohol Prices Increase, Will It Reduce Binge Drinking?", , accessed 08/20/2011 Jean D.,''Alcopop tax 'cut teen drinking', Adelaide Now, published 18/07/2011, , accessed 18/08/2011 Macleans, 'Why is the government standing in the way of cheaper beer?' 2011 Accessed 07/09/11 Mayo Clinic, "Alcoholism", , accessed 20/08/2011 National bureau of Economic Research, "Higher Alcohol Prices and Student Drinking," 2011 , accessed 18/08/2011 NHS, Accessed 07/09/11 Parliamentary Office of Science and Technology, 'Binge Drinking and Public Health,' Houses of Parliament. Number 244, 2005. Accessed 07/09/11 Rico C., "Alcopops tax a failure: industry", Courier Mail, 2011 , accessed 08/18/2011 Slack J., "Price limit on alcohol 'will have no effect': Minimum cost is not high enough to deter drinkers, warn doctors," The Daily Mail, published 16/01/2011, , accessed 19/08/2011 Trinko K., "Political cowards love the sin tax," USA Today, 2010, , accessed 18/08/2011 Turney E., "BBPA: Minimum price would be ineffective," , accessed 08/20/2011 Web MD, "Teens and Alcohol",2011, , accessed 20/08/2011 WHO, ''Alcohol'', accessed 18/08/2011 'Social and Cultural Aspects of Drinking,' Social Issues Research Centre, (2011) Accessed 08/09/11 "Effect of Changes in Alcohol Prices and Taxes," Accessed 08/09/2011

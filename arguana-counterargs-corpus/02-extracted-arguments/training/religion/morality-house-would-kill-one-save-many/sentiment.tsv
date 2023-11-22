@@ -1,0 +1,21 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con01a-point.txt	0.269941
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con01b-counter.txt	0.22356399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con02a-point.txt	0.754265
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con02b-counter.txt	0.44115899999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con03a-point.txt	0.775201
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con03b-counter.txt	0.33137799999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con04a-point.txt	0.174663
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con04b-counter.txt	0.40517499999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con05a-point.txt	0.437836
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con05b-counter.txt	0.557098
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con06a-point.txt	0.547294
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/con/con06b-counter.txt	0.36605699999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro01a-point.txt	0.627159
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro01b-counter.txt	0.26354599999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro02a-point.txt	0.847025
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro02b-counter.txt	0.134243
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro03a-point.txt	0.586498
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro03b-counter.txt	0.005261999999999989
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro04a-point.txt	0.636573
+data/corpus-counterarguments-18/02-extracted-arguments/training/religion/morality-house-would-kill-one-save-many/pro/pro04b-counter.txt	0.996137

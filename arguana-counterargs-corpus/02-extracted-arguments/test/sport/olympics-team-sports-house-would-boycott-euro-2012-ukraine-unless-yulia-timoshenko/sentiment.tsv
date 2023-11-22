@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con01a-point.txt	0.318423
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con01b-counter.txt	0.639813
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con02a-point.txt	0.581456
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con02b-counter.txt	0.24886200000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con03a-point.txt	0.077519
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con03b-counter.txt	0.08258600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con04a-point.txt	0.018664000000000014
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con04b-counter.txt	0.06020199999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con05a-point.txt	0.371293
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/con/con05b-counter.txt	0.09494199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro01a-point.txt	0.35527
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro01b-counter.txt	0.06263399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro02a-point.txt	0.10302500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro02b-counter.txt	0.049131000000000036
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro03a-point.txt	0.27947500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/sport/olympics-team-sports-house-would-boycott-euro-2012-ukraine-unless-yulia-timoshenko/pro/pro03b-counter.txt	0.043949000000000016

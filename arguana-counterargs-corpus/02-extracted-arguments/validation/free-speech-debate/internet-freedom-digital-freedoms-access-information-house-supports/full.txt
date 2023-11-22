@@ -1,0 +1,158 @@
+# METADATA
+url	https://idebate.org/debatabase/free-speech-debate-internet-freedom-digital-freedoms-access-information/house-supports
+published_time	2012-11-12T16:08:59+01:00
+modified_time	2017-04-19T12:34:21+02:00
+crawled_time	Sun Feb 04 18:42:48 CET 2018
+voting_pro	100
+voting_con	0
+reads	14461
+
+
+# THESIS
+This House supports net neutrality legislation
+
+
+# INTRO
+The case: Netherlands passed Europe's first net neutrality legislation
+
+On 8 May 2012 the senate of the Netherlands approved amendments to its Telecommunications Act (unofficial translation here ) making the Netherlands the first European country (and the second country in the world, after Chile ) to pass net neutrality legislation.
+
+The amendments passed on 8 May 2012 prevent internet service providers from blocking, hindering, or slowing down applications and services on the internet, save in specific circumstances such as to give effect to a court order or to preserve the integrity and security of the network. In addition to providing for net neutrality, the amendments also restrict the situations in which ISPs can disconnect or wiretap their users.
+
+It has been reported that the amendments were proposed in response to a plan, suggested by the Dutch telecommunications company KPN, “to make mobile users pay extra for data used by certain third-party apps, such as WhatsApp and Skype, that replaced KPN services like text messaging and voice calls”.
+
+Dutch digital rights organisation Bits of Freedom , which advocated for these amendments, considers their passage “a historical moment for internet freedom in The Netherlands and calls upon other countries to follow the Dutch example”.
+
+Graham Reynolds' opinion
+
+Free Speech Debate’s second draft principle states: “We defend the internet and all other forms of communication against illegitimate encroachments by both public and private powers.” The amendments approved by the senate of the Netherlands on 8 May 2012, by limiting the situations in which ISPs can manage internet traffic, help to preserve an open internet in which individuals can access information and communicate freely. While recognising that in certain circumstances, it may be appropriate for ISPs to block or slow down applications and services, these amendments signal that in order to protect freedom of speech and information on the internet, such activities should be the exception, and not the rule.
+
+- Graham Reynolds
+
+Debaters Note
+
+Although this is, in reality a prop heavy motion, it’s not quite as cut and dry as the introduction would make it appear. The issue for ISPs is primarily one of cost – although some proponents of the legislation have suggested that this is little more than price gouging on the part of ISPs. There is also a more subtle issue of equality and access – that flat rate tariffs mean that light bandwidth users are paying for those using more capacity.
+
+Read about Europe's first net neutrality legislation and other similar case studies on Free Speech Debate
+
+
+# PRO01A-POINT
+Privacy
+
+This was the clinching argument in the Dutch example. Labour MP Martijn van Dam, one of the bill’s co-authors said that Dutch ISP KPN was similar to “a postal worker who delivers a letter, looks to see what’s in it and then claims he hasn’t read it. It is simply a basic principle of the Internet that for it to continue working as it does now, all data needs to be treated the same otherwise judgements will be formed on ‘right’ and ‘wrong’ data [i] .
+
+The principle here is that the data being used is simply none of the ISPs business. Their job is simply to provide an agreed bandwidth, at an agreed price to the end user. How the end user makes use of that band width is up to them. If, for example, they’re choosing to Skype from a mobile device – one of the points of contention – it’s hard to see what that has to do with the ISP.
+
+[i] PCWorld. Matthew Honan, MacWorld. “Inside Net Neutrality: Privacy and BitTorrent. 14 February 2008.
+
+# PRO01B-COUNTER
+The postal worker analogy is an interesting one. Certainly, the end user wouldn’t want the worker snooping through their mail; however they would expect to pay more for the stamp if they were sending a parcel – the equivalent of sending voice messages or receiving films rather than email and text. It is also not directly analogous to a postman looking at the contents of someone’s mail because to tell what type of data it is and the size ISPs don’t read the content of the data.
+
+# PRO02A-POINT
+Risk of a two-tier Internet
+
+As things stand there are relatively flat rate services. The concern is that ISP would charge higher rates for full Internet access or act to ensure that their own content arrived seamlessly and smoothly, while that of competitors was delayed or poorer quality or that higher bandwidth applications end up with a higher price-tag [i] .
+
+This is of concern both to end users and to the producers of content. There are very real concerns here, as a result, about the impact this has on freedom of expression. The best way to avoid censorship – either commercial or political – is to ensure that it remains impossible to achieve in the first place.
+
+Once it becomes possible to give preference to some forms of content or points of origin, then commercial censorship at least becomes a great deal easier.
+
+[i] BBC News Website. “BT Content Connect service faces ‘two-tier net’ claims. 4 January 2011.
+
+# PRO02B-COUNTER
+This has absolutely nothing to do with censorship – not having net neutrality will not stop users accessing certain sites, just make it slower. Data from some points of origin, especially games and file-sharing programmes slow down the entire network. It’s unfair to other users.
+
+# PRO03A-POINT
+Threats to Freeware, Shareware and Objectivity
+
+There are very real concerns that ISPs have a commercial interest in guiding people away from certain sites – especially when those sites provide services or products for nothing when the ISP or a related company charges for a competing product. File sharing more generally is an obvious target. The example of Comcast against NetFlix and other file sharing sites is simply the most obvious [i] .
+
+There are also concerns about the impact on objectivity more generally; the Internet works most effectively as a tool because it is, by definition cross-referencing. Although there are many mistakes on many sources as a whole it is possible to reach something resembling the truth. Essentially, “We need freeware, we need shareware, and we need open access. People need to be able to trust sources that they can find on the internet, rather than have them controlled in a small number of hands or by the government.” [ii] Making some sites more accessible than others reduces users’ choice and their ability to check multiple sites so preventing this cross-referencing.
+
+[i] A useful overview of some of the more notorious examples can be found here .
+
+[ii] Bob Gibson, Executive Director of the University of Virginia’s Sorensen Institute for Political Leadership, on the Charlottesville, VA, politics interview program Politics Matters with host and producer Jan Madeleine Paynter discussing journalism http://bit.ly/pm-gibson
+
+# PRO03B-COUNTER
+The idea that there is a virtue in providing things for free takes a somewhat cavalier attitude toward jobs. It is a predicate of this, and many other, arguments that the Internet should be either free or very cheap, but this does little for protecting genuine sources of expertise. Equally the costs incurred by ISPs for carrying the huge data loads of heavy users will simply end up being met by users who aren’t using that level of data. It doesn’t seem that unreasonable that those using the data should be paying for that at least. After all, they’re already avoiding paying the studio, the writer, the actors, musicians [i] and many others involved in the production of goods. Freeware may be freely given, but plenty of other pieces of intellectual property aren’t. Why should those people then have the data usage subsidised by others as well?
+
+[i] Songwriters Guild of America. Rick Carnes. “Demythologizing Net Neutrality.
+
+
+# CON01A-POINT
+Incentivise ISPs to provide more data capacity
+
+If the ISPs were actually making their money on the basis of data provision rather than bandwidth then it’s in their interest to provide it. If they can’t, they don’t make money.
+
+If they want to sell more data, they have to provide more bandwidth, otherwise they can’t do it. This way both the data gluttons and the dieters get what they want. The gluttons get a fast provision of the resources they want or the capacity to share those resources at a reasonable speed and the dieters get cheaper provision.
+
+Measures being pursued by the European Commission aim to do exactly this. They will allow ISPs to control the passage of data across their networks but must, at the same time, make it clear what they are doing and offer low data use price plans accordingly [i] .
+
+This is more so with mobile devices than with ‘plumbed in’ ones. For many people, it wouldn’t occur to them to use Skype for a call and a phone – even a smart one – is primarily just that, a phone. Why should they pay for a capacity they will never use because others can’t take a bus journey without watching a movie?
+
+[i] Out-Law.com: Legal news and guidance from Pinsent Masons. European Commission to propose net neutrality measures. 30 May 2012 .
+
+# CON01B-COUNTER
+The reverse also applies. In most countries the costs of basic infrastructure are shared. Taxpayers don’t get a discount if they don’t have kids in education, any more than they would just because they disagreed with a war that their taxes help to pay for. The argument doesn’t make sense.
+
+# CON02A-POINT
+Allow ISPs to monitor and remove illegal or unwanted data
+
+Many ISPs are responding to user interests when cutting out particular types of data. At the request of the user why shouldn’t they be able to monitor what is delivered to a certain IP address. Most ‘net nanny’ software is not that difficult to get around [i] .
+
+Why not let parents who bought their kids a computer to help with their homework not be able to block them from making calls or watching movies?
+
+If you compel net neutrality then, say, the ISP who caters for religious customers can no longer deliver the service that they have requested. Denying freedom of choice seems a high price to pay so that someone can get movies without paying for them.
+
+Equally, if ISPs themselves want to stay within the law and prevent people from accessing illegal or otherwise unpleasant sites, why shouldn’t they?
+
+[i] Foss Force: Keeping Tech Free. Caesar Tjalbo. “Top 10 Reasons ISPs are against net neutrality”.
+
+# CON02B-COUNTER
+Censorship has routinely been presented in terms of ‘protecting public morals’ or ‘defending national security’ or some similar euphemism, with legislation aimed at pornography but catching everything else in its track as simply the most obvious example [i] . It doesn’t change what it is [ii] . In addition to which, there are very real reasons to believe that the incentives of ISPs here are more financial than moral – they would, after all, stand to make quite a lot of money.
+
+[i] The New Statesman. Nelson Jones. “The Censored Isle”. 6 August 2012.
+
+[ii] Boston College Law Review. Prof. Jonathan Zittrain. “Internet Points of Control”. Vol. 44, pg. 653, 2003.
+
+# CON03A-POINT
+Realistic costs for users and providers of bandwidth and phones
+
+The example of mobile devices is, perhaps the most clear-cut. Manufacturers of mobile devices expect to make their money back and make a profit. They need to do this to pay salaries, invest in the next project and keep their shareholders happy. To do that they make a calculation based on the price of the original product and what additional revenue they are likely to make over the lifetime of that product’s use.
+
+Phone companies in particular have complained that major content providers are simply not paying a fair share of the costs with the VP of Verizon, for example, accusing Google of getting “a free lunch” at the expense of network providers [i] .
+
+Net neutrality compels some companies to ignore basic financial realities [ii] . For all that Proposition – and others such as politicians in Amsterdam and Santiago – may think that changing the basic rules of economics is a good idea, they have yet to explain how this Socialist utopia will work.
+
+[i] Washington Post. Ashad Mohammed. “Verizon Executive Calls for End to Google’s ‘Free Lunch”. 7 February 2006.
+
+[ii] The Economist. “The Difference Engine: Download Dilemma”. 6 May 2011.
+
+# CON03B-COUNTER
+It’s no secret that many companies have had difficulty working out effective models for dealing with the internet. That doesn’t justify simple price-gouging. Neither does it justify an invasion of privacy. It’s the equivalent of a restaurant waiting for customers to order, eat their meal and then set the prices.
+
+
+# LITERATURE
+Reynolds, Graham, ‘Netherlands passes Europe’s first net neutrality legislation’, Free Speech Debate, 9 July 2012, http://freespeechdebate.com/en/case/62696/
+
+Babbage, ‘The Difference Engine: Download dilemma’, The Economist, 6 May 2011, http://www.economist.com/blogs/babbage/2011/05/net_neutrality
+
+BBC News, “BT Content Connect service faces ‘two-tier net’ claims. 4 January 2011, http://www.bbc.co.uk/news/technology-12112389
+
+Carnes, Rick, ‘Demythologizing Net Neutrality’, Songwriters Guild of America, accessed 9 November 2012, http://www.songwritersguild.com/net_neutrality.htm
+
+FOSS Force Staff, ‘Top 10 Reasons ISPs Are Against Net Neutrality’, Foss Force, 29 September 2011, http://fossforce.com/2011/09/top-10-reasons-isps-are-against-net-neutrality/
+
+Gibson, Bob, ‘Bob Gibson, Executive Director Sorensen Institute’, Politics matters, April 2011, http://politicsmatters.org/index.php/home/entry_results_video/bob_gibson_sorensen_institute_for_political_leadership
+
+Honan, Mathew, ‘Inside Net Neutrality: Privacy and BitTorrent’, PCWorld, 14 February 2008, http://www.pcworld.com/article/142473/article.html
+
+Iskandar, Tatiana et al., ‘Net Neutrality’, Stanford Computer Science, November 2010, http://www-cs-faculty.stanford.edu/~eroberts/cs181/projects/2010-11/NetNeutrality/Articles/CaseStudies.html
+
+Jones, Nelson, ‘This censored isle’, New Statesman, 6 August 2012, http://www.newstatesman.com/blogs/politics/2012/08/censored-isle
+
+Mohammed, Arshad, ‘Verizon Executive Calls for End to Google's 'Free Lunch'’, The Washington Post, 7 February 2006, http://www.washingtonpost.com/wp-dyn/content/article/2006/02/06/AR2006020601624.html
+
+‘European Commission to propose net neutrality measures’, Out-Law.com, 30 May 2012, http://www.out-law.com/en/articles/2012/may/european-commission-to-propose-net-neutrality-measures/
+
+Zittrain, Jonathan, ‘Internet Points of Control’, Boston College Law Review, Vol. 44, pg. 653, 2003, http://www.techpolicy.com/Articles/Internet-Points-of-Control.aspx

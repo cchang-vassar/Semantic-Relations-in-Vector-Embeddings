@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con01a-point.txt	0.012672000000000017
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con01b-counter.txt	0.543807
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con02a-point.txt	0.414763
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con02b-counter.txt	0.870845
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con03a-point.txt	0.767912
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/con/con03b-counter.txt	0.948038
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro01a-point.txt	0.635781
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro01b-counter.txt	0.403736
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro02a-point.txt	0.92775
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro02b-counter.txt	0.20527399999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro03a-point.txt	0.934637
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro03b-counter.txt	0.0010430000000000161
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro04a-point.txt	0.831641
+data/corpus-counterarguments-18/02-extracted-arguments/test/politics/onal-europe-politics-defence-leadership-house-favours-common-eu-foreign-policy/pro/pro04b-counter.txt	0.09159099999999998

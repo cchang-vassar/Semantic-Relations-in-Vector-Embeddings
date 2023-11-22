@@ -1,0 +1,21 @@
+The case: Netherlands passed Europe's first net neutrality legislation
+
+On 8 May 2012 the senate of the Netherlands approved amendments to its Telecommunications Act (unofficial translation here ) making the Netherlands the first European country (and the second country in the world, after Chile ) to pass net neutrality legislation.
+
+The amendments passed on 8 May 2012 prevent internet service providers from blocking, hindering, or slowing down applications and services on the internet, save in specific circumstances such as to give effect to a court order or to preserve the integrity and security of the network. In addition to providing for net neutrality, the amendments also restrict the situations in which ISPs can disconnect or wiretap their users.
+
+It has been reported that the amendments were proposed in response to a plan, suggested by the Dutch telecommunications company KPN, “to make mobile users pay extra for data used by certain third-party apps, such as WhatsApp and Skype, that replaced KPN services like text messaging and voice calls”.
+
+Dutch digital rights organisation Bits of Freedom , which advocated for these amendments, considers their passage “a historical moment for internet freedom in The Netherlands and calls upon other countries to follow the Dutch example”.
+
+Graham Reynolds' opinion
+
+Free Speech Debate’s second draft principle states: “We defend the internet and all other forms of communication against illegitimate encroachments by both public and private powers.” The amendments approved by the senate of the Netherlands on 8 May 2012, by limiting the situations in which ISPs can manage internet traffic, help to preserve an open internet in which individuals can access information and communicate freely. While recognising that in certain circumstances, it may be appropriate for ISPs to block or slow down applications and services, these amendments signal that in order to protect freedom of speech and information on the internet, such activities should be the exception, and not the rule.
+
+- Graham Reynolds
+
+Debaters Note
+
+Although this is, in reality a prop heavy motion, it’s not quite as cut and dry as the introduction would make it appear. The issue for ISPs is primarily one of cost – although some proponents of the legislation have suggested that this is little more than price gouging on the part of ISPs. There is also a more subtle issue of equality and access – that flat rate tariffs mean that light bandwidth users are paying for those using more capacity.
+
+Read about Europe's first net neutrality legislation and other similar case studies on Free Speech Debate

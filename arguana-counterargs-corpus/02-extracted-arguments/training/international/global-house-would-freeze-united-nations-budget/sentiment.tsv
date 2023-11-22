@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con01a-point.txt	0.27292099999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con01b-counter.txt	0.857162
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con02a-point.txt	0.788384
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con02b-counter.txt	0.774753
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con03a-point.txt	0.39133300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con03b-counter.txt	0.04884500000000003
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con04a-point.txt	0.21124699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/con/con04b-counter.txt	0.47359300000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro01a-point.txt	0.430678
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro01b-counter.txt	0.608585
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro02a-point.txt	0.213777
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro02b-counter.txt	0.33001199999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro03a-point.txt	0.72534
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro03b-counter.txt	0.19872199999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro04a-point.txt	0.726603
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/global-house-would-freeze-united-nations-budget/pro/pro04b-counter.txt	0.528278

@@ -1,0 +1,17 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con01a-point.txt	0.985408
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con01b-counter.txt	0.49595
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con02a-point.txt	0.979167
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con02b-counter.txt	0.791689
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con03a-point.txt	0.966484
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con03b-counter.txt	0.252861
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con04a-point.txt	0.348897
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/con/con04b-counter.txt	0.931739
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro01a-point.txt	0.268459
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro01b-counter.txt	0.898276
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro02a-point.txt	0.414624
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro02b-counter.txt	0.940085
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro03a-point.txt	0.13366299999999998
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro03b-counter.txt	0.405733
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro04a-point.txt	0.528942
+data/corpus-counterarguments-18/02-extracted-arguments/training/education/ts-education-secondary-teaching-literary-classics-house-believes-poetry/pro/pro04b-counter.txt	0.876834

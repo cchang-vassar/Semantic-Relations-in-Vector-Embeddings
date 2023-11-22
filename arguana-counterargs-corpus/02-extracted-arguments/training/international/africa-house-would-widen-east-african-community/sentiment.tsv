@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con01a-point.txt	0.341676
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con01b-counter.txt	0.051597000000000004
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con02a-point.txt	0.323593
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con02b-counter.txt	0.46607600000000005
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con03a-point.txt	0.471959
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/con/con03b-counter.txt	0.675046
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro01a-point.txt	0.711889
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro01b-counter.txt	0.82434
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro02a-point.txt	0.670164
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro02b-counter.txt	0.857959
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro03a-point.txt	0.16410899999999995
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro03b-counter.txt	0.463572
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro04a-point.txt	0.743989
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-house-would-widen-east-african-community/pro/pro04b-counter.txt	0.68638

@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con01a-point.txt	0.692077
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con01b-counter.txt	0.167045
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con02a-point.txt	0.539682
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con02b-counter.txt	0.34743599999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con03a-point.txt	0.0031849999999999934
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con03b-counter.txt	0.204164
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con04a-point.txt	0.811876
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/con/con04b-counter.txt	0.21485900000000002
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro01a-point.txt	0.30089999999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro01b-counter.txt	0.39117999999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro02a-point.txt	0.91542
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro02b-counter.txt	0.772344
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro03a-point.txt	0.684293
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro03b-counter.txt	0.781703
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro04a-point.txt	0.683166
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro04b-counter.txt	0.466318
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro05a-point.txt	0.577015
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/europe-house-believes-federal-europe/pro/pro05b-counter.txt	0.018333000000000044

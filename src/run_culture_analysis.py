@@ -4,7 +4,7 @@ from get_argument_embeddings import debates_embeddings_data_batch, debates_embed
 from extract_arguments import DebateTopic
 
 def run_analysis_batch(debate_topic: DebateTopic, file_path: str):
-    debates_files = [{"debate_topic": DebateTopic, "file_path": str}]
+    debates_files = []
     # try to open file from path
     try:
         with open('./' + file_path + '.txt', 'r') as file:

@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international-global-law-human-rights-society-immigration-minorities/house-would
+published_time	2012-01-26T16:34:32+01:00
+modified_time	2017-08-18T13:52:45+02:00
+crawled_time	Sun Feb 04 18:42:43 CET 2018
+voting_pro	50
+voting_con	50
+reads	30098

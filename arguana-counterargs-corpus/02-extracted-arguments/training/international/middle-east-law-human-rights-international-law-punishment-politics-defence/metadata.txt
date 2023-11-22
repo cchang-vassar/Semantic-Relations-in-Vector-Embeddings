@@ -1,0 +1,7 @@
+url	https://idebate.org/debatabase/international/middle-east-law-human-rights-international-law-punishment-politics-defence
+published_time	2014-01-16T18:54:43+01:00
+modified_time	2017-04-05T11:58:41+02:00
+crawled_time	Sun Feb 04 18:42:41 CET 2018
+voting_pro	50
+voting_con	50
+reads	13253

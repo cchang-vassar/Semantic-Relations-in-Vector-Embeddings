@@ -1,0 +1,19 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con01a-point.txt	0.20107699999999995
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con01b-counter.txt	0.300292
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con02a-point.txt	0.18051300000000003
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con02b-counter.txt	0.19619399999999998
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con03a-point.txt	0.019619000000000053
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con03b-counter.txt	0.58083
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con04a-point.txt	0.948805
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/con/con04b-counter.txt	0.24057700000000004
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro01a-point.txt	0.31301999999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro01b-counter.txt	0.008789000000000047
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro02a-point.txt	0.481653
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro02b-counter.txt	0.645006
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro03a-point.txt	0.25643099999999996
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro03b-counter.txt	0.330816
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro04a-point.txt	0.29096200000000005
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro04b-counter.txt	0.37074799999999997
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro05a-point.txt	0.96791
+data/corpus-counterarguments-18/02-extracted-arguments/test/international/africa-global-house-believes-former-colonial-powers-should-pay-reparations/pro/pro05b-counter.txt	0.07847599999999999

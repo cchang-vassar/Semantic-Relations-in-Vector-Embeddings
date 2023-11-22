@@ -1,0 +1,15 @@
+ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con01a-point.txt	0.951283
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con01b-counter.txt	0.998007
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con02a-point.txt	0.442225
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con02b-counter.txt	0.992627
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con03a-point.txt	0.867531
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con03b-counter.txt	0.670929
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con04a-point.txt	0.006884000000000001
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/con/con04b-counter.txt	0.550965
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro01a-point.txt	0.40272399999999997
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro01b-counter.txt	0.075156
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro02a-point.txt	0.650303
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro02b-counter.txt	0.45441699999999996
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro03a-point.txt	0.923776
+data/corpus-counterarguments-18/02-extracted-arguments/training/international/africa-politics-politics-general-government-leadership-house-believes-mo/pro/pro03b-counter.txt	0.859032
