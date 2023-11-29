@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-tax/house-would-introduce-tobin-tax
-published_time	2012-01-26T16:35:37+01:00
-modified_time	2012-10-01T17:48:02+02:00
-crawled_time	Sun Feb 04 18:42:58 CET 2018
-voting_pro	50
-voting_con	50
-reads	13515

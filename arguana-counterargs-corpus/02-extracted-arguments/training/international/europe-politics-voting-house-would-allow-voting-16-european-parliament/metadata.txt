@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-europe-politics-voting/house-would-allow-voting-16-european-parliament
-published_time	2013-05-07T14:57:25+02:00
-modified_time	2017-04-13T11:32:20+02:00
-crawled_time	Sun Feb 04 18:42:44 CET 2018
-voting_pro	50
-voting_con	50
-reads	15567

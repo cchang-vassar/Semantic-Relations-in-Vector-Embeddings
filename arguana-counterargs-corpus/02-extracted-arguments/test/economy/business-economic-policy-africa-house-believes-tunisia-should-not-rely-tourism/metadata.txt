@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-business-economic-policy-africa/house-believes-tunisia-should-not-rely-tourism
-published_time	2014-01-29T18:37:23+01:00
-modified_time	2017-04-04T12:50:58+02:00
-crawled_time	Sun Feb 04 18:42:58 CET 2018
-voting_pro	100
-voting_con	0
-reads	9131

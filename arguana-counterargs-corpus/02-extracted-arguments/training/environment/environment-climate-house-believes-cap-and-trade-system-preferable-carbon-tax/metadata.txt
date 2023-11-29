@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy/tax-environment-climate/house-believes-cap-and-trade-system-preferable-carbon-tax
-published_time	2012-03-23T12:42:01+01:00
-modified_time	2017-04-24T13:26:04+02:00
-crawled_time	Sun Feb 04 18:42:39 CET 2018
-voting_pro	50
-voting_con	50
-reads	37494

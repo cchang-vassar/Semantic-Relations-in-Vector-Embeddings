@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/sport-olympics/house-would-introduce-chess-olympics
-published_time	2013-07-10T10:43:49+02:00
-modified_time	2017-04-11T13:38:22+02:00
-crawled_time	Sun Feb 04 18:42:30 CET 2018
-voting_pro	50
-voting_con	50
-reads	15197

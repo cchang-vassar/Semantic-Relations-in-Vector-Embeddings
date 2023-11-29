@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-africa-global/house-believes-un-intervention-democratic-republic-congo-has
-published_time	2014-02-06T14:14:23+01:00
-modified_time	2017-04-04T12:28:33+02:00
-crawled_time	Sun Feb 04 18:42:41 CET 2018
-voting_pro	50
-voting_con	50
-reads	10505

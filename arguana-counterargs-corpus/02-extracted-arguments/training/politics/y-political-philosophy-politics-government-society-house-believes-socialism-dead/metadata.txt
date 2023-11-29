@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/philosophy-political-philosophy-politics-government-society/house-believes-socialism-dead
-published_time	2012-02-22T14:36:53+01:00
-modified_time	2017-05-18T11:04:17+02:00
-crawled_time	Sun Feb 04 18:42:34 CET 2018
-voting_pro	0
-voting_con	100
-reads	17811

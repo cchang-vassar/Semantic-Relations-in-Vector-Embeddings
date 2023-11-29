@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-government-voting/house-believes-turkey-not-democracy
-published_time	2013-06-04T19:00:44+02:00
-modified_time	2017-04-11T14:43:29+02:00
-crawled_time	Sun Feb 04 18:42:35 CET 2018
-voting_pro	50
-voting_con	50
-reads	12203

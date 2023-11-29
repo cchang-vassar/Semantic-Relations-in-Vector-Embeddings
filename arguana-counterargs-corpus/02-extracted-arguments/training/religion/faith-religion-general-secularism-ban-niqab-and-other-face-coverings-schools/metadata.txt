@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/religion-faith-religion-general-secularism/ban-niqab-and-other-face-coverings-schools
-published_time	2013-11-13T14:09:56+01:00
-modified_time	2017-04-10T12:55:15+02:00
-crawled_time	Sun Feb 04 18:42:37 CET 2018
-voting_pro	100
-voting_con	0
-reads	17113

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law-crime-policing-law-general-punishment-society/house-would-disclose-previous
-published_time	2012-06-01T12:37:14+02:00
-modified_time	2017-04-20T13:06:08+02:00
-crawled_time	Sun Feb 04 18:43:00 CET 2018
-voting_pro	50
-voting_con	50
-reads	15203

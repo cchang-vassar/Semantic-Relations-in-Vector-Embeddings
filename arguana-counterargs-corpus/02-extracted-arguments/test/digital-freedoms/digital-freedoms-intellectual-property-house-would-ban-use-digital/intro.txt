@@ -1,7 +1,0 @@
-Digital Rights Management (DRM) is a kind of technology, normally software-based, that is used to prevent unauthorised copying of digital media, usually by restricting the context in which that media can be used. For example, only allowing music to be played on one particular portable player.
-
-DRM is most often used to protect music, films, and computer software. Some examples of DRM usage are music purchased from Apple’s iTunes store (which are linked to an iTunes account), films on DVDs (which are scrambled), and the online activation found in Microsoft’s Windows operating system (copies of the software must be activated).
-
-Since DRM is used to protect digital media, often purchased over the internet, it is common in many countries. US and EU legislation enforces the provisions of the 1996 World Intellectual Property Organisation (WIPO) Copyright Treaty. Both the US Digital Millennium Copyright Act (DMCA)(1998) and the EU Copyright directive (2001) protect DRM technologies in addition to making simple piracy illegal by prohibiting technologies which circumvent DRM protection.
-
-Some people believe that DRM is not the most effective way protect digital media. This discussion covers arguments for and against DRM usage in at least some instances.

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/society/economy-immigration/house-believes-increasing-number-immigrants-eu-brings-more
-published_time	2012-09-10T13:06:22+02:00
-modified_time	2012-09-10T17:33:19+02:00
-crawled_time	Sun Feb 04 18:42:32 CET 2018
-voting_pro	50
-voting_con	50
-reads	5358

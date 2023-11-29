@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-global-middle-east-law-human-rights-politics-warpeace/house-believes-west
-published_time	2012-02-20T10:38:22+01:00
-modified_time	2017-05-26T16:37:00+02:00
-crawled_time	Sun Feb 04 18:42:23 CET 2018
-voting_pro	50
-voting_con	50
-reads	24095

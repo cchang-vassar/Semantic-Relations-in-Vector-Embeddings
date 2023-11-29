@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/environment-climate-environment-general-water/house-would-build-hydroelectric-dams
-published_time	2012-02-23T14:13:13+01:00
-modified_time	2017-04-27T13:54:55+02:00
-crawled_time	Sun Feb 04 18:42:39 CET 2018
-voting_pro	50
-voting_con	50
-reads	20099

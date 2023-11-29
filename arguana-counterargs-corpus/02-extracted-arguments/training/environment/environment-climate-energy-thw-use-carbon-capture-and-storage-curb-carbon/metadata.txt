@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/environment/environment-climate-energy/thw-use-carbon-capture-and-storage-curb-carbon
-published_time	2012-02-17T13:04:05+01:00
-modified_time	2012-07-18T14:39:38+02:00
-crawled_time	Sun Feb 04 18:42:40 CET 2018
-voting_pro	50
-voting_con	50
-reads	11216

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/environment-animals-environment-general-health-health-general-weight-philosophy-ethics
-published_time	2012-04-10T17:58:14+02:00
-modified_time	2017-04-20T14:38:06+02:00
-crawled_time	Sun Feb 04 18:42:38 CET 2018
-voting_pro	50
-voting_con	50
-reads	97918

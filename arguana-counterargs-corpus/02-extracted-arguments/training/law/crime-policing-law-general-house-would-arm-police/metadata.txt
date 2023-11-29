@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law-crime-policing-law-general/house-would-arm-police
-published_time	2012-02-17T12:32:12+01:00
-modified_time	2017-08-07T18:49:47+02:00
-crawled_time	Sun Feb 04 18:42:24 CET 2018
-voting_pro	100
-voting_con	0
-reads	88829

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-traditions/house-believes-compensation-should-be-paid-those-who-have-had-their
-published_time	2017-08-25T16:11:45+02:00
-modified_time	2017-08-25T16:11:45+02:00
-crawled_time	Sun Feb 04 18:43:11 CET 2018
-voting_pro	0
-voting_con	100
-reads	unknown

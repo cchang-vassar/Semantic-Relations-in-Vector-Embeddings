@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/international-africa-asia/house-would-sao-tome-drop-relations-taiwan-favour-mainland
-published_time	2014-02-11T14:21:22+01:00
-modified_time	2017-04-04T12:14:19+02:00
-crawled_time	Sun Feb 04 18:43:10 CET 2018
-voting_pro	50
-voting_con	50
-reads	8274

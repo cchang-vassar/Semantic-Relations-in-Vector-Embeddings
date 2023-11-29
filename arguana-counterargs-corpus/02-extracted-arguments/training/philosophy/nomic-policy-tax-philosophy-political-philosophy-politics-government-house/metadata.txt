@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-economic-policy-tax-philosophy-political-philosophy-politics-government/house
-published_time	2012-02-22T17:15:25+01:00
-modified_time	2017-04-27T14:56:25+02:00
-crawled_time	Sun Feb 04 18:42:38 CET 2018
-voting_pro	50
-voting_con	50
-reads	12404

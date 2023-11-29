@@ -1,5 +1,0 @@
-The most ‘secure’ of websites have been recently hacked. For example, Paypal was hacked by Lulzsec in response to the Wikileaks scandal [1] . Lulzsec also hacked the US Central Intelligence Agency (CIA) [2] , supposedly the source of all their national intelligence and top secret information. If anything, recent events have shown us that the internet is an unstable medium for people to conduct personal or professional affairs; we certainly should not allow our voting systems to become even more vulnerable to this kind of attack. A better way to prevent identity fraud would be the simple measure of now requiring polling stations to ask for ID, rather than going to the extreme of online voting.
-
-[1] http://www.cbc.ca/news/canada/prince-edward-island/story/2011/06/17/pei-lulzsec-personal-internet-accounts-584.html , accessed 24/08/11
-
-[2] http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8578704/CIA-website-hacked-by-Lulz-Security.html , accessed 24/08/11

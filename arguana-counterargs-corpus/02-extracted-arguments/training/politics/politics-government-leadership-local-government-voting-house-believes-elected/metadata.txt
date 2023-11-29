@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics/politics-government-leadership-local-government-voting/house-believes-elected
-published_time	2012-01-26T16:32:54+01:00
-modified_time	2012-09-14T14:02:47+02:00
-crawled_time	Sun Feb 04 18:42:36 CET 2018
-voting_pro	50
-voting_con	50
-reads	25758

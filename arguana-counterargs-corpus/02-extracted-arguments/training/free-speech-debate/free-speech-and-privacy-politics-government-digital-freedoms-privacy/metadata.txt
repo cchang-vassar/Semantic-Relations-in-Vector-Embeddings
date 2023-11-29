@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/free-speech-debate-free-speech-and-privacy-politics-government-digital-freedoms-privacy
-published_time	2013-07-30T19:05:50+02:00
-modified_time	2017-04-11T13:30:04+02:00
-crawled_time	Sun Feb 04 18:42:20 CET 2018
-voting_pro	0
-voting_con	100
-reads	29444

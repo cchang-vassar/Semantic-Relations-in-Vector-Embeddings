@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/economy-economic-policy-economy-general/house-would-build-high-speed-two
-published_time	2013-11-01T10:53:16+01:00
-modified_time	2017-04-10T13:22:16+02:00
-crawled_time	Sun Feb 04 18:42:47 CET 2018
-voting_pro	50
-voting_con	50
-reads	8839

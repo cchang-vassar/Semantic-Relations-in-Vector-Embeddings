@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/sport-olympics-sport-general-team-sports/house-believes-olympic-dream-dead-and-has-been
-published_time	2012-01-26T16:33:42+01:00
-modified_time	2012-09-14T16:11:24+02:00
-crawled_time	Sun Feb 04 18:42:51 CET 2018
-voting_pro	50
-voting_con	50
-reads	25030

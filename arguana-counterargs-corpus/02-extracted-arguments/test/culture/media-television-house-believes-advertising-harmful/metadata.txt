@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-media-television/house-believes-advertising-harmful
-published_time	2012-01-26T16:34:25+01:00
-modified_time	2017-08-18T14:34:00+02:00
-crawled_time	Sun Feb 04 18:43:11 CET 2018
-voting_pro	75
-voting_con	25
-reads	159136

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/culture-media-digital-freedoms-access-knowledge/house-believes-wikipedia-force-good
-published_time	2012-02-20T20:17:28+01:00
-modified_time	2017-05-21T10:50:41+02:00
-crawled_time	Sun Feb 04 18:42:57 CET 2018
-voting_pro	50
-voting_con	50
-reads	25229

@@ -1,9 +1,0 @@
-ARGUMENT PATH	CLASSIFIED SENTIMENT VALUE
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/con/con01a-point.txt	0.563918
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/con/con01b-counter.txt	0.003705999999999987
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/con/con02a-point.txt	0.028764000000000012
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/con/con02b-counter.txt	0.622722
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/pro/pro01a-point.txt	0.41780300000000004
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/pro/pro01b-counter.txt	0.26612800000000003
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/pro/pro02a-point.txt	0.69358
-data/corpus-counterarguments-18/02-extracted-arguments/training/law/rnational-global-middle-east-law-human-rights-politics-warpeace-house-believes-west/pro/pro02b-counter.txt	0.774191

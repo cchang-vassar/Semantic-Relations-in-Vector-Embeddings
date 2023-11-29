@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/education-education-general/house-believes-parents-should-be-held-responsible-their
-published_time	2012-02-17T17:58:47+01:00
-modified_time	2017-05-30T14:21:37+02:00
-crawled_time	Sun Feb 04 18:42:27 CET 2018
-voting_pro	100
-voting_con	0
-reads	125838

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/digital-freedoms-access-information/house-would-block-access-social-messaging-networks
-published_time	2013-03-01T18:43:29+01:00
-modified_time	2017-04-13T14:01:16+02:00
-crawled_time	Sun Feb 04 18:42:57 CET 2018
-voting_pro	50
-voting_con	50
-reads	14964

@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/law-law-general-religion-marriage-family/house-would-allow-cohabiting-couples-who-wish
-published_time	2012-02-20T17:02:16+01:00
-modified_time	2017-05-24T17:16:10+02:00
-crawled_time	Sun Feb 04 18:42:37 CET 2018
-voting_pro	50
-voting_con	50
-reads	8102

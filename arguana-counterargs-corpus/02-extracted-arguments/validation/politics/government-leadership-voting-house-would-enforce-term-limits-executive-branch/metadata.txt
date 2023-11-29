@@ -1,7 +1,0 @@
-url	https://idebate.org/debatabase/politics-government-leadership-voting/house-would-enforce-term-limits-executive-branch
-published_time	2012-01-26T16:33:48+01:00
-modified_time	2017-08-19T08:45:46+02:00
-crawled_time	Sun Feb 04 18:42:52 CET 2018
-voting_pro	50
-voting_con	50
-reads	29108
