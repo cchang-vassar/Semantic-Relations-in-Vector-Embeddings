@@ -35,7 +35,7 @@ def extract_arguments(
     end_re: str = "# LITERATURE",
     pro_start_re: str = "# PRO\w+-POINT|# CON\w+-COUNTER",
     con_start_re: str = "# CON\w+-POINT|# PRO\w+-COUNTER"
-    ):
+    ) -> {}:
     # try to open file from path
     try:
         with open('../' + 'arguana-counterargs-corpus/' + '02-extracted-arguments/' + 'training/' +
@@ -47,8 +47,8 @@ def extract_arguments(
 
     lines: [] = re.split(r'\n', file_contents)
     arguments = {
-        "pro": [],
-        "con": []
+        'pro': [],
+        'con': []
     }
     current_argument: str = ""
     current_argument_type: ArgumentType = ArgumentType.PRO
@@ -68,7 +68,8 @@ def extract_arguments(
 
         # special case when we reach # LITERATURE we append the last argument and return
         if re.match(r'\s*' + end_re, line):
-            arguments["pro"].append(current_argument.strip())
+            if (current_argument_type == ArgumentType.PRO): arguments['pro'].append(current_argument.strip())
+            elif (current_argument_type == ArgumentType.CON): arguments['con'].append(current_argument.strip())
             arguments_write_to_file(debate_topic, file_path, arguments)
             return arguments
 

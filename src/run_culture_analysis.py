@@ -18,7 +18,7 @@ def run_analysis_batch(debate_topic: DebateTopic, file_path: str):
         debates_files.append({"debate_topic": debate_topic, "file_path": line})
     # run batch analysis
     debates_embeddings = debates_embeddings_data_batch(debates_files)
-    return debates_embeddings
-    # debates_embeddings_plot_batch(debates_embeddings)
+    # plot batch analysis
+    debates_embeddings_plot_batch(debates_embeddings)
     
 results = run_analysis_batch(DebateTopic.CULTURE, "list_of_culture_debates")
