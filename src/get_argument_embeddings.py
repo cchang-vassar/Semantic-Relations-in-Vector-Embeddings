@@ -1,3 +1,6 @@
+from ctypes import Union
+from enum import Enum
+from typing import Optional
 from openai import OpenAI
 import os
 import API_KEY
@@ -7,6 +10,8 @@ client.models.list()
 
 import pandas as pd
 from sklearn.manifold import TSNE
+from sklearn.decomposition import PCA
+from sklearn.discriminant_analysis import StandardScaler
 import numpy as np
 from ast import literal_eval
 import matplotlib.pyplot as plt
@@ -15,7 +20,11 @@ from extract_arguments import DebateTopic
 from plotnine import ggplot, geom_point, geom_text, aes, theme_void
 
 
-def get_arguments_embeddings(arguments: {}):
+    
+
+
+
+def get_arguments_embeddings(arguments: {}) -> {}:
     pro_arguments = arguments['pro']
     con_arguments = arguments["con"]
     arguments_embeddings = {"pro_arguments_embeddings": [], "con_arguments_embeddings": []}
@@ -39,7 +48,7 @@ def get_arguments_embeddings(arguments: {}):
 
 
 # Convert the embeddings to lists
-def embeddings_df(arguments_embedding: {}):
+def embeddings_df(arguments_embedding: {}, debate_topic: Optional[DebateTopic], debate_title: Optional[str]):
     reshaped_arguments_embeddings = pd.DataFrame()
     # loop through all argument pairs in the # PRO section
     for i, pro_embedding in enumerate(arguments_embedding["pro_arguments_embeddings"]):
@@ -61,18 +70,22 @@ def embeddings_df(arguments_embedding: {}):
     # loop through all argument pairs in the # COUNTER section
     for j, con_embedding in enumerate(arguments_embedding["con_arguments_embeddings"]):
         reshaped_point_embedding = pd.DataFrame(np.array(con_embedding['point_embedding']).reshape(1, -1))
-        reshaped_point_embedding['number'] = j + offset
+        reshaped_point_embedding['number'] = chr(j + offset)
         reshaped_point_embedding['type'] = 'point'
         reshaped_arguments_embeddings = pd.concat([reshaped_arguments_embeddings, reshaped_point_embedding], axis=0)
         reshaped_arguments_embeddings = reshaped_arguments_embeddings.reset_index(drop=True)
         reshaped_arguments_embeddings.loc[reshaped_arguments_embeddings.index[-1], 'stance'] = 'CON'
         
         reshaped_counter_embedding = pd.DataFrame(np.array(con_embedding['counter_embedding']).reshape(1, -1))
-        reshaped_counter_embedding['number'] = j + offset
+        reshaped_counter_embedding['number'] = chr(j + offset)
         reshaped_counter_embedding['type'] = 'counter'
         reshaped_arguments_embeddings = pd.concat([reshaped_arguments_embeddings, reshaped_counter_embedding], axis=0)
         reshaped_arguments_embeddings = reshaped_arguments_embeddings.reset_index(drop=True)
         reshaped_arguments_embeddings.loc[reshaped_arguments_embeddings.index[-1], 'stance'] = 'PRO'
+    if debate_topic:
+        reshaped_arguments_embeddings['debate_topic'] = debate_topic.value
+    if debate_title:
+        reshaped_arguments_embeddings['debate_title'] = debate_title
     return reshaped_arguments_embeddings.dropna()
 
 
@@ -83,61 +96,53 @@ def embeddings_write_to_file(debate_topic: DebateTopic, file_path: str, reshaped
                                          index=False)
 
 
-# TSNE it!
-def arguments_embeddings_tsne(reshaped_arguments_embeddings: pd.DataFrame):
-    numeric_columns = reshaped_arguments_embeddings.select_dtypes(include=[np.number]).columns
-    reshaped_arguments_embeddings_data = reshaped_arguments_embeddings[numeric_columns].values
-    tsne = TSNE(n_components=2, perplexity=len(reshaped_arguments_embeddings_data) // 2, random_state=42, init='random', learning_rate=200)
-    arguments_tsne = tsne.fit_transform(reshaped_arguments_embeddings_data)
-    arguments_tsne_plot_data = (
-        pd.DataFrame(arguments_tsne, columns=['x','y'])
-        .join(reshaped_arguments_embeddings[['number', 'type', 'stance']])
-    )
-    return arguments_tsne_plot_data
 
-
-# Write TSNE results to csv file
-def tsne_write_to_file(
-    debate_topic: DebateTopic,
-    file_path: str,
-    arguments_tsne_plot_data: pd.DataFrame
-    ):
-    arguments_tsne_plot_data.to_csv('../' + 'data_dump/' + 'tsne_dump/' + debate_topic.value + '/' +
-                                    file_path + '_tsne.csv', index=False)
-
-
-# Plot it!
-def arguments_embeddings_tsne_plot(arguments_tsne_plot_data: pd.DataFrame):
-    colors = {'PRO': 'red', 'CON': 'blue'}
-    plt.scatter(
-        arguments_tsne_plot_data['x'],
-        arguments_tsne_plot_data['y'],
-        c=arguments_tsne_plot_data['stance'].map(colors),
-        s=20)
-    
-    for number_value in arguments_tsne_plot_data['number'].unique():
-        subset = arguments_tsne_plot_data[arguments_tsne_plot_data['number'] == number_value]
-        plt.plot(subset['x'], subset['y'], color='gray', linestyle='-', linewidth=0.5)
-
-    plt.show()
-
-
-# Batch process debates to get tsne data
-def debates_embeddings_data_batch(debates_files: []):
-    debates_tsne_set = pd.DataFrame()
-    for debate_file in debates_files:
-        debate_file_topic = debate_file["debate_topic"]
-        debate_file_path = debate_file["file_path"]
-        arguments = extract_arguments.extract_arguments(debate_file_topic.value, debate_file_path)
+"""Batch processing"""
+# Batch process debates in a category
+def category_embeddings_data_batch(debate_file_topic: DebateTopic, category_debates_arguments: [], analysis_type: AnalysisType) -> pd.DataFrame:
+    debates_data_set = pd.DataFrame()
+    # loop through all debates in the category
+    for arguments in category_debates_arguments:
         if arguments:
             arguments_embeddings = get_arguments_embeddings(arguments)
+            arguments_df = embeddings_df(arguments_embeddings, debate_file_topic, debate_file_path)
+            if analysis_type == AnalysisType.TSNE:
+                arguments_data = arguments_embeddings_tsne(arguments_df)
+            elif analysis_type == AnalysisType.PCA:
+                arguments_data = arguments_embeddings_pca(arguments_df)
+            arguments_data['file_path'] = debate_file_path
+            if analysis_type == AnalysisType.TSNE:
+                pca_write_to_file(debate_file_topic, debate_file_path, arguments_data)
+            elif analysis_type == AnalysisType.PCA:
+                tsne_write_to_file(debate_file_topic, debate_file_path, arguments_data)
+            debates_data_set = pd.concat([debates_data_set, arguments_data], axis=0)
+    return debates_data_set
+
+
+# Batch process debates to get data across all categories at once
+def global_embeddings_data_batch(categories_files: []) -> pd.DataFrame:
+    all_categories = pd.DataFrame()
+    for category in categories_files.keys():
+        category_file_topic = category.value
+        if arguments:
+            arguments_embeddings = get_arguments_embeddings(arguments, )
             arguments_df = embeddings_df(arguments_embeddings)
-            arguments_tsne = arguments_embeddings_tsne(arguments_df)
-            arguments_tsne['file_path'] = debate_file_path
-            tsne_write_to_file(debate_file_topic, debate_file_path, arguments_tsne)
-            debates_tsne_set = pd.concat([debates_tsne_set, arguments_tsne], axis=0)
-    return debates_tsne_set
-        
+            all_debates = pd.concat([all_debates, arguments_df], axis=0)
+    arguments_tsne = arguments_embeddings_tsne(arguments_df)
+    arguments_tsne['file_path'] = category_file_path
+    tsne_write_to_file(category_file_topic, category_file_path, arguments_tsne)
+    debates_tsne_set = pd.concat([debates_tsne_set, arguments_tsne], axis=0)
+    
+    
+# Wrapper for data batch processing based on processing unit
+def embeddings_data_batch(files: [], unit: ProcessingUnit) -> pd.DataFrame:
+        if unit == ProcessingUnit.Debate:
+            # TODO
+            return
+        elif unit == ProcessingUnit.Category:
+            return category_embeddings_data_batch(files)
+        elif unit == ProcessingUnit.Global:
+            return global_embeddings_data_batch(files)
         
 # Batch process debates to plot data
 def debates_embeddings_plot_batch(debates_tsne_set: pd.DataFrame):
