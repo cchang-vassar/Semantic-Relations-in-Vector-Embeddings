@@ -48,17 +48,12 @@ def debate_extract_arguments(
     # parse file contents
     lines: [] = re.split(r'\n', file_contents)
     # holds the extracted arguments for the debate topic
-    debate_arguments = {
-        'topic': str,
-        'arguments': {}
-    }
+    debate_arguments = {}
     # holds the argument pairs data for the debate topic
     arguments = {
         'pro': [],
         'con': []
     }
-    # Nest arguments in debate_arguments
-    debate_arguments['topic'] = file_path
     # Start looping through lines
     current_argument: str = ""
     start: bool = False
@@ -81,7 +76,7 @@ def debate_extract_arguments(
                 cur_pair["point"] = current_argument
             arguments['con'].append(cur_pair)
             arguments_write_to_file(category.value, file_path, arguments)
-            debate_arguments['arguments'] = arguments
+            debate_arguments[file_path] = arguments
             return debate_arguments
 
         # skip citations
@@ -123,16 +118,12 @@ def debate_extract_arguments(
         current_argument += line.strip()
     # this should never actually be reached
     arguments_write_to_file(category.value, file_path, arguments)
-    debate_arguments['arguments'] = arguments
+    debate_arguments[file_path] = arguments
     return debate_arguments
     
         
 # Extract all debates from a category: list_of_<category>_debates.txt -> <debate_topic>.txt
 def category_extract_arguments(category: Category) -> {}:
-    category_arguments = {
-        'category': category.value,
-        'debates': {}
-    }
     # convert category.value to path syntax
     category_path = category.value.replace('_', '-')
     # try to open file from path
@@ -145,13 +136,11 @@ def category_extract_arguments(category: Category) -> {}:
     # parse file contents
     debates: [] = re.split(r'\n', file_contents)
     # grab arguments for each debate in the category
+    category_arguments = {}
     for debate in debates:
-        debate_arguments = debate_extract_arguments(category, debate)
-        topic = debate_arguments['topic']
-        arguments = debate_arguments['arguments']
         # add topic and arguments to category_arguments
-        category_arguments['debates'][topic] = arguments
-    return category_arguments
+        category_arguments.update(debate_extract_arguments(category, debate))
+    return {category.value: category_arguments}
     
     
 # Extract all debates across all categories: all_categories.txt -> list_of_<category>_debates.txt
@@ -171,7 +160,7 @@ def global_extract_arguments() -> {}:
     for category_path, category_name in enumerate(zip(category_paths, category_names)):
         try:
             category = Category[category_name]
-            global_arguments[category_name] = (category_extract_arguments(category)['debates'])
+            global_arguments.update(category_extract_arguments(category))
         except KeyError:
             print(f"Category: {category_name}, Category not found in Category enum and is removed.")
             category_paths.remove(category_path)
@@ -180,7 +169,7 @@ def global_extract_arguments() -> {}:
 
 
 # Write extracted arguments to file
-def arguments_write_to_file(debate_topic: str, file_path: str, arguments: dict):
+def _arguments_write_to_file(debate_topic: str, file_path: str, arguments: dict):
     file = open('../' + 'data_dump/' + 'arguments_dump/'
                 + debate_topic + '/' + file_path + '.txt', "w")
     file.write("# PRO arguments:\n")

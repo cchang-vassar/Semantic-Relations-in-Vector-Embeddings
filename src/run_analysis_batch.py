@@ -17,33 +17,16 @@ class ProcessingUnit(Enum):
 
 
 # Run analysis on a single category
-def category_run_analysis_batch(debate_topic: argument.DebateTopic, file_path: str, analysis_type: AnalysisType):
-    category_files = []
-    # try to open file from path
-    try:
-        with open('./' + file_path + '.txt', 'r') as file:
-            file_contents = file.read()
-    except FileNotFoundError:
-        print(f"File not found: {file_path + '.txt'}")
-        return None
-    # convert file contents to dictionary with debate_topic and file_path for each line
-    lines: [] = re.split(r'\n', file_contents)
-    for line in lines:
-        category_files.append({"debate_topic": debate_topic, "file_path": line})
-    # category_files: list of dictionaries where each is {"debate_topic": DebateTopic, "file_path": str}
-    category_arguments = []
-    for debate_file in category_files:
-        debate_file_topic = debate_file["debate_topic"]
-        debate_file_path = debate_file["file_path"]
-        # arguments: {"pro": [{"point": str, "counter": str}, ...], "con": [{"point": str, "counter": str}, ...]}
-        arguments = argument.category_extract_arguments(debate_file_topic.value, debate_file_path)
-        category_arguments.append(arguments)
-    # grab embeddings for each debate in the category
+def category_run_analysis_batch(file_path: str, analysis_type: AnalysisType):
+    # grab arguments for all debates in the category -> {}
+    category_arguments = argument.category_extract_arguments(file_path)
+    # grab embeddings for all debates in the category -> pd.DataFrame
     category_embeddings = embedding.category_embeddings_data_batch(debate_file_topic, category_arguments)
     # run analysis on category embeddings
     category_analysis = analyze.category_embeddings_analysis_batch(category_embeddings)
     # plot batch analysis
     plot.debates_embeddings_plot_batch(category_analysis)
+    return category_arguments
     
     
 # Run analysis on all categories at once
@@ -72,7 +55,7 @@ def run_analysis_batch(
     elif processing_unit == ProcessingUnit.DEBATE:
         debate_run_analysis_batch(analysis_type)
     
-    
+
 
 
     

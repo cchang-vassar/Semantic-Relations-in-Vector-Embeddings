@@ -1,3 +1,7 @@
+from sklearn.manifold import TSNE
+from sklearn.decomposition import PCA
+from sklearn.discriminant_analysis import StandardScaler
+
 from enum import Enum
 
 
