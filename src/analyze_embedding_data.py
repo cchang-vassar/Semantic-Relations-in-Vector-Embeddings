@@ -30,7 +30,6 @@ def debate_tsne_embeddings(arguments_embeddings_df: pd.DataFrame):
     )
     return arguments_tsne_plot_data
 
-
 # PCA argument embeddings from a debate
 def debate_pca_embeddings(arguments_embeddings_df: pd.DataFrame):
     numeric_columns = arguments_embeddings_df.select_dtypes(include=[np.number]).columns
@@ -47,13 +46,12 @@ def debate_pca_embeddings(arguments_embeddings_df: pd.DataFrame):
     )
     return arguments_pca_plot_data
 
-
 # Write analysis results to csv file'
 def _analysis_write_to_file(
     analysis_type: AnalysisType,
     category: Optional[Category],
     topic: Optional[str],
-    arguments_pca_plot_data: pd.DataFrame
+    arguments_plot_data: pd.DataFrame
     ):
     if topic and category:
         topic_path = topic.replace('-', '_')
@@ -67,8 +65,7 @@ def _analysis_write_to_file(
         output_file_path = f'{output_folder}global_{analysis_type.value}.csv'
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-    arguments_pca_plot_data.to_csv(output_file_path, index=False)
-    
+    arguments_plot_data.to_csv(output_file_path, index=False)
     
     
 """Category level"""

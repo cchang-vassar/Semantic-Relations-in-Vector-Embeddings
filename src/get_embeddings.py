@@ -44,7 +44,7 @@ def _debate_get_embeddings(arguments: {}) -> {}:
 
 
 # Convert the embeddings to lists
-def _debate_get_embeddings_df(arguments_embeddings: {}):
+def _debate_get_embeddings_df(topic: str, arguments_embeddings: {}) -> pd.DataFrame:
     arguments_embeddings_df = pd.DataFrame()
     # loop through all argument pairs in the # PRO section
     for i, pro_embedding in enumerate(arguments_embeddings["pro_arguments_embeddings"]):
@@ -56,7 +56,7 @@ def _debate_get_embeddings_df(arguments_embeddings: {}):
         arguments_embeddings_df = arguments_embeddings_df.reset_index(drop=True)
         
         counter_embedding = pd.DataFrame(np.array(pro_embedding['counter_embedding']).reshape(1, -1))
-        counter_embedding['number'] = chr(i)
+        counter_embedding['id'] = chr(i)
         counter_embedding['type'] = 'counter'
         counter_embedding['stance'] = 'CON'
         arguments_embeddings_df = pd.concat([arguments_embeddings_df, counter_embedding], axis=0)
@@ -66,18 +66,19 @@ def _debate_get_embeddings_df(arguments_embeddings: {}):
     # loop through all argument pairs in the # COUNTER section
     for j, con_embedding in enumerate(arguments_embeddings["con_arguments_embeddings"]):
         point_embedding = pd.DataFrame(np.array(con_embedding['point_embedding']).reshape(1, -1))
-        point_embedding['number'] = chr(j + offset)
+        point_embedding['id'] = chr(j + offset)
         point_embedding['type'] = 'point'
         point_embedding['stance'] = 'CON'
         arguments_embeddings_df = pd.concat([arguments_embeddings_df, point_embedding], axis=0)
         arguments_embeddings_df = arguments_embeddings_df.reset_index(drop=True)
         
         counter_embedding = pd.DataFrame(np.array(con_embedding['counter_embedding']).reshape(1, -1))
-        counter_embedding['number'] = chr(j + offset)
+        counter_embedding['id'] = chr(j + offset)
         counter_embedding['type'] = 'counter'
         counter_embedding['stance'] = 'PRO'
         arguments_embeddings_df = pd.concat([arguments_embeddings_df, counter_embedding], axis=0)
         arguments_embeddings_df = arguments_embeddings_df.reset_index(drop=True)
+    arguments_embeddings_df['topic'] = topic
     return arguments_embeddings_df.dropna()
 
 
@@ -95,8 +96,7 @@ def category_get_embeddings_df(category: Category, category_arguments: {}) -> pd
     category_embeddings_df = pd.DataFrame()
     for topic, arguments in category_arguments[category.value]:
         arguments_embeddings = _debate_get_embeddings(arguments)
-        arguments_df = _debate_get_embeddings_df(arguments_embeddings)
-        arguments_df['topic'] = topic
+        arguments_df = _debate_get_embeddings_df(topic, arguments_embeddings)
         category_embeddings_df = pd.concat([category_embeddings_df, arguments_df], axis=0)
     category_embeddings_df['category'] = category.value
     return category_embeddings_df
