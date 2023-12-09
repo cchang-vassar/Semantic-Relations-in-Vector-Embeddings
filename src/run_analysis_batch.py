@@ -3,10 +3,28 @@ from enum import Enum
 from typing import Optional
 
 import extract_arguments as argument
-import get_argument_embeddings as embedding
+import get_embeddings as embedding
 import analyze_embedding_data as analyze
 import plot_data as plot
 from analyze_embedding_data import AnalysisType
+
+# Enum for debate categories
+class Category(Enum):
+    CULTURE = "culture"
+    DIGITAL_FREEDOMS = "digital-freedoms"
+    ECONOMY = "economy"
+    EDUCATION = "education"
+    ENVIRONMENT = "environment"
+    FREE_SPEECH_DEBATE = "free-speech-debate"
+    HEALTH = "health"
+    INTERNATIONAL = "international"
+    LAW = "law"
+    PHILOSOPHY = "philosophy"
+    POLITICS = "politics"
+    RELIGION = "religion"
+    SCIENCE = "science"
+    SOCIETY = "society"
+    SPORT = "sport" 
 
 
 # Level of processing
@@ -17,13 +35,13 @@ class ProcessingUnit(Enum):
 
 
 # Run analysis on a single category
-def category_run_analysis_batch(file_path: str, analysis_type: AnalysisType):
+def category_run_analysis_batch(category: Category, analysis_type: AnalysisType):
     # grab arguments for all debates in the category -> {}
-    category_arguments = argument.category_extract_arguments(file_path)
+    category_arguments = argument.category_extract_arguments(category)
     # grab embeddings for all debates in the category -> pd.DataFrame
-    category_embeddings = embedding.category_embeddings_data_batch(debate_file_topic, category_arguments)
+    category_embeddings_df = embedding.category_get_embeddings_df(category, category_arguments)
     # run analysis on category embeddings
-    category_analysis = analyze.category_embeddings_analysis_batch(category_embeddings)
+    category_analysis = analyze.category_analyze_embeddings(category, analysis_type, category_embeddings_df)
     # plot batch analysis
     plot.debates_embeddings_plot_batch(category_analysis)
     return category_arguments
