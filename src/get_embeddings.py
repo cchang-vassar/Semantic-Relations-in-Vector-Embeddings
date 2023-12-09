@@ -13,7 +13,8 @@ from ctypes import Union
 from enum import Enum
 from typing import Optional
 
-from extract_arguments import Category
+
+CATEGORY_ENUM = "run_analysis_batch.Category"
 
 
 """Debate level"""
@@ -82,10 +83,11 @@ def _debate_get_embeddings_df(topic: str, arguments_embeddings: {}) -> pd.DataFr
 
 # Write extracted embeddings to csv file
 def _embeddings_write_to_file(
-    category: Optional[Category],
+    category: Optional[CATEGORY_ENUM],
     topic: Optional[str],
     embeddings_data: pd.DataFrame
     ):
+    from run_analysis_batch import Category
     if topic and category:
         topic_path = topic.replace('-', '_')
         output_folder = f'../data_dump/embeddings_dump/{category.value}/'
@@ -104,7 +106,8 @@ def _embeddings_write_to_file(
 
 """Category level"""
 # Get embeddings df for category
-def category_get_embeddings_df(category: Category, category_arguments: {}) -> pd.DataFrame:
+def category_get_embeddings_df(category: CATEGORY_ENUM, category_arguments: {}) -> pd.DataFrame:
+    from run_analysis_batch import Category
     category_embeddings_df = pd.DataFrame()
     for topic, arguments in category_arguments[category.value]:
         arguments_embeddings = _debate_get_embeddings(arguments)

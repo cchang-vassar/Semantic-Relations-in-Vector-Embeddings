@@ -3,12 +3,14 @@ import pandas as pd
 import numpy as np
 from plotnine import ggplot, geom_point, geom_text, aes, theme_void
 
-from run_analysis_batch import AnalysisType
+
+ANALYSIS_ENUM = "run_analysis_batch.AnalysisType"
 
 
 """Debate level"""
 # Plot embeddings for a single debate
-def debate_plot(analysis_type: AnalysisType, arguments_plot_data: pd.DataFrame):
+def debate_plot(analysis_type: ANALYSIS_ENUM, arguments_plot_data: pd.DataFrame):
+    from run_analysis_batch import AnalysisType
     stance_markers = {'PRO': '+', 'CON': '-'}
     plt.scatter(
         arguments_plot_data['x'],
@@ -26,7 +28,8 @@ def debate_plot(analysis_type: AnalysisType, arguments_plot_data: pd.DataFrame):
     
 """Category level"""
 # Plot embeddings for debates in a category
-def category_plot(analysis_type: AnalysisType, category_plot_data: pd.DataFrame, facet: bool):
+def category_plot(analysis_type: ANALYSIS_ENUM, category_plot_data: pd.DataFrame, facet: bool):
+    from run_analysis_batch import AnalysisType
     stance_markers = {'PRO': '+', 'CON': '-'}
     unique_topics = category_plot_data['topic'].unique()
     
@@ -58,7 +61,7 @@ def category_plot(analysis_type: AnalysisType, category_plot_data: pd.DataFrame,
                     linewidth=0.5
                 )
         # Add a common legend for all subplots
-        fig.legend(handles=scatter.legend_elements()[0], labels=stance_markers.keys(), loc='upper center')
+        fig.legend(handles=scatter.legend_elements()[0], labels=stance_markers.keys(), loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=len(stance_markers))
         # Adjust layout to prevent clipping of the legend
         plt.tight_layout(rect=[0, 0, 1, 0.96])
     else:
@@ -82,7 +85,8 @@ def category_plot(analysis_type: AnalysisType, category_plot_data: pd.DataFrame,
             
 """Global level"""
 # Plot embeddings for debates in a category
-def global_plot(analysis_type: AnalysisType, global_plot_data: pd.DataFrame, facet: bool):
+def global_plot(analysis_type: ANALYSIS_ENUM, global_plot_data: pd.DataFrame, facet: bool):
+    from run_analysis_batch import AnalysisType
     stance_markers = {'PRO': '+', 'CON': '-'}
     unique_topics = global_plot_data['topic'].unique()
     topic_color_map = dict(zip(unique_topics, plt.cm.viridis(np.linspace(0, 1, len(unique_topics)))))
@@ -118,7 +122,7 @@ def global_plot(analysis_type: AnalysisType, global_plot_data: pd.DataFrame, fac
                     linewidth=0.5
                 )
         # Add a common legend for all subplots
-        fig.legend(handles=scatter.legend_elements()[0], labels=stance_markers.keys(), loc='upper center')
+        fig.legend(handles=scatter.legend_elements()[0], labels=stance_markers.keys(), loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=len(stance_markers))
         # Adjust layout to prevent clipping of the legend
         plt.tight_layout(rect=[0, 0, 1, 0.96])
     else:

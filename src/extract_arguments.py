@@ -2,18 +2,19 @@ import re
 from enum import Enum
 import os
 
-from run_analysis_batch import Category
     
 # Enum for argument type
 class ArgumentType(Enum):
     PRO = "pro"
     CON = "con"
     
+CATEGORY_ENUM = "run_analysis_batch.Category"
+
 
 """Debate level"""
 # Extract arguments from category file: debate_topic.txt -> full.txt
 def debate_extract_arguments(
-    category: Category,
+    category: CATEGORY_ENUM,
     file_path: str,
     start_re: str = "# PRO",
     end_re: str = "# LITERATURE",
@@ -22,6 +23,7 @@ def debate_extract_arguments(
     con_point_re: str = "# CON\w+-POINT",
     con_counter_re: str = "# CON\w+-COUNTER"
     ) -> {}:
+    from run_analysis_batch import Category
     # try to open file from path
     try:
         with open(f'../arguana-counterargs-corpus/02-extracted-arguments/training/{category.value}/{file_path}/full.txt', 'r') as file:
@@ -125,7 +127,8 @@ def _arguments_write_to_file(debate_topic: str, file_path: str, arguments: dict)
         
 """Category level"""
 # Extract all debates from a category: list_of_<category_path>_debates.txt -> <debate_topic>.txt
-def category_extract_arguments(category: Category) -> {}:
+def category_extract_arguments(category: CATEGORY_ENUM) -> {}:
+    from run_analysis_batch import Category
     # convert category.value to path syntax
     category_path = category.value.replace('-', '_')
     # try to open file from path
@@ -148,7 +151,8 @@ def category_extract_arguments(category: Category) -> {}:
 """Global level"""
 # Extract all debates across all categories: all_categories.txt -> list_of_<category>_debates.txt
 def global_extract_arguments() -> {}:
-   # open global file from path
+    from run_analysis_batch import Category
+    # open global file from path
     with open('./file_paths/all_categories.txt', 'r') as global_file:
         global_file_contents = global_file.read()
     # parse file contents

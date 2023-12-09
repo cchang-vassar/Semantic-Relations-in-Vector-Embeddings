@@ -6,7 +6,6 @@ import extract_arguments as argument
 import get_embeddings as embedding
 import analyze_embedding_data as analyze
 import plot_data as plot
-from analyze_embedding_data import AnalysisType
 
 # Enum for debate categories
 class Category(Enum):
@@ -25,6 +24,11 @@ class Category(Enum):
     SCIENCE = "science"
     SOCIETY = "society"
     SPORT = "sport" 
+    
+# Enum for analysis types
+class AnalysisType(Enum):
+    TSNE = "tsne"
+    PCA = "pca"
 
 
 # Run analysis on a single category
@@ -53,7 +57,7 @@ def global_run_analysis_batch(analysis_type: AnalysisType):
     plot.global_plot(analysis_type, global_embeddings_analysis, False)
 
     
-print(category_run_analysis_batch(Category.CULTURE, AnalysisType.PCA))
+category_run_analysis_batch(Category.CULTURE, AnalysisType.PCA)
     
       
     
