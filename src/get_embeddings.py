@@ -42,7 +42,6 @@ def _debate_get_embeddings(arguments: {}) -> {}:
     # value: list of dictionaries where each is {'point_embedding':, 'counter_embedding':}
     return arguments_embeddings
 
-
 # Convert the embeddings to lists
 def _debate_get_embeddings_df(topic: str, arguments_embeddings: {}) -> pd.DataFrame:
     arguments_embeddings_df = pd.DataFrame()
@@ -81,17 +80,30 @@ def _debate_get_embeddings_df(topic: str, arguments_embeddings: {}) -> pd.DataFr
     arguments_embeddings_df['topic'] = topic
     return arguments_embeddings_df.dropna()
 
-
 # Write extracted embeddings to csv file
-def _embeddings_write_to_file(debate_topic: argument.Category, file_path: str, reshaped_arguments_embeddings: pd.DataFrame):
-    reshaped_arguments_embeddings.to_csv('../' + 'data_dump/' + 'embeddings_dump/' +
-                                         debate_topic.value + '/' + file_path + '_embeddings.csv',
-                                         index=False)
+def _embeddings_write_to_file(
+    category: Optional[Category],
+    topic: Optional[str],
+    embeddings_data: pd.DataFrame
+    ):
+    if topic and category:
+        topic_path = topic.replace('-', '_')
+        output_folder = f'../data_dump/embeddings_dump/{category.value}/'
+        output_file_path = f'{output_folder}{topic_path}_embeddings.csv'
+    elif category:
+        output_folder = f'../data_dump/data_dump/'
+        output_file_path = f'{output_folder}{category.value}_embeddings.csv'
+    else:
+        output_folder = f'../data_dump/data_dump/'
+        output_file_path = f'{output_folder}global_embeddings.csv'
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    embeddings_data.to_csv(output_file_path, index=False)
 
 
 
 """Category level"""
-# Batch process debates in a category
+# Get embeddings df for category
 def category_get_embeddings_df(category: Category, category_arguments: {}) -> pd.DataFrame:
     category_embeddings_df = pd.DataFrame()
     for topic, arguments in category_arguments[category.value]:
@@ -99,33 +111,17 @@ def category_get_embeddings_df(category: Category, category_arguments: {}) -> pd
         arguments_df = _debate_get_embeddings_df(topic, arguments_embeddings)
         category_embeddings_df = pd.concat([category_embeddings_df, arguments_df], axis=0)
     category_embeddings_df['category'] = category.value
+    _embeddings_write_to_file(category, category_embeddings_df)
     return category_embeddings_df
 
 
-# Batch process debates to get data across all categories at once
-def global_embeddings_data_batch(categories_files: []) -> pd.DataFrame:
-    all_categories = pd.DataFrame()
-    for category in categories_files.keys():
-        category_file_topic = category.value
-        if arguments:
-            arguments_embeddings = get_arguments_embeddings(arguments, )
-            arguments_df = embeddings_df(arguments_embeddings)
-            all_debates = pd.concat([all_debates, arguments_df], axis=0)
-    arguments_tsne = arguments_embeddings_tsne(arguments_df)
-    arguments_tsne['file_path'] = category_file_path
-    tsne_write_to_file(category_file_topic, category_file_path, arguments_tsne)
-    debates_tsne_set = pd.concat([debates_tsne_set, arguments_tsne], axis=0)
-    
-    
-# Wrapper for data batch processing based on processing unit
-def embeddings_data_batch(files: [], unit: ProcessingUnit) -> pd.DataFrame:
-        if unit == ProcessingUnit.Debate:
-            # TODO
-            return
-        elif unit == ProcessingUnit.Category:
-            return category_embeddings_data_batch(files)
-        elif unit == ProcessingUnit.Global:
-            return global_embeddings_data_batch(files)
-        
-
-
+# Get embeddings df for all categories
+def global_get_embeddings_df(global_arguments: {}) -> pd.DataFrame:
+    global_embeddings_df = pd.DataFrame()
+    for category in global_arguments.keys():
+        global_embeddings_df = pd.concat(
+            [global_embeddings_df,
+             category_get_embeddings_df(category, global_arguments[category])
+            ], axis=0)
+    _embeddings_write_to_file(global_embeddings_df)
+    return global_embeddings_df

@@ -27,13 +27,6 @@ class Category(Enum):
     SPORT = "sport" 
 
 
-# Level of processing
-class ProcessingUnit(Enum):
-    GLOBAL: 1
-    CATEGORY: 2
-    DEBATE: 3
-
-
 # Run analysis on a single category
 def category_run_analysis_batch(category: Category, analysis_type: AnalysisType):
     # grab arguments for all debates in the category -> {}
@@ -42,9 +35,8 @@ def category_run_analysis_batch(category: Category, analysis_type: AnalysisType)
     category_embeddings_df = embedding.category_get_embeddings_df(category, category_arguments)
     # run analysis on category embeddings
     category_analysis = analyze.category_analyze_embeddings(category, analysis_type, category_embeddings_df)
-    # plot batch analysis
-    plot.debates_embeddings_plot_batch(category_analysis)
-    return category_arguments
+    # plot category analysis
+    plot.category_plot(analysis_type, category_analysis, False)
     
     
 # Run analysis on all categories at once
@@ -54,30 +46,14 @@ def global_run_analysis_batch(analysis_type: AnalysisType):
     # value: list of dictionaries where each is {'pro: [{'point':, 'counter':}, ...], 'con': []}
     global_arguments = argument.global_extract_arguments()
     # grab global embeddings
-    global_embeddings = embedding.global_embeddings_data_batch()
+    global_embeddings = embedding.global_get_embeddings_df(global_arguments)
     # run analysis on global embeddings
-    global_embeddings_analysis = global_embeddings_analysis_batch(global_embeddings)
-    # plot category batch analysis
-    global_embeddings_plot_batch(categories_embeddings)
-    
-def run_analysis_batch(
-    debate_topic: Optional[argument.DebateTopic],
-    file_path: Optional[str],
-    processing_unit: ProcessingUnit = ProcessingUnit.GLOBAL,
-    analysis_type: AnalysisType = AnalysisType.PCA,
-    ):
-    if processing_unit == ProcessingUnit.GLOBAL:
-        argument.global_extract_arguments()
-    elif processing_unit == ProcessingUnit.CATEGORY:
-        category_run_analysis_batch(analysis_type)
-    elif processing_unit == ProcessingUnit.DEBATE:
-        debate_run_analysis_batch(analysis_type)
-    
-
-
+    global_embeddings_analysis = analyze.global_analyze_embeddings(analysis_type, global_embeddings)
+    # plot global analysis
+    plot.global_plot(analysis_type, global_embeddings_analysis, False)
 
     
-    
+print(category_run_analysis_batch(Category.CULTURE, AnalysisType.PCA))
     
       
     

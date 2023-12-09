@@ -51,7 +51,7 @@ def _analysis_write_to_file(
     analysis_type: AnalysisType,
     category: Optional[Category],
     topic: Optional[str],
-    arguments_plot_data: pd.DataFrame
+    analysis_data: pd.DataFrame
     ):
     if topic and category:
         topic_path = topic.replace('-', '_')
@@ -65,7 +65,7 @@ def _analysis_write_to_file(
         output_file_path = f'{output_folder}global_{analysis_type.value}.csv'
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-    arguments_plot_data.to_csv(output_file_path, index=False)
+    analysis_data.to_csv(output_file_path, index=False)
     
     
 """Category level"""
@@ -76,3 +76,13 @@ def category_analyze_embeddings(category: Category, analysis_type: AnalysisType,
         category_embeddings_analysis = debate_pca_embeddings(category_embeddings_df)
     _analysis_write_to_file(analysis_type, category, category_embeddings_analysis)
     return category_embeddings_analysis
+
+
+"""Global level"""
+def global_analyze_embeddings(analysis_type: AnalysisType, global_embeddings_df: pd.DataFrame):
+    if analysis_type == AnalysisType.TSNE:
+        global_embeddings_analysis = debate_tsne_embeddings(global_embeddings_df)
+    elif analysis_type == AnalysisType.PCA:
+        global_embeddings_analysis = debate_pca_embeddings(global_embeddings_df)
+    _analysis_write_to_file(analysis_type, global_embeddings_analysis)
+    return global_embeddings_analysis

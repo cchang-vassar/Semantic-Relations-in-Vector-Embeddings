@@ -159,7 +159,7 @@ def global_extract_arguments() -> {}:
     # key: category: Category.value
     # value: dictionary of dictionaries where key = topic and value is {'pro: [{'point':, 'counter':}, ...], 'con': []}
     global_arguments = {} 
-    # add valid topics as keys to extracted_categories
+    # add valid topics as keys to extracted_categories and grab their arguments
     for category_path, category_name in enumerate(zip(category_paths, category_names)):
         try:
             category = Category[category_name]
