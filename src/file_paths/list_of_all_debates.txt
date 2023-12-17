@@ -26,7 +26,7 @@ traditions-politics-government-house-would-abolish-monarchy
 traditions-politics-house-would-protect-aboriginal-culture
 video-games-computers-phones-internet-youth-house-would-restrict-violent-video
 video-games-education-general-internet-house-would-ban-sale-violent-video
-general-government-digital-freedoms-access-knowledge-house-would-force
+-general-government-digital-freedoms-access-knowledge-house-would-force
 access-information-house-believes-internet-encourages-democracy
 digital-freedoms-access-information-house-believes-state-should-provide
 digital-freedoms-access-knowledge-house-believes-internet-brings-more
@@ -169,6 +169,8 @@ pollution-science-censorship-ip-science-general-house-would-ban-sale-3d
 pollution-weight-society-house-would-drive-out-town-shopping-centre
 ronment-animals-africa-americas-asia-crime-policing-punishment-house-would
 ronment-animals-climate-energy-environment-general-health-general
+-debate-media-and-good-government-house-would-regulate-press
+-general-free-speech-debate-internet-freedom-science-computers-phones
 basic-principle-house-believes-expenditure-money-should-be-protected
 basic-principle-house-would-protect-braille-out-respect-free-speech
 ee-speech-debate-basic-principle-house-would-limit-free-speech-rights
@@ -193,8 +195,6 @@ nothing-sacred-house-believes-blasphemy-has-no-place-statute-books
 nothing-sacred-house-believes-imprisoned-members-pussy-riot-should-be
 reputation-and-defamation-house-believes-right-reply
 speech-debate-media-and-good-government-house-believes-rupert-murdoch
--debate-media-and-good-government-house-would-regulate-press
--general-free-speech-debate-internet-freedom-science-computers-phones
 -business-finance-health-addiction-house-would-introduce-minimum-pricing-alcohol
 -business-health-health-general-house-would-allow-pharmaceutical-companies
 -business-health-health-general-weight-thbt-new-york-city-has-right-regulate-size
@@ -561,8 +561,8 @@ y-religion-religion-general-god-house-believes-god-exists
 censorship-ip-digital-freedoms-access-knowledge-house-would-condition-state
 censorship-ip-digital-freedoms-intellectual-property-house-would-abolish
 censorship-ip-internet-digital-freedoms-access-information-house-believes-google
-censorship-ip-internet-digital-freedoms-freedom-expression-house-would-allow
-censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use
+censorship-ip-ing
+d-science-evolution-house-believes-evolution-has-disprovedcensorship-ip-internet-digital-freedoms-intellectual-property-house-would-use
 computers-phones-evolution-science-general-genetics-universe-house-would-explore
 computers-phones-house-believes-macs-are-better-pcs
 ealthcare-philosophy-ethics-science-science-general-house-would-grant-those

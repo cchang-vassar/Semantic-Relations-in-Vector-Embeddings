@@ -1,0 +1,5 @@
+list_of_economy_debates
+list_of_education_debates
+list_of_environment_debates
+list_of_free_speech_debate_debates
+list_of_health_debates
