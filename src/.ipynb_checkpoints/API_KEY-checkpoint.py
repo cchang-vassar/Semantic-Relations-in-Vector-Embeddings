@@ -1,2 +1,2 @@
 def api_key():
-    return "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"
+    return "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"
