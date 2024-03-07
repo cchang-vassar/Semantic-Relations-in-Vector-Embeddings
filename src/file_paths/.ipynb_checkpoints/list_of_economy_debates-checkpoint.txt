@@ -5,7 +5,6 @@ business-economy-general-house-would-prohibit-retailers-selling-certain-items
 business-employment-economy-general-society-house-believes-there-should-be
 business-employment-finance-house-would-introduce-mandatory-salary-capping
 business-finance-government-sport-olympics-house-believes-hosting-olympics-good
-business-finance-health-addiction-house-would-introduce-minimum-pricing-alcohol
 business-health-health-general-house-would-allow-pharmaceutical-companies
 business-international-africa-computers-phones-house-believes-new-technologies
 economic-policy-economy-general-house-would-replace-aid-remittances

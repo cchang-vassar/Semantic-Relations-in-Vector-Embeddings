@@ -62,7 +62,6 @@ business-economy-general-house-would-prohibit-retailers-selling-certain-items
 business-employment-economy-general-society-house-believes-there-should-be
 business-employment-finance-house-would-introduce-mandatory-salary-capping
 business-finance-government-sport-olympics-house-believes-hosting-olympics-good
-business-finance-health-addiction-house-would-introduce-minimum-pricing-alcohol
 business-health-health-general-house-would-allow-pharmaceutical-companies
 business-international-africa-computers-phones-house-believes-new-technologies
 economic-policy-economy-general-house-would-replace-aid-remittances
@@ -561,8 +560,8 @@ y-religion-religion-general-god-house-believes-god-exists
 censorship-ip-digital-freedoms-access-knowledge-house-would-condition-state
 censorship-ip-digital-freedoms-intellectual-property-house-would-abolish
 censorship-ip-internet-digital-freedoms-access-information-house-believes-google
-censorship-ip-internet-digital-freedoms-freedom-expression-house-would-allow
-censorship-ip-internet-digital-freedoms-intellectual-property-house-would-use
+censorship-ip-ing
+d-science-evolution-house-believes-evolution-has-disprovedcensorship-ip-internet-digital-freedoms-intellectual-property-house-would-use
 computers-phones-evolution-science-general-genetics-universe-house-would-explore
 computers-phones-house-believes-macs-are-better-pcs
 ealthcare-philosophy-ethics-science-science-general-house-would-grant-those
