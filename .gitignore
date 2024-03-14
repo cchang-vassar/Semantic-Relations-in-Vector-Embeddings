@@ -1,3 +1,4 @@
+share
 API_KEY.py
 env_vars.env
 arguana-counterargs-corpus
@@ -81,4 +82,4 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
-
+.osfcli.config
